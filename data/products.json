@@ -1050,7 +1050,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null
+  "image": "assets/products/disposable/disposable-headrest-cover.jpg"
  },
  {
   "id": "sterile-drape-50-75-disp055",
@@ -1239,7 +1239,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null
+  "image": "assets/products/disposable/disposable-headrest-cover.jpg"
  },
  {
   "id": "curaspon-hemostatic-sponge-disp076",
@@ -2445,7 +2445,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null
+  "image": "assets/products/disposable/bouffant-hair-net-cap.jpg"
  },
  {
   "id": "hair-net-with-straps-disp211",
@@ -2454,7 +2454,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null
+  "image": "assets/products/disposable/bouffant-hair-net-cap.jpg"
  },
  {
   "id": "hand-sanitizer-disp212",
@@ -2472,7 +2472,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null
+  "image": "assets/products/disposable/disposable-headrest-cover.jpg"
  },
  {
   "id": "headgear-disp214",
@@ -3543,7 +3543,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null
+  "image": "assets/products/disposable/glass-slab-cement-mixing.png"
  },
  {
   "id": "tray-white-disp339",
@@ -4749,7 +4749,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Glass ionomer material.",
-  "image": null
+  "image": "assets/products/disposable/glass-slab-cement-mixing.png"
  },
  {
   "id": "yellow-box-1l-disp473",
@@ -10059,7 +10059,7 @@
   "category": "impression",
   "categoryLabel": "Impression Materials",
   "description": "Impression material.",
-  "image": "assets/products/impression/vericom-putty-light.jpg"
+  "image": "assets/products/impression/bite-registration-wax-sheet.jpg"
  },
  {
   "id": "bite-registration-2x50ml-impr022",
@@ -10068,7 +10068,7 @@
   "category": "impression",
   "categoryLabel": "Impression Materials",
   "description": "Impression material.",
-  "image": null
+  "image": "assets/products/impression/bite-registration-wax-sheet.jpg"
  },
  {
   "id": "bite-registration-by-pc-impr023",
@@ -10077,7 +10077,7 @@
   "category": "impression",
   "categoryLabel": "Impression Materials",
   "description": "Impression material.",
-  "image": null
+  "image": "assets/products/impression/bite-registration-wax-sheet.jpg"
  },
  {
   "id": "bite-registration-green-bite-impr024",
@@ -10086,7 +10086,7 @@
   "category": "impression",
   "categoryLabel": "Impression Materials",
   "description": "Impression material.",
-  "image": null
+  "image": "assets/products/impression/bite-registration-wax-sheet.jpg"
  },
  {
   "id": "bite-registration-i-sil-exp-impr025",
@@ -10095,7 +10095,7 @@
   "category": "impression",
   "categoryLabel": "Impression Materials",
   "description": "Impression material.",
-  "image": null
+  "image": "assets/products/impression/bite-registration-wax-sheet.jpg"
  },
  {
   "id": "bms-condensation-impr026",
@@ -10455,7 +10455,7 @@
   "category": "impression",
   "categoryLabel": "Impression Materials",
   "description": "Impression material.",
-  "image": null
+  "image": "assets/products/impression/bite-registration-wax-sheet.jpg"
  },
  {
   "id": "lascod-light-fast-impr066",
@@ -13128,7 +13128,7 @@
   "category": "ortho",
   "categoryLabel": "Orthodontics",
   "description": "Orthodontic product.",
-  "image": "assets/products/ortho/orthodontic-elastic-chain.jpg"
+  "image": "assets/products/ortho/orthodontic-buccal-tube-band.jpg"
  },
  {
   "id": "myobrace-ort003",
@@ -13209,7 +13209,7 @@
   "category": "ortho",
   "categoryLabel": "Orthodontics",
   "description": "Orthodontic product.",
-  "image": null
+  "image": "assets/products/ortho/orthodontic-buccal-tube-band.jpg"
  },
  {
   "id": "ortho-niti-wires-ort012",
@@ -14685,7 +14685,7 @@
   "category": "restorative",
   "categoryLabel": "Restorative",
   "description": "Restorative dental material.",
-  "image": null
+  "image": "assets/products/restorative/amalgam-capsule-restorative.jpg"
  },
  {
   "id": "base-it-fusion-rest018",
