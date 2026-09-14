@@ -304,16 +304,17 @@ header.site-header{
 .product-foot .btn{padding:10px 16px;font-size:12.5px;min-height:40px}
 
 /* ---------- Category filter tabs ---------- */
+.filter-bar-wrap{position:relative;margin-bottom:36px}
 .filter-bar{
-  display:flex;flex-wrap:wrap;gap:10px;margin-bottom:40px;
+  display:flex;flex-wrap:wrap;gap:10px;
 }
 .filter-btn{
   padding:10px 18px;border-radius:999px;border:1.5px solid var(--border);
   font-family:var(--font-head);font-size:13.5px;font-weight:600;color:var(--ink-soft);
-  transition:all .18s;
+  background:#fff;transition:all .18s;flex:none;white-space:nowrap;
 }
 .filter-btn:hover{border-color:var(--navy-900);color:var(--navy-900)}
-.filter-btn.active{background:var(--navy-900);color:#fff;border-color:var(--navy-900)}
+.filter-btn.active{background:var(--navy-900);color:#fff;border-color:var(--navy-900);box-shadow:var(--shadow-sm)}
 
 /* ===========================================================
    ABOUT / SPLIT SECTIONS
@@ -592,6 +593,20 @@ footer.site-footer{background:var(--navy-900);color:#a9bcd0;padding:70px 0 0}
   .product-grid{grid-template-columns:repeat(2,1fr)}
   .cta-band{flex-direction:column;align-items:flex-start;padding:44px 32px}
   .form-row{grid-template-columns:1fr}
+
+  .filter-bar{
+    flex-wrap:nowrap;overflow-x:auto;scroll-snap-type:x proximity;
+    padding:2px 22px 10px 2px;margin:0 -2px -6px;
+    scrollbar-width:none;-ms-overflow-style:none;
+  }
+  .filter-bar::-webkit-scrollbar{display:none}
+  .filter-btn{scroll-snap-align:start}
+  .filter-bar-wrap{margin-left:-2px;margin-right:-2px}
+  .filter-bar-wrap::after{
+    content:"";position:absolute;top:0;right:0;bottom:10px;width:40px;
+    background:linear-gradient(90deg,transparent,var(--bg) 75%);
+    pointer-events:none;
+  }
 }
 @media (max-width:560px){
   .container{padding:0 18px}
@@ -629,9 +644,21 @@ footer.site-footer{background:var(--navy-900);color:#a9bcd0;padding:70px 0 0}
 .mobile-nav.open{display:block}
 .mobile-nav-panel{
   position:absolute;top:0;right:0;bottom:0;width:82%;max-width:340px;background:#fff;
-  padding:26px 24px;display:flex;flex-direction:column;gap:6px;box-shadow:var(--shadow-lg);
+  padding:20px 24px 28px;display:flex;flex-direction:column;box-shadow:var(--shadow-lg);
 }
-.mobile-nav-panel a{padding:14px 6px;font-family:var(--font-head);font-weight:600;font-size:16px;color:var(--navy-900);border-bottom:1px solid var(--border-soft)}
-.mobile-nav-panel a.btn{color:#fff;border-bottom:none;padding:14px 26px;text-align:center}
-.mobile-nav-close{align-self:flex-end;width:38px;height:38px;display:flex;align-items:center;justify-content:center;border-radius:8px;border:1px solid var(--border);margin-bottom:10px}
-.mobile-nav-close svg{width:18px;height:18px}
+.mobile-nav-head{display:flex;align-items:center;justify-content:space-between;margin-bottom:22px}
+.mobile-nav-logo{width:38px;height:33px;flex:none}
+.mobile-nav-close{
+  width:38px;height:38px;display:flex;align-items:center;justify-content:center;border-radius:10px;
+  background:var(--bg-soft);color:var(--navy-900);transition:background .18s,color .18s;flex:none;
+}
+.mobile-nav-close:hover{background:var(--navy-900);color:#fff}
+.mobile-nav-close svg{width:17px;height:17px}
+.mobile-nav-links{display:flex;flex-direction:column}
+.mobile-nav-links a{padding:14px 6px;font-family:var(--font-head);font-weight:600;font-size:16px;color:var(--navy-900);border-bottom:1px solid var(--border-soft);transition:color .15s}
+.mobile-nav-links a:hover,.mobile-nav-links a.active{color:var(--teal-500)}
+.mobile-nav-panel .btn{margin-top:22px}
+.mobile-nav-contact{margin-top:auto;padding-top:22px;border-top:1px solid var(--border-soft);display:flex;flex-direction:column;gap:16px}
+.mobile-nav-contact a{display:flex;align-items:center;gap:11px;font-family:var(--font-head);font-weight:600;font-size:14px;color:var(--ink-soft);transition:color .15s}
+.mobile-nav-contact a:hover{color:var(--teal-500)}
+.mobile-nav-contact svg{width:18px;height:18px;color:var(--teal-500);flex:none}
