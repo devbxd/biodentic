@@ -699,7 +699,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable patient protection.",
-  "image": null
+  "image": "assets/products/disposable/autoclave-sterilization-pouch-roll.png"
  },
  {
   "id": "bib-roll-euronda-53-80-disp017",
@@ -708,7 +708,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable patient protection.",
-  "image": null
+  "image": "assets/products/disposable/autoclave-sterilization-pouch-roll.png"
  },
  {
   "id": "blade-11-disp018",
@@ -888,7 +888,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Rotary dental bur.",
-  "image": null
+  "image": "assets/products/disposable/autoclave-sterilization-pouch-roll.png"
  },
  {
   "id": "sterilization-box-instrument-disp037",
@@ -897,7 +897,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Sterilization consumable / equipment.",
-  "image": null
+  "image": "assets/products/disposable/autoclave-sterilization-pouch-roll.png"
  },
  {
   "id": "sterilization-box-instrument-1l-disp038",
@@ -906,7 +906,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Sterilization consumable / equipment.",
-  "image": null
+  "image": "assets/products/disposable/autoclave-sterilization-pouch-roll.png"
  },
  {
   "id": "veneer-box-black-disp039",
@@ -960,7 +960,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Cotton / gauze consumable.",
-  "image": null
+  "image": "assets/products/disposable/autoclave-sterilization-pouch-roll.png"
  },
  {
   "id": "box-for-k-files-band-measuring-gauge-disp045",
@@ -1131,7 +1131,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null
+  "image": "assets/products/disposable/wooden-interdental-wedge.jpg"
  },
  {
   "id": "wooden-cone-white-disp064",
@@ -1140,7 +1140,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Teeth whitening product.",
-  "image": null
+  "image": "assets/products/disposable/wooden-interdental-wedge.jpg"
  },
  {
   "id": "wooden-cone-blue-disp065",
@@ -1149,7 +1149,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null
+  "image": "assets/products/disposable/wooden-interdental-wedge.jpg"
  },
  {
   "id": "wooden-cone-yellow-disp066",
@@ -1158,7 +1158,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null
+  "image": "assets/products/disposable/wooden-interdental-wedge.jpg"
  },
  {
   "id": "wooden-cone-orange-disp067",
@@ -1167,7 +1167,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null
+  "image": "assets/products/disposable/wooden-interdental-wedge.jpg"
  },
  {
   "id": "wooden-cone-polydentia-1000-pcs-pink-disp068",
@@ -1176,7 +1176,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null
+  "image": "assets/products/disposable/wooden-interdental-wedge.jpg"
  },
  {
   "id": "wooden-cone-pink-disp069",
@@ -1185,7 +1185,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null
+  "image": "assets/products/disposable/wooden-interdental-wedge.jpg"
  },
  {
   "id": "plastic-cone-disp070",
@@ -1203,7 +1203,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Cotton / gauze consumable.",
-  "image": null
+  "image": "assets/products/disposable/autoclave-sterilization-pouch-roll.png"
  },
  {
   "id": "cotton-roll-n2-disp072",
@@ -1212,7 +1212,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Cotton / gauze consumable.",
-  "image": null
+  "image": "assets/products/disposable/autoclave-sterilization-pouch-roll.png"
  },
  {
   "id": "cotton-roll-pack-of-500-disp073",
@@ -1221,7 +1221,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Cotton / gauze consumable.",
-  "image": null
+  "image": "assets/products/disposable/autoclave-sterilization-pouch-roll.png"
  },
  {
   "id": "face-shield-goggles-disp074",
@@ -2931,7 +2931,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Matrix system for restorations.",
-  "image": null
+  "image": "assets/products/disposable/autoclave-sterilization-pouch-roll.png"
  },
  {
   "id": "matrices-rogin-box-of-100-disp264",
@@ -3966,7 +3966,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Sterilization consumable / equipment.",
-  "image": null
+  "image": "assets/products/disposable/autoclave-sterilization-pouch-roll.png"
  },
  {
   "id": "autoclave-roll-15cm-disp386",
@@ -3975,7 +3975,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Sterilization consumable / equipment.",
-  "image": null
+  "image": "assets/products/disposable/autoclave-sterilization-pouch-roll.png"
  },
  {
   "id": "autoclave-roll-20cm-disp387",
@@ -3984,7 +3984,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Sterilization consumable / equipment.",
-  "image": null
+  "image": "assets/products/disposable/autoclave-sterilization-pouch-roll.png"
  },
  {
   "id": "autoclave-roll-25cm-disp388",
@@ -3993,7 +3993,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Sterilization consumable / equipment.",
-  "image": null
+  "image": "assets/products/disposable/autoclave-sterilization-pouch-roll.png"
  },
  {
   "id": "autoclave-roll-30cm-disp389",
@@ -4002,7 +4002,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Sterilization consumable / equipment.",
-  "image": null
+  "image": "assets/products/disposable/autoclave-sterilization-pouch-roll.png"
  },
  {
   "id": "autoclave-roll-5-cm-disp390",
@@ -4011,7 +4011,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Sterilization consumable / equipment.",
-  "image": null
+  "image": "assets/products/disposable/autoclave-sterilization-pouch-roll.png"
  },
  {
   "id": "autoclave-roll-7-5cm-disp391",
@@ -4020,7 +4020,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Sterilization consumable / equipment.",
-  "image": null
+  "image": "assets/products/disposable/autoclave-sterilization-pouch-roll.png"
  },
  {
   "id": "rouleau-cotton-disp392",
@@ -4974,7 +4974,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null
+  "image": "assets/products/disposable/autoclave-sterilization-pouch-roll.png"
  },
  {
   "id": "suture-4-0-silkam-non-absorbable-36-pieces-disp500",
@@ -8502,7 +8502,7 @@
   "category": "fiberpost",
   "categoryLabel": "Fiber Posts",
   "description": "Fiber post system.",
-  "image": null
+  "image": "assets/products/fiberpost/fiber-post-drill-kit.jpg"
  },
  {
   "id": "fiberpost-0-5-fgm-box-of-5-refill-fib012",
@@ -10302,7 +10302,7 @@
   "category": "impression",
   "categoryLabel": "Impression Materials",
   "description": "Impression material.",
-  "image": null
+  "image": "assets/products/impression/fit-checker-occlusal-indicator.jpg"
  },
  {
   "id": "fit-of-kerr-impr049",
@@ -10311,7 +10311,7 @@
   "category": "impression",
   "categoryLabel": "Impression Materials",
   "description": "Impression material.",
-  "image": null
+  "image": "assets/products/impression/fit-checker-occlusal-indicator.jpg"
  },
  {
   "id": "hemostal-gel-tube-impr050",
@@ -11049,7 +11049,7 @@
   "category": "impression",
   "categoryLabel": "Impression Materials",
   "description": "Cavity liner / base material.",
-  "image": null
+  "image": "assets/products/impression/soft-denture-liner-reline.jpg"
  },
  {
   "id": "speedex-catalyst-impr132",
@@ -11130,7 +11130,7 @@
   "category": "impression",
   "categoryLabel": "Impression Materials",
   "description": "Impression material.",
-  "image": null
+  "image": "assets/products/impression/dental-modelling-wax.jpg"
  },
  {
   "id": "wax-bms-impr141",
@@ -11139,7 +11139,7 @@
   "category": "impression",
   "categoryLabel": "Impression Materials",
   "description": "Impression material.",
-  "image": null
+  "image": "assets/products/impression/dental-modelling-wax.jpg"
  },
  {
   "id": "wax-cavex-impr142",
@@ -11157,7 +11157,7 @@
   "category": "impression",
   "categoryLabel": "Impression Materials",
   "description": "Impression material.",
-  "image": null
+  "image": "assets/products/impression/dental-modelling-wax.jpg"
  },
  {
   "id": "wax-polywax-impr144",
@@ -11166,7 +11166,7 @@
   "category": "impression",
   "categoryLabel": "Impression Materials",
   "description": "Impression material.",
-  "image": null
+  "image": "assets/products/impression/dental-modelling-wax.jpg"
  },
  {
   "id": "zetaplus-condensation-impr145",
@@ -11220,7 +11220,7 @@
   "category": "impression",
   "categoryLabel": "Impression Materials",
   "description": "Cavity liner / base material.",
-  "image": null
+  "image": "assets/products/impression/soft-denture-liner-reline.jpg"
  },
  {
   "id": "tray-adhesive-10-ml-impr153",
@@ -13146,7 +13146,7 @@
   "category": "ortho",
   "categoryLabel": "Orthodontics",
   "description": "Orthodontic bracket.",
-  "image": null
+  "image": "assets/products/ortho/orthodontic-metal-bracket-roth.jpg"
  },
  {
   "id": "ortho-bracket-roth-usa-ort005",
@@ -13155,7 +13155,7 @@
   "category": "ortho",
   "categoryLabel": "Orthodontics",
   "description": "Orthodontic bracket.",
-  "image": null
+  "image": "assets/products/ortho/orthodontic-metal-bracket-roth.jpg"
  },
  {
   "id": "ortho-colored-elastic-ort006",
@@ -13200,7 +13200,7 @@
   "category": "ortho",
   "categoryLabel": "Orthodontics",
   "description": "Orthodontic product.",
-  "image": null
+  "image": "assets/products/ortho/orthodontic-metal-bracket-roth.jpg"
  },
  {
   "id": "ortho-molar-tube-ort011",
@@ -14703,7 +14703,7 @@
   "category": "restorative",
   "categoryLabel": "Restorative",
   "description": "Cavity liner / base material.",
-  "image": null
+  "image": "assets/products/restorative/glass-ionomer-restorative-capsule.jpg"
  },
  {
   "id": "3m-bulk-capsule-a1-a2-a3-rest031",
@@ -14712,7 +14712,7 @@
   "category": "restorative",
   "categoryLabel": "Restorative",
   "description": "Restorative dental material.",
-  "image": null
+  "image": "assets/products/restorative/glass-ionomer-restorative-capsule.jpg"
  },
  {
   "id": "bulk-flow-anycom-307-rest034",
@@ -16719,7 +16719,7 @@
   "category": "xray",
   "categoryLabel": "X-Ray",
   "description": "X-ray / imaging product.",
-  "image": null
+  "image": "assets/products/xray/x-ray-film-developer-fixer.jpg"
  },
  {
   "id": "fixer-xray004",
@@ -16728,7 +16728,7 @@
   "category": "xray",
   "categoryLabel": "X-Ray",
   "description": "X-ray / imaging product.",
-  "image": null
+  "image": "assets/products/xray/x-ray-film-developer-fixer.jpg"
  },
  {
   "id": "skydent-x-ray-film-xray005",
@@ -16818,7 +16818,7 @@
   "category": "xray",
   "categoryLabel": "X-Ray",
   "description": "X-ray / imaging product.",
-  "image": null
+  "image": "assets/products/xray/x-ray-film-developer-fixer.jpg"
  },
  {
   "id": "whitening-shutz-5g-in-office-whi051",
