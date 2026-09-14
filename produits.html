@@ -106,12 +106,6 @@
 <section class="py-xl">
   <div class="container">
 
-    <div class="filter-bar-wrap">
-      <div class="filter-bar" id="filter-bar">
-        <button class="filter-btn active" data-filter="all">All Products</button>
-      </div>
-    </div>
-
     <p id="result-count" style="color:var(--ink-faint);font-size:13.5px;margin-bottom:22px"></p>
 
     <div class="product-grid" id="product-grid"></div>
@@ -121,6 +115,16 @@
     </div>
 
     <p id="empty-state" style="text-align:center;color:var(--ink-soft);padding:60px 0" hidden>No products found in this category.</p>
+
+    <div class="section-head center" style="margin:70px auto 28px">
+      <div class="eyebrow" style="justify-content:center">Browse by category</div>
+      <h2>Looking for something specific?</h2>
+    </div>
+    <div class="filter-bar-wrap">
+      <div class="filter-bar" id="filter-bar">
+        <button class="filter-btn active" data-filter="all">All Products</button>
+      </div>
+    </div>
 
   </div>
 </section>
@@ -145,8 +149,10 @@
 (function () {
   var PAGE_SIZE = 24;
   var allProducts = [];
+  var browseList = [];
   var activeFilter = 'all';
   var shown = 0;
+  var BROWSE_CAP_PER_CATEGORY = 18;
 
   var grid = document.getElementById('product-grid');
   var filterBar = document.getElementById('filter-bar');
@@ -180,7 +186,7 @@
   }
 
   function getFiltered() {
-    if (activeFilter === 'all') return allProducts;
+    if (activeFilter === 'all') return browseList;
     return allProducts.filter(function (p) { return p.category === activeFilter; });
   }
 
@@ -219,9 +225,11 @@
       btn.classList.add('active');
       activeFilter = btn.dataset.filter;
       renderPage(true);
-      window.scrollTo({ top: document.querySelector('.filter-bar').offsetTop - 100, behavior: 'smooth' });
+      window.scrollTo({ top: grid.offsetTop - 120, behavior: 'smooth' });
     });
   }
+
+  var CATEGORY_ORDER = ['disposable','endo','impression','polishing','fraise','instrument','temporary','machine','restorative','whitening','cementation','fiberpost','etching','ortho','xray','prevention','crowns','implant','uniform'];
 
   loadMoreBtn.addEventListener('click', function () { renderPage(false); });
 
@@ -230,7 +238,19 @@
   fetch('data/products.json')
     .then(function (res) { return res.json(); })
     .then(function (products) {
-      allProducts = products;
+      allProducts = products.slice().sort(function (a, b) {
+        return CATEGORY_ORDER.indexOf(a.category) - CATEGORY_ORDER.indexOf(b.category);
+      });
+
+      // "All Products" browse view: a sample per category (disposables first),
+      // not a full dump of the biggest category, so every category shows up quickly.
+      var counts = {};
+      browseList = [];
+      allProducts.forEach(function (p) {
+        counts[p.category] = (counts[p.category] || 0) + 1;
+        if (counts[p.category] <= BROWSE_CAP_PER_CATEGORY) browseList.push(p);
+      });
+
       grid.innerHTML = '';
       buildFilterBar();
 

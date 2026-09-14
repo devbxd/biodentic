@@ -15,7 +15,7 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Polishing product.",
-  "image": null
+  "image": "assets/products/polishing/rubber-polishing-point-contra-angle.jpg"
  },
  {
   "id": "bonding-ardent-rest021",
@@ -627,7 +627,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable patient protection.",
-  "image": null
+  "image": "assets/products/disposable/dental-patient-bib-towel.jpg"
  },
  {
   "id": "bib-white-tr-disp009",
@@ -636,7 +636,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Teeth whitening product.",
-  "image": null
+  "image": "assets/products/disposable/dental-patient-bib-towel.jpg"
  },
  {
   "id": "bib-box-1-2-disp010",
@@ -645,7 +645,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable patient protection.",
-  "image": null
+  "image": "assets/products/disposable/dental-patient-bib-towel.jpg"
  },
  {
   "id": "bib-box-white-disp011",
@@ -654,7 +654,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Teeth whitening product.",
-  "image": null
+  "image": "assets/products/disposable/dental-patient-bib-towel.jpg"
  },
  {
   "id": "bib-box-black-disp012",
@@ -663,7 +663,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable patient protection.",
-  "image": null
+  "image": "assets/products/disposable/dental-patient-bib-towel.jpg"
  },
  {
   "id": "bib-box-delian-disp013",
@@ -672,7 +672,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable patient protection.",
-  "image": null
+  "image": "assets/products/disposable/dental-patient-bib-towel.jpg"
  },
  {
   "id": "bib-box-tribest-disp014",
@@ -681,7 +681,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable patient protection.",
-  "image": null
+  "image": "assets/products/disposable/dental-patient-bib-towel.jpg"
  },
  {
   "id": "bib-box-infinity-disp015",
@@ -690,7 +690,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable patient protection.",
-  "image": null
+  "image": "assets/products/disposable/dental-patient-bib-towel.jpg"
  },
  {
   "id": "bib-roll-euronda-disp016",
@@ -726,7 +726,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable patient protection.",
-  "image": null
+  "image": "assets/products/disposable/dental-patient-bib-towel.jpg"
  },
  {
   "id": "blade-12-disp019",
@@ -5370,7 +5370,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Surgical / endodontic product.",
-  "image": null
+  "image": "assets/products/endo/rc-prep-edta-cream.jpg"
  },
  {
   "id": "edta-liquid-rekita-10ml-endo024",
@@ -5379,7 +5379,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Surgical / endodontic product.",
-  "image": null
+  "image": "assets/products/endo/rc-prep-edta-cream.jpg"
  },
  {
   "id": "endo-cord-endo025",
@@ -7170,7 +7170,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Surgical / endodontic product.",
-  "image": null
+  "image": "assets/products/endo/protaper-rotary-file.png"
  },
  {
   "id": "protaper-s2-endo223",
@@ -7179,7 +7179,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Surgical / endodontic product.",
-  "image": null
+  "image": "assets/products/endo/protaper-rotary-file.png"
  },
  {
   "id": "pulpodent-endo224",
@@ -7215,7 +7215,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Surgical / endodontic product.",
-  "image": null
+  "image": "assets/products/endo/rc-prep-edta-cream.jpg"
  },
  {
   "id": "rc-prep-germany-by-pc-endo228",
@@ -7224,7 +7224,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Surgical / endodontic product.",
-  "image": null
+  "image": "assets/products/endo/rc-prep-edta-cream.jpg"
  },
  {
   "id": "rcprep-spident-endo229",
@@ -7917,7 +7917,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Surgical / endodontic product.",
-  "image": null
+  "image": "assets/products/endo/rc-prep-edta-cream.jpg"
  },
  {
   "id": "tire-nerf-20-25-30-endo301",
@@ -13299,7 +13299,7 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Polishing product.",
-  "image": null
+  "image": "assets/products/polishing/rubber-polishing-point-contra-angle.jpg"
  },
  {
   "id": "diamond-excel-polissage-composite-poli002",
@@ -13371,7 +13371,7 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Polishing product.",
-  "image": null
+  "image": "assets/products/polishing/rubber-polishing-point-contra-angle.jpg"
  },
  {
   "id": "eve-polishing-zircon-for-handpiece-poli010",
@@ -13380,7 +13380,7 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Polishing product.",
-  "image": null
+  "image": "assets/products/polishing/rubber-polishing-point-contra-angle.jpg"
  },
  {
   "id": "finishing-strips-3m-poli011",
@@ -13389,7 +13389,7 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Finishing kit for restorations.",
-  "image": null
+  "image": "assets/products/polishing/finishing-strip-metal-one-side.png"
  },
  {
   "id": "finishing-strips-metal-one-side-becht-poli012",
@@ -13398,7 +13398,7 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Finishing kit for restorations.",
-  "image": null
+  "image": "assets/products/polishing/finishing-strip-metal-one-side.png"
  },
  {
   "id": "finishing-strips-metal-double-sided-coltene-poli01",
@@ -13407,7 +13407,7 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Finishing kit for restorations.",
-  "image": null
+  "image": "assets/products/polishing/finishing-strip-metal-one-side.png"
  },
  {
   "id": "finishing-strips-metal-one-side-tor-coarse-medium-",
@@ -13416,7 +13416,7 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Finishing kit for restorations.",
-  "image": null
+  "image": "assets/products/polishing/finishing-strip-metal-one-side.png"
  },
  {
   "id": "finishing-strips-microdent-poli015",
@@ -13425,7 +13425,7 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Finishing kit for restorations.",
-  "image": null
+  "image": "assets/products/polishing/finishing-strip-metal-one-side.png"
  },
  {
   "id": "finishing-strips-tor-yellow-green-blue-poli016",
@@ -13434,7 +13434,7 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Finishing kit for restorations.",
-  "image": null
+  "image": "assets/products/polishing/finishing-strip-metal-one-side.png"
  },
  {
   "id": "bur-poil-fleur-grand-poli017",
@@ -13542,7 +13542,7 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Rotary dental bur.",
-  "image": null
+  "image": "assets/products/polishing/rubber-polishing-point-contra-angle.jpg"
  },
  {
   "id": "bur-polissage-poil-doux-grand-poli029",
@@ -13569,7 +13569,7 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Rotary dental bur.",
-  "image": null
+  "image": "assets/products/polishing/rubber-polishing-point-contra-angle.jpg"
  },
  {
   "id": "kit-polishing-shofu-stone-poli032",
@@ -13578,7 +13578,7 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Polishing product.",
-  "image": null
+  "image": "assets/products/polishing/shofu-super-snap-single-disc.jpg"
  },
  {
   "id": "kit-soflex-3m-poli033",
@@ -13614,7 +13614,7 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Dental handpiece / motor.",
-  "image": null
+  "image": "assets/products/polishing/rubber-polishing-point-contra-angle.jpg"
  },
  {
   "id": "paste-polissage-composite-kris-poli037",
@@ -13650,7 +13650,7 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Polishing product.",
-  "image": null
+  "image": "assets/products/polishing/rubber-polishing-point-contra-angle.jpg"
  },
  {
   "id": "polishing-disc-for-zircon-white-poli041",
@@ -13677,7 +13677,7 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Polishing product.",
-  "image": null
+  "image": "assets/products/polishing/rubber-polishing-point-contra-angle.jpg"
  },
  {
   "id": "polishing-eve-pink-poli044",
@@ -13686,7 +13686,7 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Polishing product.",
-  "image": null
+  "image": "assets/products/polishing/rubber-polishing-point-contra-angle.jpg"
  },
  {
   "id": "polishing-kit-poli045",
@@ -13695,7 +13695,7 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Polishing product.",
-  "image": null
+  "image": "assets/products/polishing/rubber-polishing-point-contra-angle.jpg"
  },
  {
   "id": "polishing-like-tobium-for-zirconia-poli046",
@@ -13704,7 +13704,7 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Polishing product.",
-  "image": null
+  "image": "assets/products/polishing/rubber-polishing-point-contra-angle.jpg"
  },
  {
   "id": "polishing-provisoire-d-3pcs-poli047",
@@ -13713,7 +13713,7 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Polishing product.",
-  "image": null
+  "image": "assets/products/polishing/rubber-polishing-point-contra-angle.jpg"
  },
  {
   "id": "polishing-shofu-stone-by-piece-poli048",
@@ -13722,7 +13722,7 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Polishing product.",
-  "image": null
+  "image": "assets/products/polishing/shofu-super-snap-single-disc.jpg"
  },
  {
   "id": "polishing-spirale-by-piece-poli050",
@@ -13731,7 +13731,7 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Polishing product.",
-  "image": null
+  "image": "assets/products/polishing/rubber-polishing-point-contra-angle.jpg"
  },
  {
   "id": "polishing-spirale-for-zirconia-by-piece-poli051",
@@ -13740,7 +13740,7 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Polishing product.",
-  "image": null
+  "image": "assets/products/polishing/rubber-polishing-point-contra-angle.jpg"
  },
  {
   "id": "polishing-spirale-kit-of-6-poli052",
@@ -13749,7 +13749,7 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Polishing product.",
-  "image": null
+  "image": "assets/products/polishing/rubber-polishing-point-contra-angle.jpg"
  },
  {
   "id": "polishing-tdv-poli053",
@@ -13758,7 +13758,7 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Polishing product.",
-  "image": null
+  "image": "assets/products/polishing/rubber-polishing-point-contra-angle.jpg"
  },
  {
   "id": "polishing-tobium-by-piece-poli054",
@@ -13767,7 +13767,7 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Polishing product.",
-  "image": null
+  "image": "assets/products/polishing/rubber-polishing-point-contra-angle.jpg"
  },
  {
   "id": "polishing-zircon-for-contre-angle-poli055",
@@ -13776,7 +13776,7 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Polishing product.",
-  "image": null
+  "image": "assets/products/polishing/rubber-polishing-point-contra-angle.jpg"
  },
  {
   "id": "prophy-brush-colored-poli056",
@@ -14208,7 +14208,7 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Polishing product.",
-  "image": null
+  "image": "assets/products/polishing/shofu-super-snap-single-disc.jpg"
  },
  {
   "id": "super-snap-506-coarse-big-shofu-poli104",
@@ -14217,7 +14217,7 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Polishing product.",
-  "image": null
+  "image": "assets/products/polishing/shofu-super-snap-single-disc.jpg"
  },
  {
   "id": "super-snap-507-coarse-shofu-poli105",
@@ -14226,7 +14226,7 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Polishing product.",
-  "image": null
+  "image": "assets/products/polishing/shofu-super-snap-single-disc.jpg"
  },
  {
   "id": "super-snap-522-shofu-poli106",
@@ -14235,7 +14235,7 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Polishing product.",
-  "image": null
+  "image": "assets/products/polishing/shofu-super-snap-single-disc.jpg"
  },
  {
   "id": "super-snap-kit-shofu-poli107",
@@ -14244,7 +14244,7 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Polishing product.",
-  "image": null
+  "image": "assets/products/polishing/shofu-super-snap-single-disc.jpg"
  },
  {
   "id": "super-snap-shofu-501-poli108",
@@ -14253,7 +14253,7 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Polishing product.",
-  "image": null
+  "image": "assets/products/polishing/shofu-super-snap-single-disc.jpg"
  },
  {
   "id": "super-snap-shofu-508-poli109",
@@ -14262,7 +14262,7 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Polishing product.",
-  "image": null
+  "image": "assets/products/polishing/shofu-super-snap-single-disc.jpg"
  },
  {
   "id": "super-snap-shofu-519-poli110",
@@ -14271,7 +14271,7 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Polishing product.",
-  "image": null
+  "image": "assets/products/polishing/shofu-super-snap-single-disc.jpg"
  },
  {
   "id": "super-snap-shofu-521-poli111",
@@ -14280,7 +14280,7 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Polishing product.",
-  "image": null
+  "image": "assets/products/polishing/shofu-super-snap-single-disc.jpg"
  },
  {
   "id": "super-snap-shofu-mini-kit-poli112",
@@ -14289,7 +14289,7 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Polishing product.",
-  "image": null
+  "image": "assets/products/polishing/shofu-super-snap-single-disc.jpg"
  },
  {
   "id": "prophy-brush-transparent-by-piece-poli113",
@@ -14307,7 +14307,7 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Polishing product.",
-  "image": null
+  "image": "assets/products/polishing/rubber-polishing-point-contra-angle.jpg"
  },
  {
   "id": "finishing-strips-roll-poli118",
@@ -14316,7 +14316,7 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Finishing kit for restorations.",
-  "image": null
+  "image": "assets/products/polishing/finishing-strip-metal-one-side.png"
  },
  {
   "id": "polishing-green-stone-mini-poli119",
@@ -14325,7 +14325,7 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Polishing product.",
-  "image": null
+  "image": "assets/products/polishing/rubber-polishing-point-contra-angle.jpg"
  },
  {
   "id": "polishing-sdh271g-green-stone-poli120",
@@ -14334,7 +14334,7 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Polishing product.",
-  "image": null
+  "image": "assets/products/polishing/rubber-polishing-point-contra-angle.jpg"
  },
  {
   "id": "polishing-sdh101g-green-stone-poli121",
@@ -14343,7 +14343,7 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Polishing product.",
-  "image": null
+  "image": "assets/products/polishing/rubber-polishing-point-contra-angle.jpg"
  },
  {
   "id": "polishing-sdh021g-green-stone-poli122",
@@ -14352,7 +14352,7 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Polishing product.",
-  "image": null
+  "image": "assets/products/polishing/rubber-polishing-point-contra-angle.jpg"
  },
  {
   "id": "polishing-sdh261g-green-stone-poli123",
@@ -14361,7 +14361,7 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Polishing product.",
-  "image": null
+  "image": "assets/products/polishing/rubber-polishing-point-contra-angle.jpg"
  },
  {
   "id": "polishing-white-handpiece-acryl-metal-poli124",
@@ -14370,7 +14370,7 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Teeth whitening product.",
-  "image": null
+  "image": "assets/products/polishing/rubber-polishing-point-contra-angle.jpg"
  },
  {
   "id": "polishing-pink-handpiece-acryl-poli125",
@@ -14379,7 +14379,7 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Polishing product.",
-  "image": null
+  "image": "assets/products/polishing/rubber-polishing-point-contra-angle.jpg"
  },
  {
   "id": "polishing-sdh031g-green-stone-poli126",
@@ -14388,7 +14388,7 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Polishing product.",
-  "image": null
+  "image": "assets/products/polishing/rubber-polishing-point-contra-angle.jpg"
  },
  {
   "id": "polishing-green-handpiece-hard-poli127",
@@ -14397,7 +14397,7 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Polishing product.",
-  "image": null
+  "image": "assets/products/polishing/rubber-polishing-point-contra-angle.jpg"
  },
  {
   "id": "polishing-glaze-for-acryl-and-composite-poli128",
@@ -14406,7 +14406,7 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Light-cure dental composite.",
-  "image": null
+  "image": "assets/products/polishing/rubber-polishing-point-contra-angle.jpg"
  },
  {
   "id": "grinding-disc-handpiece-zirconia-ceramic-green-pol",
@@ -14433,7 +14433,7 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Polishing product.",
-  "image": null
+  "image": "assets/products/polishing/rubber-polishing-point-contra-angle.jpg"
  },
  {
   "id": "kit-polishing-for-ceramic-and-zirconia-ra307-eve-p",
@@ -14442,7 +14442,7 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Polishing product.",
-  "image": null
+  "image": "assets/products/polishing/rubber-polishing-point-contra-angle.jpg"
  },
  {
   "id": "polishing-spirale-handpiece-for-zirconia-poli135",
@@ -14451,7 +14451,7 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Polishing product.",
-  "image": null
+  "image": "assets/products/polishing/rubber-polishing-point-contra-angle.jpg"
  },
  {
   "id": "zirconia-polishing-by-pc-youdent-poli136",
@@ -14460,7 +14460,7 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Polishing product.",
-  "image": null
+  "image": "assets/products/polishing/rubber-polishing-point-contra-angle.jpg"
  },
  {
   "id": "ceramic-polishing-by-pc-youdent-poli137",
@@ -14469,7 +14469,7 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Polishing product.",
-  "image": null
+  "image": "assets/products/polishing/rubber-polishing-point-contra-angle.jpg"
  },
  {
   "id": "kit-soflex-optidisc-kerr-poli138",
@@ -14487,7 +14487,7 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Polishing product.",
-  "image": "assets/products/polishing/3m-sof-lex-disc-refill.jpg"
+  "image": "assets/products/polishing/finishing-strip-metal-one-side.png"
  },
  {
   "id": "renfert-polishing-kit-all-in-one-stater-kit-poli14",
@@ -14496,7 +14496,7 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Polishing product.",
-  "image": null
+  "image": "assets/products/polishing/rubber-polishing-point-contra-angle.jpg"
  },
  {
   "id": "polishing-kit-kerr-poli141",
@@ -14505,7 +14505,7 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Polishing product.",
-  "image": null
+  "image": "assets/products/polishing/rubber-polishing-point-contra-angle.jpg"
  },
  {
   "id": "opalustre-poli145",
@@ -15306,7 +15306,7 @@
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Temporary restorative material.",
-  "image": null
+  "image": "assets/products/temporary/vericom-temporary-cement-automix.jpg"
  },
  {
   "id": "dento-temp-box-temp012",
@@ -15333,7 +15333,7 @@
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Dental bonding / adhesive agent.",
-  "image": null
+  "image": "assets/products/temporary/vericom-temporary-cement-automix.jpg"
  },
  {
   "id": "hexatemp-a1-temp015",
@@ -15405,7 +15405,7 @@
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Dental curing / operatory light.",
-  "image": null
+  "image": "assets/products/temporary/vericom-temporary-cement-automix.jpg"
  },
  {
   "id": "acrylic-liquid-1l-temp023",
@@ -15477,7 +15477,7 @@
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Temporary restorative material.",
-  "image": null
+  "image": "assets/products/temporary/unifast-self-cure-acrylic-resin.jpg"
  },
  {
   "id": "luxatemp-bl-temp031",
@@ -15495,7 +15495,7 @@
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Dental crown.",
-  "image": null
+  "image": "assets/products/temporary/temporary-crown-bis-acryl-a1.jpg"
  },
  {
   "id": "nictone-liquid-temp033",
@@ -15513,7 +15513,7 @@
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Temporary restorative material.",
-  "image": null
+  "image": "assets/products/temporary/vericom-temporary-cement-automix.jpg"
  },
  {
   "id": "temporary-paste-bms-temp035",
@@ -15522,7 +15522,7 @@
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Temporary restorative material.",
-  "image": null
+  "image": "assets/products/temporary/vericom-temporary-cement-automix.jpg"
  },
  {
   "id": "temporary-paste-dentin-paste-temp036",
@@ -15531,7 +15531,7 @@
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Temporary restorative material.",
-  "image": null
+  "image": "assets/products/temporary/vericom-temporary-cement-automix.jpg"
  },
  {
   "id": "temporary-paste-e-temp-temp037",
@@ -15540,7 +15540,7 @@
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Temporary restorative material.",
-  "image": null
+  "image": "assets/products/temporary/vericom-temporary-cement-automix.jpg"
  },
  {
   "id": "temporary-paste-pyrax-temp038",
@@ -15549,7 +15549,7 @@
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Temporary restorative material.",
-  "image": null
+  "image": "assets/products/temporary/vericom-temporary-cement-automix.jpg"
  },
  {
   "id": "temporary-paste-rtemp-temp039",
@@ -15558,7 +15558,7 @@
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Temporary restorative material.",
-  "image": null
+  "image": "assets/products/temporary/vericom-temporary-cement-automix.jpg"
  },
  {
   "id": "temporary-paste-temp-it-1-sereingue-temp040",
@@ -15567,7 +15567,7 @@
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Temporary restorative material.",
-  "image": null
+  "image": "assets/products/temporary/vericom-temporary-cement-automix.jpg"
  },
  {
   "id": "temporary-paste-temp-it-bag-of-3-temp041",
@@ -15576,7 +15576,7 @@
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Temporary restorative material.",
-  "image": null
+  "image": "assets/products/temporary/vericom-temporary-cement-automix.jpg"
  },
  {
   "id": "acrylic-powder-400mg-temp042",
@@ -15774,7 +15774,7 @@
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Temporary restorative / crown & bridge material.",
-  "image": null
+  "image": "assets/products/temporary/vericom-temporary-cement-automix.jpg"
  },
  {
   "id": "relyx-temp-es-temp-ne-2-syringe-of-10g-temp064",
@@ -15837,7 +15837,7 @@
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Dental bonding / adhesive agent.",
-  "image": null
+  "image": "assets/products/temporary/vericom-temporary-cement-automix.jpg"
  },
  {
   "id": "temp-bond-meta-temp071",
@@ -15855,7 +15855,7 @@
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Dental bonding / adhesive agent.",
-  "image": null
+  "image": "assets/products/temporary/vericom-temporary-cement-automix.jpg"
  },
  {
   "id": "temporary-c-b-nexobio-temp073",
@@ -15864,7 +15864,7 @@
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Temporary restorative / crown & bridge material.",
-  "image": null
+  "image": "assets/products/temporary/vericom-temporary-cement-automix.jpg"
  },
  {
   "id": "temporary-cement-2x10g-automix-temp074",
@@ -15873,7 +15873,7 @@
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Dental cement.",
-  "image": null
+  "image": "assets/products/temporary/vericom-temporary-cement-automix.jpg"
  },
  {
   "id": "temporary-resin-dentocrown-a1-temp075",
@@ -15882,7 +15882,7 @@
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Dental crown.",
-  "image": null
+  "image": "assets/products/temporary/vericom-temporary-cement-automix.jpg"
  },
  {
   "id": "temporary-resin-dentocrown-a2-temp076",
@@ -15891,7 +15891,7 @@
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Dental crown.",
-  "image": null
+  "image": "assets/products/temporary/vericom-temporary-cement-automix.jpg"
  },
  {
   "id": "temporary-resin-dentocrown-a3-temp077",
@@ -15900,7 +15900,7 @@
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Dental crown.",
-  "image": null
+  "image": "assets/products/temporary/vericom-temporary-cement-automix.jpg"
  },
  {
   "id": "temporary-root-canal-filling-2x2-5g-viopex-temp078",
@@ -15909,7 +15909,7 @@
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Temporary restorative material.",
-  "image": null
+  "image": "assets/products/temporary/vericom-temporary-cement-automix.jpg"
  },
  {
   "id": "unifast-temp079",
@@ -15918,7 +15918,7 @@
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Temporary restorative material.",
-  "image": null
+  "image": "assets/products/temporary/unifast-self-cure-acrylic-resin.jpg"
  },
  {
   "id": "vericom-a1-temp080",
@@ -15927,7 +15927,7 @@
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Temporary restorative material.",
-  "image": null
+  "image": "assets/products/temporary/vericom-temporary-cement-automix.jpg"
  },
  {
   "id": "vericom-a2-temp081",
@@ -15936,7 +15936,7 @@
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Temporary restorative material.",
-  "image": null
+  "image": "assets/products/temporary/vericom-temporary-cement-automix.jpg"
  },
  {
   "id": "vericom-a3-temp082",
@@ -15945,7 +15945,7 @@
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Temporary restorative material.",
-  "image": null
+  "image": "assets/products/temporary/vericom-temporary-cement-automix.jpg"
  },
  {
   "id": "vericom-b1-temp083",
@@ -15954,7 +15954,7 @@
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Temporary restorative material.",
-  "image": null
+  "image": "assets/products/temporary/vericom-temporary-cement-automix.jpg"
  },
  {
   "id": "vericom-bleach-temp084",
@@ -15963,7 +15963,7 @@
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Teeth whitening product.",
-  "image": null
+  "image": "assets/products/temporary/vericom-temporary-cement-automix.jpg"
  },
  {
   "id": "acrylic-powder-brulon-a1-temp085",
@@ -16053,7 +16053,7 @@
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Teeth whitening product.",
-  "image": null
+  "image": "assets/products/temporary/temporary-crown-bis-acryl-a1.jpg"
  },
  {
   "id": "visalys-neutral-bleach-temporary-crown-temp105",
@@ -16062,7 +16062,7 @@
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Teeth whitening product.",
-  "image": null
+  "image": "assets/products/temporary/temporary-crown-bis-acryl-a1.jpg"
  },
  {
   "id": "visalys-bright-a1-b1-temporary-crown-temp106",
@@ -16071,7 +16071,7 @@
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Temporary restorative / crown & bridge material.",
-  "image": null
+  "image": "assets/products/temporary/temporary-crown-bis-acryl-a1.jpg"
  },
  {
   "id": "resin-for-impression-tray-individuel-temp107",
@@ -16125,7 +16125,7 @@
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Dental bonding / adhesive agent.",
-  "image": null
+  "image": "assets/products/temporary/vericom-temporary-cement-automix.jpg"
  },
  {
   "id": "acrylic-powder-brulon-bleach-temp98",
