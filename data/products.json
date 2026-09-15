@@ -414,7 +414,7 @@
   "category": "cementation",
   "categoryLabel": "Cementation",
   "description": "Dental cement.",
-  "image": null
+  "image": "assets/products/cementation/silane-bonding-bottle.jpg"
  },
  {
   "id": "silane-bisco-2-tubes",
@@ -423,7 +423,7 @@
   "category": "cementation",
   "categoryLabel": "Cementation",
   "description": "Dental cement.",
-  "image": null
+  "image": "assets/products/cementation/silane-bonding-bottle.jpg"
  },
  {
   "id": "silane-pentron",
@@ -432,7 +432,7 @@
   "category": "cementation",
   "categoryLabel": "Cementation",
   "description": "Dental cement.",
-  "image": null
+  "image": "assets/products/cementation/silane-bonding-bottle.jpg"
  },
  {
   "id": "silane-prevest",
@@ -441,7 +441,7 @@
   "category": "cementation",
   "categoryLabel": "Cementation",
   "description": "Dental cement.",
-  "image": null
+  "image": "assets/products/cementation/silane-bonding-bottle.jpg"
  },
  {
   "id": "silane-silano",
@@ -450,7 +450,7 @@
   "category": "cementation",
   "categoryLabel": "Cementation",
   "description": "Dental cement.",
-  "image": null
+  "image": "assets/products/cementation/silane-bonding-bottle.jpg"
  },
  {
   "id": "silane-ultradent",
@@ -459,7 +459,7 @@
   "category": "cementation",
   "categoryLabel": "Cementation",
   "description": "Dental cement.",
-  "image": null
+  "image": "assets/products/cementation/silane-bonding-bottle.jpg"
  },
  {
   "id": "supercem",
@@ -5906,7 +5906,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Surgical / endodontic product.",
-  "image": "assets/products/endo/kerr-life-calcium-hydroxide-base-liner.jpg"
+  "image": "assets/products/endo/calcium-hydroxide-iodoform-syringe.jpg"
  },
  {
   "id": "hydroxide-of-calcium-syringe-2g-with-iodophorm-nexobio",
@@ -5915,7 +5915,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Surgical / endodontic product.",
-  "image": "assets/products/endo/kerr-life-calcium-hydroxide-base-liner.jpg"
+  "image": "assets/products/endo/calcium-hydroxide-iodoform-syringe.jpg"
  },
  {
   "id": "ice-bag",
@@ -6429,7 +6429,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Surgical / endodontic product.",
-  "image": null
+  "image": "assets/products/endo/metapex-root-canal-filling.webp"
  },
  {
   "id": "mta-pd-0-5g",
@@ -7989,7 +7989,7 @@
   "category": "fiberpost",
   "categoryLabel": "Fiber Posts",
   "description": "Fiber post system.",
-  "image": null
+  "image": "assets/products/fiberpost/exacto-fiber-post.webp"
  },
  {
   "id": "exacto-n2",
@@ -7998,7 +7998,7 @@
   "category": "fiberpost",
   "categoryLabel": "Fiber Posts",
   "description": "Fiber post system.",
-  "image": null
+  "image": "assets/products/fiberpost/exacto-fiber-post.webp"
  },
  {
   "id": "exacto-n3",
@@ -8007,7 +8007,7 @@
   "category": "fiberpost",
   "categoryLabel": "Fiber Posts",
   "description": "Fiber post system.",
-  "image": null
+  "image": "assets/products/fiberpost/exacto-fiber-post.webp"
  },
  {
   "id": "reforpin",
@@ -8061,7 +8061,7 @@
   "category": "fiberpost",
   "categoryLabel": "Fiber Posts",
   "description": "Fiber post system.",
-  "image": null
+  "image": "assets/products/fiberpost/exacto-fiber-post.webp"
  },
  {
   "id": "fiber-post-kit-20-drills",
@@ -14248,7 +14248,7 @@
   "category": "restorative",
   "categoryLabel": "Restorative",
   "description": "Restorative dental material.",
-  "image": null
+  "image": "assets/products/restorative/dycal-calcium-hydroxide.jpg"
  },
  {
   "id": "estelite-a1-a2-bw-we",
@@ -15496,7 +15496,7 @@
   "category": "whitening",
   "categoryLabel": "Whitening",
   "description": "Teeth whitening product.",
-  "image": null
+  "image": "assets/products/whitening/desensitizer-gel-tube.jpg"
  },
  {
   "id": "everbrite-whitening-office-box-of-3",
