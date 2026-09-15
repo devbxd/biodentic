@@ -78,7 +78,7 @@
   "category": "cementation",
   "categoryLabel": "Cementation",
   "description": "Dental cement.",
-  "image": null
+  "image": "assets/products/cementation/adhesor-zinc-phospate.jpg"
  },
  {
   "id": "adhesor-zinc-polycarboxylate-carbofine",
@@ -87,7 +87,7 @@
   "category": "cementation",
   "categoryLabel": "Cementation",
   "description": "Dental cement.",
-  "image": null
+  "image": "assets/products/cementation/adhesor-zinc-phospate.jpg"
  },
  {
   "id": "breeze-tr",
@@ -172,7 +172,7 @@
   "category": "cementation",
   "categoryLabel": "Cementation",
   "description": "Dental cement.",
-  "image": null
+  "image": "assets/products/cementation/fuji-2.jpg"
  },
  {
   "id": "fuji-9",
@@ -11059,7 +11059,7 @@
   "category": "machine",
   "categoryLabel": "Equipment",
   "description": "Dental practice equipment.",
-  "image": null
+  "image": "assets/products/machine/dental-chair.jpg"
  },
  {
   "id": "detartreur",
@@ -13153,7 +13153,7 @@
   "category": "prevention",
   "categoryLabel": "Prevention",
   "description": "Dental bonding / adhesive agent.",
-  "image": null
+  "image": "assets/products/prevention/vitrebond.jpg"
  },
  {
   "id": "fluoride-foam",
@@ -13234,7 +13234,7 @@
   "category": "restorative",
   "categoryLabel": "Restorative",
   "description": "Flowable dental composite.",
-  "image": null
+  "image": "assets/products/restorative/bulk-flow-anycom-307.jpg"
  },
  {
   "id": "3m-composite-bulk-syringe-a1-a2-a3",
@@ -13288,7 +13288,7 @@
   "category": "restorative",
   "categoryLabel": "Restorative",
   "description": "Flowable dental composite.",
-  "image": null
+  "image": "assets/products/restorative/bulk-flow-anycom-307.jpg"
  },
  {
   "id": "bulk-flow-denfil",
@@ -13297,7 +13297,7 @@
   "category": "restorative",
   "categoryLabel": "Restorative",
   "description": "Flowable dental composite.",
-  "image": null
+  "image": "assets/products/restorative/bulk-flow-denfil.jpg"
  },
  {
   "id": "cal-lc-kris",
@@ -13666,7 +13666,7 @@
   "category": "restorative",
   "categoryLabel": "Restorative",
   "description": "Flowable dental composite.",
-  "image": null
+  "image": "assets/products/restorative/bulk-flow-anycom-307.jpg"
  },
  {
   "id": "bulk-flow-charisma",
@@ -13675,7 +13675,7 @@
   "category": "restorative",
   "categoryLabel": "Restorative",
   "description": "Flowable dental composite.",
-  "image": null
+  "image": "assets/products/restorative/bulk-flow-anycom-307.jpg"
  },
  {
   "id": "bulk-flow-mani",
@@ -13684,7 +13684,7 @@
   "category": "restorative",
   "categoryLabel": "Restorative",
   "description": "Flowable dental composite.",
-  "image": null
+  "image": "assets/products/restorative/bulk-flow-anycom-307.jpg"
  },
  {
   "id": "articulating-paper-bauch-200-microns-box-of-50-teeth-ceramic",
@@ -13738,7 +13738,7 @@
   "category": "restorative",
   "categoryLabel": "Restorative",
   "description": "Flowable dental composite.",
-  "image": null
+  "image": "assets/products/restorative/bulk-flow-anycom-307.jpg"
  },
  {
   "id": "composite-bulk-tetric",
