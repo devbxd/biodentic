@@ -10074,7 +10074,7 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Dental / periodontal curette.",
-  "image": null
+  "image": "assets/products/instrument/gracey-curette.png"
  },
  {
   "id": "cutting-knife-coltene",
@@ -10092,7 +10092,7 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Dental forceps / tweezers.",
-  "image": null
+  "image": "assets/products/instrument/adult-extraction-forceps.jpg"
  },
  {
   "id": "extraction-forceps-for-pedo",
@@ -10101,7 +10101,7 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Dental forceps / tweezers.",
-  "image": null
+  "image": "assets/products/instrument/adult-extraction-forceps.jpg"
  },
  {
   "id": "periotomes",
@@ -10969,7 +10969,7 @@
   "category": "machine",
   "categoryLabel": "Equipment",
   "description": "Dental practice equipment.",
-  "image": null
+  "image": "assets/products/machine/compressor.jpg"
  },
  {
   "id": "contre-angle-band-rouge-lumiere-et-eau",
@@ -11068,7 +11068,7 @@
   "category": "machine",
   "categoryLabel": "Equipment",
   "description": "Dental practice equipment.",
-  "image": null
+  "image": "assets/products/machine/detartreur.jpg"
  },
  {
   "id": "electric-brush",
@@ -11491,7 +11491,7 @@
   "category": "machine",
   "categoryLabel": "Equipment",
   "description": "Dental practice equipment.",
-  "image": "assets/products/machine/ultrasonic-scaler-unit.jpg"
+  "image": "assets/products/machine/detartreur.jpg"
  },
  {
   "id": "ultrasonic-scaler-woodpecker-dte",
@@ -11500,7 +11500,7 @@
   "category": "machine",
   "categoryLabel": "Equipment",
   "description": "Dental practice equipment.",
-  "image": "assets/products/machine/ultrasonic-scaler-unit.jpg"
+  "image": "assets/products/machine/detartreur.jpg"
  },
  {
   "id": "water-pick",
@@ -13909,7 +13909,7 @@
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Temporary restorative material.",
-  "image": null
+  "image": "assets/products/temporary/hexatemp-a1.jpg"
  },
  {
   "id": "hexatemp-a2",
@@ -13918,7 +13918,7 @@
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Temporary restorative material.",
-  "image": null
+  "image": "assets/products/temporary/hexatemp-a1.jpg"
  },
  {
   "id": "hexatemp-a3",
@@ -13927,7 +13927,7 @@
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Temporary restorative material.",
-  "image": null
+  "image": "assets/products/temporary/hexatemp-a1.jpg"
  },
  {
   "id": "hexatemp-tw",
@@ -13936,7 +13936,7 @@
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Temporary restorative material.",
-  "image": null
+  "image": "assets/products/temporary/hexatemp-a1.jpg"
  },
  {
   "id": "kit-alike",
@@ -14662,7 +14662,7 @@
   "category": "whitening",
   "categoryLabel": "Whitening",
   "description": "Teeth whitening product.",
-  "image": null
+  "image": "assets/products/whitening/bioceramic-diadent.jpg"
  },
  {
   "id": "desensitizer-tube",
