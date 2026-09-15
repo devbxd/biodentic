@@ -6792,7 +6792,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Root canal sealer.",
-  "image": "assets/products/endo/bioceramic-root-canal-sealer-syringe.jpg"
+  "image": "assets/products/endo/adseal-root-canal-sealer.jpg"
  },
  {
   "id": "adseal-plus-endo1811",
@@ -6801,7 +6801,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Root canal sealer.",
-  "image": null
+  "image": "assets/products/endo/adseal-root-canal-sealer.jpg"
  },
  {
   "id": "metapex-endo182",
@@ -7197,7 +7197,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Surgical / endodontic product.",
-  "image": null
+  "image": "assets/products/endo/pulpotec-pulpotomy-paste.png"
  },
  {
   "id": "pulpx-endo226",
@@ -10779,7 +10779,7 @@
   "category": "impression",
   "categoryLabel": "Impression Materials",
   "description": "Impression material.",
-  "image": null
+  "image": "assets/products/impression/metrowax-utility-wax.png"
  },
  {
   "id": "millenium-alginate-impr102",
@@ -11463,7 +11463,7 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Dental instrument.",
-  "image": null
+  "image": "assets/products/instrument/dental-cheek-retractor-minnesota.jpg"
  },
  {
   "id": "elevator-inst023",
@@ -11607,7 +11607,7 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Dental examination mirror.",
-  "image": null
+  "image": "assets/products/instrument/large-intraoral-photo-mirror.jpg"
  },
  {
   "id": "mirror-handle-inst039",
@@ -11616,7 +11616,7 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Dental examination mirror.",
-  "image": null
+  "image": "assets/products/instrument/large-intraoral-photo-mirror.jpg"
  },
  {
   "id": "mouth-prop-bite-block-inst040",
@@ -11688,7 +11688,7 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Dental instrument.",
-  "image": null
+  "image": "assets/products/instrument/large-intraoral-photo-mirror.jpg"
  },
  {
   "id": "pince-gouges-of-friedman-inst048",
@@ -12147,7 +12147,7 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Dental examination mirror.",
-  "image": null
+  "image": "assets/products/instrument/large-intraoral-photo-mirror.jpg"
  },
  {
   "id": "mirror-handle-plastique-autoclavable-inst106",
@@ -12156,7 +12156,7 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Dental examination mirror.",
-  "image": null
+  "image": "assets/products/instrument/large-intraoral-photo-mirror.jpg"
  },
  {
   "id": "ins-metal-ref-478-8342-inst107",
@@ -12228,7 +12228,7 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Glass ionomer material.",
-  "image": null
+  "image": "assets/products/instrument/dental-cheek-retractor-minnesota.jpg"
  },
  {
   "id": "periosteal-molt-422-7525-inst116",
@@ -12264,7 +12264,7 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Endodontic hand/rotary file.",
-  "image": null
+  "image": "assets/products/instrument/bone-rongeur-surgical.jpg"
  },
  {
   "id": "curette-universal-kohler-inst121",
@@ -13785,7 +13785,7 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Applicator brush.",
-  "image": null
+  "image": "assets/products/polishing/disposable-prophy-angle-cup.jpg"
  },
  {
   "id": "prophy-brush-colored-by-piece-poli057",
@@ -13794,7 +13794,7 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Applicator brush.",
-  "image": null
+  "image": "assets/products/polishing/disposable-prophy-angle-cup.jpg"
  },
  {
   "id": "prophy-brush-poil-beige-poli058",
@@ -13803,7 +13803,7 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Applicator brush.",
-  "image": null
+  "image": "assets/products/polishing/disposable-prophy-angle-cup.jpg"
  },
  {
   "id": "prophy-brush-white-by-piece-poli059",
@@ -13812,7 +13812,7 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Teeth whitening product.",
-  "image": null
+  "image": "assets/products/polishing/disposable-prophy-angle-cup.jpg"
  },
  {
   "id": "prophy-cup-blue-by-piece-poli060",
@@ -13821,7 +13821,7 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Disposable dental cup.",
-  "image": null
+  "image": "assets/products/polishing/disposable-prophy-angle-cup.jpg"
  },
  {
   "id": "prophy-cup-colored-by-piece-poli061",
@@ -13830,7 +13830,7 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Disposable dental cup.",
-  "image": null
+  "image": "assets/products/polishing/disposable-prophy-angle-cup.jpg"
  },
  {
   "id": "prophy-cup-white-by-piece-poli062",
@@ -13839,7 +13839,7 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Teeth whitening product.",
-  "image": null
+  "image": "assets/products/polishing/disposable-prophy-angle-cup.jpg"
  },
  {
   "id": "prophy-cups-by-piece-poli063",
@@ -13848,7 +13848,7 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Polishing product.",
-  "image": null
+  "image": "assets/products/polishing/disposable-prophy-angle-cup.jpg"
  },
  {
   "id": "prophy-paste-bms-poli064",
@@ -13920,7 +13920,7 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Polishing product.",
-  "image": null
+  "image": "assets/products/polishing/disposable-prophy-angle-cup.jpg"
  },
  {
   "id": "prophy-powder-acteon-poli072",
@@ -13929,7 +13929,7 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Polishing product.",
-  "image": null
+  "image": "assets/products/polishing/disposable-prophy-angle-cup.jpg"
  },
  {
   "id": "prophy-powder-floweiss-poli073",
@@ -13938,7 +13938,7 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Flowable dental composite.",
-  "image": null
+  "image": "assets/products/polishing/disposable-prophy-angle-cup.jpg"
  },
  {
   "id": "prophy-powder-rhapsody-poli074",
@@ -13947,7 +13947,7 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Polishing product.",
-  "image": null
+  "image": "assets/products/polishing/disposable-prophy-angle-cup.jpg"
  },
  {
   "id": "prophy-powder-t-poli075",
@@ -13956,7 +13956,7 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Polishing product.",
-  "image": null
+  "image": "assets/products/polishing/disposable-prophy-angle-cup.jpg"
  },
  {
   "id": "prophylaxis-capsule-poli076",
@@ -14298,7 +14298,7 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Applicator brush.",
-  "image": null
+  "image": "assets/products/polishing/disposable-prophy-angle-cup.jpg"
  },
  {
   "id": "kit-polishing-platon-poli117",
@@ -14865,7 +14865,7 @@
   "category": "restorative",
   "categoryLabel": "Restorative",
   "description": "Restorative dental material.",
-  "image": null
+  "image": "assets/products/restorative/estelite-sigma-quick-composite.png"
  },
  {
   "id": "estelite-caps-a2-sigma-quick-rest116",
@@ -14874,7 +14874,7 @@
   "category": "restorative",
   "categoryLabel": "Restorative",
   "description": "Restorative dental material.",
-  "image": null
+  "image": "assets/products/restorative/estelite-sigma-quick-composite.png"
  },
  {
   "id": "estelite-oa1-oa2-oa3-quick-rest117",
@@ -14883,7 +14883,7 @@
   "category": "restorative",
   "categoryLabel": "Restorative",
   "description": "Restorative dental material.",
-  "image": null
+  "image": "assets/products/restorative/estelite-sigma-quick-composite.png"
  },
  {
   "id": "flow-ruby-rest121",
@@ -15027,7 +15027,7 @@
   "category": "restorative",
   "categoryLabel": "Restorative",
   "description": "Teeth whitening product.",
-  "image": null
+  "image": "assets/products/restorative/estelite-sigma-quick-composite.png"
  },
  {
   "id": "stop-caries-x-rest196",
@@ -16080,7 +16080,7 @@
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Impression material.",
-  "image": null
+  "image": "assets/products/temporary/duralay-pattern-resin.jpg"
  },
  {
   "id": "c-b-a1-pentron-temp90",
