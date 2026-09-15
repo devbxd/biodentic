@@ -5078,7 +5078,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Surgical / endodontic product.",
-  "image": null
+  "image": "assets/products/endo/endomethasone-septodent.webp"
  },
  {
   "id": "eugenol-100-ml",
@@ -9165,7 +9165,7 @@
   "category": "impression",
   "categoryLabel": "Impression Materials",
   "description": "Impression material.",
-  "image": null
+  "image": "assets/products/impression/herculite-kit.webp"
  },
  {
   "id": "honigum-light-2-cartridge",
@@ -9192,7 +9192,7 @@
   "category": "impression",
   "categoryLabel": "Impression Materials",
   "description": "Dental curing / operatory light.",
-  "image": null
+  "image": "assets/products/impression/hydrorise-light.jpg"
  },
  {
   "id": "hydrorise-putty",
@@ -9201,7 +9201,7 @@
   "category": "impression",
   "categoryLabel": "Impression Materials",
   "description": "Impression material.",
-  "image": null
+  "image": "assets/products/impression/hydrorise-light.jpg"
  },
  {
   "id": "impregum-1-2",
@@ -9237,7 +9237,7 @@
   "category": "impression",
   "categoryLabel": "Impression Materials",
   "description": "Impression material.",
-  "image": null
+  "image": "assets/products/impression/impression-paste-kris.jpg"
  },
  {
   "id": "iq-alginate",
@@ -9683,7 +9683,7 @@
   "category": "impression",
   "categoryLabel": "Impression Materials",
   "description": "Impression material.",
-  "image": null
+  "image": "assets/products/impression/silaxil-condensation.jpg"
  },
  {
   "id": "silaxil-condensation",
@@ -9701,7 +9701,7 @@
   "category": "impression",
   "categoryLabel": "Impression Materials",
   "description": "Dental curing / operatory light.",
-  "image": null
+  "image": "assets/products/impression/silaxil-condensation.jpg"
  },
  {
   "id": "sildent-medium-body",
@@ -9728,7 +9728,7 @@
   "category": "impression",
   "categoryLabel": "Impression Materials",
   "description": "Impression material.",
-  "image": null
+  "image": "assets/products/impression/condensation-speedex-coltene.jpg"
  },
  {
   "id": "speedex-light",
@@ -9737,7 +9737,7 @@
   "category": "impression",
   "categoryLabel": "Impression Materials",
   "description": "Dental curing / operatory light.",
-  "image": null
+  "image": "assets/products/impression/condensation-speedex-coltene.jpg"
  },
  {
   "id": "speedex-putty",
@@ -9746,7 +9746,7 @@
   "category": "impression",
   "categoryLabel": "Impression Materials",
   "description": "Impression material.",
-  "image": null
+  "image": "assets/products/impression/condensation-speedex-coltene.jpg"
  },
  {
   "id": "zeugenol-impression-paste",
@@ -12185,7 +12185,7 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Polishing product.",
-  "image": null
+  "image": "assets/products/polishing/kit-soflex-3m.jpg"
  },
  {
   "id": "mandrel-gros-model-for-handpiece",
