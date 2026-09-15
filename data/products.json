@@ -585,7 +585,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null
+  "image": "assets/products/disposable/articulating-paper-t.jpg"
  },
  {
   "id": "articulating-paper-t",
@@ -594,7 +594,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null
+  "image": "assets/products/disposable/articulating-paper-t.jpg"
  },
  {
   "id": "saliva-ejector",
@@ -728,7 +728,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null
+  "image": "assets/products/disposable/blade-15.jpg"
  },
  {
   "id": "blade-15c",
@@ -4709,7 +4709,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null
+  "image": "assets/products/disposable/articulating-paper-t.jpg"
  },
  {
   "id": "mandrels",
@@ -4844,7 +4844,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Surgical / endodontic product.",
-  "image": null
+  "image": "assets/products/endo/alveogyl-septodent.jpg"
  },
  {
   "id": "alvocure",
@@ -4898,7 +4898,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Surgical / endodontic product.",
-  "image": null
+  "image": "assets/products/endo/biodentine.jpg"
  },
  {
   "id": "c-06",
