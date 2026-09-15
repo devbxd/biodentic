@@ -899,7 +899,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null
+  "image": "assets/products/disposable/veneer-storage-box.jpg"
  },
  {
   "id": "toothbrush-box",
@@ -971,7 +971,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null
+  "image": "assets/products/disposable/alcohol-disinfectant-spray-bottle.jpg"
  },
  {
   "id": "dental-chair-bottle",
@@ -980,7 +980,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null
+  "image": "assets/products/disposable/alcohol-disinfectant-spray-bottle.jpg"
  },
  {
   "id": "breeze-a2",
@@ -3032,7 +3032,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null
+  "image": "assets/products/disposable/veneer-storage-box.jpg"
  },
  {
   "id": "mouth-wash-liquid",
@@ -3239,7 +3239,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null
+  "image": "assets/products/disposable/veneer-storage-box.jpg"
  },
  {
   "id": "brush-3m",
@@ -3499,7 +3499,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null
+  "image": "assets/products/disposable/alcohol-disinfectant-spray-bottle.jpg"
  },
  {
   "id": "pompe-chirurgicale-blue",
@@ -3820,7 +3820,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null
+  "image": "assets/products/disposable/ultrasonic-scaler-tip-e14d.png"
  },
  {
   "id": "scaler-handpiece-activa-s",
@@ -3829,7 +3829,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Dental handpiece / motor.",
-  "image": null
+  "image": "assets/products/disposable/ultrasonic-scaler-tip-e14d.png"
  },
  {
   "id": "scaler-refine",
@@ -3838,7 +3838,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null
+  "image": "assets/products/disposable/ultrasonic-scaler-tip-e14d.png"
  },
  {
   "id": "scaler-tip-e14d",
@@ -3847,7 +3847,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null
+  "image": "assets/products/disposable/ultrasonic-scaler-tip-e14d.png"
  },
  {
   "id": "scaler-tip-e3d",
@@ -3856,7 +3856,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null
+  "image": "assets/products/disposable/ultrasonic-scaler-tip-e14d.png"
  },
  {
   "id": "scie-colore",
@@ -3910,7 +3910,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null
+  "image": "assets/products/disposable/alcohol-disinfectant-spray-bottle.jpg"
  },
  {
   "id": "sealant-syringe-3m",
@@ -9369,7 +9369,7 @@
   "category": "impression",
   "categoryLabel": "Impression Materials",
   "description": "Dental curing / operatory light.",
-  "image": null
+  "image": "assets/products/impression/3m-express-penta-putty.jpg"
  },
  {
   "id": "3m-express-xt-light-quick-36976-box-of-2",
@@ -9378,7 +9378,7 @@
   "category": "impression",
   "categoryLabel": "Impression Materials",
   "description": "Dental curing / operatory light.",
-  "image": null
+  "image": "assets/products/impression/3m-express-penta-putty.jpg"
  },
  {
   "id": "3m-express-xt-penta-36894",
@@ -9387,7 +9387,7 @@
   "category": "impression",
   "categoryLabel": "Impression Materials",
   "description": "Impression material.",
-  "image": null
+  "image": "assets/products/impression/3m-express-penta-putty.jpg"
  },
  {
   "id": "3m-express-xt-putty",
@@ -9396,7 +9396,7 @@
   "category": "impression",
   "categoryLabel": "Impression Materials",
   "description": "Impression material.",
-  "image": "assets/products/impression/vericom-putty-light.jpg",
+  "image": "assets/products/impression/3m-express-penta-putty.jpg",
   "variants": [
    "36972",
    "36973"
@@ -9724,7 +9724,7 @@
   "category": "impression",
   "categoryLabel": "Impression Materials",
   "description": "Dental curing / operatory light.",
-  "image": null
+  "image": "assets/products/impression/3m-express-penta-putty.jpg"
  },
  {
   "id": "express-light-quick",
@@ -9733,7 +9733,7 @@
   "category": "impression",
   "categoryLabel": "Impression Materials",
   "description": "Dental curing / operatory light.",
-  "image": null
+  "image": "assets/products/impression/3m-express-penta-putty.jpg"
  },
  {
   "id": "express-putty",
@@ -9742,7 +9742,7 @@
   "category": "impression",
   "categoryLabel": "Impression Materials",
   "description": "Impression material.",
-  "image": "assets/products/impression/vericom-putty-light.jpg"
+  "image": "assets/products/impression/3m-express-penta-putty.jpg"
  },
  {
   "id": "express-putty-std",
@@ -9751,7 +9751,7 @@
   "category": "impression",
   "categoryLabel": "Impression Materials",
   "description": "Impression material.",
-  "image": "assets/products/impression/vericom-putty-light.jpg"
+  "image": "assets/products/impression/3m-express-penta-putty.jpg"
  },
  {
   "id": "express-xt-light-36976-1pc",
@@ -9760,7 +9760,7 @@
   "category": "impression",
   "categoryLabel": "Impression Materials",
   "description": "Dental curing / operatory light.",
-  "image": null
+  "image": "assets/products/impression/3m-express-penta-putty.jpg"
  },
  {
   "id": "express-xt-light-quick-36974-1pc",
@@ -9769,7 +9769,7 @@
   "category": "impression",
   "categoryLabel": "Impression Materials",
   "description": "Dental curing / operatory light.",
-  "image": null
+  "image": "assets/products/impression/3m-express-penta-putty.jpg"
  },
  {
   "id": "express-xt-penta-putty-quick-36895",
@@ -9778,7 +9778,7 @@
   "category": "impression",
   "categoryLabel": "Impression Materials",
   "description": "Impression material.",
-  "image": "assets/products/impression/vericom-putty-light.jpg"
+  "image": "assets/products/impression/3m-express-penta-putty.jpg"
  },
  {
   "id": "fit-checker-occlusal-spray",
@@ -10781,7 +10781,7 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Dental instrument.",
-  "image": null
+  "image": "assets/products/instrument/manual-scaler-instrument.jpg"
  },
  {
   "id": "thickness-caliper",
@@ -10853,7 +10853,7 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Dental instrument.",
-  "image": null
+  "image": "assets/products/instrument/mosquito-hemostat-forceps-curved.jpg"
  },
  {
   "id": "lagrange-curved-scissors",
@@ -10862,7 +10862,7 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Dental instrument.",
-  "image": null
+  "image": "assets/products/instrument/mosquito-hemostat-forceps-curved.jpg"
  },
  {
   "id": "scissors-micro",
@@ -10934,7 +10934,7 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Dental instrument.",
-  "image": null
+  "image": "assets/products/instrument/manual-scaler-instrument.jpg"
  },
  {
   "id": "retractor-of-minesota",
@@ -11011,7 +11011,7 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Disposable dental cup.",
-  "image": null
+  "image": "assets/products/instrument/dappen-glass-dish.png"
  },
  {
   "id": "instrument-kit-precelle-sonde-mirror-3pcs",
@@ -11137,7 +11137,7 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Dental instrument.",
-  "image": null
+  "image": "assets/products/instrument/dental-explorer-probe.jpg"
  },
  {
   "id": "periotome",
@@ -11475,7 +11475,7 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Dental instrument.",
-  "image": null
+  "image": "assets/products/instrument/manual-scaler-instrument.jpg"
  },
  {
   "id": "insert-red-system-b",
