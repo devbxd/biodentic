@@ -7611,7 +7611,7 @@
   "category": "fraise",
   "categoryLabel": "Burs",
   "description": "Rotary dental bur.",
-  "image": null
+  "image": "assets/products/fraise/bur-endo-z.jpg"
  },
  {
   "id": "bur-t",
@@ -7818,7 +7818,7 @@
   "category": "fraise",
   "categoryLabel": "Burs",
   "description": "Rotary dental bur.",
-  "image": null
+  "image": "assets/products/fraise/bur-carbide-330-long.jpg"
  },
  {
   "id": "bur-carbide-330-silver-short",
@@ -7827,7 +7827,7 @@
   "category": "fraise",
   "categoryLabel": "Burs",
   "description": "Rotary dental bur.",
-  "image": null
+  "image": "assets/products/fraise/bur-carbide-330-long.jpg"
  },
  {
   "id": "bur-carbide-boule-contre-angle",
@@ -7836,7 +7836,7 @@
   "category": "fraise",
   "categoryLabel": "Burs",
   "description": "Rotary dental bur.",
-  "image": null
+  "image": "assets/products/fraise/bur-carbide-boule-contre-angle.png"
  },
  {
   "id": "bur-carbide-gold-like-330",
@@ -7845,7 +7845,7 @@
   "category": "fraise",
   "categoryLabel": "Burs",
   "description": "Rotary dental bur.",
-  "image": null
+  "image": "assets/products/fraise/bur-carbide-330-long.jpg"
  },
  {
   "id": "bur-carbide-n5-mani",
@@ -7917,7 +7917,7 @@
   "category": "fraise",
   "categoryLabel": "Burs",
   "description": "Rotary dental bur.",
-  "image": null
+  "image": "assets/products/fraise/bur-endo-z.jpg"
  },
  {
   "id": "bur-endo-z-mani",
@@ -7926,7 +7926,7 @@
   "category": "fraise",
   "categoryLabel": "Burs",
   "description": "Rotary dental bur.",
-  "image": null
+  "image": "assets/products/fraise/bur-endo-z.jpg"
  },
  {
   "id": "bur-fg021-tr",
@@ -8576,7 +8576,7 @@
   "category": "fraise",
   "categoryLabel": "Burs",
   "description": "Rotary dental bur.",
-  "image": null
+  "image": "assets/products/fraise/bur-carbide-boule-contre-angle.png"
  },
  {
   "id": "bur-v-pro",
