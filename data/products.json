@@ -616,7 +616,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable patient protection.",
-  "image": null
+  "image": "assets/products/disposable/bib-3-ply.jpg"
  },
  {
   "id": "bib-white-tr",
@@ -4862,7 +4862,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Apex locator.",
-  "image": null
+  "image": "assets/products/machine/apex-locator-woodpecker-3rd-generation.jpg"
  },
  {
   "id": "bioceramic-germany",
@@ -8760,7 +8760,7 @@
   "category": "impression",
   "categoryLabel": "Impression Materials",
   "description": "Impression material.",
-  "image": null
+  "image": "assets/products/impression/3m-impregum-penta-by-piece-31740.jpg"
  },
  {
   "id": "alginate-alginoplast",
@@ -9228,7 +9228,7 @@
   "category": "impression",
   "categoryLabel": "Impression Materials",
   "description": "Impression material.",
-  "image": null
+  "image": "assets/products/impression/3m-impregum-penta-by-piece-31740.jpg"
  },
  {
   "id": "impression-paste-kris",
