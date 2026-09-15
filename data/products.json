@@ -1014,7 +1014,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Rubber dam isolation product.",
-  "image": null
+  "image": "assets/products/disposable/rubber-dam-clamp.jpg"
  },
  {
   "id": "small-brush-3m-disp051",
@@ -1095,7 +1095,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Rubber dam clamp.",
-  "image": null
+  "image": "assets/products/disposable/rubber-dam-clamp.jpg"
  },
  {
   "id": "clamps-disp060",
@@ -1230,7 +1230,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null
+  "image": "assets/products/disposable/face-shield-visor.jpg"
  },
  {
   "id": "cover-shoes-disp075",
@@ -1473,7 +1473,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Surgical face mask.",
-  "image": null
+  "image": "assets/products/disposable/face-shield-visor.jpg"
  },
  {
   "id": "face-mask-3m-disp103",
@@ -1482,7 +1482,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Surgical face mask.",
-  "image": null
+  "image": "assets/products/disposable/face-shield-visor.jpg"
  },
  {
   "id": "face-mask-attache-disp104",
@@ -1491,7 +1491,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Surgical face mask.",
-  "image": null
+  "image": "assets/products/disposable/face-shield-visor.jpg"
  },
  {
   "id": "face-mask-blue-disp105",
@@ -1500,7 +1500,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Surgical face mask.",
-  "image": null
+  "image": "assets/products/disposable/face-shield-visor.jpg"
  },
  {
   "id": "face-mask-king-disp106",
@@ -1509,7 +1509,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Surgical face mask.",
-  "image": null
+  "image": "assets/products/disposable/face-shield-visor.jpg"
  },
  {
   "id": "face-mask-maxident-disp107",
@@ -1518,7 +1518,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Surgical face mask.",
-  "image": null
+  "image": "assets/products/disposable/face-shield-visor.jpg"
  },
  {
   "id": "face-mask-surgical-disp108",
@@ -1536,7 +1536,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null
+  "image": "assets/products/disposable/face-shield-visor.jpg"
  },
  {
   "id": "thread-retr-0-disp110",
@@ -2607,7 +2607,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Orthodontic elastic.",
-  "image": null
+  "image": "assets/products/disposable/face-shield-visor.jpg"
  },
  {
   "id": "matrix-band-0-03x5mm-disp228",
@@ -4038,7 +4038,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Rubber dam isolation product.",
-  "image": null
+  "image": "assets/products/disposable/rubber-dam-clamp.jpg"
  },
  {
   "id": "rubber-dam-black-disp394",
@@ -4047,7 +4047,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Rubber dam isolation product.",
-  "image": null
+  "image": "assets/products/disposable/rubber-dam-clamp.jpg"
  },
  {
   "id": "rubber-dam-dispo-dam-disp395",
@@ -4056,7 +4056,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Rubber dam isolation product.",
-  "image": null
+  "image": "assets/products/disposable/rubber-dam-clamp.jpg"
  },
  {
   "id": "rvg-xray-sensor-handi-disp396",
@@ -11292,7 +11292,7 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Dental instrument.",
-  "image": null
+  "image": "assets/products/instrument/orthodontic-scissors-cutter.png"
  },
  {
   "id": "scaler-wrench-inst004",
@@ -11328,7 +11328,7 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Dental crown.",
-  "image": null
+  "image": "assets/products/instrument/crown-remover-automatic.jpg"
  },
  {
   "id": "manual-crown-remover-inst008",
@@ -11337,7 +11337,7 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Dental crown.",
-  "image": null
+  "image": "assets/products/instrument/crown-remover-automatic.jpg"
  },
  {
   "id": "ball-point-instrument-inst009",
@@ -11364,7 +11364,7 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Dental instrument.",
-  "image": null
+  "image": "assets/products/instrument/orthodontic-scissors-cutter.png"
  },
  {
   "id": "curved-scissors-inst012",
@@ -11373,7 +11373,7 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Dental instrument.",
-  "image": null
+  "image": "assets/products/instrument/orthodontic-scissors-cutter.png"
  },
  {
   "id": "lagrange-curved-scissors-inst013",
@@ -11382,7 +11382,7 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Dental instrument.",
-  "image": null
+  "image": "assets/products/instrument/orthodontic-scissors-cutter.png"
  },
  {
   "id": "scissors-micro-inst014",
@@ -11391,7 +11391,7 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Dental instrument.",
-  "image": null
+  "image": "assets/products/instrument/orthodontic-scissors-cutter.png"
  },
  {
   "id": "curette-of-lucas-s-m-l-inst015",
@@ -11418,7 +11418,7 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Dental instrument.",
-  "image": null
+  "image": "assets/products/instrument/wax-knife-lab.jpg"
  },
  {
   "id": "adult-extraction-forceps-inst018",
@@ -11580,7 +11580,7 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Dental stone / plaster.",
-  "image": null
+  "image": "assets/products/instrument/wax-knife-lab.jpg"
  },
  {
   "id": "wax-knife-inst036",
@@ -11589,7 +11589,7 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Dental instrument.",
-  "image": null
+  "image": "assets/products/instrument/wax-knife-lab.jpg"
  },
  {
   "id": "luxator-inst037",
@@ -11706,7 +11706,7 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Dental instrument.",
-  "image": null
+  "image": "assets/products/instrument/orthodontic-scissors-cutter.png"
  },
  {
   "id": "pince-hemostatique-couder-inst050",
@@ -11724,7 +11724,7 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Dental instrument.",
-  "image": null
+  "image": "assets/products/instrument/orthodontic-scissors-cutter.png"
  },
  {
   "id": "pince-hemostatique-micro-castroviejo-inst052",
@@ -11778,7 +11778,7 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Dental crown.",
-  "image": null
+  "image": "assets/products/instrument/crown-remover-automatic.jpg"
  },
  {
   "id": "plugger-inst058",
@@ -12300,7 +12300,7 @@
   "category": "machine",
   "categoryLabel": "Equipment",
   "description": "Dental practice equipment.",
-  "image": null
+  "image": "assets/products/machine/air-compressor-dental.jpg"
  },
  {
   "id": "applicap-3m-73050-mac003",
@@ -12345,7 +12345,7 @@
   "category": "machine",
   "categoryLabel": "Equipment",
   "description": "Dental practice equipment.",
-  "image": null
+  "image": "assets/products/machine/air-compressor-dental.jpg"
  },
  {
   "id": "contre-angle-band-rouge-lumiere-et-eau-mac009",
@@ -12498,7 +12498,7 @@
   "category": "machine",
   "categoryLabel": "Equipment",
   "description": "Dental practice equipment.",
-  "image": null
+  "image": "assets/products/machine/woodpecker-apex-locator.jpg"
  },
  {
   "id": "kit-implant-mac024",
@@ -12597,7 +12597,7 @@
   "category": "machine",
   "categoryLabel": "Equipment",
   "description": "Dental practice equipment.",
-  "image": null
+  "image": "assets/products/machine/woodpecker-apex-locator.jpg"
  },
  {
   "id": "moteur-endo-with-apex-locator-ling-chen-mac035",
@@ -13191,7 +13191,7 @@
   "category": "ortho",
   "categoryLabel": "Orthodontics",
   "description": "Orthodontic elastic.",
-  "image": "assets/products/ortho/orthodontic-elastic-chain.jpg"
+  "image": "assets/products/ortho/orthodontic-elastic-ligature-ties.jpg"
  },
  {
   "id": "ortho-metal-retainer-ort010",
@@ -15261,7 +15261,7 @@
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Temporary restorative material.",
-  "image": null
+  "image": "assets/products/temporary/cavit-temporary-filling.png"
  },
  {
   "id": "cavit-g-3m-temp007",
@@ -15270,7 +15270,7 @@
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Temporary restorative material.",
-  "image": null
+  "image": "assets/products/temporary/cavit-temporary-filling.png"
  },
  {
   "id": "charmtemp-b-temp008",
@@ -15720,7 +15720,7 @@
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Temporary restorative material.",
-  "image": null
+  "image": "assets/products/temporary/protemp-4-temporization.png"
  },
  {
   "id": "protemp-4-a1-temp058",
@@ -15729,7 +15729,7 @@
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Temporary restorative material.",
-  "image": null
+  "image": "assets/products/temporary/protemp-4-temporization.png"
  },
  {
   "id": "protemp-4-a3-temp059",
@@ -15738,7 +15738,7 @@
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Temporary restorative material.",
-  "image": null
+  "image": "assets/products/temporary/protemp-4-temporization.png"
  },
  {
   "id": "protemp-4-bleach-temp060",
@@ -15747,7 +15747,7 @@
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Teeth whitening product.",
-  "image": null
+  "image": "assets/products/temporary/protemp-4-temporization.png"
  },
  {
   "id": "provitemp-temp061",
@@ -15909,7 +15909,7 @@
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Temporary restorative material.",
-  "image": "assets/products/temporary/vericom-temporary-cement-automix.jpg"
+  "image": "assets/products/temporary/cavit-temporary-filling.png"
  },
  {
   "id": "unifast-temp079",
