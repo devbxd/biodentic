@@ -618,7 +618,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable saliva ejector.",
-  "image": "assets/products/disposable/disposable-saliva-ejector.jpg"
+  "image": null
  },
  {
   "id": "bib-3-ply-disp008",
@@ -627,7 +627,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable patient protection.",
-  "image": "assets/products/disposable/dental-patient-bib-towel.jpg"
+  "image": null
  },
  {
   "id": "bib-white-tr-disp009",
@@ -636,7 +636,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Teeth whitening product.",
-  "image": "assets/products/disposable/dental-patient-bib-towel.jpg"
+  "image": null
  },
  {
   "id": "bib-box-1-2-disp010",
@@ -645,7 +645,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable patient protection.",
-  "image": "assets/products/disposable/dental-patient-bib-towel.jpg"
+  "image": null
  },
  {
   "id": "bib-box-white-disp011",
@@ -654,7 +654,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Teeth whitening product.",
-  "image": "assets/products/disposable/dental-patient-bib-towel.jpg"
+  "image": null
  },
  {
   "id": "bib-box-black-disp012",
@@ -663,7 +663,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable patient protection.",
-  "image": "assets/products/disposable/dental-patient-bib-towel.jpg"
+  "image": null
  },
  {
   "id": "bib-box-delian-disp013",
@@ -672,7 +672,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable patient protection.",
-  "image": "assets/products/disposable/dental-patient-bib-towel.jpg"
+  "image": null
  },
  {
   "id": "bib-box-tribest-disp014",
@@ -681,7 +681,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable patient protection.",
-  "image": "assets/products/disposable/dental-patient-bib-towel.jpg"
+  "image": null
  },
  {
   "id": "bib-box-infinity-disp015",
@@ -690,7 +690,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable patient protection.",
-  "image": "assets/products/disposable/dental-patient-bib-towel.jpg"
+  "image": null
  },
  {
   "id": "bib-roll-euronda-disp016",
@@ -726,7 +726,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable patient protection.",
-  "image": "assets/products/disposable/dental-patient-bib-towel.jpg"
+  "image": null
  },
  {
   "id": "blade-12-disp019",
@@ -1320,7 +1320,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": "assets/products/disposable/disposable-irrigation-syringe.jpg"
+  "image": null
  },
  {
   "id": "dochem-impression-tray-lower-large-disp085",
@@ -1419,7 +1419,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": "assets/products/disposable/disposable-irrigation-syringe.jpg"
+  "image": null
  },
  {
   "id": "endo-irrigation-sweden-disp097",
@@ -1428,7 +1428,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": "assets/products/disposable/disposable-irrigation-syringe.jpg"
+  "image": null
  },
  {
   "id": "hemostatic-sponge-disp098",
@@ -3624,7 +3624,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Glass ionomer material.",
-  "image": "assets/products/disposable/disposable-saliva-ejector.jpg"
+  "image": "assets/products/disposable/surgical-gloves-size-6.jpg"
  },
  {
   "id": "saliva-ejector-chirurgical-white-disp348",
@@ -3633,7 +3633,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Teeth whitening product.",
-  "image": "assets/products/disposable/disposable-saliva-ejector.jpg"
+  "image": null
  },
  {
   "id": "saliva-ejector-chirurgical-green-disp349",
@@ -3642,7 +3642,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Glass ionomer material.",
-  "image": "assets/products/disposable/disposable-saliva-ejector.jpg"
+  "image": null
  },
  {
   "id": "saliva-ejector-chirurgical-tuyau-disp350",
@@ -3651,7 +3651,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Glass ionomer material.",
-  "image": "assets/products/disposable/disposable-saliva-ejector.jpg"
+  "image": null
  },
  {
   "id": "saliva-ejector-escargot-disp351",
@@ -3660,7 +3660,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable saliva ejector.",
-  "image": "assets/products/disposable/disposable-saliva-ejector.jpg"
+  "image": null
  },
  {
   "id": "saliva-ejector-euronda-blue-disp352",
@@ -3669,7 +3669,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable saliva ejector.",
-  "image": "assets/products/disposable/disposable-saliva-ejector.jpg"
+  "image": null
  },
  {
   "id": "saliva-ejector-euronda-transparent-disp353",
@@ -3678,7 +3678,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable saliva ejector.",
-  "image": "assets/products/disposable/disposable-saliva-ejector.jpg"
+  "image": null
  },
  {
   "id": "saliva-ejector-fixed-head-ch-disp354",
@@ -3687,7 +3687,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable saliva ejector.",
-  "image": "assets/products/disposable/disposable-saliva-ejector.jpg"
+  "image": null
  },
  {
   "id": "saliva-ejector-green-disp355",
@@ -3696,7 +3696,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable saliva ejector.",
-  "image": "assets/products/disposable/disposable-saliva-ejector.jpg"
+  "image": null
  },
  {
   "id": "saliva-ejector-kids-angelus-disp356",
@@ -3705,7 +3705,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable saliva ejector.",
-  "image": "assets/products/disposable/disposable-saliva-ejector.jpg"
+  "image": null
  },
  {
   "id": "saliva-ejector-lb-disp357",
@@ -3714,7 +3714,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable saliva ejector.",
-  "image": "assets/products/disposable/disposable-saliva-ejector.jpg"
+  "image": null
  },
  {
   "id": "saliva-ejector-transparent-cotizen-disp358",
@@ -3723,7 +3723,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable saliva ejector.",
-  "image": "assets/products/disposable/disposable-saliva-ejector.jpg"
+  "image": null
  },
  {
   "id": "saliva-ejector-medistosk-transparent-and-white-dis",
@@ -3732,7 +3732,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Teeth whitening product.",
-  "image": "assets/products/disposable/disposable-saliva-ejector.jpg"
+  "image": null
  },
  {
   "id": "pompe-alcohol-disp360",
@@ -4200,7 +4200,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": "assets/products/disposable/disposable-irrigation-syringe.jpg"
+  "image": null
  },
  {
   "id": "sealant-syringe-spident-2x1-2ml-disp412",
@@ -4209,7 +4209,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": "assets/products/disposable/disposable-irrigation-syringe.jpg"
+  "image": null
  },
  {
   "id": "sealant-prevest-1-syringe-disp413",
@@ -4218,7 +4218,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": "assets/products/disposable/disposable-irrigation-syringe.jpg"
+  "image": null
  },
  {
   "id": "sealite-regular-disp414",
@@ -4263,7 +4263,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": "assets/products/disposable/disposable-irrigation-syringe.jpg"
+  "image": null
  },
  {
   "id": "syringe-1cc-disp419",
@@ -4272,7 +4272,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": "assets/products/disposable/disposable-irrigation-syringe.jpg"
+  "image": null
  },
  {
   "id": "syringe-20cc-disp420",
@@ -4281,7 +4281,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": "assets/products/disposable/disposable-irrigation-syringe.jpg"
+  "image": null
  },
  {
   "id": "syringe-20cc-box-100-disp421",
@@ -4290,7 +4290,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": "assets/products/disposable/disposable-irrigation-syringe.jpg"
+  "image": null
  },
  {
   "id": "syringe-3cc-disp422",
@@ -4299,7 +4299,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": "assets/products/disposable/disposable-irrigation-syringe.jpg"
+  "image": null
  },
  {
   "id": "syringe-5cc-disp423",
@@ -4308,7 +4308,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": "assets/products/disposable/disposable-irrigation-syringe.jpg"
+  "image": null
  },
  {
   "id": "syringe-hypodermic-disp424",
@@ -4317,7 +4317,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": "assets/products/disposable/disposable-irrigation-syringe.jpg"
+  "image": null
  },
  {
   "id": "white-syringe-piece-disp425",
@@ -4326,7 +4326,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Teeth whitening product.",
-  "image": "assets/products/disposable/disposable-irrigation-syringe.jpg"
+  "image": null
  },
  {
   "id": "shade-guide-ivoclar-disp426",
@@ -4704,7 +4704,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": "assets/products/disposable/disposable-irrigation-syringe.jpg"
+  "image": "assets/products/disposable/automix-mixing-tips.jpg"
  },
  {
   "id": "tray-cover-disp468",
@@ -5163,7 +5163,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/niti-rotary-file-system.jpg"
+  "image": "assets/products/endo/protaper-rotary-file.png"
  },
  {
   "id": "ah26-root-canal-sealing-dentsply-endo001",
@@ -6297,7 +6297,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Surgical / endodontic product.",
-  "image": "assets/products/endo/niti-rotary-file-system.jpg"
+  "image": "assets/products/endo/protaper-rotary-file.png"
  },
  {
   "id": "kfile-mani-06-25-pink-endo127",
@@ -6864,7 +6864,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Surgical / endodontic product.",
-  "image": "assets/products/endo/niti-rotary-file-system.jpg"
+  "image": "assets/products/endo/protaper-rotary-file.png"
  },
  {
   "id": "offer-gutta-paper-adseal-gutta-solvent-endo189",
@@ -7332,7 +7332,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/niti-rotary-file-system.jpg"
+  "image": "assets/products/endo/protaper-rotary-file.png"
  },
  {
   "id": "rotary-file-reprise-d1-d2-d3-nic-o-endo242",
@@ -7341,7 +7341,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/niti-rotary-file-system.jpg"
+  "image": "assets/products/endo/protaper-rotary-file.png"
  },
  {
   "id": "rotary-file-s2-nic-u-endo243",
@@ -7350,7 +7350,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/niti-rotary-file-system.jpg"
+  "image": "assets/products/endo/protaper-rotary-file.png"
  },
  {
   "id": "rotary-file-silver-04-25-with-opener-4files-byekou",
@@ -7359,7 +7359,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/niti-rotary-file-system.jpg"
+  "image": "assets/products/endo/protaper-rotary-file.png"
  },
  {
   "id": "rotary-file-silver-06-25-with-opener-4files-byekou",
@@ -7368,7 +7368,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/niti-rotary-file-system.jpg"
+  "image": "assets/products/endo/protaper-rotary-file.png"
  },
  {
   "id": "rotary-files-10-04-mauve-endo246",
@@ -7377,7 +7377,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/niti-rotary-file-system.jpg"
+  "image": "assets/products/endo/protaper-rotary-file.png"
  },
  {
   "id": "rotary-files-10-06-mauve-gold-endo247",
@@ -7386,7 +7386,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/niti-rotary-file-system.jpg"
+  "image": "assets/products/endo/protaper-rotary-file.png"
  },
  {
   "id": "rotary-files-15-04-white-gold-endo248",
@@ -7395,7 +7395,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Teeth whitening product.",
-  "image": "assets/products/endo/niti-rotary-file-system.jpg"
+  "image": "assets/products/endo/protaper-rotary-file.png"
  },
  {
   "id": "rotary-files-15-04-31-endo249",
@@ -7404,7 +7404,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/niti-rotary-file-system.jpg"
+  "image": "assets/products/endo/protaper-rotary-file.png"
  },
  {
   "id": "rotary-files-15-06-white-endo250",
@@ -7413,7 +7413,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Teeth whitening product.",
-  "image": "assets/products/endo/niti-rotary-file-system.jpg"
+  "image": "assets/products/endo/protaper-rotary-file.png"
  },
  {
   "id": "rotary-files-20-04-yellow-endo251",
@@ -7422,7 +7422,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/niti-rotary-file-system.jpg"
+  "image": "assets/products/endo/protaper-rotary-file.png"
  },
  {
   "id": "rotary-files-20-04-31-endo252",
@@ -7431,7 +7431,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/niti-rotary-file-system.jpg"
+  "image": "assets/products/endo/protaper-rotary-file.png"
  },
  {
   "id": "rotary-files-20-06-yellow-endo253",
@@ -7440,7 +7440,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/niti-rotary-file-system.jpg"
+  "image": "assets/products/endo/protaper-rotary-file.png"
  },
  {
   "id": "rotary-files-25-04-rouge-endo254",
@@ -7449,7 +7449,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/niti-rotary-file-system.jpg"
+  "image": "assets/products/endo/protaper-rotary-file.png"
  },
  {
   "id": "rotary-files-25-04-31-endo255",
@@ -7458,7 +7458,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/niti-rotary-file-system.jpg"
+  "image": "assets/products/endo/protaper-rotary-file.png"
  },
  {
   "id": "rotary-files-25-06-rouge-endo256",
@@ -7467,7 +7467,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/niti-rotary-file-system.jpg"
+  "image": "assets/products/endo/protaper-rotary-file.png"
  },
  {
   "id": "rotary-files-25-06-rouge-blue-endo257",
@@ -7476,7 +7476,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/niti-rotary-file-system.jpg"
+  "image": "assets/products/endo/protaper-rotary-file.png"
  },
  {
   "id": "rotary-files-30-04-blue-endo258",
@@ -7485,7 +7485,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/niti-rotary-file-system.jpg"
+  "image": "assets/products/endo/protaper-rotary-file.png"
  },
  {
   "id": "rotary-files-30-06-blue-gold-endo259",
@@ -7494,7 +7494,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/niti-rotary-file-system.jpg"
+  "image": "assets/products/endo/protaper-rotary-file.png"
  },
  {
   "id": "rotary-files-35-04-green-endo260",
@@ -7503,7 +7503,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/niti-rotary-file-system.jpg"
+  "image": "assets/products/endo/protaper-rotary-file.png"
  },
  {
   "id": "rotary-files-35-06-green-gold-endo261",
@@ -7512,7 +7512,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/niti-rotary-file-system.jpg"
+  "image": "assets/products/endo/protaper-rotary-file.png"
  },
  {
   "id": "rotary-files-40-06-black-endo262",
@@ -7521,7 +7521,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/niti-rotary-file-system.jpg"
+  "image": "assets/products/endo/protaper-rotary-file.png"
  },
  {
   "id": "rotary-files-assorted-endo263",
@@ -7530,7 +7530,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/niti-rotary-file-system.jpg"
+  "image": "assets/products/endo/protaper-rotary-file.png"
  },
  {
   "id": "rotary-files-assorted-gold-endo264",
@@ -7539,7 +7539,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/niti-rotary-file-system.jpg"
+  "image": "assets/products/endo/protaper-rotary-file.png"
  },
  {
   "id": "rotary-files-fanta-20-04-endo265",
@@ -7548,7 +7548,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/niti-rotary-file-system.jpg"
+  "image": "assets/products/endo/protaper-rotary-file.png"
  },
  {
   "id": "rotary-files-fanta-20-06-31mm-endo266",
@@ -7557,7 +7557,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/niti-rotary-file-system.jpg"
+  "image": "assets/products/endo/protaper-rotary-file.png"
  },
  {
   "id": "rotary-files-fanta-25-04-endo267",
@@ -7566,7 +7566,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/niti-rotary-file-system.jpg"
+  "image": "assets/products/endo/protaper-rotary-file.png"
  },
  {
   "id": "rotary-files-fanta-f1-endo268",
@@ -7575,7 +7575,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/niti-rotary-file-system.jpg"
+  "image": "assets/products/endo/protaper-rotary-file.png"
  },
  {
   "id": "rotary-files-fanta-f2-endo269",
@@ -7584,7 +7584,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/niti-rotary-file-system.jpg"
+  "image": "assets/products/endo/protaper-rotary-file.png"
  },
  {
   "id": "rotary-files-fanta-s1-endo270",
@@ -7593,7 +7593,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/niti-rotary-file-system.jpg"
+  "image": "assets/products/endo/protaper-rotary-file.png"
  },
  {
   "id": "rotary-files-fanta-s2-endo271",
@@ -7602,7 +7602,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/niti-rotary-file-system.jpg"
+  "image": "assets/products/endo/protaper-rotary-file.png"
  },
  {
   "id": "rotary-file-s1-endo2711",
@@ -7611,7 +7611,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/niti-rotary-file-system.jpg"
+  "image": "assets/products/endo/protaper-rotary-file.png"
  },
  {
   "id": "rotary-file-s2-endo2712",
@@ -7620,7 +7620,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/niti-rotary-file-system.jpg"
+  "image": "assets/products/endo/protaper-rotary-file.png"
  },
  {
   "id": "rotary-file-sx-endo2713",
@@ -7629,7 +7629,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/niti-rotary-file-system.jpg"
+  "image": "assets/products/endo/protaper-rotary-file.png"
  },
  {
   "id": "rotary-file-f1-endo2714",
@@ -7638,7 +7638,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/niti-rotary-file-system.jpg"
+  "image": "assets/products/endo/protaper-rotary-file.png"
  },
  {
   "id": "rotary-file-f2-endo2715",
@@ -7647,7 +7647,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/niti-rotary-file-system.jpg"
+  "image": "assets/products/endo/protaper-rotary-file.png"
  },
  {
   "id": "rotary-files-sx-fanta-endo272",
@@ -7656,7 +7656,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/niti-rotary-file-system.jpg"
+  "image": "assets/products/endo/protaper-rotary-file.png"
  },
  {
   "id": "rotary-one-file-single-system-fanta-endo273",
@@ -7665,7 +7665,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/niti-rotary-file-system.jpg"
+  "image": "assets/products/endo/protaper-rotary-file.png"
  },
  {
   "id": "rotary-path-file-fanta-endo274",
@@ -7674,7 +7674,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/niti-rotary-file-system.jpg"
+  "image": "assets/products/endo/protaper-rotary-file.png"
  },
  {
   "id": "rotary-pedo-gold-file-endo275",
@@ -7683,7 +7683,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/niti-rotary-file-system.jpg"
+  "image": "assets/products/endo/protaper-rotary-file.png"
  },
  {
   "id": "rotary-sx-to-f3-endo276",
@@ -7692,7 +7692,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Surgical / endodontic product.",
-  "image": "assets/products/endo/niti-rotary-file-system.jpg"
+  "image": "assets/products/endo/protaper-rotary-file.png"
  },
  {
   "id": "rotary-sx-to-f3-length-31mm-endo277",
@@ -7701,7 +7701,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Surgical / endodontic product.",
-  "image": "assets/products/endo/niti-rotary-file-system.jpg"
+  "image": "assets/products/endo/protaper-rotary-file.png"
  },
  {
   "id": "spray-endo-frost-endo278",
@@ -7962,7 +7962,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/niti-rotary-file-system.jpg"
+  "image": "assets/products/endo/protaper-rotary-file.png"
  },
  {
   "id": "rotary-files-25-04-25-nic-endo325",
@@ -7971,7 +7971,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/niti-rotary-file-system.jpg"
+  "image": "assets/products/endo/protaper-rotary-file.png"
  },
  {
   "id": "rotary-file-d-shaper-assorted-endo326",
@@ -7980,7 +7980,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/niti-rotary-file-system.jpg"
+  "image": "assets/products/endo/protaper-rotary-file.png"
  },
  {
   "id": "mta-meta-endo327",
@@ -8079,7 +8079,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/niti-rotary-file-system.jpg"
+  "image": "assets/products/endo/protaper-rotary-file.png"
  },
  {
   "id": "h-files-mani-35-21-endo346",
@@ -11292,7 +11292,7 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Dental instrument.",
-  "image": "assets/products/instrument/orthodontic-scissors-cutter.png"
+  "image": null
  },
  {
   "id": "scaler-wrench-inst004",
@@ -11364,7 +11364,7 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Dental instrument.",
-  "image": "assets/products/instrument/orthodontic-scissors-cutter.png"
+  "image": null
  },
  {
   "id": "curved-scissors-inst012",
@@ -11373,7 +11373,7 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Dental instrument.",
-  "image": "assets/products/instrument/orthodontic-scissors-cutter.png"
+  "image": null
  },
  {
   "id": "lagrange-curved-scissors-inst013",
@@ -11382,7 +11382,7 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Dental instrument.",
-  "image": "assets/products/instrument/orthodontic-scissors-cutter.png"
+  "image": null
  },
  {
   "id": "scissors-micro-inst014",
@@ -11391,7 +11391,7 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Dental instrument.",
-  "image": "assets/products/instrument/orthodontic-scissors-cutter.png"
+  "image": null
  },
  {
   "id": "curette-of-lucas-s-m-l-inst015",
@@ -11418,7 +11418,7 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Dental instrument.",
-  "image": "assets/products/instrument/wax-knife-lab.jpg"
+  "image": null
  },
  {
   "id": "adult-extraction-forceps-inst018",
@@ -11427,7 +11427,7 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Dental forceps / tweezers.",
-  "image": "assets/products/instrument/extraction-forceps-adult.jpg"
+  "image": "assets/products/instrument/rubber-dam-clamp-forceps.jpg"
  },
  {
   "id": "extraction-forceps-for-pedo-inst019",
@@ -11436,7 +11436,7 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Dental forceps / tweezers.",
-  "image": "assets/products/instrument/extraction-forceps-adult.jpg"
+  "image": "assets/products/instrument/rubber-dam-clamp-forceps.jpg"
  },
  {
   "id": "periotomes-inst020",
@@ -11508,7 +11508,7 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Endodontic obturation instrument.",
-  "image": "assets/products/instrument/endodontic-plugger.jpg"
+  "image": null
  },
  {
   "id": "rubber-cup-l-inst028",
@@ -11580,7 +11580,7 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Dental stone / plaster.",
-  "image": "assets/products/instrument/wax-knife-lab.jpg"
+  "image": null
  },
  {
   "id": "wax-knife-inst036",
@@ -11589,7 +11589,7 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Dental instrument.",
-  "image": "assets/products/instrument/wax-knife-lab.jpg"
+  "image": null
  },
  {
   "id": "luxator-inst037",
@@ -11706,7 +11706,7 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Dental instrument.",
-  "image": "assets/products/instrument/orthodontic-scissors-cutter.png"
+  "image": null
  },
  {
   "id": "pince-hemostatique-couder-inst050",
@@ -11724,7 +11724,7 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Dental instrument.",
-  "image": "assets/products/instrument/orthodontic-scissors-cutter.png"
+  "image": null
  },
  {
   "id": "pince-hemostatique-micro-castroviejo-inst052",
@@ -11787,7 +11787,7 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Endodontic obturation instrument.",
-  "image": "assets/products/instrument/endodontic-plugger.jpg"
+  "image": null
  },
  {
   "id": "porte-bib-ressort-inst059",
@@ -11958,7 +11958,7 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Endodontic obturation instrument.",
-  "image": "assets/products/instrument/endodontic-plugger.jpg"
+  "image": null
  },
  {
   "id": "spatule-a-composite-inst078",
@@ -12192,7 +12192,7 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Endodontic obturation instrument.",
-  "image": "assets/products/instrument/endodontic-plugger.jpg"
+  "image": null
  },
  {
   "id": "plugger-060-070-inst112",
@@ -12201,7 +12201,7 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Endodontic obturation instrument.",
-  "image": "assets/products/instrument/endodontic-plugger.jpg"
+  "image": null
  },
  {
   "id": "plugger-090-100-inst113",
@@ -12210,7 +12210,7 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Endodontic obturation instrument.",
-  "image": "assets/products/instrument/endodontic-plugger.jpg"
+  "image": null
  },
  {
   "id": "gauge-measuring-gauge-of-reduction-0-10-till-0-50-",
@@ -12264,7 +12264,7 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/instrument/bone-rongeur-surgical.jpg"
+  "image": null
  },
  {
   "id": "curette-universal-kohler-inst121",
@@ -13128,7 +13128,7 @@
   "category": "ortho",
   "categoryLabel": "Orthodontics",
   "description": "Orthodontic product.",
-  "image": "assets/products/ortho/orthodontic-buccal-tube-band.jpg"
+  "image": "assets/products/ortho/orthodontic-elastic-chain.jpg"
  },
  {
   "id": "myobrace-ort003",
@@ -13209,7 +13209,7 @@
   "category": "ortho",
   "categoryLabel": "Orthodontics",
   "description": "Orthodontic product.",
-  "image": "assets/products/ortho/orthodontic-buccal-tube-band.jpg"
+  "image": null
  },
  {
   "id": "ortho-niti-wires-ort012",
@@ -16152,7 +16152,7 @@
   "category": "uniform",
   "categoryLabel": "Uniform",
   "description": "Practice uniform / apparel.",
-  "image": "assets/products/uniform/dental-lab-coat-uniform.png"
+  "image": null
  },
  {
   "id": "whitening-office-fgm-blue-wh55",
@@ -16692,7 +16692,7 @@
   "category": "whitening",
   "categoryLabel": "Whitening",
   "description": "Teeth whitening product.",
-  "image": "assets/products/whitening/philips-zoom-whitening-kit.png"
+  "image": "assets/products/whitening/whitening-gel-syringe-in-office.jpg"
  },
  {
   "id": "agfa-x-ray-film-3-4cm-xray001",
