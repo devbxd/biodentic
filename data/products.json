@@ -459,7 +459,7 @@
   "category": "cementation",
   "categoryLabel": "Cementation",
   "description": "Dental cement.",
-  "image": null
+  "image": "assets/products/cementation/silane-ultradent.jpg"
  },
  {
   "id": "supercem",
@@ -477,7 +477,7 @@
   "category": "cementation",
   "categoryLabel": "Cementation",
   "description": "Dental cement.",
-  "image": null
+  "image": "assets/products/cementation/theracem.jpg"
  },
  {
   "id": "total-ceram-resin-cement",
@@ -4979,7 +4979,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Sterilization consumable / equipment.",
-  "image": null
+  "image": "assets/products/endo/caries-indicator-prevest.jpg"
  },
  {
   "id": "devitec",
@@ -6734,7 +6734,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Surgical / endodontic product.",
-  "image": null
+  "image": "assets/products/endo/test-a-froid.jpg"
  },
  {
   "id": "spreaders-15-white",
@@ -6867,7 +6867,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Surgical / endodontic product.",
-  "image": null
+  "image": "assets/products/endo/test-a-froid.jpg"
  },
  {
   "id": "theracal-bisco-by-pc",
@@ -7070,7 +7070,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Sterilization consumable / equipment.",
-  "image": null
+  "image": "assets/products/endo/caries-indicator-prevest.jpg"
  },
  {
   "id": "glyde-file-prep",
@@ -9921,7 +9921,7 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Dental instrument.",
-  "image": null
+  "image": "assets/products/instrument/angulated-osteotomes-pack-of-5.jpg"
  },
  {
   "id": "brush-silicon-0",
@@ -13081,7 +13081,7 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Polishing product.",
-  "image": null
+  "image": "assets/products/polishing/opalustre.jpg"
  },
  {
   "id": "clinpro-sealant-kit",
@@ -13351,7 +13351,7 @@
   "category": "restorative",
   "categoryLabel": "Restorative",
   "description": "Light-cure dental composite.",
-  "image": null
+  "image": "assets/products/restorative/composite-denfill.jpg"
  },
  {
   "id": "composite-diafil",
