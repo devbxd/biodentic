@@ -5087,7 +5087,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Surgical / endodontic product.",
-  "image": null
+  "image": "assets/products/endo/eugenol-100-ml.jpg"
  },
  {
   "id": "eugenol-100-ml-pd",
@@ -5096,7 +5096,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Surgical / endodontic product.",
-  "image": null
+  "image": "assets/products/endo/eugenol-100-ml.jpg"
  },
  {
   "id": "eugenol-30ml",
@@ -5105,7 +5105,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Surgical / endodontic product.",
-  "image": null
+  "image": "assets/products/endo/eugenol-100-ml.jpg"
  },
  {
   "id": "eugenol-k",
@@ -6939,7 +6939,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Surgical / endodontic product.",
-  "image": null
+  "image": "assets/products/endo/eugenol-100-ml.jpg"
  },
  {
   "id": "zinconol",
@@ -7097,7 +7097,7 @@
   "category": "etching",
   "categoryLabel": "Etching & Bonding",
   "description": "Dental etching gel.",
-  "image": null
+  "image": "assets/products/etching/etching-bottle-3m.jpg"
  },
  {
   "id": "ceramic-primer-3m",
@@ -7151,7 +7151,7 @@
   "category": "etching",
   "categoryLabel": "Etching & Bonding",
   "description": "Dental etching gel.",
-  "image": null
+  "image": "assets/products/etching/etching-bottle-3m.jpg"
  },
  {
   "id": "etching-charm-3x3g",
@@ -7268,7 +7268,7 @@
   "category": "etching",
   "categoryLabel": "Etching & Bonding",
   "description": "Dental etching gel.",
-  "image": null
+  "image": "assets/products/etching/etching-bottle-3m.jpg"
  },
  {
   "id": "etching-spident-5ml",
