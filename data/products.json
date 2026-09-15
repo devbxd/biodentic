@@ -8949,7 +8949,7 @@
   "category": "impression",
   "categoryLabel": "Impression Materials",
   "description": "Impression material.",
-  "image": null
+  "image": "assets/products/impression/silaxil-condensation.jpg"
  },
  {
   "id": "catalyst-bms",
@@ -9021,7 +9021,7 @@
   "category": "impression",
   "categoryLabel": "Impression Materials",
   "description": "Impression material.",
-  "image": null
+  "image": "assets/products/impression/condensation-speedex-coltene.jpg"
  },
  {
   "id": "duralay",
@@ -9318,7 +9318,7 @@
   "category": "impression",
   "categoryLabel": "Impression Materials",
   "description": "Impression material.",
-  "image": null
+  "image": "assets/products/impression/silaxil-condensation.jpg"
  },
  {
   "id": "lascod-putty-regular",
@@ -9327,7 +9327,7 @@
   "category": "impression",
   "categoryLabel": "Impression Materials",
   "description": "Impression material.",
-  "image": null
+  "image": "assets/products/impression/silaxil-condensation.jpg"
  },
  {
   "id": "light-bms",
@@ -9620,7 +9620,7 @@
   "category": "impression",
   "categoryLabel": "Impression Materials",
   "description": "Impression material.",
-  "image": null
+  "image": "assets/products/impression/silaxil-condensation.jpg"
  },
  {
   "id": "putty-spident-fast",
@@ -9692,7 +9692,7 @@
   "category": "impression",
   "categoryLabel": "Impression Materials",
   "description": "Impression material.",
-  "image": null
+  "image": "assets/products/impression/silaxil-condensation.jpg"
  },
  {
   "id": "silaxil-light",
@@ -13522,7 +13522,7 @@
   "category": "restorative",
   "categoryLabel": "Restorative",
   "description": "Restorative dental material.",
-  "image": null
+  "image": "assets/products/restorative/interlig-by-piece.png"
  },
  {
   "id": "medifill",
