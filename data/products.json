@@ -3547,31 +3547,18 @@
   "image": "assets/products/disposable/disposable-impression-tray-perforated.jpg"
  },
  {
-  "id": "impression-tray-lower-large-n2",
-  "name": "Impression Tray Lower Large N2",
+  "id": "impression-tray-lower",
+  "name": "Impression Tray Lower",
   "brand": "",
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Impression material.",
-  "image": "assets/products/disposable/disposable-impression-tray-perforated.jpg"
- },
- {
-  "id": "impression-tray-lower-medium-n4",
-  "name": "Impression Tray Lower Medium N4",
-  "brand": "",
-  "category": "disposable",
-  "categoryLabel": "Disposables",
-  "description": "Impression material.",
-  "image": "assets/products/disposable/disposable-impression-tray-perforated.jpg"
- },
- {
-  "id": "impression-tray-lower-small-n6",
-  "name": "Impression Tray Lower Small N6",
-  "brand": "",
-  "category": "disposable",
-  "categoryLabel": "Disposables",
-  "description": "Impression material.",
-  "image": "assets/products/disposable/disposable-impression-tray-perforated.jpg"
+  "image": "assets/products/disposable/disposable-impression-tray-perforated.jpg",
+  "variants": [
+   "Large N2",
+   "Medium N4",
+   "Small N6"
+  ]
  },
  {
   "id": "metal-impression-tray",
@@ -3605,15 +3592,6 @@
   "image": "assets/products/disposable/disposable-impression-tray-perforated.jpg"
  },
  {
-  "id": "impression-tray-upper-large-n1",
-  "name": "Impression Tray Upper Large N1",
-  "brand": "",
-  "category": "disposable",
-  "categoryLabel": "Disposables",
-  "description": "Impression material.",
-  "image": "assets/products/disposable/disposable-impression-tray-perforated.jpg"
- },
- {
   "id": "impression-tray-upper",
   "name": "Impression Tray Upper",
   "brand": "",
@@ -3622,27 +3600,12 @@
   "description": "Impression material.",
   "image": "assets/products/disposable/disposable-impression-tray-perforated.jpg",
   "variants": [
+   "Large N1",
    "Medium",
-   "Small"
+   "Medium N3",
+   "Small",
+   "Small N5"
   ]
- },
- {
-  "id": "impression-tray-upper-medium-n3",
-  "name": "Impression Tray Upper Medium N3",
-  "brand": "",
-  "category": "disposable",
-  "categoryLabel": "Disposables",
-  "description": "Impression material.",
-  "image": "assets/products/disposable/disposable-impression-tray-perforated.jpg"
- },
- {
-  "id": "impression-tray-upper-small-n5",
-  "name": "Impression Tray Upper Small N5",
-  "brand": "",
-  "category": "disposable",
-  "categoryLabel": "Disposables",
-  "description": "Impression material.",
-  "image": "assets/products/disposable/disposable-impression-tray-perforated.jpg"
  },
  {
   "id": "endo-measuring-ruler-angelus",
@@ -5639,49 +5602,20 @@
   "image": null
  },
  {
-  "id": "hfile-mani-15-40-31",
-  "name": "Hfile Mani 15-40/31",
+  "id": "hfile-mani",
+  "name": "Hfile Mani",
   "brand": "",
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Surgical / endodontic product.",
-  "image": null
- },
- {
-  "id": "hfile-mani-20-31-yellow",
-  "name": "Hfile Mani 20-31 Yellow",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Surgical / endodontic product.",
-  "image": null
- },
- {
-  "id": "hfile-mani-25-31",
-  "name": "Hfile Mani 25-31",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Surgical / endodontic product.",
-  "image": null
- },
- {
-  "id": "hfile-mani-8-21-gris",
-  "name": "Hfile Mani 8-21 Gris",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Surgical / endodontic product.",
-  "image": null
- },
- {
-  "id": "hfile-mani-8-25",
-  "name": "Hfile Mani 8-25",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Surgical / endodontic product.",
-  "image": null
+  "image": null,
+  "variants": [
+   "15-40/31",
+   "20-31 Yellow",
+   "25-31",
+   "8-21 Gris",
+   "8-25"
+  ]
  },
  {
   "id": "h-files-10-31-mani",
@@ -5693,175 +5627,49 @@
   "image": "assets/products/endo/h-files-mani.jpg"
  },
  {
-  "id": "h-files-mani-10-21",
-  "name": "H-files Mani 10-21",
+  "id": "h-files-mani",
+  "name": "H-files Mani",
   "brand": "",
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/h-files-mani.jpg"
+  "image": "assets/products/endo/h-files-mani.jpg",
+  "variants": [
+   "10-21",
+   "10-25",
+   "15-21",
+   "15-25 White",
+   "15-31 White",
+   "15-40/21",
+   "15-40/25",
+   "20-21",
+   "20-25 Yellow",
+   "25-21",
+   "25-25",
+   "30-21",
+   "30-25",
+   "30-31",
+   "35-21",
+   "35-25",
+   "35-31"
+  ]
  },
  {
-  "id": "h-files-mani-10-25",
-  "name": "H-files Mani 10-25",
+  "id": "h-files-vdeya",
+  "name": "H-files Vdeya",
   "brand": "",
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/h-files-mani.jpg"
- },
- {
-  "id": "h-files-mani-15-21",
-  "name": "H-files Mani 15-21",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/h-files-mani.jpg"
- },
- {
-  "id": "h-files-mani-15-25-white",
-  "name": "H-files Mani 15-25 White",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Teeth whitening product.",
-  "image": "assets/products/endo/h-files-mani.jpg"
- },
- {
-  "id": "h-files-mani-15-31-white",
-  "name": "H-files Mani 15-31 White",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Teeth whitening product.",
-  "image": "assets/products/endo/h-files-mani.jpg"
- },
- {
-  "id": "h-files-mani-15-40-21",
-  "name": "H-files Mani 15-40/21",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/h-files-mani.jpg"
- },
- {
-  "id": "h-files-mani-15-40-25",
-  "name": "H-files Mani 15-40/25",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/h-files-mani.jpg"
- },
- {
-  "id": "h-files-mani-20-21",
-  "name": "H-files Mani 20-21",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/h-files-mani.jpg"
- },
- {
-  "id": "h-files-mani-20-25-yellow",
-  "name": "H-files Mani 20-25 Yellow",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/h-files-mani.jpg"
- },
- {
-  "id": "h-files-mani-25-21",
-  "name": "H-files Mani 25-21",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/h-files-mani.jpg"
- },
- {
-  "id": "h-files-mani-25-25",
-  "name": "H-files Mani 25-25",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/h-files-mani.jpg"
- },
- {
-  "id": "h-files-mani-30-25",
-  "name": "H-files Mani 30-25",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/h-files-mani.jpg"
- },
- {
-  "id": "h-files-mani-35-25",
-  "name": "H-files Mani 35-25",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/h-files-mani.jpg"
- },
- {
-  "id": "h-files-vdeya-10-25-mauve",
-  "name": "H-files Vdeya 10-25 Mauve",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic hand/rotary file.",
-  "image": null
- },
- {
-  "id": "h-files-vdeya-15-25-white",
-  "name": "H-files Vdeya 15-25 White",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Teeth whitening product.",
-  "image": null
- },
- {
-  "id": "h-files-vdeya-20-25-yellow",
-  "name": "H-files Vdeya 20-25 Yellow",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic hand/rotary file.",
-  "image": null
- },
- {
-  "id": "h-files-vdeya-25-25-rouge",
-  "name": "H-files Vdeya 25-25 Rouge",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic hand/rotary file.",
-  "image": null
- },
- {
-  "id": "h-files-vdeya-30-25-blue",
-  "name": "H-files Vdeya 30-25 Blue",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic hand/rotary file.",
-  "image": null
- },
- {
-  "id": "h-files-vdeya-40-25",
-  "name": "H-files Vdeya 40-25",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic hand/rotary file.",
-  "image": null
+  "image": null,
+  "variants": [
+   "10-25 Mauve",
+   "15-25 White",
+   "20-25 Yellow",
+   "25-25 Rouge",
+   "30-25 Blue",
+   "40-25"
+  ]
  },
  {
   "id": "h-files-vdeya-assorted-15-40-25",
@@ -5963,211 +5771,38 @@
   "image": null
  },
  {
-  "id": "k-files-mani-08-21-gris",
-  "name": "K-files Mani 08-21 Gris",
+  "id": "k-files-mani",
+  "name": "K-files Mani",
   "brand": "",
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/mani-k-files-assorted.png"
- },
- {
-  "id": "k-files-mani-08-25-gris",
-  "name": "K-files Mani 08-25 Gris",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/mani-k-files-assorted.png"
- },
- {
-  "id": "k-files-mani-10-21-mauve",
-  "name": "K-files Mani 10-21 Mauve",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/mani-k-files-assorted.png"
- },
- {
-  "id": "k-files-mani-10-25-mauve",
-  "name": "K-files Mani 10-25 Mauve",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/mani-k-files-assorted.png"
- },
- {
-  "id": "k-files-mani-10-31-mauve",
-  "name": "K-files Mani 10-31 Mauve",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/mani-k-files-assorted.png"
- },
- {
-  "id": "k-files-mani-15-21-white",
-  "name": "K-files Mani 15-21 White",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Teeth whitening product.",
-  "image": "assets/products/endo/mani-k-files-assorted.png"
- },
- {
-  "id": "k-files-mani-15-25-white",
-  "name": "K-files Mani 15-25 White",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Teeth whitening product.",
-  "image": "assets/products/endo/mani-k-files-assorted.png"
- },
- {
-  "id": "k-files-mani-15-31-white",
-  "name": "K-files Mani 15-31 White",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Teeth whitening product.",
-  "image": "assets/products/endo/mani-k-files-assorted.png"
- },
- {
-  "id": "k-files-mani-20-21-yellow",
-  "name": "K-files Mani 20-21 Yellow",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/mani-k-files-assorted.png"
- },
- {
-  "id": "k-files-mani-20-25-yellow",
-  "name": "K-files Mani 20-25 Yellow",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/mani-k-files-assorted.png"
- },
- {
-  "id": "k-files-mani-20-31-yellow",
-  "name": "K-files Mani 20-31 Yellow",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/mani-k-files-assorted.png"
- },
- {
-  "id": "k-files-mani-25-21-rouge",
-  "name": "K-files Mani 25-21 Rouge",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/mani-k-files-assorted.png"
- },
- {
-  "id": "k-files-mani-25-25-rouge",
-  "name": "K-files Mani 25-25 Rouge",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/mani-k-files-assorted.png"
- },
- {
-  "id": "k-files-mani-25-31-rouge",
-  "name": "K-files Mani 25-31 Rouge",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/mani-k-files-assorted.png"
- },
- {
-  "id": "k-files-mani-30-21-blue",
-  "name": "K-files Mani 30-21 Blue",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/mani-k-files-assorted.png"
- },
- {
-  "id": "k-files-mani-30-25-blue",
-  "name": "K-files Mani 30-25 Blue",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/mani-k-files-assorted.png"
- },
- {
-  "id": "k-files-mani-30-31-blue",
-  "name": "K-files Mani 30-31 Blue",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/mani-k-files-assorted.png"
- },
- {
-  "id": "k-files-mani-35-21-green",
-  "name": "K-files Mani 35-21 Green",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/mani-k-files-assorted.png"
- },
- {
-  "id": "k-files-mani-35-25-green",
-  "name": "K-files Mani 35-25 Green",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/mani-k-files-assorted.png"
- },
- {
-  "id": "k-files-mani-35-31-green",
-  "name": "K-files Mani 35-31 Green",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/mani-k-files-assorted.png"
- },
- {
-  "id": "k-files-mani-40-21",
-  "name": "K-files Mani 40-21",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/mani-k-files-assorted.png"
- },
- {
-  "id": "k-files-mani-40-25-black",
-  "name": "K-files Mani 40-25 Black",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/mani-k-files-assorted.png"
- },
- {
-  "id": "k-files-mani-8-31-gris",
-  "name": "K-files Mani 8-31 Gris",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/mani-k-files-assorted.png"
+  "image": "assets/products/endo/mani-k-files-assorted.png",
+  "variants": [
+   "08-21 Gris",
+   "08-25 Gris",
+   "10-21 Mauve",
+   "10-25 Mauve",
+   "10-31 Mauve",
+   "15-21 White",
+   "15-25 White",
+   "15-31 White",
+   "20-21 Yellow",
+   "20-25 Yellow",
+   "20-31 Yellow",
+   "25-21 Rouge",
+   "25-25 Rouge",
+   "25-31 Rouge",
+   "30-21 Blue",
+   "30-25 Blue",
+   "30-31 Blue",
+   "35-21 Green",
+   "35-25 Green",
+   "35-31 Green",
+   "40-21",
+   "40-25 Black",
+   "8-31 Gris"
+  ]
  },
  {
   "id": "k-files-mani-assorted-45-80-31mm",
@@ -6179,170 +5814,51 @@
   "image": "assets/products/endo/mani-k-files-assorted.png"
  },
  {
-  "id": "k-files-mani-assorted-45-80-25",
-  "name": "K-files Mani Assorted 45-80/25",
+  "id": "k-files-mani-assorted",
+  "name": "K-files Mani Assorted",
   "brand": "",
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/mani-k-files-assorted.png"
+  "image": "assets/products/endo/mani-k-files-assorted.png",
+  "variants": [
+   "15-40/21",
+   "15-40/25",
+   "15-40/31",
+   "45-80/25"
+  ]
  },
  {
-  "id": "k-files-mani-assorted-15-40-21",
-  "name": "K-files Mani Assorted 15-40/21",
+  "id": "k-files-vdeya",
+  "name": "K-files Vdeya",
   "brand": "",
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/mani-k-files-assorted.png"
- },
- {
-  "id": "k-files-mani-assorted-15-40-25",
-  "name": "K-files Mani Assorted 15-40/25",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/mani-k-files-assorted.png"
- },
- {
-  "id": "k-files-mani-assorted-15-40-31",
-  "name": "K-files Mani Assorted 15-40/31",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/mani-k-files-assorted.png"
- },
- {
-  "id": "k-files-vdeya-06-25-pink",
-  "name": "K-files Vdeya 06-25 Pink",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic hand/rotary file.",
-  "image": null
- },
- {
-  "id": "k-files-vdeya-08-25-gris",
-  "name": "K-files Vdeya 08-25 Gris",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic hand/rotary file.",
-  "image": null
- },
- {
-  "id": "k-files-vdeya-10-21-mauve",
-  "name": "K-files Vdeya 10-21 Mauve",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic hand/rotary file.",
-  "image": null
- },
- {
-  "id": "k-files-vdeya-10-25-mauve",
-  "name": "K-files Vdeya 10-25 Mauve",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic hand/rotary file.",
-  "image": null
- },
- {
-  "id": "k-files-vdeya-10-31-mauve",
-  "name": "K-files Vdeya 10-31 Mauve",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic hand/rotary file.",
-  "image": null
- },
- {
-  "id": "k-files-vdeya-15-21-white",
-  "name": "K-files Vdeya 15-21 White",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Teeth whitening product.",
-  "image": null
- },
- {
-  "id": "k-files-vdeya-15-25-white",
-  "name": "K-files Vdeya 15-25 White",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Teeth whitening product.",
-  "image": null
- },
- {
-  "id": "k-files-vdeya-15-31-white",
-  "name": "K-files Vdeya 15-31 White",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Teeth whitening product.",
-  "image": null
+  "image": null,
+  "variants": [
+   "06-25 Pink",
+   "08-25 Gris",
+   "10-21 Mauve",
+   "10-25 Mauve",
+   "10-31 Mauve",
+   "15-21 White",
+   "15-25 White",
+   "15-31 White",
+   "20-25 Yellow",
+   "20-31 Yellow",
+   "25-25 Rouge",
+   "25-31",
+   "30-25 Blue",
+   "35-25",
+   "40-25",
+   "8-21",
+   "8-31"
+  ]
  },
  {
   "id": "k-files-vdeya-15-40-assorted-25",
   "name": "K-files Vdeya 15-40 Assorted 25",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic hand/rotary file.",
-  "image": null
- },
- {
-  "id": "k-files-vdeya-20-25-yellow",
-  "name": "K-files Vdeya 20-25 Yellow",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic hand/rotary file.",
-  "image": null
- },
- {
-  "id": "k-files-vdeya-20-31-yellow",
-  "name": "K-files Vdeya 20-31 Yellow",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic hand/rotary file.",
-  "image": null
- },
- {
-  "id": "k-files-vdeya-25-25-rouge",
-  "name": "K-files Vdeya 25-25 Rouge",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic hand/rotary file.",
-  "image": null
- },
- {
-  "id": "k-files-vdeya-30-25-blue",
-  "name": "K-files Vdeya 30-25 Blue",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic hand/rotary file.",
-  "image": null
- },
- {
-  "id": "k-files-vdeya-35-25",
-  "name": "K-files Vdeya 35-25",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic hand/rotary file.",
-  "image": null
- },
- {
-  "id": "k-files-vdeya-40-25",
-  "name": "K-files Vdeya 40-25",
   "brand": "",
   "category": "endo",
   "categoryLabel": "Endodontics",
@@ -6990,13 +6506,27 @@
   "image": "assets/products/endo/protaper-rotary-file.png"
  },
  {
-  "id": "rotary-files-10-04-mauve",
-  "name": "Rotary Files 10-04 Mauve",
+  "id": "rotary-files",
+  "name": "Rotary Files",
   "brand": "",
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Endodontic hand/rotary file.",
-  "image": null
+  "image": null,
+  "variants": [
+   "10-04 Mauve",
+   "15-04/31",
+   "15-06 White",
+   "20-04 Yellow",
+   "20-04/31",
+   "20-06 Yellow",
+   "25-04 Rouge",
+   "25-04/31",
+   "25-06 Rouge",
+   "30-04 Blue",
+   "35-04 Green",
+   "40-06 Black"
+  ]
  },
  {
   "id": "rotary-files-10-06-mauve-gold",
@@ -7017,89 +6547,8 @@
   "image": null
  },
  {
-  "id": "rotary-files-15-04-31",
-  "name": "Rotary Files 15-04/31",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic hand/rotary file.",
-  "image": null
- },
- {
-  "id": "rotary-files-15-06-white",
-  "name": "Rotary Files 15-06 White",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Teeth whitening product.",
-  "image": null
- },
- {
-  "id": "rotary-files-20-04-yellow",
-  "name": "Rotary Files 20-04 Yellow",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic hand/rotary file.",
-  "image": null
- },
- {
-  "id": "rotary-files-20-04-31",
-  "name": "Rotary Files 20-04/31",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic hand/rotary file.",
-  "image": null
- },
- {
-  "id": "rotary-files-20-06-yellow",
-  "name": "Rotary Files 20-06 Yellow",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic hand/rotary file.",
-  "image": null
- },
- {
-  "id": "rotary-files-25-04-rouge",
-  "name": "Rotary Files 25-04 Rouge",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic hand/rotary file.",
-  "image": null
- },
- {
-  "id": "rotary-files-25-04-31",
-  "name": "Rotary Files 25-04/31",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic hand/rotary file.",
-  "image": null
- },
- {
-  "id": "rotary-files-25-06-rouge",
-  "name": "Rotary Files 25-06 Rouge",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic hand/rotary file.",
-  "image": null
- },
- {
   "id": "rotary-files-25-06-rouge-blue",
   "name": "Rotary Files 25-06 Rouge (Blue)",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic hand/rotary file.",
-  "image": null
- },
- {
-  "id": "rotary-files-30-04-blue",
-  "name": "Rotary Files 30-04 Blue",
   "brand": "",
   "category": "endo",
   "categoryLabel": "Endodontics",
@@ -7116,26 +6565,8 @@
   "image": null
  },
  {
-  "id": "rotary-files-35-04-green",
-  "name": "Rotary Files 35-04 Green",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic hand/rotary file.",
-  "image": null
- },
- {
   "id": "rotary-files-35-06-green-gold",
   "name": "Rotary Files 35-06 Green Gold",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic hand/rotary file.",
-  "image": null
- },
- {
-  "id": "rotary-files-40-06-black",
-  "name": "Rotary Files 40-06 Black",
   "brand": "",
   "category": "endo",
   "categoryLabel": "Endodontics",
@@ -7161,26 +6592,23 @@
   "image": null
  },
  {
-  "id": "rotary-files-fanta-20-04",
-  "name": "Rotary Files Fanta 20-04",
+  "id": "rotary-files-fanta",
+  "name": "Rotary Files Fanta",
   "brand": "",
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Endodontic hand/rotary file.",
-  "image": null
+  "image": null,
+  "variants": [
+   "20-04",
+   "25-04",
+   "S1",
+   "S2"
+  ]
  },
  {
   "id": "rotary-files-fanta-20-06-31mm",
   "name": "Rotary Files Fanta 20-06 31mm",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic hand/rotary file.",
-  "image": null
- },
- {
-  "id": "rotary-files-fanta-25-04",
-  "name": "Rotary Files Fanta 25-04",
   "brand": "",
   "category": "endo",
   "categoryLabel": "Endodontics",
@@ -7206,40 +6634,17 @@
   "image": null
  },
  {
-  "id": "rotary-files-fanta-s1",
-  "name": "Rotary Files Fanta S1",
+  "id": "rotary-file",
+  "name": "Rotary File",
   "brand": "",
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Endodontic hand/rotary file.",
-  "image": null
- },
- {
-  "id": "rotary-files-fanta-s2",
-  "name": "Rotary Files Fanta S2",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic hand/rotary file.",
-  "image": null
- },
- {
-  "id": "rotary-file-s1",
-  "name": "Rotary File S1",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/protaper-rotary-file.png"
- },
- {
-  "id": "rotary-file-s2",
-  "name": "Rotary File S2",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/protaper-rotary-file.png"
+  "image": "assets/products/endo/protaper-rotary-file.png",
+  "variants": [
+   "S1",
+   "S2"
+  ]
  },
  {
   "id": "rotary-file-sx",
@@ -7582,15 +6987,6 @@
   "image": null
  },
  {
-  "id": "h-files-mani-30-31",
-  "name": "H-files Mani 30-31",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/h-files-mani.jpg"
- },
- {
   "id": "gutta-solvent-omega",
   "name": "GUTTA Solvent OMEGA",
   "brand": "",
@@ -7598,33 +6994,6 @@
   "categoryLabel": "Endodontics",
   "description": "Endodontic obturation material.",
   "image": "assets/products/endo/gutta-percha-solvent-eucalyptol.jpg"
- },
- {
-  "id": "k-files-vdeya-25-31",
-  "name": "K-files Vdeya 25-31",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic hand/rotary file.",
-  "image": null
- },
- {
-  "id": "k-files-vdeya-8-31",
-  "name": "K-files Vdeya 8-31",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic hand/rotary file.",
-  "image": null
- },
- {
-  "id": "k-files-vdeya-8-21",
-  "name": "K-files Vdeya 8-21",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic hand/rotary file.",
-  "image": null
  },
  {
   "id": "mta-rekita",
@@ -7654,15 +7023,6 @@
   "image": null
  },
  {
-  "id": "h-files-mani-30-21",
-  "name": "H-files Mani 30-21",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/h-files-mani.jpg"
- },
- {
   "id": "rotary-file-25-06-25-nic",
   "name": "Rotary File 25-06/25 NIC",
   "brand": "",
@@ -7670,24 +7030,6 @@
   "categoryLabel": "Endodontics",
   "description": "Endodontic hand/rotary file.",
   "image": "assets/products/endo/protaper-rotary-file.png"
- },
- {
-  "id": "h-files-mani-35-21",
-  "name": "H-files Mani 35-21",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/h-files-mani.jpg"
- },
- {
-  "id": "h-files-mani-35-31",
-  "name": "H-files Mani 35-31",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/h-files-mani.jpg"
  },
  {
   "id": "smart-cord",
@@ -10051,197 +9393,40 @@
   "image": "assets/products/impression/metal-screw-post.jpg"
  },
  {
-  "id": "metal-screw-post-240",
-  "name": "Metal Screw Post 240",
+  "id": "metal-screw-post-2",
+  "name": "Metal Screw Post",
   "brand": "",
   "category": "impression",
   "categoryLabel": "Impression Materials",
   "description": "Fiber post system.",
-  "image": "assets/products/impression/metal-screw-post.jpg"
+  "image": "assets/products/impression/metal-screw-post.jpg",
+  "variants": [
+   "240",
+   "L1",
+   "L2",
+   "L3",
+   "L4",
+   "L5",
+   "L6",
+   "M1",
+   "M2",
+   "M3",
+   "M4",
+   "M5",
+   "M6",
+   "S1",
+   "S2",
+   "S3",
+   "S4",
+   "S5",
+   "S6",
+   "Xl5",
+   "Xl6"
+  ]
  },
  {
   "id": "metal-screw-post-key",
   "name": "Metal Screw Post Key",
-  "brand": "",
-  "category": "impression",
-  "categoryLabel": "Impression Materials",
-  "description": "Fiber post system.",
-  "image": "assets/products/impression/metal-screw-post.jpg"
- },
- {
-  "id": "metal-screw-post-l1",
-  "name": "Metal Screw Post L1",
-  "brand": "",
-  "category": "impression",
-  "categoryLabel": "Impression Materials",
-  "description": "Fiber post system.",
-  "image": "assets/products/impression/metal-screw-post.jpg"
- },
- {
-  "id": "metal-screw-post-l2",
-  "name": "Metal Screw Post L2",
-  "brand": "",
-  "category": "impression",
-  "categoryLabel": "Impression Materials",
-  "description": "Fiber post system.",
-  "image": "assets/products/impression/metal-screw-post.jpg"
- },
- {
-  "id": "metal-screw-post-l3",
-  "name": "Metal Screw Post L3",
-  "brand": "",
-  "category": "impression",
-  "categoryLabel": "Impression Materials",
-  "description": "Fiber post system.",
-  "image": "assets/products/impression/metal-screw-post.jpg"
- },
- {
-  "id": "metal-screw-post-l4",
-  "name": "Metal Screw Post L4",
-  "brand": "",
-  "category": "impression",
-  "categoryLabel": "Impression Materials",
-  "description": "Fiber post system.",
-  "image": "assets/products/impression/metal-screw-post.jpg"
- },
- {
-  "id": "metal-screw-post-l5",
-  "name": "Metal Screw Post L5",
-  "brand": "",
-  "category": "impression",
-  "categoryLabel": "Impression Materials",
-  "description": "Fiber post system.",
-  "image": "assets/products/impression/metal-screw-post.jpg"
- },
- {
-  "id": "metal-screw-post-l6",
-  "name": "Metal Screw Post L6",
-  "brand": "",
-  "category": "impression",
-  "categoryLabel": "Impression Materials",
-  "description": "Fiber post system.",
-  "image": "assets/products/impression/metal-screw-post.jpg"
- },
- {
-  "id": "metal-screw-post-m1",
-  "name": "Metal Screw Post M1",
-  "brand": "",
-  "category": "impression",
-  "categoryLabel": "Impression Materials",
-  "description": "Fiber post system.",
-  "image": "assets/products/impression/metal-screw-post.jpg"
- },
- {
-  "id": "metal-screw-post-m2",
-  "name": "Metal Screw Post M2",
-  "brand": "",
-  "category": "impression",
-  "categoryLabel": "Impression Materials",
-  "description": "Fiber post system.",
-  "image": "assets/products/impression/metal-screw-post.jpg"
- },
- {
-  "id": "metal-screw-post-m3",
-  "name": "Metal Screw Post M3",
-  "brand": "",
-  "category": "impression",
-  "categoryLabel": "Impression Materials",
-  "description": "Fiber post system.",
-  "image": "assets/products/impression/metal-screw-post.jpg"
- },
- {
-  "id": "metal-screw-post-m4",
-  "name": "Metal Screw Post M4",
-  "brand": "",
-  "category": "impression",
-  "categoryLabel": "Impression Materials",
-  "description": "Fiber post system.",
-  "image": "assets/products/impression/metal-screw-post.jpg"
- },
- {
-  "id": "metal-screw-post-m5",
-  "name": "Metal Screw Post M5",
-  "brand": "",
-  "category": "impression",
-  "categoryLabel": "Impression Materials",
-  "description": "Fiber post system.",
-  "image": "assets/products/impression/metal-screw-post.jpg"
- },
- {
-  "id": "metal-screw-post-m6",
-  "name": "Metal Screw Post M6",
-  "brand": "",
-  "category": "impression",
-  "categoryLabel": "Impression Materials",
-  "description": "Fiber post system.",
-  "image": "assets/products/impression/metal-screw-post.jpg"
- },
- {
-  "id": "metal-screw-post-s1",
-  "name": "Metal Screw Post S1",
-  "brand": "",
-  "category": "impression",
-  "categoryLabel": "Impression Materials",
-  "description": "Fiber post system.",
-  "image": "assets/products/impression/metal-screw-post.jpg"
- },
- {
-  "id": "metal-screw-post-s2",
-  "name": "Metal Screw Post S2",
-  "brand": "",
-  "category": "impression",
-  "categoryLabel": "Impression Materials",
-  "description": "Fiber post system.",
-  "image": "assets/products/impression/metal-screw-post.jpg"
- },
- {
-  "id": "metal-screw-post-s3",
-  "name": "Metal Screw Post S3",
-  "brand": "",
-  "category": "impression",
-  "categoryLabel": "Impression Materials",
-  "description": "Fiber post system.",
-  "image": "assets/products/impression/metal-screw-post.jpg"
- },
- {
-  "id": "metal-screw-post-s4",
-  "name": "Metal Screw Post S4",
-  "brand": "",
-  "category": "impression",
-  "categoryLabel": "Impression Materials",
-  "description": "Fiber post system.",
-  "image": "assets/products/impression/metal-screw-post.jpg"
- },
- {
-  "id": "metal-screw-post-s5",
-  "name": "Metal Screw Post S5",
-  "brand": "",
-  "category": "impression",
-  "categoryLabel": "Impression Materials",
-  "description": "Fiber post system.",
-  "image": "assets/products/impression/metal-screw-post.jpg"
- },
- {
-  "id": "metal-screw-post-s6",
-  "name": "Metal Screw Post S6",
-  "brand": "",
-  "category": "impression",
-  "categoryLabel": "Impression Materials",
-  "description": "Fiber post system.",
-  "image": "assets/products/impression/metal-screw-post.jpg"
- },
- {
-  "id": "metal-screw-post-xl5",
-  "name": "Metal Screw Post Xl5",
-  "brand": "",
-  "category": "impression",
-  "categoryLabel": "Impression Materials",
-  "description": "Fiber post system.",
-  "image": "assets/products/impression/metal-screw-post.jpg"
- },
- {
-  "id": "metal-screw-post-xl6",
-  "name": "Metal Screw Post Xl6",
   "brand": "",
   "category": "impression",
   "categoryLabel": "Impression Materials",
@@ -11095,26 +10280,21 @@
   "image": "assets/products/instrument/rubber-mouth-prop.png"
  },
  {
-  "id": "mouth-prop-black",
-  "name": "Mouth Prop Black",
+  "id": "mouth-prop",
+  "name": "Mouth Prop",
   "brand": "",
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Dental instrument.",
-  "image": "assets/products/instrument/rubber-mouth-prop.png"
+  "image": "assets/products/instrument/rubber-mouth-prop.png",
+  "variants": [
+   "Black",
+   "Mauve"
+  ]
  },
  {
   "id": "mouth-prop-caoutchouc-green",
   "name": "Mouth Prop Caoutchouc Green",
-  "brand": "",
-  "category": "instrument",
-  "categoryLabel": "Instruments",
-  "description": "Dental instrument.",
-  "image": "assets/products/instrument/rubber-mouth-prop.png"
- },
- {
-  "id": "mouth-prop-mauve",
-  "name": "Mouth Prop Mauve",
   "brand": "",
   "category": "instrument",
   "categoryLabel": "Instruments",
@@ -11212,26 +10392,21 @@
   "image": null
  },
  {
-  "id": "brush-composite-l8",
-  "name": "Brush Composite L8",
+  "id": "brush-composite",
+  "name": "Brush Composite",
   "brand": "",
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Light-cure dental composite.",
-  "image": null
+  "image": null,
+  "variants": [
+   "000",
+   "L8"
+  ]
  },
  {
   "id": "brush-composite-f2",
   "name": "Brush Composite F2",
-  "brand": "",
-  "category": "instrument",
-  "categoryLabel": "Instruments",
-  "description": "Light-cure dental composite.",
-  "image": null
- },
- {
-  "id": "brush-composite-000",
-  "name": "Brush Composite 000",
   "brand": "",
   "category": "instrument",
   "categoryLabel": "Instruments",
