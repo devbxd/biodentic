@@ -6,7 +6,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Examination / surgical glove.",
-  "image": "assets/products/disposable/gloves-powder-free-mint-small.jpg"
+  "image": null
  },
  {
   "id": "polishing-spirale-box-of-6-ardent",
@@ -1043,7 +1043,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Sterilization consumable / equipment.",
-  "image": "assets/products/disposable/sterile-paper-drape-sheet.jpg"
+  "image": null
  },
  {
   "id": "sterile-drape-75-100",
@@ -1052,7 +1052,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Sterilization consumable / equipment.",
-  "image": "assets/products/disposable/sterile-paper-drape-sheet.jpg"
+  "image": null
  },
  {
   "id": "sterile-drape-75x90",
@@ -1061,7 +1061,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Sterilization consumable / equipment.",
-  "image": "assets/products/disposable/sterile-paper-drape-sheet.jpg"
+  "image": null
  },
  {
   "id": "sterile-drape-perforated",
@@ -1070,7 +1070,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Sterilization consumable / equipment.",
-  "image": "assets/products/disposable/sterile-paper-drape-sheet.jpg"
+  "image": null
  },
  {
   "id": "clamp",
@@ -1279,7 +1279,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Impression material.",
-  "image": "assets/products/disposable/disposable-impression-tray-perforated.jpg",
+  "image": null,
   "variants": [
    "Large",
    "Small"
@@ -1346,7 +1346,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Matrix system for restorations.",
-  "image": "assets/products/disposable/tor-vm-matrix-band.jpg"
+  "image": "assets/products/disposable/matrix-band-kerr.jpg"
  },
  {
   "id": "easy-matrix-band-green-like-kerr-m",
@@ -1355,7 +1355,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Matrix system for restorations.",
-  "image": "assets/products/disposable/tor-vm-matrix-band.jpg"
+  "image": "assets/products/disposable/matrix-band-kerr.jpg"
  },
  {
   "id": "endo-irrigation",
@@ -1659,7 +1659,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Examination / surgical glove.",
-  "image": "assets/products/disposable/gloves-nitrile-titan-xs.png",
+  "image": null,
   "variants": [
    "Large",
    "Medium",
@@ -1695,7 +1695,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Examination / surgical glove.",
-  "image": "assets/products/disposable/gloves-powder-free-mint-small.jpg"
+  "image": null
  },
  {
   "id": "gloves-medium-powdered-nitrex",
@@ -1722,7 +1722,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Examination / surgical glove.",
-  "image": "assets/products/disposable/gloves-powder-free-mint-small.jpg",
+  "image": null,
   "variants": [
    "Large",
    "Medium",
@@ -1746,7 +1746,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Examination / surgical glove.",
-  "image": "assets/products/disposable/gloves-nitrile-titan-xs.png",
+  "image": null,
   "variants": [
    "Medium",
    "SMALL"
@@ -1759,7 +1759,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Examination / surgical glove.",
-  "image": "assets/products/disposable/gloves-nitrile-titan-xs.png"
+  "image": null
  },
  {
   "id": "gloves-nitril-dark-blue",
@@ -1768,7 +1768,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Examination / surgical glove.",
-  "image": "assets/products/disposable/gloves-nitrile-titan-xs.png",
+  "image": null,
   "variants": [
    "Medium",
    "Small"
@@ -1794,7 +1794,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Examination / surgical glove.",
-  "image": "assets/products/disposable/gloves-nitrile-titan-xs.png"
+  "image": null
  },
  {
   "id": "gloves-nitril-xs-natural-touch",
@@ -1803,7 +1803,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Examination / surgical glove.",
-  "image": "assets/products/disposable/gloves-nitrile-titan-xs.png"
+  "image": null
  },
  {
   "id": "gloves-nitril-xs-cranberry",
@@ -1812,7 +1812,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Examination / surgical glove.",
-  "image": "assets/products/disposable/gloves-nitrile-titan-xs.png"
+  "image": null
  },
  {
   "id": "gloves-nitrile-xl",
@@ -1830,7 +1830,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Examination / surgical glove.",
-  "image": "assets/products/disposable/gloves-nitrile-titan-xs.png",
+  "image": null,
   "variants": [
    "Medium",
    "Small"
@@ -1843,7 +1843,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Examination / surgical glove.",
-  "image": "assets/products/disposable/gloves-powder-free-mint-small.jpg"
+  "image": null
  },
  {
   "id": "gloves-powder-free-cranberry",
@@ -1852,7 +1852,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Examination / surgical glove.",
-  "image": "assets/products/disposable/gloves-powder-free-mint-small.jpg",
+  "image": null,
   "variants": [
    "Medium",
    "Small"
@@ -1865,7 +1865,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Examination / surgical glove.",
-  "image": "assets/products/disposable/gloves-powder-free-mint-small.jpg",
+  "image": "assets/products/disposable/gloves-powder-free-king.jpg",
   "variants": [
    "Medium",
    "Small"
@@ -1878,7 +1878,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Examination / surgical glove.",
-  "image": "assets/products/disposable/gloves-powder-free-mint-small.jpg"
+  "image": null
  },
  {
   "id": "gloves-powder-free-large-fifty-five",
@@ -1887,7 +1887,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Examination / surgical glove.",
-  "image": "assets/products/disposable/gloves-powder-free-mint-small.jpg"
+  "image": null
  },
  {
   "id": "gloves-powder-free-large-hmc",
@@ -1896,7 +1896,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Examination / surgical glove.",
-  "image": "assets/products/disposable/gloves-powder-free-mint-small.jpg"
+  "image": null
  },
  {
   "id": "gloves-powder-free-large-trama",
@@ -1905,7 +1905,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Examination / surgical glove.",
-  "image": "assets/products/disposable/gloves-powder-free-mint-small.jpg"
+  "image": null
  },
  {
   "id": "gloves-powder-free-2",
@@ -1914,7 +1914,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Examination / surgical glove.",
-  "image": "assets/products/disposable/gloves-powder-free-mint-small.jpg",
+  "image": null,
   "variants": [
    "Medium",
    "Small"
@@ -1927,7 +1927,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Examination / surgical glove.",
-  "image": "assets/products/disposable/gloves-powder-free-mint-small.jpg"
+  "image": null
  },
  {
   "id": "gloves-powder-free-small-fifty-five",
@@ -1936,7 +1936,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Examination / surgical glove.",
-  "image": "assets/products/disposable/gloves-powder-free-mint-small.jpg"
+  "image": null
  },
  {
   "id": "gloves-powder-free-small-first",
@@ -1945,7 +1945,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Examination / surgical glove.",
-  "image": "assets/products/disposable/gloves-powder-free-mint-small.jpg"
+  "image": null
  },
  {
   "id": "gloves-powder-free-small-hmc",
@@ -1954,7 +1954,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Examination / surgical glove.",
-  "image": "assets/products/disposable/gloves-powder-free-mint-small.jpg"
+  "image": null
  },
  {
   "id": "gloves-powder-free-small-maxter",
@@ -1963,7 +1963,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Examination / surgical glove.",
-  "image": "assets/products/disposable/gloves-powder-free-mint-small.jpg"
+  "image": null
  },
  {
   "id": "gloves-powder-free-xs-natural-touch",
@@ -1972,7 +1972,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Examination / surgical glove.",
-  "image": "assets/products/disposable/gloves-powder-free-mint-small.jpg"
+  "image": null
  },
  {
   "id": "gloves-powder-free-xs-king0",
@@ -1981,7 +1981,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Examination / surgical glove.",
-  "image": "assets/products/disposable/gloves-powder-free-mint-small.jpg"
+  "image": null
  },
  {
   "id": "gloves-powdered-cranberry",
@@ -2085,7 +2085,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Examination / surgical glove.",
-  "image": "assets/products/disposable/gloves-powder-free-mint-small.jpg"
+  "image": null
  },
  {
   "id": "gloves-powdered-xs-hmc",
@@ -2112,7 +2112,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Examination / surgical glove.",
-  "image": "assets/products/disposable/gloves-powder-free-mint-small.jpg"
+  "image": null
  },
  {
   "id": "gloves-small-powdered-nitrex",
@@ -2157,7 +2157,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Examination / surgical glove.",
-  "image": "assets/products/disposable/gloves-powder-free-mint-small.jpg"
+  "image": null
  },
  {
   "id": "gluma-desensitizer-5ml",
@@ -2427,7 +2427,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Matrix system for restorations.",
-  "image": "assets/products/disposable/tor-vm-matrix-band.jpg"
+  "image": null
  },
  {
   "id": "matrix-band-0-03x6mm",
@@ -2436,7 +2436,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Matrix system for restorations.",
-  "image": "assets/products/disposable/tor-vm-matrix-band.jpg"
+  "image": null
  },
  {
   "id": "matrix-band-0-03x7mm",
@@ -2445,7 +2445,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Matrix system for restorations.",
-  "image": "assets/products/disposable/tor-vm-matrix-band.jpg"
+  "image": null
  },
  {
   "id": "matrix-band-0-05-5mm-3",
@@ -2454,7 +2454,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Matrix system for restorations.",
-  "image": "assets/products/disposable/tor-vm-matrix-band.jpg"
+  "image": null
  },
  {
   "id": "matrix-band-0-05-7mm-3",
@@ -2463,7 +2463,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Matrix system for restorations.",
-  "image": "assets/products/disposable/tor-vm-matrix-band.jpg"
+  "image": null
  },
  {
   "id": "matrix-band",
@@ -2472,7 +2472,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Matrix system for restorations.",
-  "image": "assets/products/disposable/tor-vm-matrix-band.jpg",
+  "image": null,
   "variants": [
    "1098",
    "1384",
@@ -2488,7 +2488,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Matrix system for restorations.",
-  "image": "assets/products/disposable/tor-vm-matrix-band.jpg"
+  "image": null
  },
  {
   "id": "matrix-band-1387a-unica-spoon-s",
@@ -2497,7 +2497,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Matrix system for restorations.",
-  "image": "assets/products/disposable/tor-vm-matrix-band.jpg"
+  "image": null
  },
  {
   "id": "matrix-band-1388-unica-spoon-l",
@@ -2506,7 +2506,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Matrix system for restorations.",
-  "image": "assets/products/disposable/tor-vm-matrix-band.jpg"
+  "image": null
  },
  {
   "id": "matrix-band-1523-unica",
@@ -2515,7 +2515,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Matrix system for restorations.",
-  "image": "assets/products/disposable/tor-vm-matrix-band.jpg"
+  "image": null
  },
  {
   "id": "matrix-band-1533-unica",
@@ -2524,7 +2524,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Matrix system for restorations.",
-  "image": "assets/products/disposable/tor-vm-matrix-band.jpg"
+  "image": null
  },
  {
   "id": "matrix-band-1888-assorted-unica-and-spoon",
@@ -2533,7 +2533,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Matrix system for restorations.",
-  "image": "assets/products/disposable/tor-vm-matrix-band.jpg"
+  "image": null
  },
  {
   "id": "matrix-band-anatomique-5714-pack-of-50-polydentia",
@@ -2542,7 +2542,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Matrix system for restorations.",
-  "image": "assets/products/disposable/tor-vm-matrix-band.jpg"
+  "image": "assets/products/disposable/matrix-band-anatomique-polydentia.webp"
  },
  {
   "id": "matrix-band-anatomique-5715-pack-of-50-polydentia",
@@ -2551,7 +2551,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Matrix system for restorations.",
-  "image": "assets/products/disposable/tor-vm-matrix-band.jpg"
+  "image": "assets/products/disposable/matrix-band-anatomique-polydentia.webp"
  },
  {
   "id": "matrix-band-anatomique-5718-pack-of-50-polydentia",
@@ -2560,7 +2560,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Matrix system for restorations.",
-  "image": "assets/products/disposable/tor-vm-matrix-band.jpg"
+  "image": "assets/products/disposable/matrix-band-anatomique-polydentia.webp"
  },
  {
   "id": "matrix-band-anatomique-5921-pack-of-50-polydentia",
@@ -2569,7 +2569,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Matrix system for restorations.",
-  "image": "assets/products/disposable/tor-vm-matrix-band.jpg"
+  "image": "assets/products/disposable/matrix-band-anatomique-polydentia.webp"
  },
  {
   "id": "matrix-band-anatomique-6104-pack-of-12-t",
@@ -2578,7 +2578,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Matrix system for restorations.",
-  "image": "assets/products/disposable/tor-vm-matrix-band.jpg"
+  "image": "assets/products/disposable/matrix-band-anatomique-polydentia.webp"
  },
  {
   "id": "matrix-band-anatomique-6104-pack-of-50-polydentia",
@@ -2587,7 +2587,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Matrix system for restorations.",
-  "image": "assets/products/disposable/tor-vm-matrix-band.jpg"
+  "image": "assets/products/disposable/matrix-band-anatomique-polydentia.webp"
  },
  {
   "id": "matrix-band-anatomique-6104-pack-of-50-t",
@@ -2596,7 +2596,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Matrix system for restorations.",
-  "image": "assets/products/disposable/tor-vm-matrix-band.jpg"
+  "image": "assets/products/disposable/matrix-band-anatomique-polydentia.webp"
  },
  {
   "id": "matrix-band-anterieur-tr1912-box-64-pcs",
@@ -2605,7 +2605,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Matrix system for restorations.",
-  "image": "assets/products/disposable/tor-vm-matrix-band.jpg"
+  "image": null
  },
  {
   "id": "matrix-band-becht-tr",
@@ -2614,7 +2614,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Matrix system for restorations.",
-  "image": "assets/products/disposable/tor-vm-matrix-band.jpg"
+  "image": null
  },
  {
   "id": "matrix-band-box",
@@ -2623,7 +2623,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Matrix system for restorations.",
-  "image": "assets/products/disposable/tor-vm-matrix-band.jpg",
+  "image": null,
   "variants": [
    "100",
    "36"
@@ -2645,7 +2645,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Matrix system for restorations.",
-  "image": "assets/products/disposable/tor-vm-matrix-band.jpg"
+  "image": null
  },
  {
   "id": "matrix-band-kerr",
@@ -2654,7 +2654,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Matrix system for restorations.",
-  "image": "assets/products/disposable/tor-vm-matrix-band.jpg"
+  "image": "assets/products/disposable/matrix-band-kerr.jpg"
  },
  {
   "id": "matrix-band-kerr-kit",
@@ -2663,7 +2663,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Matrix system for restorations.",
-  "image": "assets/products/disposable/tor-vm-matrix-band.jpg"
+  "image": "assets/products/disposable/matrix-band-kerr.jpg"
  },
  {
   "id": "matrix-band-kerr-handle",
@@ -2672,7 +2672,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Matrix system for restorations.",
-  "image": "assets/products/disposable/tor-vm-matrix-band.jpg"
+  "image": "assets/products/disposable/matrix-band-kerr.jpg"
  },
  {
   "id": "matrix-band-posterieur-tr",
@@ -2681,7 +2681,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Matrix system for restorations.",
-  "image": "assets/products/disposable/tor-vm-matrix-band.jpg"
+  "image": null
  },
  {
   "id": "matrix-band-ring",
@@ -2690,7 +2690,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Matrix system for restorations.",
-  "image": "assets/products/disposable/tor-vm-matrix-band.jpg"
+  "image": null
  },
  {
   "id": "matrix-band-tr",
@@ -2699,7 +2699,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Matrix system for restorations.",
-  "image": "assets/products/disposable/tor-vm-matrix-band.jpg"
+  "image": null
  },
  {
   "id": "matrix-band-tr-roll",
@@ -2708,7 +2708,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Matrix system for restorations.",
-  "image": "assets/products/disposable/tor-vm-matrix-band.jpg"
+  "image": null
  },
  {
   "id": "matrices-rogin-box-of-100",
@@ -3517,7 +3517,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Impression material.",
-  "image": "assets/products/disposable/disposable-impression-tray-perforated.jpg"
+  "image": null
  },
  {
   "id": "impression-tray-anterior-lavender",
@@ -3526,7 +3526,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Impression material.",
-  "image": "assets/products/disposable/disposable-impression-tray-perforated.jpg"
+  "image": null
  },
  {
   "id": "edentulous-impression-tray-sachet-of-6",
@@ -3535,7 +3535,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Impression material.",
-  "image": "assets/products/disposable/disposable-impression-tray-perforated.jpg"
+  "image": null
  },
  {
   "id": "impression-tray-left-and-right",
@@ -3544,7 +3544,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Impression material.",
-  "image": "assets/products/disposable/disposable-impression-tray-perforated.jpg"
+  "image": null
  },
  {
   "id": "impression-tray-lower",
@@ -3553,7 +3553,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Impression material.",
-  "image": "assets/products/disposable/disposable-impression-tray-perforated.jpg",
+  "image": null,
   "variants": [
    "Large N2",
    "Medium N4",
@@ -3567,7 +3567,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Impression material.",
-  "image": "assets/products/disposable/disposable-impression-tray-perforated.jpg",
+  "image": null,
   "variants": [
    "Box Of 6",
    "Box Of 8"
@@ -3580,7 +3580,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Impression material.",
-  "image": "assets/products/disposable/disposable-impression-tray-perforated.jpg"
+  "image": null
  },
  {
   "id": "impression-tray-sachet",
@@ -3589,7 +3589,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Impression material.",
-  "image": "assets/products/disposable/disposable-impression-tray-perforated.jpg"
+  "image": null
  },
  {
   "id": "impression-tray-upper",
@@ -3598,7 +3598,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Impression material.",
-  "image": "assets/products/disposable/disposable-impression-tray-perforated.jpg",
+  "image": null,
   "variants": [
    "Large N1",
    "Medium",
@@ -4080,7 +4080,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Glass ionomer material.",
-  "image": "assets/products/disposable/surgical-scalpel-blade-box.jpg",
+  "image": null,
   "variants": [
    "12",
    "15"
@@ -4093,7 +4093,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Glass ionomer material.",
-  "image": "assets/products/disposable/surgical-scalpel-blade-box.jpg"
+  "image": null
  },
  {
   "id": "surgical-gloves-6-alliance",
@@ -4102,7 +4102,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Glass ionomer material.",
-  "image": "assets/products/disposable/surgical-gloves-size-6.jpg"
+  "image": null
  },
  {
   "id": "surgical-gloves-6-5-alliance",
@@ -4111,7 +4111,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Glass ionomer material.",
-  "image": "assets/products/disposable/surgical-gloves-size-6.jpg"
+  "image": null
  },
  {
   "id": "surgical-gloves-7-alliance",
@@ -4120,7 +4120,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Glass ionomer material.",
-  "image": "assets/products/disposable/surgical-gloves-size-6.jpg"
+  "image": null
  },
  {
   "id": "surgical-gloves-7-5-alliance",
@@ -4129,7 +4129,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Glass ionomer material.",
-  "image": "assets/products/disposable/surgical-gloves-size-6.jpg"
+  "image": null
  },
  {
   "id": "surgical-gloves-7-5-other-brand-powder-free",
@@ -4138,7 +4138,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Glass ionomer material.",
-  "image": "assets/products/disposable/gloves-powder-free-mint-small.jpg"
+  "image": null
  },
  {
   "id": "surgical-gloves-7-5-powdered",
@@ -4147,7 +4147,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Glass ionomer material.",
-  "image": "assets/products/disposable/surgical-gloves-size-6.jpg"
+  "image": null
  },
  {
   "id": "surgical-gloves",
@@ -4156,7 +4156,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Glass ionomer material.",
-  "image": "assets/products/disposable/surgical-gloves-size-6.jpg",
+  "image": null,
   "variants": [
    "8.0",
    "8.5"
@@ -4169,7 +4169,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Glass ionomer material.",
-  "image": "assets/products/disposable/surgical-gloves-size-6.jpg"
+  "image": null
  },
  {
   "id": "surgical-gloves-powdered-n7",
@@ -4178,7 +4178,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Glass ionomer material.",
-  "image": "assets/products/disposable/surgical-gloves-size-6.jpg"
+  "image": null
  },
  {
   "id": "suture-3-0-absorbable-falcon",
@@ -4462,7 +4462,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Matrix system for restorations.",
-  "image": "assets/products/disposable/tor-vm-matrix-band.jpg"
+  "image": "assets/products/disposable/matrix-band-anatomique-polydentia.webp"
  },
  {
   "id": "suture-3-0-nylon-falcon",
@@ -4570,7 +4570,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Examination / surgical glove.",
-  "image": "assets/products/disposable/gloves-powder-free-mint-small.jpg",
+  "image": null,
   "variants": [
    "Medium",
    "Small"
@@ -4592,7 +4592,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Examination / surgical glove.",
-  "image": "assets/products/disposable/gloves-powder-free-mint-small.jpg"
+  "image": null
  },
  {
   "id": "stand-composite-12-holes-four-storages",
@@ -4655,7 +4655,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Matrix system for restorations.",
-  "image": "assets/products/disposable/tor-vm-matrix-band.jpg"
+  "image": null
  },
  {
   "id": "self-sealing-pouch-190-330",
@@ -4691,7 +4691,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Impression material.",
-  "image": "assets/products/disposable/disposable-impression-tray-perforated.jpg"
+  "image": null
  },
  {
   "id": "y",
@@ -4772,7 +4772,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Impression material.",
-  "image": "assets/products/disposable/disposable-impression-tray-perforated.jpg"
+  "image": null
  },
  {
   "id": "infusion-set",
@@ -6467,7 +6467,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/protaper-rotary-file.png"
+  "image": null
  },
  {
   "id": "rotary-file-reprise-d1-d2-d3-nic-o",
@@ -6476,7 +6476,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/protaper-rotary-file.png"
+  "image": null
  },
  {
   "id": "rotary-file-s2-nic-u",
@@ -6485,7 +6485,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/protaper-rotary-file.png"
+  "image": null
  },
  {
   "id": "rotary-file-silver-04-25-with-opener-4files-byekoul",
@@ -6494,7 +6494,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/protaper-rotary-file.png"
+  "image": null
  },
  {
   "id": "rotary-file-silver-06-25-with-opener-4files-byekoul",
@@ -6503,7 +6503,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/protaper-rotary-file.png"
+  "image": null
  },
  {
   "id": "rotary-files",
@@ -6598,7 +6598,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Endodontic hand/rotary file.",
-  "image": null,
+  "image": "assets/products/endo/rotary-path-file-fanta.png",
   "variants": [
    "20-04",
    "25-04",
@@ -6613,7 +6613,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Endodontic hand/rotary file.",
-  "image": null
+  "image": "assets/products/endo/rotary-path-file-fanta.png"
  },
  {
   "id": "rotary-files-fanta-f1",
@@ -6622,7 +6622,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Endodontic hand/rotary file.",
-  "image": null
+  "image": "assets/products/endo/rotary-path-file-fanta.png"
  },
  {
   "id": "rotary-files-fanta-f2",
@@ -6631,7 +6631,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Endodontic hand/rotary file.",
-  "image": null
+  "image": "assets/products/endo/rotary-path-file-fanta.png"
  },
  {
   "id": "rotary-file",
@@ -6640,7 +6640,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/protaper-rotary-file.png",
+  "image": null,
   "variants": [
    "S1",
    "S2"
@@ -6653,7 +6653,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/protaper-rotary-file.png"
+  "image": null
  },
  {
   "id": "rotary-file-f1",
@@ -6662,7 +6662,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/protaper-rotary-file.png"
+  "image": null
  },
  {
   "id": "rotary-file-f2",
@@ -6671,7 +6671,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/protaper-rotary-file.png"
+  "image": null
  },
  {
   "id": "rotary-files-sx-fanta",
@@ -6680,7 +6680,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Endodontic hand/rotary file.",
-  "image": null
+  "image": "assets/products/endo/rotary-path-file-fanta.png"
  },
  {
   "id": "rotary-one-file-single-system-fanta",
@@ -6689,7 +6689,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/protaper-rotary-file.png"
+  "image": "assets/products/endo/rotary-path-file-fanta.png"
  },
  {
   "id": "rotary-path-file-fanta",
@@ -6698,7 +6698,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/protaper-rotary-file.png"
+  "image": "assets/products/endo/rotary-path-file-fanta.png"
  },
  {
   "id": "rotary-pedo-gold-file",
@@ -6707,7 +6707,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/protaper-rotary-file.png"
+  "image": null
  },
  {
   "id": "rotary-sx-to-f3",
@@ -6975,7 +6975,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/protaper-rotary-file.png"
+  "image": null
  },
  {
   "id": "mta-meta",
@@ -7029,7 +7029,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/protaper-rotary-file.png"
+  "image": null
  },
  {
   "id": "smart-cord",
@@ -7593,7 +7593,7 @@
   "category": "fraise",
   "categoryLabel": "Burs",
   "description": "Rotary dental bur.",
-  "image": "assets/products/fraise/carbide-bur-round-fg.png"
+  "image": null
  },
  {
   "id": "carbide-bur-hp-58-prima",
@@ -7602,7 +7602,7 @@
   "category": "fraise",
   "categoryLabel": "Burs",
   "description": "Rotary dental bur.",
-  "image": "assets/products/fraise/carbide-bur-round-fg.png"
+  "image": null
  },
  {
   "id": "endo-z-prima",
@@ -7728,7 +7728,7 @@
   "category": "fraise",
   "categoryLabel": "Burs",
   "description": "Rotary dental bur.",
-  "image": "assets/products/fraise/carbide-bur-round-fg.png"
+  "image": null
  },
  {
   "id": "bur-acryl-carbide-handpiece-low-q",
@@ -7737,7 +7737,7 @@
   "category": "fraise",
   "categoryLabel": "Burs",
   "description": "Rotary dental bur.",
-  "image": "assets/products/fraise/carbide-bur-round-fg.png"
+  "image": null
  },
  {
   "id": "bur-aq12b-korean",
@@ -7818,7 +7818,7 @@
   "category": "fraise",
   "categoryLabel": "Burs",
   "description": "Rotary dental bur.",
-  "image": "assets/products/fraise/carbide-bur-round-fg.png"
+  "image": null
  },
  {
   "id": "bur-carbide-330-silver-short",
@@ -7827,7 +7827,7 @@
   "category": "fraise",
   "categoryLabel": "Burs",
   "description": "Rotary dental bur.",
-  "image": "assets/products/fraise/carbide-bur-round-fg.png"
+  "image": null
  },
  {
   "id": "bur-carbide-boule-contre-angle",
@@ -7836,7 +7836,7 @@
   "category": "fraise",
   "categoryLabel": "Burs",
   "description": "Rotary dental bur.",
-  "image": "assets/products/fraise/carbide-bur-round-fg.png"
+  "image": null
  },
  {
   "id": "bur-carbide-gold-like-330",
@@ -7845,7 +7845,7 @@
   "category": "fraise",
   "categoryLabel": "Burs",
   "description": "Rotary dental bur.",
-  "image": "assets/products/fraise/carbide-bur-round-fg.png"
+  "image": null
  },
  {
   "id": "bur-carbide-n5-mani",
@@ -7854,7 +7854,7 @@
   "category": "fraise",
   "categoryLabel": "Burs",
   "description": "Rotary dental bur.",
-  "image": "assets/products/fraise/carbide-bur-round-fg.png"
+  "image": null
  },
  {
   "id": "bur-ce15ef",
@@ -7899,7 +7899,7 @@
   "category": "fraise",
   "categoryLabel": "Burs",
   "description": "Rotary dental bur.",
-  "image": "assets/products/fraise/diamond-bur-fg-assorted.jpg"
+  "image": null
  },
  {
   "id": "bur-diaswiss",
@@ -8576,7 +8576,7 @@
   "category": "fraise",
   "categoryLabel": "Burs",
   "description": "Rotary dental bur.",
-  "image": "assets/products/fraise/carbide-bur-round-fg.png"
+  "image": null
  },
  {
   "id": "bur-v-pro",
@@ -9894,7 +9894,7 @@
   "category": "impression",
   "categoryLabel": "Impression Materials",
   "description": "Dental bonding / adhesive agent.",
-  "image": "assets/products/impression/vps-tray-adhesive.png"
+  "image": null
  },
  {
   "id": "putty-han",
@@ -11752,7 +11752,7 @@
   "category": "ortho",
   "categoryLabel": "Orthodontics",
   "description": "Orthodontic product.",
-  "image": "assets/products/ortho/orthodontic-molar-band-tube.jpg"
+  "image": null
  },
  {
   "id": "myobrace",
@@ -14142,7 +14142,7 @@
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Acrylic dental material.",
-  "image": "assets/products/temporary/self-cure-acrylic-denture-powder.webp"
+  "image": null
  },
  {
   "id": "acrylic-powder-b1-nictone-grd",
@@ -14151,7 +14151,7 @@
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Acrylic dental material.",
-  "image": "assets/products/temporary/self-cure-acrylic-denture-powder.webp"
+  "image": null
  },
  {
   "id": "acrylic-powder-nictone",
@@ -14160,7 +14160,7 @@
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Acrylic dental material.",
-  "image": "assets/products/temporary/self-cure-acrylic-denture-powder.webp"
+  "image": null
  },
  {
   "id": "acrylic-powder-nictone-2",
@@ -14169,7 +14169,7 @@
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Acrylic dental material.",
-  "image": "assets/products/temporary/self-cure-acrylic-denture-powder.webp",
+  "image": null,
   "variants": [
    "A1",
    "A2",
@@ -14445,7 +14445,7 @@
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Acrylic dental material.",
-  "image": "assets/products/temporary/self-cure-acrylic-denture-powder.webp",
+  "image": null,
   "variants": [
    "A1",
    "A2",
@@ -14473,7 +14473,7 @@
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Acrylic dental material.",
-  "image": "assets/products/temporary/self-cure-acrylic-denture-powder.webp"
+  "image": null
  },
  {
   "id": "hantemp-a1",
@@ -14581,7 +14581,7 @@
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Teeth whitening product.",
-  "image": "assets/products/temporary/self-cure-acrylic-denture-powder.webp"
+  "image": null
  },
  {
   "id": "medical-gown",
