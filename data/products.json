@@ -11842,7 +11842,7 @@
   "category": "ortho",
   "categoryLabel": "Orthodontics",
   "description": "Orthodontic product.",
-  "image": null
+  "image": "assets/products/ortho/ortho-niti-wires.jpg"
  },
  {
   "id": "orthodontic-plier-mathieu",
@@ -11869,7 +11869,7 @@
   "category": "ortho",
   "categoryLabel": "Orthodontics",
   "description": "Dental bonding / adhesive agent.",
-  "image": null
+  "image": "assets/products/ortho/transbond-xt.jpg"
  },
  {
   "id": "transbond-xt-gc",
@@ -11878,7 +11878,7 @@
   "category": "ortho",
   "categoryLabel": "Orthodontics",
   "description": "Dental bonding / adhesive agent.",
-  "image": null
+  "image": "assets/products/ortho/transbond-xt.jpg"
  },
  {
   "id": "ortho-coin-of-rotation",
@@ -13099,7 +13099,7 @@
   "category": "prevention",
   "categoryLabel": "Prevention",
   "description": "Preventive care product.",
-  "image": null
+  "image": "assets/products/prevention/clinpro-varnish.png"
  },
  {
   "id": "gc-mi-paste-plus",
@@ -15148,7 +15148,7 @@
   "category": "xray",
   "categoryLabel": "X-Ray",
   "description": "X-ray / imaging product.",
-  "image": null
+  "image": "assets/products/misc/agfa-x-ray-film-3-4cm.jpg"
  },
  {
   "id": "dental-film-eco30",
@@ -15250,7 +15250,7 @@
   "category": "xray",
   "categoryLabel": "X-Ray",
   "description": "X-ray / imaging product.",
-  "image": null
+  "image": "assets/products/misc/agfa-x-ray-film-3-4cm.jpg"
  },
  {
   "id": "developer-2",
