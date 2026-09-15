@@ -576,7 +576,7 @@
   "category": "crowns",
   "categoryLabel": "Crowns",
   "description": "Dental crown.",
-  "image": null
+  "image": "assets/products/crowns/permanent-crown-kit.png"
  },
  {
   "id": "articulating-paper-becht",
@@ -15286,7 +15286,7 @@
   "category": "crowns",
   "categoryLabel": "Crowns",
   "description": "Dental crown.",
-  "image": null
+  "image": "assets/products/crowns/permanent-crown-kit.png"
  },
  {
   "id": "stainless-steel-crown-by-piece",
