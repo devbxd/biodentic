@@ -9688,7 +9688,7 @@
   "category": "impression",
   "categoryLabel": "Impression Materials",
   "description": "Impression material.",
-  "image": null
+  "image": "assets/products/impression/duralay-powder-liquid-set.jpg"
  },
  {
   "id": "duralay-liquid",
@@ -9697,7 +9697,7 @@
   "category": "impression",
   "categoryLabel": "Impression Materials",
   "description": "Impression material.",
-  "image": null
+  "image": "assets/products/impression/duralay-powder-liquid-set.jpg"
  },
  {
   "id": "duralay-nucleo",
@@ -9706,7 +9706,7 @@
   "category": "impression",
   "categoryLabel": "Impression Materials",
   "description": "Impression material.",
-  "image": null
+  "image": "assets/products/impression/duralay-powder-liquid-set.jpg"
  },
  {
   "id": "futar-silicone-transparent-medium-box-of-2",
@@ -9814,7 +9814,7 @@
   "category": "impression",
   "categoryLabel": "Impression Materials",
   "description": "Impression material.",
-  "image": null
+  "image": "assets/products/impression/duralay-powder-liquid-set.jpg"
  },
  {
   "id": "herculite-kit",
@@ -11884,7 +11884,7 @@
   "category": "machine",
   "categoryLabel": "Equipment",
   "description": "Dental practice equipment.",
-  "image": null
+  "image": "assets/products/machine/dental-chair-unit.jpg"
  },
  {
   "id": "detartreur",
@@ -12010,7 +12010,7 @@
   "category": "machine",
   "categoryLabel": "Equipment",
   "description": "Dental practice equipment.",
-  "image": null
+  "image": "assets/products/machine/dental-loupe-magnifying-light.jpg"
  },
  {
   "id": "machine-a-gouttiere",
@@ -12577,7 +12577,7 @@
   "category": "ortho",
   "categoryLabel": "Orthodontics",
   "description": "Orthodontic product.",
-  "image": "assets/products/ortho/orthodontic-elastic-chain.jpg"
+  "image": "assets/products/ortho/orthodontic-molar-band-tube.jpg"
  },
  {
   "id": "myobrace",
@@ -12586,7 +12586,7 @@
   "category": "ortho",
   "categoryLabel": "Orthodontics",
   "description": "Orthodontic product.",
-  "image": null
+  "image": "assets/products/ortho/myobrace-orthodontic-trainer.jpg"
  },
  {
   "id": "ortho-bracket-ch",
@@ -12658,7 +12658,7 @@
   "category": "ortho",
   "categoryLabel": "Orthodontics",
   "description": "Orthodontic product.",
-  "image": null
+  "image": "assets/products/ortho/orthodontic-molar-band-tube.jpg"
  },
  {
   "id": "ortho-niti-wires",
@@ -12685,7 +12685,7 @@
   "category": "ortho",
   "categoryLabel": "Orthodontics",
   "description": "Orthodontic product.",
-  "image": null
+  "image": "assets/products/ortho/myobrace-orthodontic-trainer.jpg"
  },
  {
   "id": "transbond-xt",
