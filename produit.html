@@ -141,6 +141,11 @@
         <p class="pd-brand" id="pd-brand" hidden></p>
         <p class="pd-desc" id="pd-desc"></p>
 
+        <div class="pd-variants" id="pd-variants" hidden>
+          <span class="pd-variants-label">Available options</span>
+          <div class="pd-variants-list" id="pd-variants-list"></div>
+        </div>
+
         <div class="pd-quote-line">
           <span class="quote">Pricing on request</span>
         </div>
@@ -287,6 +292,26 @@
     }
 
     document.getElementById('pd-desc').textContent = product.description || '';
+
+    var variantsWrap = document.getElementById('pd-variants');
+    var variantsList = document.getElementById('pd-variants-list');
+    variantsList.innerHTML = '';
+    if (product.variants && product.variants.length) {
+      product.variants.forEach(function (v, i) {
+        var chip = document.createElement('button');
+        chip.type = 'button';
+        chip.className = 'pd-variant-chip' + (i === 0 ? ' active' : '');
+        chip.textContent = v;
+        chip.addEventListener('click', function () {
+          variantsList.querySelectorAll('.pd-variant-chip').forEach(function (c) { c.classList.remove('active'); });
+          chip.classList.add('active');
+        });
+        variantsList.appendChild(chip);
+      });
+      variantsWrap.hidden = false;
+    } else {
+      variantsWrap.hidden = true;
+    }
 
     var quoteBtn = document.getElementById('pd-quote-btn');
     quoteBtn.href = 'contact.html?product=' + encodeURIComponent(product.name);

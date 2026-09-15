@@ -490,6 +490,16 @@ footer.site-footer{background:var(--navy-900);color:#a9bcd0;padding:70px 0 0}
 .pd-info h1{font-size:clamp(26px,3.2vw,38px);margin-top:2px}
 .pd-brand{font-family:var(--font-head);font-size:13.5px;font-weight:600;color:var(--ink-faint);letter-spacing:.02em;margin-top:-6px}
 .pd-desc{font-size:15.5px;color:var(--ink-soft);line-height:1.75;max-width:56ch}
+.pd-variants{display:flex;flex-direction:column;gap:10px;margin-top:2px}
+.pd-variants-label{font-family:var(--font-head);font-size:12.5px;font-weight:700;letter-spacing:.05em;text-transform:uppercase;color:var(--ink-faint)}
+.pd-variants-list{display:flex;flex-wrap:wrap;gap:8px}
+.pd-variant-chip{
+  border:1.5px solid var(--border);background:#fff;border-radius:999px;
+  padding:8px 16px;font-family:var(--font-head);font-size:13.5px;font-weight:600;
+  color:var(--ink-soft);cursor:pointer;transition:.15s ease;
+}
+.pd-variant-chip:hover{border-color:var(--teal-500);color:var(--teal-500)}
+.pd-variant-chip.active{background:var(--brand-gradient);border-color:transparent;color:#fff}
 .pd-quote-line .quote{font-size:13px;color:var(--ink-faint);font-weight:500}
 .pd-actions{display:flex;gap:14px;flex-wrap:wrap;margin-top:8px}
 .pd-actions .btn{min-height:48px;padding-left:28px;padding-right:28px}
