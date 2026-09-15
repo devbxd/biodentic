@@ -413,19 +413,6 @@
   "image": null
  },
  {
-  "id": "saliva-ejector",
-  "name": "Saliva Ejector",
-  "brand": "",
-  "category": "disposable",
-  "categoryLabel": "Disposables",
-  "description": "Disposable saliva ejector.",
-  "image": "assets/products/disposable/euronda-monoart-saliva-ejector.jpg",
-  "variants": [
-   "(Elephant)",
-   "Green"
-  ]
- },
- {
   "id": "bib-3-ply",
   "name": "Bib 3-ply",
   "brand": "",
@@ -577,7 +564,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Cotton / gauze consumable.",
-  "image": null
+  "image": "assets/products/disposable/gauze-box.jpg"
  },
  {
   "id": "mouthguard-box-piece",
@@ -2766,32 +2753,6 @@
   "image": null
  },
  {
-  "id": "saliva-ejector-chirurgical",
-  "name": "Saliva Ejector Chirurgical",
-  "brand": "",
-  "category": "disposable",
-  "categoryLabel": "Disposables",
-  "description": "Teeth whitening product.",
-  "image": "assets/products/disposable/euronda-monoart-saliva-ejector.jpg",
-  "variants": [
-   "Green",
-   "White"
-  ]
- },
- {
-  "id": "saliva-ejector-euronda",
-  "name": "Saliva Ejector Euronda",
-  "brand": "",
-  "category": "disposable",
-  "categoryLabel": "Disposables",
-  "description": "Disposable saliva ejector.",
-  "image": "assets/products/disposable/euronda-monoart-saliva-ejector.jpg",
-  "variants": [
-   "Blue",
-   "Transparent"
-  ]
- },
- {
   "id": "saliva-ejector-kids-angelus",
   "name": "Saliva Ejector KIDS Angelus",
   "brand": "",
@@ -2941,22 +2902,6 @@
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
   "image": null
- },
- {
-  "id": "autoclave-roll",
-  "name": "Autoclave Roll",
-  "brand": "",
-  "category": "disposable",
-  "categoryLabel": "Disposables",
-  "description": "Sterilization consumable / equipment.",
-  "image": "assets/products/disposable/autoclave-sterilization-pouch-roll.png",
-  "variants": [
-   "15cm",
-   "20cm",
-   "25cm",
-   "30cm",
-   "7.5cm"
-  ]
  },
  {
   "id": "rouleau-cotton",
@@ -4447,43 +4392,6 @@
   ]
  },
  {
-  "id": "h-files-10-31-mani",
-  "name": "H-files 10-31 Mani",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/h-files-mani.jpg"
- },
- {
-  "id": "h-files-mani",
-  "name": "H-files Mani",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/h-files-mani.jpg",
-  "variants": [
-   "10-21",
-   "10-25",
-   "15-21",
-   "15-25 White",
-   "15-31 White",
-   "15-40/21",
-   "15-40/25",
-   "20-21",
-   "20-25 Yellow",
-   "25-21",
-   "25-25",
-   "30-21",
-   "30-25",
-   "30-31",
-   "35-21",
-   "35-25",
-   "35-31"
-  ]
- },
- {
   "id": "h-files-vdeya",
   "name": "H-files Vdeya",
   "brand": "",
@@ -4553,64 +4461,6 @@
   "categoryLabel": "Endodontics",
   "description": "Endodontic hand/rotary file.",
   "image": null
- },
- {
-  "id": "k-files-mani",
-  "name": "K-files Mani",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/mani-k-files-assorted.png",
-  "variants": [
-   "08-21 Gris",
-   "08-25 Gris",
-   "10-21 Mauve",
-   "10-25 Mauve",
-   "10-31 Mauve",
-   "15-21 White",
-   "15-25 White",
-   "15-31 White",
-   "20-21 Yellow",
-   "20-25 Yellow",
-   "20-31 Yellow",
-   "25-21 Rouge",
-   "25-25 Rouge",
-   "25-31 Rouge",
-   "30-21 Blue",
-   "30-25 Blue",
-   "30-31 Blue",
-   "35-21 Green",
-   "35-25 Green",
-   "35-31 Green",
-   "40-21",
-   "40-25 Black",
-   "8-31 Gris"
-  ]
- },
- {
-  "id": "k-files-mani-assorted-45-80-31mm",
-  "name": "K-files Mani Assorted 45-80 31mm",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/mani-k-files-assorted.png"
- },
- {
-  "id": "k-files-mani-assorted",
-  "name": "K-files Mani Assorted",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/mani-k-files-assorted.png",
-  "variants": [
-   "15-40/21",
-   "15-40/25",
-   "15-40/31",
-   "45-80/25"
-  ]
  },
  {
   "id": "k-files-vdeya",
@@ -5261,21 +5111,6 @@
   "categoryLabel": "Endodontics",
   "description": "Endodontic hand/rotary file.",
   "image": null
- },
- {
-  "id": "rotary-files-fanta",
-  "name": "Rotary Files Fanta",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/rotary-path-file-fanta.png",
-  "variants": [
-   "20-04",
-   "25-04",
-   "S1",
-   "S2"
-  ]
  },
  {
   "id": "rotary-file",
@@ -7138,19 +6973,6 @@
   "image": null
  },
  {
-  "id": "3m-express-xt-putty",
-  "name": "3M Express Xt Putty",
-  "brand": "",
-  "category": "impression",
-  "categoryLabel": "Impression Materials",
-  "description": "Impression material.",
-  "image": "assets/products/impression/3m-express-penta-putty.jpg",
-  "variants": [
-   "36972",
-   "36973"
-  ]
- },
- {
   "id": "3m-impregum-light-cartridge-31751-by-piece",
   "name": "3M Impregum Light Cartridge 31751 By Piece",
   "brand": "",
@@ -7608,38 +7430,6 @@
   "categoryLabel": "Impression Materials",
   "description": "Impression material.",
   "image": null
- },
- {
-  "id": "metal-screw-post-2",
-  "name": "Metal Screw Post",
-  "brand": "",
-  "category": "impression",
-  "categoryLabel": "Impression Materials",
-  "description": "Fiber post system.",
-  "image": "assets/products/impression/metal-screw-post.jpg",
-  "variants": [
-   "240",
-   "L1",
-   "L2",
-   "L3",
-   "L4",
-   "L5",
-   "L6",
-   "M1",
-   "M2",
-   "M3",
-   "M4",
-   "M5",
-   "M6",
-   "S1",
-   "S2",
-   "S3",
-   "S4",
-   "S5",
-   "S6",
-   "Xl5",
-   "Xl6"
-  ]
  },
  {
   "id": "metapaste",
@@ -8333,19 +8123,6 @@
   "categoryLabel": "Instruments",
   "description": "Dental examination mirror.",
   "image": null
- },
- {
-  "id": "mouth-prop",
-  "name": "Mouth Prop",
-  "brand": "",
-  "category": "instrument",
-  "categoryLabel": "Instruments",
-  "description": "Dental instrument.",
-  "image": "assets/products/instrument/rubber-mouth-prop.png",
-  "variants": [
-   "Black",
-   "Mauve"
-  ]
  },
  {
   "id": "perio-probe-millimetre",
@@ -10423,28 +10200,6 @@
   "image": null
  },
  {
-  "id": "disc-soflex-tor-1620",
-  "name": "Disc Soflex Tor 1620",
-  "brand": "",
-  "category": "polishing",
-  "categoryLabel": "Polishing",
-  "description": "Polishing product.",
-  "image": "assets/products/polishing/3m-sof-lex-disc-refill.jpg"
- },
- {
-  "id": "soflex-ch-refill",
-  "name": "Soflex Ch Refill",
-  "brand": "",
-  "category": "polishing",
-  "categoryLabel": "Polishing",
-  "description": "Polishing product.",
-  "image": "assets/products/polishing/3m-sof-lex-disc-refill.jpg",
-  "variants": [
-   "1630",
-   "1631"
-  ]
- },
- {
   "id": "soflex-coarse-meisinger",
   "name": "Soflex Coarse Meisinger",
   "brand": "",
@@ -10452,21 +10207,6 @@
   "categoryLabel": "Polishing",
   "description": "Polishing product.",
   "image": null
- },
- {
-  "id": "super-snap-shofu",
-  "name": "Super Snap Shofu",
-  "brand": "",
-  "category": "polishing",
-  "categoryLabel": "Polishing",
-  "description": "Polishing product.",
-  "image": "assets/products/polishing/shofu-super-snap-single-disc.jpg",
-  "variants": [
-   "501",
-   "508",
-   "519",
-   "521"
-  ]
  },
  {
   "id": "prophy-brush-transparent-by-piece",
@@ -11291,29 +11031,6 @@
   "categoryLabel": "Temporary Materials",
   "description": "Dental bonding / adhesive agent.",
   "image": null
- },
- {
-  "id": "hexatemp",
-  "name": "Hexatemp",
-  "brand": "",
-  "category": "temporary",
-  "categoryLabel": "Temporary Materials",
-  "description": "Temporary restorative material.",
-  "image": "assets/products/temporary/hexatemp-a1.jpg",
-  "variants": [
-   "A1",
-   "A2",
-   "A3"
-  ]
- },
- {
-  "id": "hexatemp-tw",
-  "name": "Hexatemp Tw",
-  "brand": "",
-  "category": "temporary",
-  "categoryLabel": "Temporary Materials",
-  "description": "Temporary restorative material.",
-  "image": "assets/products/temporary/hexatemp-a1.jpg"
  },
  {
   "id": "kit-alike",
@@ -12646,24 +12363,6 @@
   ]
  },
  {
-  "id": "saliva-ejector-2",
-  "name": "Saliva Ejector",
-  "brand": "",
-  "category": "disposable",
-  "categoryLabel": "Disposables",
-  "description": "Disposable saliva ejector.",
-  "image": "assets/products/disposable/euronda-monoart-saliva-ejector.jpg",
-  "variants": [
-   "Saliva Ejector Chirurgical Tuyau",
-   "Saliva Ejector Escargot",
-   "Saliva Ejector Fixed Head Ch",
-   "Saliva Ejector Lb",
-   "Saliva Ejector Medistosk Transparent And White",
-   "Saliva Ejector Transparent Cotizen",
-   "Surgical Saliva Ejector Tuyau With Trou"
-  ]
- },
- {
   "id": "retraction-cord-atria",
   "name": "Retraction Cord Atria",
   "brand": "",
@@ -12676,19 +12375,6 @@
    "Retraction Cord 00 Atria",
    "Retraction Cord 000 Atria",
    "Retraction Cord 1 Atria"
-  ]
- },
- {
-  "id": "autoclave-roll-cm",
-  "name": "Autoclave Roll Cm",
-  "brand": "",
-  "category": "disposable",
-  "categoryLabel": "Disposables",
-  "description": "Sterilization consumable / equipment.",
-  "image": "assets/products/disposable/autoclave-sterilization-pouch-roll.png",
-  "variants": [
-   "Autoclave Roll 10 Cm",
-   "Autoclave Roll 5 Cm"
   ]
  },
  {
@@ -12894,23 +12580,6 @@
   ]
  },
  {
-  "id": "rotary-fanta",
-  "name": "Rotary Fanta",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic hand/rotary file.",
-  "image": "assets/products/endo/rotary-path-file-fanta.png",
-  "variants": [
-   "Rotary Files Fanta 20-06 31mm",
-   "Rotary Files Fanta F1",
-   "Rotary Files Fanta F2",
-   "Rotary Files Sx Fanta",
-   "Rotary One File Single System Fanta",
-   "Rotary Path File Fanta"
-  ]
- },
- {
   "id": "endodontics-assorted-2",
   "name": "Endodontics (Assorted)",
   "brand": "",
@@ -13006,21 +12675,6 @@
   ]
  },
  {
-  "id": "express",
-  "name": "Express",
-  "brand": "",
-  "category": "impression",
-  "categoryLabel": "Impression Materials",
-  "description": "Impression material.",
-  "image": "assets/products/impression/3m-express-penta-putty.jpg",
-  "variants": [
-   "3M Express Xt Penta 36894",
-   "Express Putty",
-   "Express Putty Std",
-   "Express Xt Penta Putty Quick 36895"
-  ]
- },
- {
   "id": "impregum-penta",
   "name": "Impregum Penta",
   "brand": "",
@@ -13111,19 +12765,6 @@
   ]
  },
  {
-  "id": "metal-screw-post-3",
-  "name": "Metal Screw Post",
-  "brand": "",
-  "category": "impression",
-  "categoryLabel": "Impression Materials",
-  "description": "Fiber post system.",
-  "image": "assets/products/impression/metal-screw-post.jpg",
-  "variants": [
-   "Metal Screw Post",
-   "Metal Screw Post Key"
-  ]
- },
- {
   "id": "putty-vericom-2",
   "name": "Putty Vericom",
   "brand": "",
@@ -13187,21 +12828,6 @@
   "variants": [
    "Instrument Composite Kit Gold 6pcs",
    "Optrasculpt Ivoclar(instrument Composite)"
-  ]
- },
- {
-  "id": "mouth-prop-2",
-  "name": "Mouth Prop",
-  "brand": "",
-  "category": "instrument",
-  "categoryLabel": "Instruments",
-  "description": "Dental instrument.",
-  "image": "assets/products/instrument/rubber-mouth-prop.png",
-  "variants": [
-   "Mouth Prop (Bite Block)",
-   "Mouth Prop Caoutchouc Green",
-   "Mouth Prop Double Sided Black",
-   "Mouth Prop Straight Transparent"
   ]
  },
  {
@@ -13342,23 +12968,6 @@
    "Prophylaxis PASTE Orange",
    "Prophylaxis Paste Medental",
    "Prophylaxis Paste Strawberry Spectra"
-  ]
- },
- {
-  "id": "super-snap-shofu-2",
-  "name": "Super Snap Shofu",
-  "brand": "",
-  "category": "polishing",
-  "categoryLabel": "Polishing",
-  "description": "Polishing product.",
-  "image": "assets/products/polishing/shofu-super-snap-single-disc.jpg",
-  "variants": [
-   "Super Snap 502 Shofu",
-   "Super Snap 506 Coarse Big Shofu",
-   "Super Snap 507 Coarse Shofu",
-   "Super Snap 522 Shofu",
-   "Super Snap Kit Shofu",
-   "Super Snap Shofu Mini Kit"
   ]
  },
  {
@@ -13595,6 +13204,255 @@
   "variants": [
    "Stainless STEEL CROWN BY PIECE",
    "Stainless STEEL CROWN KIT"
+  ]
+ },
+ {
+  "id": "saliva-ejector-2",
+  "name": "Saliva Ejector",
+  "brand": "",
+  "category": "disposable",
+  "categoryLabel": "Disposables",
+  "description": "Disposable saliva ejector.",
+  "image": "assets/products/disposable/euronda-monoart-saliva-ejector.jpg",
+  "variants": [
+   "Saliva Ejector (Elephant)",
+   "Saliva Ejector Chirurgical Green",
+   "Saliva Ejector Chirurgical Tuyau",
+   "Saliva Ejector Chirurgical White",
+   "Saliva Ejector Escargot",
+   "Saliva Ejector Euronda Blue",
+   "Saliva Ejector Euronda Transparent",
+   "Saliva Ejector Fixed Head Ch",
+   "Saliva Ejector Green",
+   "Saliva Ejector Lb",
+   "Saliva Ejector Medistosk Transparent And White",
+   "Saliva Ejector Transparent Cotizen",
+   "Surgical Saliva Ejector Tuyau With Trou"
+  ]
+ },
+ {
+  "id": "autoclave-roll",
+  "name": "Autoclave Roll",
+  "brand": "",
+  "category": "disposable",
+  "categoryLabel": "Disposables",
+  "description": "Sterilization consumable / equipment.",
+  "image": "assets/products/disposable/autoclave-sterilization-pouch-roll.png",
+  "variants": [
+   "15cm",
+   "20cm",
+   "25cm",
+   "30cm",
+   "7.5cm",
+   "Autoclave Roll Cm Autoclave Roll 10 Cm",
+   "Autoclave Roll Cm Autoclave Roll 5 Cm"
+  ]
+ },
+ {
+  "id": "h-files-mani",
+  "name": "H-files Mani",
+  "brand": "",
+  "category": "endo",
+  "categoryLabel": "Endodontics",
+  "description": "Endodontic hand/rotary file.",
+  "image": "assets/products/endo/h-files-mani.jpg",
+  "variants": [
+   "10-21",
+   "10-25",
+   "15-21",
+   "15-25 White",
+   "15-31 White",
+   "15-40/21",
+   "15-40/25",
+   "20-21",
+   "20-25 Yellow",
+   "25-21",
+   "25-25",
+   "30-21",
+   "30-25",
+   "30-31",
+   "35-21",
+   "35-25",
+   "35-31",
+   "H-files 10-31 Mani"
+  ]
+ },
+ {
+  "id": "k-files-mani",
+  "name": "K-files Mani",
+  "brand": "",
+  "category": "endo",
+  "categoryLabel": "Endodontics",
+  "description": "Endodontic hand/rotary file.",
+  "image": "assets/products/endo/mani-k-files-assorted.png",
+  "variants": [
+   "08-21 Gris",
+   "08-25 Gris",
+   "10-21 Mauve",
+   "10-25 Mauve",
+   "10-31 Mauve",
+   "15-21 White",
+   "15-25 White",
+   "15-31 White",
+   "20-21 Yellow",
+   "20-25 Yellow",
+   "20-31 Yellow",
+   "25-21 Rouge",
+   "25-25 Rouge",
+   "25-31 Rouge",
+   "30-21 Blue",
+   "30-25 Blue",
+   "30-31 Blue",
+   "35-21 Green",
+   "35-25 Green",
+   "35-31 Green",
+   "40-21",
+   "40-25 Black",
+   "8-31 Gris",
+   "Assorted 45-80 31mm",
+   "K-files Mani Assorted 15-40/21",
+   "K-files Mani Assorted 15-40/25",
+   "K-files Mani Assorted 15-40/31",
+   "K-files Mani Assorted 45-80/25"
+  ]
+ },
+ {
+  "id": "rotary-fanta",
+  "name": "Rotary Fanta",
+  "brand": "",
+  "category": "endo",
+  "categoryLabel": "Endodontics",
+  "description": "Endodontic hand/rotary file.",
+  "image": "assets/products/endo/rotary-path-file-fanta.png",
+  "variants": [
+   "Rotary Files Fanta 20-04",
+   "Rotary Files Fanta 20-06 31mm",
+   "Rotary Files Fanta 25-04",
+   "Rotary Files Fanta F1",
+   "Rotary Files Fanta F2",
+   "Rotary Files Fanta S1",
+   "Rotary Files Fanta S2",
+   "Rotary Files Sx Fanta",
+   "Rotary One File Single System Fanta",
+   "Rotary Path File Fanta"
+  ]
+ },
+ {
+  "id": "express",
+  "name": "Express",
+  "brand": "",
+  "category": "impression",
+  "categoryLabel": "Impression Materials",
+  "description": "Impression material.",
+  "image": "assets/products/impression/3m-express-penta-putty.jpg",
+  "variants": [
+   "3M Express Xt Penta 36894",
+   "3M Express Xt Putty 36972",
+   "3M Express Xt Putty 36973",
+   "Express Putty",
+   "Express Putty Std",
+   "Express Xt Penta Putty Quick 36895"
+  ]
+ },
+ {
+  "id": "metal-screw-post-2",
+  "name": "Metal Screw Post",
+  "brand": "",
+  "category": "impression",
+  "categoryLabel": "Impression Materials",
+  "description": "Fiber post system.",
+  "image": "assets/products/impression/metal-screw-post.jpg",
+  "variants": [
+   "240",
+   "L1",
+   "L2",
+   "L3",
+   "L4",
+   "L5",
+   "L6",
+   "M1",
+   "M2",
+   "M3",
+   "M4",
+   "M5",
+   "M6",
+   "Metal Screw Post Metal Screw Post",
+   "Metal Screw Post Metal Screw Post Key",
+   "S1",
+   "S2",
+   "S3",
+   "S4",
+   "S5",
+   "S6",
+   "Xl5",
+   "Xl6"
+  ]
+ },
+ {
+  "id": "mouth-prop-2",
+  "name": "Mouth Prop",
+  "brand": "",
+  "category": "instrument",
+  "categoryLabel": "Instruments",
+  "description": "Dental instrument.",
+  "image": "assets/products/instrument/rubber-mouth-prop.png",
+  "variants": [
+   "Mouth Prop (Bite Block)",
+   "Mouth Prop Black",
+   "Mouth Prop Caoutchouc Green",
+   "Mouth Prop Double Sided Black",
+   "Mouth Prop Mauve",
+   "Mouth Prop Straight Transparent"
+  ]
+ },
+ {
+  "id": "soflex-ch-refill",
+  "name": "Soflex Ch Refill",
+  "brand": "",
+  "category": "polishing",
+  "categoryLabel": "Polishing",
+  "description": "Polishing product.",
+  "image": "assets/products/polishing/3m-sof-lex-disc-refill.jpg",
+  "variants": [
+   "1630",
+   "1631",
+   "Disc Soflex Tor 1620"
+  ]
+ },
+ {
+  "id": "super-snap-shofu-2",
+  "name": "Super Snap Shofu",
+  "brand": "",
+  "category": "polishing",
+  "categoryLabel": "Polishing",
+  "description": "Polishing product.",
+  "image": "assets/products/polishing/shofu-super-snap-single-disc.jpg",
+  "variants": [
+   "Super Snap 502 Shofu",
+   "Super Snap 506 Coarse Big Shofu",
+   "Super Snap 507 Coarse Shofu",
+   "Super Snap 522 Shofu",
+   "Super Snap Kit Shofu",
+   "Super Snap Shofu 501",
+   "Super Snap Shofu 508",
+   "Super Snap Shofu 519",
+   "Super Snap Shofu 521",
+   "Super Snap Shofu Mini Kit"
+  ]
+ },
+ {
+  "id": "hexatemp",
+  "name": "Hexatemp",
+  "brand": "",
+  "category": "temporary",
+  "categoryLabel": "Temporary Materials",
+  "description": "Temporary restorative material.",
+  "image": "assets/products/temporary/hexatemp-a1.jpg",
+  "variants": [
+   "A1",
+   "A2",
+   "A3",
+   "Tw"
   ]
  }
 ]
