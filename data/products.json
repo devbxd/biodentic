@@ -8025,7 +8025,7 @@
   "category": "fiberpost",
   "categoryLabel": "Fiber Posts",
   "description": "Fiber post system.",
-  "image": null
+  "image": "assets/products/fiberpost/angelus-reforpost-fiber-post.jpg"
  },
  {
   "id": "reforpost-angelus-n-1",
@@ -8034,7 +8034,7 @@
   "category": "fiberpost",
   "categoryLabel": "Fiber Posts",
   "description": "Fiber post system.",
-  "image": null
+  "image": "assets/products/fiberpost/angelus-reforpost-fiber-post.jpg"
  },
  {
   "id": "reforpost-angelus-n2",
@@ -8043,7 +8043,7 @@
   "category": "fiberpost",
   "categoryLabel": "Fiber Posts",
   "description": "Fiber post system.",
-  "image": null
+  "image": "assets/products/fiberpost/angelus-reforpost-fiber-post.jpg"
  },
  {
   "id": "reforpost-kit",
@@ -8052,7 +8052,7 @@
   "category": "fiberpost",
   "categoryLabel": "Fiber Posts",
   "description": "Fiber post system.",
-  "image": null
+  "image": "assets/products/fiberpost/angelus-reforpost-fiber-post.jpg"
  },
  {
   "id": "exacto-n0-5",
@@ -10799,7 +10799,7 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Dental instrument.",
-  "image": null
+  "image": "assets/products/instrument/tongue-depressor-wooden.jpg"
  },
  {
   "id": "automatic-crown-remover",
@@ -10952,7 +10952,7 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Surgical elevator.",
-  "image": null
+  "image": "assets/products/instrument/periosteal-elevator-molt.jpg"
  },
  {
   "id": "spatula-elevator",
@@ -10961,7 +10961,7 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Surgical elevator.",
-  "image": null
+  "image": "assets/products/instrument/periosteal-elevator-molt.jpg"
  },
  {
   "id": "elevator-left-and-right",
@@ -10970,7 +10970,7 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Surgical elevator.",
-  "image": null
+  "image": "assets/products/instrument/periosteal-elevator-molt.jpg"
  },
  {
   "id": "excavator",
@@ -11065,7 +11065,7 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Dental instrument.",
-  "image": null
+  "image": "assets/products/instrument/luxator-extraction-instrument.jpg"
  },
  {
   "id": "mirror-handle",
@@ -11299,7 +11299,7 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Dental instrument.",
-  "image": null
+  "image": "assets/products/instrument/dissecting-forceps-precelle.jpg"
  },
  {
   "id": "precelle-geneve",
@@ -11308,7 +11308,7 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Dental instrument.",
-  "image": null
+  "image": "assets/products/instrument/dissecting-forceps-precelle.jpg"
  },
  {
   "id": "precelle-perry",
@@ -11317,7 +11317,7 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Dental instrument.",
-  "image": null
+  "image": "assets/products/instrument/dissecting-forceps-precelle.jpg"
  },
  {
   "id": "precelle-plat",
@@ -11326,7 +11326,7 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Dental instrument.",
-  "image": null
+  "image": "assets/products/instrument/dissecting-forceps-precelle.jpg"
  },
  {
   "id": "syringe-air-eau",
@@ -11524,7 +11524,7 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Dental instrument.",
-  "image": null
+  "image": "assets/products/instrument/periosteal-elevator-molt.jpg"
  },
  {
   "id": "polydenthia-id-rings",
@@ -11686,7 +11686,7 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Dental instrument.",
-  "image": null
+  "image": "assets/products/instrument/periosteal-elevator-molt.jpg"
  },
  {
   "id": "periosteal-prichard-423-7532",
@@ -11695,7 +11695,7 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Dental instrument.",
-  "image": null
+  "image": "assets/products/instrument/periosteal-elevator-molt.jpg"
  },
  {
   "id": "mouth-prop-double-sided-black",
@@ -11812,7 +11812,7 @@
   "category": "machine",
   "categoryLabel": "Equipment",
   "description": "Dental handpiece / motor.",
-  "image": "assets/products/machine/contra-angle-handpiece-blue.jpg"
+  "image": "assets/products/machine/turbine-handpiece-nsk.jpg"
  },
  {
   "id": "contre-angle-blue",
@@ -11920,7 +11920,7 @@
   "category": "machine",
   "categoryLabel": "Equipment",
   "description": "Dental curing / operatory light.",
-  "image": null
+  "image": "assets/products/machine/elipar-deepcure-led-light.jpg"
  },
  {
   "id": "light-cure-elipar-deepcure-s",
@@ -11929,7 +11929,7 @@
   "category": "machine",
   "categoryLabel": "Equipment",
   "description": "Dental curing / operatory light.",
-  "image": null
+  "image": "assets/products/machine/elipar-deepcure-led-light.jpg"
  },
  {
   "id": "endo-activator-machine",
@@ -12091,7 +12091,7 @@
   "category": "machine",
   "categoryLabel": "Equipment",
   "description": "Surface / instrument disinfectant.",
-  "image": null
+  "image": "assets/products/machine/water-pick-oral-irrigator.jpg"
  },
  {
   "id": "ordinateur-for-le-rvg",
@@ -12181,7 +12181,7 @@
   "category": "machine",
   "categoryLabel": "Equipment",
   "description": "Dental handpiece / motor.",
-  "image": null
+  "image": "assets/products/machine/turbine-handpiece-nsk.jpg"
  },
  {
   "id": "torch-gun",
@@ -12235,7 +12235,7 @@
   "category": "machine",
   "categoryLabel": "Equipment",
   "description": "Dental handpiece / motor.",
-  "image": null
+  "image": "assets/products/machine/turbine-handpiece-nsk.jpg"
  },
  {
   "id": "turbine-tulip-with-led-2-tete",
@@ -12262,7 +12262,7 @@
   "category": "machine",
   "categoryLabel": "Equipment",
   "description": "Dental handpiece / motor.",
-  "image": null
+  "image": "assets/products/machine/turbine-handpiece-nsk.jpg"
  },
  {
   "id": "turbine-with-led-tulip",
@@ -12334,7 +12334,7 @@
   "category": "machine",
   "categoryLabel": "Equipment",
   "description": "Dental practice equipment.",
-  "image": null
+  "image": "assets/products/machine/water-pick-oral-irrigator.jpg"
  },
  {
   "id": "water-pick-h2o",
@@ -12343,7 +12343,7 @@
   "category": "machine",
   "categoryLabel": "Equipment",
   "description": "Dental practice equipment.",
-  "image": null
+  "image": "assets/products/machine/water-pick-oral-irrigator.jpg"
  },
  {
   "id": "turbine-apple-with-led-a2-pro",
@@ -12361,7 +12361,7 @@
   "category": "machine",
   "categoryLabel": "Equipment",
   "description": "Dental handpiece / motor.",
-  "image": null
+  "image": "assets/products/machine/turbine-handpiece-nsk.jpg"
  },
  {
   "id": "surgical-suction-machine",
@@ -12388,7 +12388,7 @@
   "category": "machine",
   "categoryLabel": "Equipment",
   "description": "Light-cure dental composite.",
-  "image": null
+  "image": "assets/products/machine/composite-heater-warmer.jpg"
  },
  {
   "id": "turbine-5led-5water-n1-meote",
@@ -12397,7 +12397,7 @@
   "category": "machine",
   "categoryLabel": "Equipment",
   "description": "Dental curing / operatory light.",
-  "image": null
+  "image": "assets/products/machine/turbine-handpiece-nsk.jpg"
  },
  {
   "id": "turbine-5-led-5-water-black-n2-meote",
@@ -12415,7 +12415,7 @@
   "category": "machine",
   "categoryLabel": "Equipment",
   "description": "Dental curing / operatory light.",
-  "image": null
+  "image": "assets/products/machine/turbine-handpiece-nsk.jpg"
  },
  {
   "id": "syringe-anesthesie-pen",
@@ -12442,7 +12442,7 @@
   "category": "machine",
   "categoryLabel": "Equipment",
   "description": "Dental handpiece / motor.",
-  "image": null
+  "image": "assets/products/machine/turbine-handpiece-nsk.jpg"
  },
  {
   "id": "obturation-pen",
@@ -12478,7 +12478,7 @@
   "category": "machine",
   "categoryLabel": "Equipment",
   "description": "Dental handpiece / motor.",
-  "image": "assets/products/machine/contra-angle-handpiece-blue.jpg"
+  "image": "assets/products/machine/turbine-handpiece-nsk.jpg"
  },
  {
   "id": "digital-shade-guide-machine",
