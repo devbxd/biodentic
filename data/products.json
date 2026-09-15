@@ -616,7 +616,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable patient protection.",
-  "image": null
+  "image": "assets/products/disposable/dental-bib-3-ply-disposable.jpg"
  },
  {
   "id": "bib-white-tr",
@@ -625,7 +625,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Teeth whitening product.",
-  "image": null
+  "image": "assets/products/disposable/dental-bib-3-ply-disposable.jpg"
  },
  {
   "id": "bib-box-1-2",
@@ -634,7 +634,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable patient protection.",
-  "image": null
+  "image": "assets/products/disposable/dental-bib-3-ply-disposable.jpg"
  },
  {
   "id": "bib-box",
@@ -643,7 +643,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Teeth whitening product.",
-  "image": null,
+  "image": "assets/products/disposable/dental-bib-3-ply-disposable.jpg",
   "variants": [
    "BLACK",
    "White"
@@ -656,7 +656,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable patient protection.",
-  "image": null
+  "image": "assets/products/disposable/dental-bib-3-ply-disposable.jpg"
  },
  {
   "id": "bib-box-tribest",
@@ -665,7 +665,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable patient protection.",
-  "image": null
+  "image": "assets/products/disposable/dental-bib-3-ply-disposable.jpg"
  },
  {
   "id": "bib-box-infinity",
@@ -674,7 +674,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable patient protection.",
-  "image": null
+  "image": "assets/products/disposable/dental-bib-3-ply-disposable.jpg"
  },
  {
   "id": "bib-roll-euronda",
@@ -710,7 +710,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable patient protection.",
-  "image": null
+  "image": "assets/products/disposable/dental-bib-3-ply-disposable.jpg"
  },
  {
   "id": "blade-12",
@@ -917,7 +917,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Cotton / gauze consumable.",
-  "image": "assets/products/disposable/autoclavable-bur-box-24-holes.jpg"
+  "image": "assets/products/disposable/dental-cotton-roll-pack.jpg"
  },
  {
   "id": "box-bur-40-holes",
@@ -944,7 +944,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Cotton / gauze consumable.",
-  "image": "assets/products/disposable/autoclave-sterilization-pouch-roll.png"
+  "image": "assets/products/disposable/dental-cotton-roll-pack.jpg"
  },
  {
   "id": "box-for-k-files-band-measuring-gauge",
@@ -1007,7 +1007,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Applicator brush.",
-  "image": null
+  "image": "assets/products/disposable/micro-applicator-brush-3m.jpg"
  },
  {
   "id": "copper-brush",
@@ -1016,7 +1016,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Applicator brush.",
-  "image": null
+  "image": "assets/products/disposable/micro-applicator-brush-3m.jpg"
  },
  {
   "id": "small-brush-for-clean-aspirator",
@@ -1025,7 +1025,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Applicator brush.",
-  "image": null
+  "image": "assets/products/disposable/micro-applicator-brush-3m.jpg"
  },
  {
   "id": "chair-head-rest-cover",
@@ -1153,7 +1153,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Cotton / gauze consumable.",
-  "image": "assets/products/disposable/autoclave-sterilization-pouch-roll.png"
+  "image": "assets/products/disposable/dental-cotton-roll-pack.jpg"
  },
  {
   "id": "cotton-roll-n2",
@@ -1162,7 +1162,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Cotton / gauze consumable.",
-  "image": "assets/products/disposable/autoclave-sterilization-pouch-roll.png"
+  "image": "assets/products/disposable/dental-cotton-roll-pack.jpg"
  },
  {
   "id": "cotton-roll-pack-of-500",
@@ -1171,7 +1171,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Cotton / gauze consumable.",
-  "image": "assets/products/disposable/autoclave-sterilization-pouch-roll.png"
+  "image": "assets/products/disposable/dental-cotton-roll-pack.jpg"
  },
  {
   "id": "face-shield-goggles",
@@ -1198,7 +1198,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null
+  "image": "assets/products/disposable/curaspon-hemostatic-sponge.jpg"
  },
  {
   "id": "cutanplast-hemostatic-sponge",
@@ -1207,7 +1207,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null
+  "image": "assets/products/disposable/curaspon-hemostatic-sponge.jpg"
  },
  {
   "id": "tooth-type-frasaco",
@@ -1382,7 +1382,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null
+  "image": "assets/products/disposable/curaspon-hemostatic-sponge.jpg"
  },
  {
   "id": "hemostatic-sponge-belgium-by-pc",
@@ -1391,7 +1391,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null
+  "image": "assets/products/disposable/curaspon-hemostatic-sponge.jpg"
  },
  {
   "id": "hemostatic-sponge-belgium-sachet",
@@ -1400,7 +1400,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null
+  "image": "assets/products/disposable/curaspon-hemostatic-sponge.jpg"
  },
  {
   "id": "hemostatic-sponge-box-of-32",
@@ -1409,7 +1409,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null
+  "image": "assets/products/disposable/curaspon-hemostatic-sponge.jpg"
  },
  {
   "id": "face-mask",
@@ -2292,7 +2292,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null
+  "image": "assets/products/disposable/orthodontic-headgear-strap.webp"
  },
  {
   "id": "matrix-holder",
@@ -2373,7 +2373,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Applicator brush.",
-  "image": null
+  "image": "assets/products/disposable/micro-applicator-brush-3m.jpg"
  },
  {
   "id": "handle-brush",
@@ -2382,7 +2382,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Applicator brush.",
-  "image": null
+  "image": "assets/products/disposable/micro-applicator-brush-3m.jpg"
  },
  {
   "id": "mandrels-3m",
@@ -2735,7 +2735,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Applicator brush.",
-  "image": null
+  "image": "assets/products/disposable/micro-applicator-brush-3m.jpg"
  },
  {
   "id": "micro-moteur-2-trou-external",
@@ -2744,7 +2744,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null
+  "image": "assets/products/disposable/micro-applicator-brush-3m.jpg"
  },
  {
   "id": "micro-moteur-4-trou-gstar",
@@ -2753,7 +2753,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null
+  "image": "assets/products/disposable/micro-applicator-brush-3m.jpg"
  },
  {
   "id": "micro-moteur-wismed-external",
@@ -2762,7 +2762,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null
+  "image": "assets/products/disposable/micro-applicator-brush-3m.jpg"
  },
  {
   "id": "microbrush-f",
@@ -3077,7 +3077,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Dental injection needle.",
-  "image": null
+  "image": "assets/products/disposable/anesthetic-needle-box-27g.jpg"
  },
  {
   "id": "needles-27g-34-supermed",
@@ -3086,7 +3086,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Dental injection needle.",
-  "image": null
+  "image": "assets/products/disposable/anesthetic-needle-box-27g.jpg"
  },
  {
   "id": "needles-30g-12-dochem",
@@ -3158,7 +3158,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Dental injection needle.",
-  "image": null
+  "image": "assets/products/disposable/anesthetic-needle-box-27g.jpg"
  },
  {
   "id": "mouth-prop-metal",
@@ -3248,7 +3248,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Applicator brush.",
-  "image": null
+  "image": "assets/products/disposable/micro-applicator-brush-3m.jpg"
  },
  {
   "id": "brush-acryl",
@@ -3257,7 +3257,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Applicator brush.",
-  "image": null
+  "image": "assets/products/disposable/micro-applicator-brush-3m.jpg"
  },
  {
   "id": "brush-sachet",
@@ -3266,7 +3266,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Applicator brush.",
-  "image": null
+  "image": "assets/products/disposable/micro-applicator-brush-3m.jpg"
  },
  {
   "id": "pins-fomanion-green",
@@ -3748,7 +3748,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Cotton / gauze consumable.",
-  "image": null
+  "image": "assets/products/disposable/dental-cotton-roll-pack.jpg"
  },
  {
   "id": "rubber-dam",
@@ -4553,7 +4553,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Applicator brush.",
-  "image": null
+  "image": "assets/products/disposable/micro-applicator-brush-3m.jpg"
  },
  {
   "id": "model-tooth",
@@ -4598,7 +4598,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Applicator brush.",
-  "image": null
+  "image": "assets/products/disposable/micro-applicator-brush-3m.jpg"
  },
  {
   "id": "gloves-powder-free-mint",
@@ -4683,7 +4683,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null
+  "image": "assets/products/disposable/micro-applicator-brush-3m.jpg"
  },
  {
   "id": "matrix-band-anterieur-tr-1913-box-of-20-pcs",
