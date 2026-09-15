@@ -13252,7 +13252,7 @@
   "category": "restorative",
   "categoryLabel": "Restorative",
   "description": "Restorative dental material.",
-  "image": null
+  "image": "assets/products/restorative/amalgam-n2.jpg"
  },
  {
   "id": "base-it-fusion",
@@ -13333,7 +13333,7 @@
   "category": "restorative",
   "categoryLabel": "Restorative",
   "description": "Light-cure dental composite.",
-  "image": null
+  "image": "assets/products/restorative/composite-charisma.jpg"
  },
  {
   "id": "composite-charisma-bl-bxl-ob",
@@ -13342,7 +13342,7 @@
   "category": "restorative",
   "categoryLabel": "Restorative",
   "description": "Light-cure dental composite.",
-  "image": null
+  "image": "assets/products/restorative/composite-charisma.jpg"
  },
  {
   "id": "composite-denfill-a1-a2-a3-a3-5-b1",
@@ -13378,7 +13378,7 @@
   "category": "restorative",
   "categoryLabel": "Restorative",
   "description": "Light-cure dental composite.",
-  "image": null
+  "image": "assets/products/restorative/composite-tetric-evoceram.jpg"
  },
  {
   "id": "composite-omnichroma",
@@ -13387,7 +13387,7 @@
   "category": "restorative",
   "categoryLabel": "Restorative",
   "description": "Light-cure dental composite.",
-  "image": null
+  "image": "assets/products/restorative/composite-omnichroma.jpg"
  },
  {
   "id": "composite-shofu-ls-a1-a2-a3-b2",
@@ -13702,7 +13702,7 @@
   "category": "restorative",
   "categoryLabel": "Restorative",
   "description": "Light-cure dental composite.",
-  "image": null
+  "image": "assets/products/restorative/composite-tetric-evoceram.jpg"
  },
  {
   "id": "interlig-by-piece",
@@ -13747,7 +13747,7 @@
   "category": "restorative",
   "categoryLabel": "Restorative",
   "description": "Light-cure dental composite.",
-  "image": null
+  "image": "assets/products/restorative/composite-tetric-evoceram.jpg"
  },
  {
   "id": "compostite-zenit-bl",
@@ -13828,7 +13828,7 @@
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Temporary restorative material.",
-  "image": null
+  "image": "assets/products/temporary/cavit-temporary-filling.png"
  },
  {
   "id": "cavit-g-3m",
@@ -13837,7 +13837,7 @@
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Temporary restorative material.",
-  "image": null
+  "image": "assets/products/temporary/cavit-temporary-filling.png"
  },
  {
   "id": "charmtemp-b",
@@ -14034,7 +14034,7 @@
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Temporary restorative material.",
-  "image": null
+  "image": "assets/products/temporary/unifast.jpg"
  },
  {
   "id": "luxatemp-bl",
@@ -14391,7 +14391,7 @@
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Temporary restorative material.",
-  "image": null
+  "image": "assets/products/temporary/unifast.jpg"
  },
  {
   "id": "vericom-a1",
