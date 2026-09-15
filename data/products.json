@@ -10623,7 +10623,7 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Dental instrument.",
-  "image": null
+  "image": "assets/products/instrument/syndesmotome.jpg"
  },
  {
   "id": "insert-dentamerica-f3",
@@ -14482,7 +14482,7 @@
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Temporary restorative material.",
-  "image": null
+  "image": "assets/products/temporary/hantemp-a1.webp"
  },
  {
   "id": "hantemp-b1",
@@ -14491,7 +14491,7 @@
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Temporary restorative material.",
-  "image": null
+  "image": "assets/products/temporary/hantemp-a1.webp"
  },
  {
   "id": "visalys-bleach-temporary-crown",
@@ -14644,7 +14644,7 @@
   "category": "whitening",
   "categoryLabel": "Whitening",
   "description": "Teeth whitening product.",
-  "image": null
+  "image": "assets/products/whitening/beaming-white-home-box-of-5.jpg"
  },
  {
   "id": "beaming-white-office",
@@ -14707,7 +14707,7 @@
   "category": "whitening",
   "categoryLabel": "Whitening",
   "description": "Teeth whitening product.",
-  "image": null
+  "image": "assets/products/whitening/flash-tooth-paste.jpg"
  },
  {
   "id": "flash-withening-office",
@@ -14779,7 +14779,7 @@
   "category": "whitening",
   "categoryLabel": "Whitening",
   "description": "Teeth whitening product.",
-  "image": null
+  "image": "assets/products/whitening/flash-tooth-paste.jpg"
  },
  {
   "id": "hp-whiteness-fgm",
@@ -15139,7 +15139,7 @@
   "category": "whitening",
   "categoryLabel": "Whitening",
   "description": "Teeth whitening product.",
-  "image": null
+  "image": "assets/products/whitening/flash-tooth-paste.jpg"
  },
  {
   "id": "agfa-x-ray-film-3-4cm",
