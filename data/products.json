@@ -6846,24 +6846,6 @@
   "image": null
  },
  {
-  "id": "curved-scissors",
-  "name": "Curved Scissors",
-  "brand": "",
-  "category": "instrument",
-  "categoryLabel": "Instruments",
-  "description": "Dental instrument.",
-  "image": null
- },
- {
-  "id": "lagrange-curved-scissors",
-  "name": "Lagrange Curved Scissors",
-  "brand": "",
-  "category": "instrument",
-  "categoryLabel": "Instruments",
-  "description": "Dental instrument.",
-  "image": null
- },
- {
   "id": "scissors-micro",
   "name": "Scissors Micro",
   "brand": "",
@@ -8359,15 +8341,6 @@
   "image": "assets/products/ortho/orthodontic-metal-bracket-roth.jpg"
  },
  {
-  "id": "ortho-colored-elastic",
-  "name": "Ortho Colored Elastic",
-  "brand": "",
-  "category": "ortho",
-  "categoryLabel": "Orthodontics",
-  "description": "Orthodontic elastic.",
-  "image": null
- },
- {
   "id": "ortho-elastic-chain",
   "name": "Ortho Elastic Chain",
   "brand": "",
@@ -8384,15 +8357,6 @@
   "categoryLabel": "Orthodontics",
   "description": "Orthodontic product.",
   "image": null
- },
- {
-  "id": "ortho-ligature-elastic-master",
-  "name": "Ortho Ligature Elastic Master",
-  "brand": "",
-  "category": "ortho",
-  "categoryLabel": "Orthodontics",
-  "description": "Orthodontic elastic.",
-  "image": "assets/products/ortho/orthodontic-elastic-ligature-ties.jpg"
  },
  {
   "id": "ortho-metal-retainer",
@@ -11504,6 +11468,19 @@
   ]
  },
  {
+  "id": "curved-scissors-2",
+  "name": "Curved Scissors",
+  "brand": "",
+  "category": "instrument",
+  "categoryLabel": "Instruments",
+  "description": "Dental instrument.",
+  "image": "assets/products/instrument/curved-scissors.png",
+  "variants": [
+   "Curved Scissors",
+   "Lagrange Curved Scissors"
+  ]
+ },
+ {
   "id": "extraction-forceps",
   "name": "Extraction Forceps",
   "brand": "",
@@ -11596,6 +11573,19 @@
   "variants": [
    "Water Pick",
    "Water Pick H2O"
+  ]
+ },
+ {
+  "id": "ortho-elastic",
+  "name": "Ortho Elastic",
+  "brand": "",
+  "category": "ortho",
+  "categoryLabel": "Orthodontics",
+  "description": "Orthodontic elastic.",
+  "image": "assets/products/ortho/ortho-colored-elastic.jpg",
+  "variants": [
+   "Ortho Colored Elastic",
+   "Ortho Ligature Elastic Master"
   ]
  },
  {
