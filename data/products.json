@@ -239,6 +239,15 @@
   "image": null
  },
  {
+  "id": "chair-head-rest-cover",
+  "name": "Chair Head Rest Cover",
+  "brand": "",
+  "category": "disposable",
+  "categoryLabel": "Disposables",
+  "description": "Disposable dental product.",
+  "image": "assets/products/disposable/head-cover.webp"
+ },
+ {
   "id": "tooth-shade-ring",
   "name": "Tooth Shade Ring",
   "brand": "",
@@ -553,6 +562,15 @@
   "image": null
  },
  {
+  "id": "head-cover",
+  "name": "Head Cover",
+  "brand": "",
+  "category": "disposable",
+  "categoryLabel": "Disposables",
+  "description": "Disposable dental product.",
+  "image": "assets/products/disposable/head-cover-bouffant.jpg"
+ },
+ {
   "id": "headgear",
   "name": "Headgear",
   "brand": "",
@@ -577,7 +595,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": "assets/products/disposable/clear-protective-safety-goggles.jpg"
+  "image": "assets/products/disposable/clear-protective-goggles-2.jpg"
  },
  {
   "id": "mandrels-3m",
@@ -1564,7 +1582,7 @@
   "category": "etching",
   "categoryLabel": "Etching & Bonding",
   "description": "Etching / bonding material.",
-  "image": null
+  "image": "assets/products/endo/fluoridrique-acid-adi.jpg"
  },
  {
   "id": "hexa-etching-2ml",
@@ -3763,19 +3781,6 @@
   ]
  },
  {
-  "id": "head-cover-2",
-  "name": "Head Cover",
-  "brand": "",
-  "category": "disposable",
-  "categoryLabel": "Disposables",
-  "description": "Disposable dental product.",
-  "image": "assets/products/disposable/head-cover.webp",
-  "variants": [
-   "Chair Head Rest Cover",
-   "Head Cover"
-  ]
- },
- {
   "id": "face-shield",
   "name": "Face Shield",
   "brand": "",
@@ -3787,23 +3792,6 @@
    "Face Shield Elastic",
    "Face Shield Goggles",
    "Face Shield Goggles Cotizen"
-  ]
- },
- {
-  "id": "hemostatic-sponge-2",
-  "name": "Hemostatic Sponge",
-  "brand": "",
-  "category": "disposable",
-  "categoryLabel": "Disposables",
-  "description": "Disposable dental product.",
-  "image": "assets/products/disposable/curaspon-hemostatic-sponge.jpg",
-  "variants": [
-   "Curaspon Hemostatic Sponge",
-   "Cutanplast Hemostatic Sponge",
-   "Hemostatic Sponge",
-   "Hemostatic Sponge Belgium By Pc",
-   "Hemostatic Sponge Belgium Sachet",
-   "Hemostatic Sponge Box Of 32"
   ]
  },
  {
@@ -3879,7 +3867,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Sterilization consumable / equipment.",
-  "image": "assets/products/disposable/self-sealing-pouch-90x165.jpg",
+  "image": "assets/products/disposable/self-sealing-pouch-multi.jpg",
   "variants": [
    "Self Sealing Pouch 135*260",
    "Self Sealing Pouch 190*330",
@@ -3942,7 +3930,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Sterilization consumable / equipment.",
-  "image": "assets/products/endo/caries-indicator-prevest.jpg",
+  "image": "assets/products/endo/caries-indicator-adi.jpg",
   "variants": [
    "Caries Indicator ADI",
    "Caries Indicator Prevest"
@@ -5077,7 +5065,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null,
+  "image": "assets/products/prevention/sealant-syringe.jpg",
   "variants": [
    "Sealant Syringe 3M",
    "Sealant Syringe Spident 2x1.2ml"
@@ -5626,7 +5614,7 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Finishing kit for restorations.",
-  "image": null,
+  "image": "assets/products/disposable/finishing-strips.jpg",
   "variants": [
    "Finishing Strips 3M",
    "Finishing Strips Microdent",
@@ -5719,7 +5707,7 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Polishing product.",
-  "image": null,
+  "image": "assets/products/polishing/prophy-paste.jpg",
   "variants": [
    "Prophy Paste Bms",
    "Prophy Paste Dharma",
@@ -6644,7 +6632,7 @@
   "category": "impression",
   "categoryLabel": "Impression Materials",
   "description": "Impression material.",
-  "image": null,
+  "image": "assets/products/disposable/wax.jpg",
   "variants": [
    "WAX CAVEX",
    "Wax Bms",
@@ -7146,6 +7134,41 @@
   ]
  },
  {
+  "id": "hemostatic-sponge-2",
+  "name": "Hemostatic Sponge",
+  "brand": "",
+  "category": "disposable",
+  "categoryLabel": "Disposables",
+  "description": "Disposable dental product.",
+  "image": "assets/products/disposable/hemostatic-sponge-cutanplast.jpg",
+  "variants": [
+   "Curaspon Hemostatic Sponge",
+   "Cutanplast Hemostatic Sponge",
+   "Hemostatic Sponge",
+   "Hemostatic Sponge Belgium By Pc",
+   "Hemostatic Sponge Belgium Sachet",
+   "Hemostatic Sponge Box Of 32"
+  ]
+ },
+ {
+  "id": "face-mask-3",
+  "name": "Face Mask",
+  "brand": "",
+  "category": "disposable",
+  "categoryLabel": "Disposables",
+  "description": "Surgical face mask.",
+  "image": "assets/products/disposable/face-mask.jpg",
+  "variants": [
+   "3M",
+   "Blue",
+   "Face Mask",
+   "Face Mask Attache",
+   "Face Mask King",
+   "Face Mask Maxident",
+   "Face Mask Surgical"
+  ]
+ },
+ {
   "id": "gloves-powder",
   "name": "Gloves Powder",
   "brand": "",
@@ -7241,7 +7264,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Glass ionomer material.",
-  "image": "assets/products/disposable/surgical-gloves-size-6.jpg",
+  "image": "assets/products/disposable/surgical-gloves-package.jpg",
   "variants": [
    "6 Alliance",
    "6.5 Alliance",
@@ -7253,6 +7276,32 @@
    "Surgical Gloves 7.5 Other Brand Powder Free",
    "Surgical Gloves N 6",
    "Surgical Gloves Powdered N7"
+  ]
+ },
+ {
+  "id": "suture-2",
+  "name": "Suture",
+  "brand": "",
+  "category": "disposable",
+  "categoryLabel": "Disposables",
+  "description": "Surgical suture.",
+  "image": "assets/products/disposable/suture-falcon-box.jpg",
+  "variants": [
+   "4.0 Falcon",
+   "5.0 Falcon",
+   "6.0 Falcon",
+   "Suture 3.0 Absorbable Look",
+   "Suture 3.0 Nylon Look",
+   "Suture 3.0 Silk AMS",
+   "Suture 3.0 Silk Falcon",
+   "Suture 3.0 Silk Look",
+   "Suture 4.0 Absorbable Look",
+   "Suture 4.0 Nylon Look",
+   "Suture 4.0 Silk AMS",
+   "Suture 4.0 Silk Look",
+   "Suture 5.0 Absorbable Look",
+   "Suture 6.0 Falcon Absorbable",
+   "Suture 7.0 Absorbable Falcon"
   ]
  },
  {
@@ -7660,24 +7709,6 @@
   ]
  },
  {
-  "id": "face-mask-3",
-  "name": "Face Mask",
-  "brand": "",
-  "category": "disposable",
-  "categoryLabel": "Disposables",
-  "description": "Surgical face mask.",
-  "image": null,
-  "variants": [
-   "3M",
-   "Blue",
-   "Face Mask",
-   "Face Mask Attache",
-   "Face Mask King",
-   "Face Mask Maxident",
-   "Face Mask Surgical"
-  ]
- },
- {
   "id": "gauze-disposable",
   "name": "Gauze",
   "brand": "",
@@ -7783,32 +7814,6 @@
    "Syringe 10cc Box Of 100",
    "Syringe 20cc Box 100",
    "Syringe Hypodermic"
-  ]
- },
- {
-  "id": "suture-2",
-  "name": "Suture",
-  "brand": "",
-  "category": "disposable",
-  "categoryLabel": "Disposables",
-  "description": "Surgical suture.",
-  "image": "assets/products/disposable/suture-4-0-silk.png",
-  "variants": [
-   "4.0 Falcon",
-   "5.0 Falcon",
-   "6.0 Falcon",
-   "Suture 3.0 Absorbable Look",
-   "Suture 3.0 Nylon Look",
-   "Suture 3.0 Silk AMS",
-   "Suture 3.0 Silk Falcon",
-   "Suture 3.0 Silk Look",
-   "Suture 4.0 Absorbable Look",
-   "Suture 4.0 Nylon Look",
-   "Suture 4.0 Silk AMS",
-   "Suture 4.0 Silk Look",
-   "Suture 5.0 Absorbable Look",
-   "Suture 6.0 Falcon Absorbable",
-   "Suture 7.0 Absorbable Falcon"
   ]
  },
  {
