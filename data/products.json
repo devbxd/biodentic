@@ -1128,7 +1128,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Matrix system for restorations.",
-  "image": null,
+  "image": "assets/products/disposable/tor-vm-matrix-band.jpg",
   "variants": [
    "0.03x5mm",
    "0.03x6mm",
@@ -1346,7 +1346,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Dental injection needle.",
-  "image": null,
+  "image": "assets/products/disposable/dental-injection-needle-box.webp",
   "variants": [
    "27g*34 Dochem",
    "27g*34 Supermed",
@@ -1884,7 +1884,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Glass ionomer material.",
-  "image": null,
+  "image": "assets/products/disposable/surgical-gloves-size-6.jpg",
   "variants": [
    "6 Alliance",
    "6.5 Alliance",
@@ -2554,7 +2554,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Surgical / endodontic product.",
-  "image": null,
+  "image": "assets/products/endo/h-files-mani.jpg",
   "variants": [
    "15-40/31",
    "20-31 Yellow",
@@ -2570,7 +2570,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Endodontic hand/rotary file.",
-  "image": null,
+  "image": "assets/products/endo/h-files-mani.jpg",
   "variants": [
    "10-25 Mauve",
    "15-25 White",
@@ -2641,7 +2641,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Endodontic hand/rotary file.",
-  "image": null,
+  "image": "assets/products/endo/mani-k-files-assorted.png",
   "variants": [
    "06-25 Pink",
    "08-25 Gris",
@@ -2769,7 +2769,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Surgical / endodontic product.",
-  "image": null,
+  "image": "assets/products/endo/endodontic-paper-points-iso-box.jpg",
   "variants": [
    "02/15",
    "02/20",
@@ -2915,7 +2915,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Endodontic hand/rotary file.",
-  "image": null,
+  "image": "assets/products/endo/protaper-rotary-file.png",
   "variants": [
    "20-04/25 NIC",
    "25-06/25 NIC",
@@ -2932,7 +2932,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Endodontic hand/rotary file.",
-  "image": null,
+  "image": "assets/products/endo/protaper-rotary-file.png",
   "variants": [
    "10-04 Mauve",
    "15-04/31",
@@ -6345,7 +6345,7 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Polishing product.",
-  "image": null,
+  "image": "assets/products/polishing/3m-sof-lex-disc-refill.jpg",
   "variants": [
    "8690C",
    "8690F",
@@ -9472,7 +9472,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Glass ionomer material.",
-  "image": null,
+  "image": "assets/products/disposable/surgical-gloves-size-6.jpg",
   "variants": [
    "Surgical Gloves 7.5 Other Brand Powder Free",
    "Surgical Gloves N 6",
@@ -9554,7 +9554,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Endodontic hand/rotary file.",
-  "image": null,
+  "image": "assets/products/endo/protaper-rotary-file.png",
   "variants": [
    "Rotary Files 10-06 Mauve Gold",
    "Rotary Files 15-04 White Gold",
@@ -9599,7 +9599,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Endodontic hand/rotary file.",
-  "image": null,
+  "image": "assets/products/endo/mani-k-files-assorted.png",
   "variants": [
    "K-files Vdeya 15-40 Assorted 25",
    "K-files Vdeya Assorted 15-40/31"
@@ -9641,7 +9641,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Endodontic hand/rotary file.",
-  "image": null,
+  "image": "assets/products/endo/protaper-rotary-file.png",
   "variants": [
    "Rotary File D-shaper Assorted",
    "Rotary File Reprise D1 D2 D3 Nic O+",
