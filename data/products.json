@@ -574,7 +574,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null
+  "image": "assets/products/disposable/matric-anatomique-410.jpg"
  },
  {
   "id": "matrix-band-box",
@@ -975,7 +975,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null
+  "image": "assets/products/disposable/id-ring-by-piece.jpg"
  },
  {
   "id": "porte-scie-tor",
@@ -1033,7 +1033,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null
+  "image": "assets/products/disposable/roll-chariot.jpg"
  },
  {
   "id": "implant-impression-tray",
@@ -4778,7 +4778,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Rotary dental bur.",
-  "image": null,
+  "image": "assets/products/disposable/bur-box.jpg",
   "variants": [
    "Bur Box Grand Model Beige",
    "Bur Box Microtour"
@@ -4791,7 +4791,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Rotary dental bur.",
-  "image": null,
+  "image": "assets/products/disposable/sterilization-box.png",
   "variants": [
    "Sterilization Box Bur",
    "Sterilization Box Instrument",
@@ -4805,7 +4805,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Applicator brush.",
-  "image": null,
+  "image": "assets/products/disposable/small-brush.jpg",
   "variants": [
    "Small Brush 3M",
    "Small Brush Cuivre Pack OF 3",
@@ -4819,7 +4819,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Sterilization consumable / equipment.",
-  "image": null,
+  "image": "assets/products/disposable/sterile-drape.jpg",
   "variants": [
    "Sterile Drape 50*75",
    "Sterile Drape 75*100",
@@ -4834,7 +4834,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null,
+  "image": "assets/products/disposable/dental-barrier-final.jpg",
   "variants": [
    "Dental Barrier Blue",
    "Dental Barrier Tr"
@@ -4919,7 +4919,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Dental curing / operatory light.",
-  "image": null,
+  "image": "assets/products/disposable/gun-light.jpg",
   "variants": [
    "Gun Light 77580",
    "Gun Light C"
@@ -4960,7 +4960,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Dental examination mirror.",
-  "image": null,
+  "image": "assets/products/disposable/mirror-rodium.jpg",
   "variants": [
    "Mirror Rodium Hahnenkratt",
    "Mirror Rodium Uk"
@@ -5053,7 +5053,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Surgical suture.",
-  "image": null,
+  "image": "assets/products/disposable/suture-4-0-falcon.jpg",
   "variants": [
    "Suture 4.0 Absorbable Falcon",
    "Suture 4.0 Absorbable Rapid Falcon",
