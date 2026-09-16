@@ -228,7 +228,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null,
+  "image": "assets/products/disposable/tooth-shade-ring.jpg",
   "variants": [
    "Bag Of 10",
    "Bag Of 50"
@@ -1042,7 +1042,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Impression material.",
-  "image": null
+  "image": "assets/products/disposable/implant-impression-tray.png"
  },
  {
   "id": "y",
@@ -1129,7 +1129,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Surgical / endodontic product.",
-  "image": null
+  "image": "assets/products/endo/devitec-devitalizing-paste.jpg"
  },
  {
   "id": "diaprep",
@@ -1138,7 +1138,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Surgical / endodontic product.",
-  "image": null
+  "image": "assets/products/endo/diaprep-edta.jpg"
  },
  {
   "id": "endomethasone-septodent",
@@ -1224,7 +1224,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Surgical / endodontic product.",
-  "image": null
+  "image": "assets/products/endo/kfile-mani-06-25-pink.png"
  },
  {
   "id": "k-files-kendo",
@@ -1233,7 +1233,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Endodontic hand/rotary file.",
-  "image": null
+  "image": "assets/products/endo/k-files-kendo.jpg"
  },
  {
   "id": "lentulo-21",
@@ -1328,7 +1328,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Surgical / endodontic product.",
-  "image": null
+  "image": "assets/products/endo/pulpodent.jpg"
  },
  {
   "id": "pulpotec",
@@ -1367,22 +1367,13 @@
   "image": null
  },
  {
-  "id": "rotary-pedo-gold-file",
-  "name": "Rotary Pedo Gold File",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic hand/rotary file.",
-  "image": null
- },
- {
   "id": "spreaders-20-yellow",
   "name": "Spreaders# 20 Yellow",
   "brand": "",
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Surgical / endodontic product.",
-  "image": null
+  "image": "assets/products/endo/spreaders-20-yellow.png"
  },
  {
   "id": "sure-endo-cord",
@@ -1430,7 +1421,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Apex locator.",
-  "image": null
+  "image": "assets/products/endo/tip-apex-locator.jpg"
  },
  {
   "id": "tire-nerf-20-25-30",
@@ -1534,7 +1525,7 @@
   "category": "etching",
   "categoryLabel": "Etching & Bonding",
   "description": "Dental etching gel.",
-  "image": null
+  "image": "assets/products/etching/meta-etching.jpg"
  },
  {
   "id": "exacto",
@@ -1731,7 +1722,7 @@
   "category": "fraise",
   "categoryLabel": "Burs",
   "description": "Rotary dental bur.",
-  "image": null
+  "image": "assets/products/fraise/lime-a-os-miller.jpg"
  },
  {
   "id": "mani-25",
@@ -1740,44 +1731,7 @@
   "category": "fraise",
   "categoryLabel": "Burs",
   "description": "Rotary dental bur.",
-  "image": null
- },
- {
-  "id": "stainless-steel-burs",
-  "name": "Stainless Steel Burs",
-  "brand": "",
-  "category": "fraise",
-  "categoryLabel": "Burs",
-  "description": "Rotary dental bur.",
-  "image": null,
-  "variants": [
-   "N1",
-   "N2",
-   "N3",
-   "N4",
-   "N5",
-   "N6",
-   "N7",
-   "N8"
-  ]
- },
- {
-  "id": "stainless-steel-wire",
-  "name": "Stainless Steel Wire",
-  "brand": "",
-  "category": "fraise",
-  "categoryLabel": "Burs",
-  "description": "Rotary dental bur.",
-  "image": null
- },
- {
-  "id": "gingival-retraction-paste-mediclus",
-  "name": "Gingival Retraction Paste Mediclus",
-  "brand": "",
-  "category": "impression",
-  "categoryLabel": "Impression Materials",
-  "description": "Impression material.",
-  "image": null
+  "image": "assets/products/fraise/mani-25.jpg"
  },
  {
   "id": "mh1-metal-housing",
@@ -1880,7 +1834,7 @@
   "category": "impression",
   "categoryLabel": "Impression Materials",
   "description": "Impression material.",
-  "image": null
+  "image": "assets/products/impression/lascod-medium-box-of-2.jpg"
  },
  {
   "id": "medium-cartridge-denu",
@@ -1907,7 +1861,7 @@
   "category": "impression",
   "categoryLabel": "Impression Materials",
   "description": "Impression material.",
-  "image": null
+  "image": "assets/products/impression/metrowax.jpg"
  },
  {
   "id": "millenium-alginate",
@@ -1970,7 +1924,7 @@
   "category": "impression",
   "categoryLabel": "Impression Materials",
   "description": "Impression material.",
-  "image": null
+  "image": "assets/products/impression/permlastic-regular.webp"
  },
  {
   "id": "polyether-adhesive",
@@ -1979,7 +1933,7 @@
   "category": "impression",
   "categoryLabel": "Impression Materials",
   "description": "Dental bonding / adhesive agent.",
-  "image": null
+  "image": "assets/products/impression/polyether-adhesive.jpg"
  },
  {
   "id": "rebasage-rebase-2",
@@ -1988,7 +1942,7 @@
   "category": "impression",
   "categoryLabel": "Impression Materials",
   "description": "Cavity liner / base material.",
-  "image": null
+  "image": "assets/products/impression/rebasage-rebase-2.jpg"
  },
  {
   "id": "sildent-medium-body",
@@ -2033,7 +1987,7 @@
   "category": "impression",
   "categoryLabel": "Impression Materials",
   "description": "Impression material.",
-  "image": null
+  "image": "assets/products/impression/virtual-putty.png"
  },
  {
   "id": "vps-tray-adhesive",
@@ -2172,7 +2126,7 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Dental instrument.",
-  "image": null
+  "image": "assets/products/instrument/cutting-knife-coltene.jpg"
  },
  {
   "id": "manual-scaler",
@@ -2695,7 +2649,7 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Polishing product.",
-  "image": null,
+  "image": "assets/products/polishing/disk-soflex-tor.jpg",
   "variants": [
    "1020",
    "1071",
@@ -2775,8 +2729,8 @@
   "image": null
  },
  {
-  "id": "ceramic-polishing-by-pc-youdent",
-  "name": "Ceramic Polishing By Pc Youdent",
+  "id": "zirconia-polishing-by-pc-smartpx",
+  "name": "Zirconia Polishing By Pc Smartpx",
   "brand": "",
   "category": "polishing",
   "categoryLabel": "Polishing",
@@ -2790,7 +2744,7 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Polishing product.",
-  "image": null
+  "image": "assets/products/polishing/renfert-polishing-kit-all-in-one-stater-kit.jpg"
  },
  {
   "id": "opalustre",
@@ -3092,7 +3046,7 @@
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Temporary restorative material.",
-  "image": null,
+  "image": "assets/products/temporary/charmtemp.png",
   "variants": [
    "A1",
    "A2",
@@ -3124,7 +3078,7 @@
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Temporary restorative material.",
-  "image": null
+  "image": "assets/products/temporary/kit-alike.webp"
  },
  {
   "id": "light-curing-temporary-resin-cartridge",
@@ -3187,21 +3141,6 @@
   "variants": [
    "1 Sereingue",
    "Bag Of 3"
-  ]
- },
- {
-  "id": "acrylic-powder-nictone-2",
-  "name": "Acrylic Powder Nictone",
-  "brand": "",
-  "category": "temporary",
-  "categoryLabel": "Temporary Materials",
-  "description": "Acrylic dental material.",
-  "image": null,
-  "variants": [
-   "A1",
-   "A2",
-   "A3",
-   "B1"
   ]
  },
  {
@@ -3348,7 +3287,7 @@
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Temporary restorative material.",
-  "image": null
+  "image": "assets/products/temporary/any-cem-implant.jpg"
  },
  {
   "id": "medical-gown",
@@ -3411,7 +3350,7 @@
   "category": "whitening",
   "categoryLabel": "Whitening",
   "description": "Teeth whitening product.",
-  "image": null
+  "image": "assets/products/whitening/itena-whithening-office.webp"
  },
  {
   "id": "pure-white-office",
@@ -3804,6 +3743,23 @@
   ]
  },
  {
+  "id": "rotary-gold",
+  "name": "Rotary Gold",
+  "brand": "",
+  "category": "endo",
+  "categoryLabel": "Endodontics",
+  "description": "Endodontic hand/rotary file.",
+  "image": "assets/products/endo/rotary-pedo-gold-file.jpg",
+  "variants": [
+   "Rotary Files 10-06 Mauve Gold",
+   "Rotary Files 15-04 White Gold",
+   "Rotary Files 30-06 Blue Gold",
+   "Rotary Files 35-06 Green Gold",
+   "Rotary Files Assorted Gold",
+   "Rotary Pedo Gold File"
+  ]
+ },
+ {
   "id": "endodontics-assorted-2",
   "name": "Endodontics (Assorted)",
   "brand": "",
@@ -3814,6 +3770,32 @@
   "variants": [
    "Spray Endo Frost",
    "Test A Froid"
+  ]
+ },
+ {
+  "id": "etching-denfil",
+  "name": "Etching Denfil",
+  "brand": "",
+  "category": "etching",
+  "categoryLabel": "Etching & Bonding",
+  "description": "Dental etching gel.",
+  "image": "assets/products/etching/etching-denfil.jpg",
+  "variants": [
+   "Etching Denfil Box Of 12",
+   "Etching Denfil By Piece"
+  ]
+ },
+ {
+  "id": "fiberpost-contec-pack-of-10",
+  "name": "Fiberpost Contec Pack Of 10",
+  "brand": "",
+  "category": "fiberpost",
+  "categoryLabel": "Fiber Posts",
+  "description": "Fiber post system.",
+  "image": "assets/products/fiberpost/fiberpost-contec.jpg",
+  "variants": [
+   "Fiberpost Contec 1.1 Pack Of 10",
+   "Fiberpost Contec 1.5 Pack Of 10"
   ]
  },
  {
@@ -3855,6 +3837,21 @@
   "variants": [
    "Bur Carbide Boule",
    "Bur Carbide Boule Contre Angle"
+  ]
+ },
+ {
+  "id": "retraction-paste",
+  "name": "Retraction Paste",
+  "brand": "",
+  "category": "impression",
+  "categoryLabel": "Impression Materials",
+  "description": "Impression material.",
+  "image": "assets/products/impression/retraction-paste.jpg",
+  "variants": [
+   "Gingival Retraction Paste Mediclus",
+   "Retraction Paste Dmg",
+   "Retraction Paste Kulzer",
+   "Retraction Paste Vocco Or Supertract"
   ]
  },
  {
@@ -4162,6 +4159,19 @@
    "Prophylaxis PASTE Orange",
    "Prophylaxis Paste Medental",
    "Prophylaxis Paste Strawberry Spectra"
+  ]
+ },
+ {
+  "id": "polishing-by-pc-youdent",
+  "name": "Polishing By Pc Youdent",
+  "brand": "",
+  "category": "polishing",
+  "categoryLabel": "Polishing",
+  "description": "Polishing product.",
+  "image": "assets/products/polishing/ceramic-polishing-by-pc-youdent.jpg",
+  "variants": [
+   "Ceramic Polishing By Pc Youdent",
+   "Zirconia Polishing By Pc Youdent"
   ]
  },
  {
@@ -4549,6 +4559,26 @@
   ]
  },
  {
+  "id": "stainless-steel-burs",
+  "name": "Stainless Steel Burs",
+  "brand": "",
+  "category": "fraise",
+  "categoryLabel": "Burs",
+  "description": "Rotary dental bur.",
+  "image": "assets/products/fraise/stainless-steel-burs.jpg",
+  "variants": [
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5",
+   "N6",
+   "N7",
+   "N8",
+   "Stainless Steel Wire"
+  ]
+ },
+ {
   "id": "express",
   "name": "Express",
   "brand": "",
@@ -4680,6 +4710,23 @@
    "Liquid Nictone 250ml",
    "Liquid Nictone 950ml",
    "Nictone Liquid"
+  ]
+ },
+ {
+  "id": "acrylic-powder-nictone-2",
+  "name": "Acrylic Powder Nictone",
+  "brand": "",
+  "category": "temporary",
+  "categoryLabel": "Temporary Materials",
+  "description": "Acrylic dental material.",
+  "image": "assets/products/temporary/acrylic-powder-nictone.png",
+  "variants": [
+   "A1",
+   "A2",
+   "A3",
+   "Acrylic Powder Nictone Acrylic Powder B1 Nictone Grd",
+   "Acrylic Powder Nictone Acrylic Powder Nictone",
+   "B1"
   ]
  },
  {
@@ -5121,19 +5168,6 @@
   ]
  },
  {
-  "id": "etching-denfil",
-  "name": "Etching Denfil",
-  "brand": "",
-  "category": "etching",
-  "categoryLabel": "Etching & Bonding",
-  "description": "Dental etching gel.",
-  "image": null,
-  "variants": [
-   "Etching Denfil Box Of 12",
-   "Etching Denfil By Piece"
-  ]
- },
- {
   "id": "etching-fluoridrique",
   "name": "Etching Fluoridrique",
   "brand": "",
@@ -5174,26 +5208,13 @@
   ]
  },
  {
-  "id": "fiberpost-contec",
-  "name": "Fiberpost Contec",
-  "brand": "",
-  "category": "fiberpost",
-  "categoryLabel": "Fiber Posts",
-  "description": "Fiber post system.",
-  "image": null,
-  "variants": [
-   "Fiberpost Contec 1.1 Pack Of 10",
-   "Fiberpost Contec 1.5 Pack Of 10"
-  ]
- },
- {
   "id": "carbide-bur",
   "name": "Carbide Bur",
   "brand": "",
   "category": "fraise",
   "categoryLabel": "Burs",
   "description": "Rotary dental bur.",
-  "image": null,
+  "image": "assets/products/fraise/carbide-bur.jpg",
   "variants": [
    "Carbide Bur HP 56 Prima",
    "Carbide Bur HP 58 Prima"
@@ -5206,7 +5227,7 @@
   "category": "fraise",
   "categoryLabel": "Burs",
   "description": "Rotary dental bur.",
-  "image": null,
+  "image": "assets/products/fraise/bur-acryl.jpg",
   "variants": [
    "Bur Acryl Carbide Handpiece",
    "Bur Acryl Carbide Handpiece Low Q"
@@ -5232,7 +5253,7 @@
   "category": "fraise",
   "categoryLabel": "Burs",
   "description": "Glass ionomer material.",
-  "image": null,
+  "image": "assets/products/fraise/bur-chirurgicale.jpg",
   "variants": [
    "Bur Chirurgicale 401",
    "Bur Chirurgicale Conique"
@@ -5271,24 +5292,10 @@
   "category": "fraise",
   "categoryLabel": "Burs",
   "description": "Rotary dental bur.",
-  "image": null,
+  "image": "assets/products/fraise/bur-zekria.jpg",
   "variants": [
    "Bur Zekria H267",
    "Bur Zekria Mani"
-  ]
- },
- {
-  "id": "retraction-paste",
-  "name": "Retraction Paste",
-  "brand": "",
-  "category": "impression",
-  "categoryLabel": "Impression Materials",
-  "description": "Impression material.",
-  "image": null,
-  "variants": [
-   "Retraction Paste Dmg",
-   "Retraction Paste Kulzer",
-   "Retraction Paste Vocco Or Supertract"
   ]
  },
  {
@@ -5298,7 +5305,7 @@
   "category": "impression",
   "categoryLabel": "Impression Materials",
   "description": "Dental curing / operatory light.",
-  "image": null,
+  "image": "assets/products/impression/express-xt.jpg",
   "variants": [
    "3M Express Xt Light 36974 Box Of 2",
    "3M Express Xt Light Quick 36976 Box Of 2"
@@ -5647,19 +5654,6 @@
   ]
  },
  {
-  "id": "zirconia-polishing",
-  "name": "Zirconia Polishing",
-  "brand": "",
-  "category": "polishing",
-  "categoryLabel": "Polishing",
-  "description": "Polishing product.",
-  "image": null,
-  "variants": [
-   "Zirconia Polishing By Pc Smartpx",
-   "Zirconia Polishing By Pc Youdent"
-  ]
- },
- {
   "id": "gel-fluore",
   "name": "Gel Fluore",
   "brand": "",
@@ -5764,10 +5758,8 @@
   "image": "assets/products/temporary/self-cure-acrylic-denture-powder.webp",
   "variants": [
    "Acrylic Powder 400mg",
-   "Acrylic Powder B1 Nictone Grd",
    "Acrylic Powder Brulon Bleach",
-   "Acrylic Powder Brulon TR",
-   "Acrylic Powder Nictone"
+   "Acrylic Powder Brulon TR"
   ]
  },
  {
@@ -5790,7 +5782,7 @@
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Temporary restorative material.",
-  "image": null,
+  "image": "assets/products/temporary/relyx-temp.jpg",
   "variants": [
    "Relyx Temp Es Temp Ne 2 Syringe Of 10g",
    "Relyx Temp NE"
@@ -6307,7 +6299,7 @@
   "category": "fraise",
   "categoryLabel": "Burs",
   "description": "Rotary dental bur.",
-  "image": null,
+  "image": "assets/products/fraise/bur-mani.jpg",
   "variants": [
    "Bur 257.023 TR",
    "Bur Acier Thomas N7 By Piece",
@@ -7404,13 +7396,8 @@
    "Rotary File SX",
    "Rotary File Silver 04-25 With Opener (4files)byekoul",
    "Rotary File Silver 06-25 With Opener (4files) Byekoul",
-   "Rotary Files 10-06 Mauve Gold",
-   "Rotary Files 15-04 White Gold",
    "Rotary Files 25-06 Rouge (Blue)",
-   "Rotary Files 30-06 Blue Gold",
-   "Rotary Files 35-06 Green Gold",
    "Rotary Files Assorted",
-   "Rotary Files Assorted Gold",
    "Rotary Files Assorted Heated Chameleon",
    "S1",
    "S2"
