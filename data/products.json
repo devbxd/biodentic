@@ -1534,7 +1534,7 @@
   "category": "fiberpost",
   "categoryLabel": "Fiber Posts",
   "description": "Fiber post system.",
-  "image": null,
+  "image": "assets/products/fiberpost/exacto.webp",
   "variants": [
    "N1",
    "N2",
@@ -1548,7 +1548,7 @@
   "category": "fiberpost",
   "categoryLabel": "Fiber Posts",
   "description": "Fiber post system.",
-  "image": null
+  "image": "assets/products/fiberpost/reforpin.jpg"
  },
  {
   "id": "exacto-n0-5",
@@ -1557,7 +1557,7 @@
   "category": "fiberpost",
   "categoryLabel": "Fiber Posts",
   "description": "Fiber post system.",
-  "image": null
+  "image": "assets/products/fiberpost/exacto-n0-5.jpg"
  },
  {
   "id": "kit-fiberpost-3m",
@@ -1566,7 +1566,7 @@
   "category": "fiberpost",
   "categoryLabel": "Fiber Posts",
   "description": "Fiber post system.",
-  "image": null
+  "image": "assets/products/fiberpost/kit-fiberpost-3m.jpg"
  },
  {
   "id": "3m-fiberpost-drills",
@@ -2379,7 +2379,7 @@
   "category": "machine",
   "categoryLabel": "Equipment",
   "description": "Dental practice equipment.",
-  "image": null
+  "image": "assets/products/machine/aluminum-oxide-air-abrasion.jpg"
  },
  {
   "id": "applicap-3m-73050",
@@ -2695,7 +2695,7 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Light-cure dental composite.",
-  "image": null
+  "image": "assets/products/polishing/paste-polissage-composite-kris.jpg"
  },
  {
   "id": "polishing-disc-for-zircon",
@@ -3014,7 +3014,7 @@
   "category": "restorative",
   "categoryLabel": "Restorative",
   "description": "Restorative dental material.",
-  "image": null
+  "image": "assets/products/restorative/compostite-zenit-bl.png"
  },
  {
   "id": "acrylic-gd-model",
@@ -3409,7 +3409,7 @@
   "category": "xray",
   "categoryLabel": "X-Ray",
   "description": "X-ray / imaging product.",
-  "image": null,
+  "image": "assets/products/xray/dental-film-eco30.jpg",
   "variants": [
    "Box Of 50"
   ]
@@ -5200,7 +5200,7 @@
   "category": "fiberpost",
   "categoryLabel": "Fiber Posts",
   "description": "Fiber post system.",
-  "image": null,
+  "image": "assets/products/fiberpost/fiberpost-3m.jpg",
   "variants": [
    "Fiberpost 3M N3 Blue",
    "Fiberpost 3M White 56860",
@@ -5913,7 +5913,7 @@
   "category": "cementation",
   "categoryLabel": "Cementation",
   "description": "Dental cement.",
-  "image": null,
+  "image": "assets/products/cementation/breeze.jpg",
   "variants": [
    "Breeze Tr",
    "Breeze Wo"
