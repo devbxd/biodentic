@@ -2324,7 +2324,7 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Dental instrument.",
-  "image": null
+  "image": "assets/products/instrument/luxator.jpg"
  },
  {
   "id": "perio-probe-millimetre",
@@ -2450,7 +2450,7 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Dental examination mirror.",
-  "image": null
+  "image": "assets/products/instrument/large-mirror.jpg"
  },
  {
   "id": "cotton-roll-holder",
@@ -2459,7 +2459,7 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Cotton / gauze consumable.",
-  "image": null
+  "image": "assets/products/instrument/cotton-roll-holder.jpg"
  },
  {
   "id": "gauge-measuring-gauge-of-reduction-0-10-till-0-50",
@@ -2621,7 +2621,7 @@
   "category": "machine",
   "categoryLabel": "Equipment",
   "description": "Dental practice equipment.",
-  "image": null
+  "image": "assets/products/machine/trolley.jpg"
  },
  {
   "id": "surgical-suction-machine",
@@ -2747,7 +2747,7 @@
   "category": "ortho",
   "categoryLabel": "Orthodontics",
   "description": "Orthodontic bracket.",
-  "image": null
+  "image": "assets/products/ortho/brackets-clarity-022-with-hook-3m.jpg"
  },
  {
   "id": "5092im-polishing-3m",
@@ -2780,15 +2780,6 @@
    "1071",
    "1075"
   ]
- },
- {
-  "id": "eve-polishing-zircon-for-handpiece",
-  "name": "Eve Polishing Zircon For Handpiece",
-  "brand": "",
-  "category": "polishing",
-  "categoryLabel": "Polishing",
-  "description": "Polishing product.",
-  "image": null
  },
  {
   "id": "bur-poil-fleur-grand",
@@ -3034,15 +3025,6 @@
   "image": null
  },
  {
-  "id": "meche-fiber-comme-interlig",
-  "name": "Meche Fiber Comme Interlig",
-  "brand": "",
-  "category": "restorative",
-  "categoryLabel": "Restorative",
-  "description": "Restorative dental material.",
-  "image": "assets/products/restorative/interlig-by-piece.png"
- },
- {
   "id": "medifill",
   "name": "Medifill",
   "brand": "",
@@ -3067,7 +3049,7 @@
   "category": "restorative",
   "categoryLabel": "Restorative",
   "description": "Light-cure dental composite.",
-  "image": null
+  "image": "assets/products/restorative/p60-composite-a3-b2.jpg"
  },
  {
   "id": "palfique-oa1-oa2-oa3",
@@ -3076,7 +3058,7 @@
   "category": "restorative",
   "categoryLabel": "Restorative",
   "description": "Restorative dental material.",
-  "image": null
+  "image": "assets/products/restorative/palfique-oa1-oa2-oa3.png"
  },
  {
   "id": "snow-white-estelite",
@@ -3085,7 +3067,7 @@
   "category": "restorative",
   "categoryLabel": "Restorative",
   "description": "Teeth whitening product.",
-  "image": null
+  "image": "assets/products/restorative/snow-white-estelite.jpg"
  },
  {
   "id": "stop-caries-x",
@@ -3112,7 +3094,7 @@
   "category": "restorative",
   "categoryLabel": "Restorative",
   "description": "Restorative dental material.",
-  "image": null
+  "image": "assets/products/restorative/z-primer.jpg"
  },
  {
   "id": "z250xt-a1-a2-a3-a3-5",
@@ -3145,15 +3127,6 @@
   "id": "articulating-paper-bauch-200-microns-box-of-50-teeth-ceramic",
   "name": "Articulating Paper Bauch 200 Microns Box Of 50(teeth&ceramic)",
   "brand": "",
-  "category": "restorative",
-  "categoryLabel": "Restorative",
-  "description": "Restorative dental material.",
-  "image": null
- },
- {
-  "id": "interlig-by-piece",
-  "name": "Interlig By Piece",
-  "brand": "angelus",
   "category": "restorative",
   "categoryLabel": "Restorative",
   "description": "Restorative dental material.",
@@ -4235,6 +4208,19 @@
   ]
  },
  {
+  "id": "eve-polishing-for",
+  "name": "Eve Polishing For",
+  "brand": "",
+  "category": "polishing",
+  "categoryLabel": "Polishing",
+  "description": "Polishing product.",
+  "image": "assets/products/polishing/eve-polishing-zircon-for-handpiece.png",
+  "variants": [
+   "Eve Polishing Zircon For Handpiece",
+   "Kit Polishing For Ceramic And Zirconia RA307 Eve"
+  ]
+ },
+ {
   "id": "finishing",
   "name": "Finishing",
   "brand": "",
@@ -4347,6 +4333,19 @@
   "variants": [
    "Estelite Caps A2 Sigma Quick",
    "Estelite OA1 OA2 OA3 QUICK"
+  ]
+ },
+ {
+  "id": "interlig",
+  "name": "Interlig",
+  "brand": "angelus",
+  "category": "restorative",
+  "categoryLabel": "Restorative",
+  "description": "Restorative dental material.",
+  "image": "assets/products/restorative/interlig-by-piece.png",
+  "variants": [
+   "Interlig By Piece",
+   "Meche Fiber Comme Interlig"
   ]
  },
  {
@@ -5609,7 +5608,6 @@
   "image": null,
   "variants": [
    "KIT Polishing Platon",
-   "Kit Polishing For Ceramic And Zirconia RA307 Eve",
    "Kit Polishing Shofu Stone"
   ]
  },
