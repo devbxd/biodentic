@@ -2297,7 +2297,7 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Disposable dental cup.",
-  "image": null
+  "image": "assets/products/instrument/glass-cup.png"
  },
  {
   "id": "plaster-knife",
@@ -2432,7 +2432,7 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Dental instrument.",
-  "image": null
+  "image": "assets/products/instrument/sinus-lift-instrument.jpg"
  },
  {
   "id": "chapeau-chinois",
