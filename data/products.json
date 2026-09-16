@@ -3238,19 +3238,6 @@
   "image": null
  },
  {
-  "id": "liquid-nictone",
-  "name": "Liquid Nictone",
-  "brand": "",
-  "category": "temporary",
-  "categoryLabel": "Temporary Materials",
-  "description": "Temporary restorative material.",
-  "image": null,
-  "variants": [
-   "250ml",
-   "950ml"
-  ]
- },
- {
   "id": "luxatemp-bl",
   "name": "Luxatemp BL",
   "brand": "",
@@ -3266,15 +3253,6 @@
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Dental crown.",
-  "image": null
- },
- {
-  "id": "nictone-liquid",
-  "name": "Nictone Liquid",
-  "brand": "",
-  "category": "temporary",
-  "categoryLabel": "Temporary Materials",
-  "description": "Temporary restorative material.",
   "image": null
  },
  {
@@ -3503,7 +3481,7 @@
   "category": "whitening",
   "categoryLabel": "Whitening",
   "description": "Teeth whitening product.",
-  "image": null
+  "image": "assets/products/whitening/hp-whiteness-home-16.png"
  },
  {
   "id": "itena-whithening-office",
@@ -4720,6 +4698,21 @@
    "A2",
    "A3",
    "Tw"
+  ]
+ },
+ {
+  "id": "liquid",
+  "name": "Liquid",
+  "brand": "",
+  "category": "temporary",
+  "categoryLabel": "Temporary Materials",
+  "description": "Temporary restorative material.",
+  "image": "assets/products/temporary/nictone-liquid.webp",
+  "variants": [
+   "Acrylic Liquid Bottle",
+   "Liquid Nictone 250ml",
+   "Liquid Nictone 950ml",
+   "Nictone Liquid"
   ]
  },
  {
@@ -6972,7 +6965,6 @@
   "image": null,
   "variants": [
    "Acrylic GD Model Bleach Bulgary",
-   "Acrylic Liquid Bottle",
    "Acrylic Repair"
   ]
  },
