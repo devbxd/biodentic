@@ -3330,7 +3330,7 @@
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Temporary restorative material.",
-  "image": null
+  "image": "assets/products/temporary/provitemp.jpg"
  },
  {
   "id": "temporary-resin-dentocrown",
@@ -4833,7 +4833,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null,
+  "image": "assets/products/disposable/double-sided-trays.png",
   "variants": [
    "Double-sided Trays Anterior",
    "Double-sided Trays Bite",
