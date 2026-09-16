@@ -987,46 +987,14 @@
   "image": null,
   "variants": [
    "0",
+   "0 Epinephrine",
    "00",
+   "00 Epinephrine",
+   "000 Epinephrine",
+   "1 Epinephrine",
    "2",
    "3"
   ]
- },
- {
-  "id": "thread-retr-0-epinephrine",
-  "name": "Thread RETR 0 Epinephrine",
-  "brand": "",
-  "category": "disposable",
-  "categoryLabel": "Disposables",
-  "description": "Disposable dental product.",
-  "image": null
- },
- {
-  "id": "thread-retr-00-epinephrine",
-  "name": "Thread RETR 00 Epinephrine",
-  "brand": "",
-  "category": "disposable",
-  "categoryLabel": "Disposables",
-  "description": "Disposable dental product.",
-  "image": null
- },
- {
-  "id": "thread-retr-000-epinephrine",
-  "name": "Thread RETR 000 Epinephrine",
-  "brand": "",
-  "category": "disposable",
-  "categoryLabel": "Disposables",
-  "description": "Disposable dental product.",
-  "image": null
- },
- {
-  "id": "thread-retr-1-epinephrine",
-  "name": "Thread RETR 1 Epinephrine",
-  "brand": "",
-  "category": "disposable",
-  "categoryLabel": "Disposables",
-  "description": "Disposable dental product.",
-  "image": null
  },
  {
   "id": "fluor-tray",
@@ -1070,13 +1038,17 @@
   "image": null
  },
  {
-  "id": "gauze-1-5-kg",
-  "name": "Gauze 1.5 Kg",
+  "id": "gauze",
+  "name": "Gauze",
   "brand": "",
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Cotton / gauze consumable.",
-  "image": null
+  "image": null,
+  "variants": [
+   "1.5 Kg",
+   "Pack Of 500"
+  ]
  },
  {
   "id": "gauze-10cm-10cm",
@@ -1090,15 +1062,6 @@
  {
   "id": "dochem-gauze",
   "name": "Dochem Gauze",
-  "brand": "",
-  "category": "disposable",
-  "categoryLabel": "Disposables",
-  "description": "Cotton / gauze consumable.",
-  "image": null
- },
- {
-  "id": "gauze-pack-of-500",
-  "name": "Gauze Pack Of 500",
   "brand": "",
   "category": "disposable",
   "categoryLabel": "Disposables",
@@ -1888,51 +1851,6 @@
   "image": null
  },
  {
-  "id": "matrix-band-0-03x5mm",
-  "name": "Matrix Band 0.03x5mm",
-  "brand": "",
-  "category": "disposable",
-  "categoryLabel": "Disposables",
-  "description": "Matrix system for restorations.",
-  "image": null
- },
- {
-  "id": "matrix-band-0-03x6mm",
-  "name": "Matrix Band 0.03x6mm",
-  "brand": "",
-  "category": "disposable",
-  "categoryLabel": "Disposables",
-  "description": "Matrix system for restorations.",
-  "image": null
- },
- {
-  "id": "matrix-band-0-03x7mm",
-  "name": "Matrix Band 0.03x7mm",
-  "brand": "",
-  "category": "disposable",
-  "categoryLabel": "Disposables",
-  "description": "Matrix system for restorations.",
-  "image": null
- },
- {
-  "id": "matrix-band-0-05-5mm-3",
-  "name": "Matrix Band 0.05*5mm*3",
-  "brand": "",
-  "category": "disposable",
-  "categoryLabel": "Disposables",
-  "description": "Matrix system for restorations.",
-  "image": null
- },
- {
-  "id": "matrix-band-0-05-7mm-3",
-  "name": "Matrix Band 0.05*7mm*3",
-  "brand": "",
-  "category": "disposable",
-  "categoryLabel": "Disposables",
-  "description": "Matrix system for restorations.",
-  "image": null
- },
- {
   "id": "matrix-band",
   "name": "Matrix Band",
   "brand": "",
@@ -1941,8 +1859,15 @@
   "description": "Matrix system for restorations.",
   "image": null,
   "variants": [
+   "0.03x5mm",
+   "0.03x6mm",
+   "0.03x7mm",
+   "0.05*5mm*3",
+   "0.05*7mm*3",
    "1098",
    "1384",
+   "1523 Unica",
+   "1533 Unica",
    "1972",
    "1973",
    "1976"
@@ -1969,24 +1894,6 @@
  {
   "id": "matrix-band-1388-unica-spoon-l",
   "name": "Matrix Band 1388 Unica Spoon L",
-  "brand": "",
-  "category": "disposable",
-  "categoryLabel": "Disposables",
-  "description": "Matrix system for restorations.",
-  "image": null
- },
- {
-  "id": "matrix-band-1523-unica",
-  "name": "Matrix Band 1523 Unica",
-  "brand": "",
-  "category": "disposable",
-  "categoryLabel": "Disposables",
-  "description": "Matrix system for restorations.",
-  "image": null
- },
- {
-  "id": "matrix-band-1533-unica",
-  "name": "Matrix Band 1533 Unica",
   "brand": "",
   "category": "disposable",
   "categoryLabel": "Disposables",
@@ -2205,40 +2112,19 @@
   "image": null
  },
  {
-  "id": "micromega-20-04",
-  "name": "Micromega 20/04",
+  "id": "micromega",
+  "name": "Micromega",
   "brand": "",
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null
- },
- {
-  "id": "micromega-21-06",
-  "name": "Micromega 21/06",
-  "brand": "",
-  "category": "disposable",
-  "categoryLabel": "Disposables",
-  "description": "Disposable dental product.",
-  "image": null
- },
- {
-  "id": "micromega-25-04",
-  "name": "Micromega 25/04",
-  "brand": "",
-  "category": "disposable",
-  "categoryLabel": "Disposables",
-  "description": "Disposable dental product.",
-  "image": null
- },
- {
-  "id": "micromega-25-06",
-  "name": "Micromega 25/06",
-  "brand": "",
-  "category": "disposable",
-  "categoryLabel": "Disposables",
-  "description": "Disposable dental product.",
-  "image": null
+  "image": null,
+  "variants": [
+   "20/04",
+   "21/06",
+   "25/04",
+   "25/06"
+  ]
  },
  {
   "id": "micromega-assorted-one-reci",
@@ -2259,35 +2145,22 @@
   "image": null
  },
  {
-  "id": "mirror-n4-becht",
-  "name": "Mirror N4 Becht",
+  "id": "mirror",
+  "name": "Mirror",
   "brand": "",
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Dental examination mirror.",
-  "image": null
+  "image": null,
+  "variants": [
+   "N4 Becht",
+   "N5 Rolf",
+   "N6 Rolf"
+  ]
  },
  {
   "id": "mirror-n5-hanenkraft-plane",
   "name": "Mirror N5 Hanenkraft Plane",
-  "brand": "",
-  "category": "disposable",
-  "categoryLabel": "Disposables",
-  "description": "Dental examination mirror.",
-  "image": null
- },
- {
-  "id": "mirror-n5-rolf",
-  "name": "Mirror N5 Rolf",
-  "brand": "",
-  "category": "disposable",
-  "categoryLabel": "Disposables",
-  "description": "Dental examination mirror.",
-  "image": null
- },
- {
-  "id": "mirror-n6-rolf",
-  "name": "Mirror N6 Rolf",
   "brand": "",
   "category": "disposable",
   "categoryLabel": "Disposables",
@@ -2376,85 +2249,24 @@
   "image": null
  },
  {
-  "id": "needles-27g-34-dochem",
-  "name": "Needles 27g*34 Dochem",
+  "id": "needles",
+  "name": "Needles",
   "brand": "",
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Dental injection needle.",
-  "image": null
- },
- {
-  "id": "needles-27g-34-supermed",
-  "name": "Needles 27g*34 Supermed",
-  "brand": "",
-  "category": "disposable",
-  "categoryLabel": "Disposables",
-  "description": "Dental injection needle.",
-  "image": null
- },
- {
-  "id": "needles-30g-12-dochem",
-  "name": "Needles 30g*12 Dochem",
-  "brand": "",
-  "category": "disposable",
-  "categoryLabel": "Disposables",
-  "description": "Dental injection needle.",
-  "image": null
- },
- {
-  "id": "needles-30g-12-monojecto",
-  "name": "Needles 30g*12 Monojecto",
-  "brand": "",
-  "category": "disposable",
-  "categoryLabel": "Disposables",
-  "description": "Dental injection needle.",
-  "image": null
- },
- {
-  "id": "needles-30g-21-dochem",
-  "name": "Needles 30g*21 Dochem",
-  "brand": "",
-  "category": "disposable",
-  "categoryLabel": "Disposables",
-  "description": "Dental injection needle.",
-  "image": null
- },
- {
-  "id": "needles-30g-21-monojecto",
-  "name": "Needles 30g*21 Monojecto",
-  "brand": "",
-  "category": "disposable",
-  "categoryLabel": "Disposables",
-  "description": "Dental injection needle.",
-  "image": null
- },
- {
-  "id": "needles-30g-21-supermed",
-  "name": "Needles 30g*21 Supermed",
-  "brand": "",
-  "category": "disposable",
-  "categoryLabel": "Disposables",
-  "description": "Dental injection needle.",
-  "image": null
- },
- {
-  "id": "needles-30g-25",
-  "name": "Needles 30g*25",
-  "brand": "",
-  "category": "disposable",
-  "categoryLabel": "Disposables",
-  "description": "Dental injection needle.",
-  "image": null
- },
- {
-  "id": "needles-30g-8-monojecto",
-  "name": "Needles 30g*8 Monojecto",
-  "brand": "",
-  "category": "disposable",
-  "categoryLabel": "Disposables",
-  "description": "Dental injection needle.",
-  "image": null
+  "image": null,
+  "variants": [
+   "27g*34 Dochem",
+   "27g*34 Supermed",
+   "30g*12 Dochem",
+   "30g*12 Monojecto",
+   "30g*21 Dochem",
+   "30g*21 Monojecto",
+   "30g*21 Supermed",
+   "30g*25",
+   "30g*8 Monojecto"
+  ]
  },
  {
   "id": "needles-27g-x34-monojecto",
@@ -2810,6 +2622,39 @@
   "image": null
  },
  {
+  "id": "retraction-cord",
+  "name": "Retraction Cord",
+  "brand": "",
+  "category": "disposable",
+  "categoryLabel": "Disposables",
+  "description": "Disposable dental product.",
+  "image": "assets/products/disposable/retraction-cord-epinephrine-box.jpg",
+  "variants": [
+   "0 Atria",
+   "00 Atria",
+   "000 Atria",
+   "1 Atria"
+  ]
+ },
+ {
+  "id": "autoclave-roll",
+  "name": "Autoclave Roll",
+  "brand": "",
+  "category": "disposable",
+  "categoryLabel": "Disposables",
+  "description": "Sterilization consumable / equipment.",
+  "image": "assets/products/disposable/autoclave-sterilization-pouch-roll.png",
+  "variants": [
+   "10 Cm",
+   "15cm",
+   "20cm",
+   "25cm",
+   "30cm",
+   "5 Cm",
+   "7.5cm"
+  ]
+ },
+ {
   "id": "rouleau-cotton",
   "name": "Rouleau Cotton",
   "brand": "",
@@ -3077,40 +2922,22 @@
   ]
  },
  {
-  "id": "surgical-gloves-6-alliance",
-  "name": "Surgical Gloves 6 Alliance",
+  "id": "surgical-gloves",
+  "name": "Surgical Gloves",
   "brand": "",
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Glass ionomer material.",
-  "image": null
- },
- {
-  "id": "surgical-gloves-6-5-alliance",
-  "name": "Surgical Gloves 6.5 Alliance",
-  "brand": "",
-  "category": "disposable",
-  "categoryLabel": "Disposables",
-  "description": "Glass ionomer material.",
-  "image": null
- },
- {
-  "id": "surgical-gloves-7-alliance",
-  "name": "Surgical Gloves 7 Alliance",
-  "brand": "",
-  "category": "disposable",
-  "categoryLabel": "Disposables",
-  "description": "Glass ionomer material.",
-  "image": null
- },
- {
-  "id": "surgical-gloves-7-5-alliance",
-  "name": "Surgical Gloves 7.5 Alliance",
-  "brand": "",
-  "category": "disposable",
-  "categoryLabel": "Disposables",
-  "description": "Glass ionomer material.",
-  "image": null
+  "image": null,
+  "variants": [
+   "6 Alliance",
+   "6.5 Alliance",
+   "7 Alliance",
+   "7.5 Alliance",
+   "7.5 Powdered",
+   "8.0",
+   "8.5"
+  ]
  },
  {
   "id": "surgical-gloves-7-5-other-brand-powder-free",
@@ -3120,28 +2947,6 @@
   "categoryLabel": "Disposables",
   "description": "Glass ionomer material.",
   "image": null
- },
- {
-  "id": "surgical-gloves-7-5-powdered",
-  "name": "Surgical Gloves 7.5 Powdered",
-  "brand": "",
-  "category": "disposable",
-  "categoryLabel": "Disposables",
-  "description": "Glass ionomer material.",
-  "image": null
- },
- {
-  "id": "surgical-gloves",
-  "name": "Surgical Gloves",
-  "brand": "",
-  "category": "disposable",
-  "categoryLabel": "Disposables",
-  "description": "Glass ionomer material.",
-  "image": null,
-  "variants": [
-   "8.0",
-   "8.5"
-  ]
  },
  {
   "id": "surgical-gloves-n-6",
@@ -3189,13 +2994,18 @@
   "image": null
  },
  {
-  "id": "suture-4-0-falcon",
-  "name": "Suture 4.0 Falcon",
+  "id": "suture",
+  "name": "Suture",
   "brand": "",
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Surgical suture.",
-  "image": null
+  "image": null,
+  "variants": [
+   "4.0 Falcon",
+   "5.0 Falcon",
+   "6.0 Falcon"
+  ]
  },
  {
   "id": "suture-5-0-absorbable-falcon",
@@ -3207,26 +3017,8 @@
   "image": null
  },
  {
-  "id": "suture-5-0-falcon",
-  "name": "Suture 5.0 Falcon",
-  "brand": "",
-  "category": "disposable",
-  "categoryLabel": "Disposables",
-  "description": "Surgical suture.",
-  "image": null
- },
- {
   "id": "suture-5-0-nylon-falcon",
   "name": "Suture 5.0 Nylon Falcon",
-  "brand": "",
-  "category": "disposable",
-  "categoryLabel": "Disposables",
-  "description": "Surgical suture.",
-  "image": null
- },
- {
-  "id": "suture-6-0-falcon",
-  "name": "Suture 6.0 Falcon",
   "brand": "",
   "category": "disposable",
   "categoryLabel": "Disposables",
@@ -3906,170 +3698,41 @@
   "image": null
  },
  {
-  "id": "gutta-02-15",
-  "name": "Gutta 02/15",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic obturation material.",
-  "image": null
- },
- {
-  "id": "gutta-02-20",
-  "name": "Gutta 02/20",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic obturation material.",
-  "image": null
- },
- {
-  "id": "gutta-02-25",
-  "name": "Gutta 02/25",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic obturation material.",
-  "image": null
- },
- {
-  "id": "gutta-02-30",
-  "name": "Gutta 02/30",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic obturation material.",
-  "image": null
- },
- {
-  "id": "gutta-02-40",
-  "name": "Gutta 02/40",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic obturation material.",
-  "image": null
- },
- {
-  "id": "gutta-04-15",
-  "name": "Gutta 04/15",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic obturation material.",
-  "image": null
- },
- {
-  "id": "gutta-04-20",
-  "name": "Gutta 04/20",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic obturation material.",
-  "image": null
- },
- {
-  "id": "gutta-04-25",
-  "name": "Gutta 04/25",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic obturation material.",
-  "image": null
- },
- {
-  "id": "gutta-04-30",
-  "name": "Gutta 04/30",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic obturation material.",
-  "image": null
- },
- {
-  "id": "gutta-04-40",
-  "name": "Gutta 04/40",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic obturation material.",
-  "image": null
- },
- {
-  "id": "gutta-06-15",
-  "name": "Gutta 06/15",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic obturation material.",
-  "image": null
- },
- {
-  "id": "gutta-06-20",
-  "name": "Gutta 06/20",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic obturation material.",
-  "image": null
- },
- {
-  "id": "gutta-06-25",
-  "name": "Gutta 06/25",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic obturation material.",
-  "image": null
- },
- {
-  "id": "gutta-06-30",
-  "name": "Gutta 06/30",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic obturation material.",
-  "image": null
- },
- {
-  "id": "gutta-06-40",
-  "name": "Gutta 06/40",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic obturation material.",
-  "image": null
- },
- {
   "id": "gutta",
   "name": "Gutta",
   "brand": "",
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Endodontic obturation material.",
-  "image": null
+  "image": null,
+  "variants": [
+   "02/15",
+   "02/20",
+   "02/25",
+   "02/30",
+   "02/35",
+   "02/40",
+   "04/15",
+   "04/20",
+   "04/25",
+   "04/30",
+   "04/35",
+   "04/40",
+   "06/15",
+   "06/20",
+   "06/25",
+   "06/30",
+   "06/35",
+   "06/40",
+   "F1",
+   "F2",
+   "F3",
+   "M"
+  ]
  },
  {
-  "id": "gutta-02-35",
-  "name": "Gutta 02/35",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic obturation material.",
-  "image": null
- },
- {
-  "id": "gutta-04-35",
-  "name": "Gutta 04/35",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic obturation material.",
-  "image": null
- },
- {
-  "id": "gutta-06-35",
-  "name": "Gutta 06/35",
+  "id": "gutta-2",
+  "name": "Gutta",
   "brand": "",
   "category": "endo",
   "categoryLabel": "Endodontics",
@@ -4095,33 +3758,6 @@
   "image": null
  },
  {
-  "id": "gutta-condensor-30-dentsply",
-  "name": "Gutta Condensor 30 Dentsply",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic obturation material.",
-  "image": null
- },
- {
-  "id": "gutta-condensor-35-dentsply",
-  "name": "Gutta Condensor 35 Dentsply",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic obturation material.",
-  "image": null
- },
- {
-  "id": "gutta-condensor-40-dentsply",
-  "name": "Gutta Condensor 40 Dentsply",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic obturation material.",
-  "image": null
- },
- {
   "id": "gutta-condensor",
   "name": "Gutta Condensor",
   "brand": "",
@@ -4132,33 +3768,21 @@
   "variants": [
    "25",
    "30",
+   "30 Dentsply",
    "35",
+   "35 Dentsply",
+   "35 NIC",
    "40",
+   "40 Dentsply",
+   "40 NIC",
    "45",
-   "50"
+   "50",
+   "55 Dentsply"
   ]
- },
- {
-  "id": "gutta-condensor-55-dentsply",
-  "name": "Gutta Condensor 55 Dentsply",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic obturation material.",
-  "image": null
  },
  {
   "id": "gutta-condensor-assorted",
   "name": "Gutta Condensor Assorted",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic obturation material.",
-  "image": null
- },
- {
-  "id": "gutta-condensor-35-nic",
-  "name": "Gutta Condensor 35 NIC",
   "brand": "",
   "category": "endo",
   "categoryLabel": "Endodontics",
@@ -4182,21 +3806,6 @@
   "categoryLabel": "Endodontics",
   "description": "Endodontic obturation material.",
   "image": null
- },
- {
-  "id": "gutta-2",
-  "name": "Gutta",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic obturation material.",
-  "image": null,
-  "variants": [
-   "F1",
-   "F2",
-   "F3",
-   "M"
-  ]
  },
  {
   "id": "gutta-ff",
@@ -4486,69 +4095,6 @@
   "image": null
  },
  {
-  "id": "paper-02-40",
-  "name": "Paper 02/40",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Surgical / endodontic product.",
-  "image": null
- },
- {
-  "id": "paper-02-25",
-  "name": "Paper 02/25",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Surgical / endodontic product.",
-  "image": null
- },
- {
-  "id": "paper-06-30",
-  "name": "Paper 06/30",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Surgical / endodontic product.",
-  "image": null
- },
- {
-  "id": "paper-04-15",
-  "name": "Paper 04/15",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Surgical / endodontic product.",
-  "image": null
- },
- {
-  "id": "paper-06-15",
-  "name": "Paper 06/15",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Surgical / endodontic product.",
-  "image": null
- },
- {
-  "id": "paper-06-35",
-  "name": "Paper 06/35",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Surgical / endodontic product.",
-  "image": null
- },
- {
-  "id": "paper-06-40",
-  "name": "Paper 06/40",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Surgical / endodontic product.",
-  "image": null
- },
- {
   "id": "paper",
   "name": "Paper",
   "brand": "",
@@ -4557,6 +4103,25 @@
   "description": "Surgical / endodontic product.",
   "image": null,
   "variants": [
+   "02/15",
+   "02/20",
+   "02/25",
+   "02/30",
+   "02/35",
+   "02/40",
+   "04/15",
+   "04/20",
+   "04/25",
+   "04/30",
+   "04/35",
+   "04/40",
+   "06/15",
+   "06/20",
+   "06/25",
+   "06/30",
+   "06/35",
+   "06/40",
+   "15-40 Fanta",
    "45-80",
    "F1",
    "F2",
@@ -4564,116 +4129,8 @@
   ]
  },
  {
-  "id": "paper-15-40-fanta",
-  "name": "Paper 15-40 Fanta",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Surgical / endodontic product.",
-  "image": null
- },
- {
-  "id": "paper-06-20",
-  "name": "Paper 06/20",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Surgical / endodontic product.",
-  "image": null
- },
- {
-  "id": "paper-02-15",
-  "name": "Paper 02/15",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Surgical / endodontic product.",
-  "image": null
- },
- {
-  "id": "paper-02-20",
-  "name": "Paper 02/20",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Surgical / endodontic product.",
-  "image": null
- },
- {
-  "id": "paper-02-30",
-  "name": "Paper 02/30",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Surgical / endodontic product.",
-  "image": null
- },
- {
-  "id": "paper-04-20",
-  "name": "Paper 04/20",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Surgical / endodontic product.",
-  "image": null
- },
- {
-  "id": "paper-04-25",
-  "name": "Paper 04/25",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Surgical / endodontic product.",
-  "image": null
- },
- {
-  "id": "paper-04-30",
-  "name": "Paper 04/30",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Surgical / endodontic product.",
-  "image": null
- },
- {
-  "id": "paper-06-25",
-  "name": "Paper 06/25",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Surgical / endodontic product.",
-  "image": null
- },
- {
   "id": "paper-02-15-40",
   "name": "Paper 02/15-40",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Surgical / endodontic product.",
-  "image": null
- },
- {
-  "id": "paper-02-35",
-  "name": "Paper 02/35",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Surgical / endodontic product.",
-  "image": null
- },
- {
-  "id": "paper-04-35",
-  "name": "Paper 04/35",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Surgical / endodontic product.",
-  "image": null
- },
- {
-  "id": "paper-04-40",
-  "name": "Paper 04/40",
   "brand": "",
   "category": "endo",
   "categoryLabel": "Endodontics",
@@ -4838,13 +4295,21 @@
   "image": null
  },
  {
-  "id": "rotary-file-20-04-25-nic",
-  "name": "Rotary File 20-04/25 NIC",
+  "id": "rotary-file",
+  "name": "Rotary File",
   "brand": "",
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Endodontic hand/rotary file.",
-  "image": null
+  "image": null,
+  "variants": [
+   "20-04/25 NIC",
+   "25-06/25 NIC",
+   "F1",
+   "F2",
+   "S1",
+   "S2"
+  ]
  },
  {
   "id": "rotary-file-reprise-d1-d2-d3-nic-o",
@@ -4896,8 +4361,10 @@
    "15-06 White",
    "20-04 Yellow",
    "20-04/31",
+   "20-06 NIC",
    "20-06 Yellow",
    "25-04 Rouge",
+   "25-04/25 NIC",
    "25-04/31",
    "25-06 Rouge",
    "30-04 Blue",
@@ -4967,21 +4434,6 @@
   "categoryLabel": "Endodontics",
   "description": "Endodontic hand/rotary file.",
   "image": null
- },
- {
-  "id": "rotary-file",
-  "name": "Rotary File",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic hand/rotary file.",
-  "image": null,
-  "variants": [
-   "F1",
-   "F2",
-   "S1",
-   "S2"
-  ]
  },
  {
   "id": "rotary-file-sx",
@@ -5083,56 +4535,16 @@
   "image": null,
   "variants": [
    "0",
+   "0 Epinephrine",
    "00",
+   "00 Epinephrine",
    "000",
+   "000 Epinephrine",
    "1",
-   "2"
+   "1 Epinephrine",
+   "2",
+   "2 Epinephrine"
   ]
- },
- {
-  "id": "sure-endo-cord-0-epinephrine",
-  "name": "Sure Endo Cord 0 Epinephrine",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Surgical / endodontic product.",
-  "image": null
- },
- {
-  "id": "sure-endo-cord-00-epinephrine",
-  "name": "Sure Endo Cord 00 Epinephrine",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Surgical / endodontic product.",
-  "image": null
- },
- {
-  "id": "sure-endo-cord-000-epinephrine",
-  "name": "Sure Endo Cord 000 Epinephrine",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Surgical / endodontic product.",
-  "image": null
- },
- {
-  "id": "sure-endo-cord-1-epinephrine",
-  "name": "Sure Endo Cord 1 Epinephrine",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Surgical / endodontic product.",
-  "image": null
- },
- {
-  "id": "sure-endo-cord-2-epinephrine",
-  "name": "Sure Endo Cord 2 Epinephrine",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Surgical / endodontic product.",
-  "image": null
  },
  {
   "id": "teracal-prevest",
@@ -5216,24 +4628,6 @@
   "image": null
  },
  {
-  "id": "rotary-files-20-06-nic",
-  "name": "Rotary FILES 20-06 NIC",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic hand/rotary file.",
-  "image": null
- },
- {
-  "id": "rotary-files-25-04-25-nic",
-  "name": "Rotary Files 25-04/25 NIC",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic hand/rotary file.",
-  "image": null
- },
- {
   "id": "rotary-file-d-shaper-assorted",
   "name": "Rotary File D-shaper Assorted",
   "brand": "",
@@ -5279,15 +4673,6 @@
   "image": null
  },
  {
-  "id": "rotary-file-25-06-25-nic",
-  "name": "Rotary File 25-06/25 NIC",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic hand/rotary file.",
-  "image": null
- },
- {
   "id": "smart-cord",
   "name": "Smart Cord",
   "brand": "",
@@ -5329,15 +4714,6 @@
   "image": null
  },
  {
-  "id": "gutta-condensor-40-nic",
-  "name": "Gutta Condensor 40 NIC",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic obturation material.",
-  "image": null
- },
- {
   "id": "ceramic-primer-3m",
   "name": "Ceramic Primer 3M",
   "brand": "",
@@ -5365,22 +4741,17 @@
   "image": null
  },
  {
-  "id": "etching-50ml-bonasil",
-  "name": "Etching 50ml Bonasil",
+  "id": "etching",
+  "name": "Etching",
   "brand": "",
   "category": "etching",
   "categoryLabel": "Etching & Bonding",
   "description": "Dental etching gel.",
-  "image": null
- },
- {
-  "id": "etching-50ml-jumbo",
-  "name": "Etching 50ml Jumbo",
-  "brand": "",
-  "category": "etching",
-  "categoryLabel": "Etching & Bonding",
-  "description": "Dental etching gel.",
-  "image": null
+  "image": null,
+  "variants": [
+   "50ml Bonasil",
+   "50ml Jumbo"
+  ]
  },
  {
   "id": "etching-charm-3x3g",
@@ -5613,16 +4984,17 @@
   "image": null
  },
  {
-  "id": "fiberpost-3m",
-  "name": "Fiberpost 3M",
+  "id": "fiberpost",
+  "name": "Fiberpost",
   "brand": "",
   "category": "fiberpost",
   "categoryLabel": "Fiber Posts",
   "description": "Fiber post system.",
   "image": null,
   "variants": [
-   "RED",
-   "Yellow"
+   "3M RED",
+   "3M Yellow",
+   "Box Of 200"
   ]
  },
  {
@@ -5724,15 +5096,6 @@
  {
   "id": "3m-fiberpost-drills",
   "name": "3M Fiberpost Drills",
-  "brand": "",
-  "category": "fiberpost",
-  "categoryLabel": "Fiber Posts",
-  "description": "Fiber post system.",
-  "image": null
- },
- {
-  "id": "fiberpost-box-of-200",
-  "name": "Fiberpost Box Of 200",
   "brand": "",
   "category": "fiberpost",
   "categoryLabel": "Fiber Posts",
@@ -5887,20 +5250,13 @@
   "image": null
  },
  {
-  "id": "bur",
-  "name": "Bur",
+  "id": "bur-ce15ef",
+  "name": "Bur Ce15ef",
   "brand": "",
   "category": "fraise",
   "categoryLabel": "Burs",
   "description": "Rotary dental bur.",
-  "image": null,
-  "variants": [
-   "Ce15ef",
-   "T12F",
-   "TF21F",
-   "Tc11ef",
-   "Tf11sc"
-  ]
+  "image": null
  },
  {
   "id": "bur-ceramic",
@@ -6115,6 +5471,15 @@
   "image": null
  },
  {
+  "id": "bur-t12f",
+  "name": "Bur T12F",
+  "brand": "",
+  "category": "fraise",
+  "categoryLabel": "Burs",
+  "description": "Rotary dental bur.",
+  "image": null
+ },
+ {
   "id": "bur-tc",
   "name": "Bur TC",
   "brand": "",
@@ -6125,6 +5490,7 @@
   "variants": [
    "TC09B TR",
    "TC10B TR",
+   "Tc11ef",
    "Tc11ef TR"
   ]
  },
@@ -6150,7 +5516,9 @@
    "TF12B Korean",
    "TF12C Korean",
    "TF13C Korean",
-   "TF13C TR"
+   "TF13C TR",
+   "TF21F",
+   "Tf11sc"
   ]
  },
  {
@@ -6287,10 +5655,8 @@
   "description": "Rotary dental bur.",
   "image": null,
   "variants": [
-   "201CB",
    "201L",
    "231",
-   "255CB",
    "3525",
    "411A",
    "4205",
@@ -6298,16 +5664,66 @@
    "4236",
    "4250",
    "8525",
-   "D11",
-   "D11A",
-   "D34",
-   "D4",
-   "D7CB"
+   "D4"
   ]
+ },
+ {
+  "id": "bur-intensive-d11",
+  "name": "Bur Intensive D11",
+  "brand": "",
+  "category": "fraise",
+  "categoryLabel": "Burs",
+  "description": "Rotary dental bur.",
+  "image": null
+ },
+ {
+  "id": "bur-intensive-d7cb",
+  "name": "Bur Intensive D7CB",
+  "brand": "",
+  "category": "fraise",
+  "categoryLabel": "Burs",
+  "description": "Rotary dental bur.",
+  "image": null
+ },
+ {
+  "id": "bur-intensive-255cb",
+  "name": "Bur Intensive 255CB",
+  "brand": "",
+  "category": "fraise",
+  "categoryLabel": "Burs",
+  "description": "Rotary dental bur.",
+  "image": null
+ },
+ {
+  "id": "bur-intensive-d11a",
+  "name": "Bur Intensive D11A",
+  "brand": "",
+  "category": "fraise",
+  "categoryLabel": "Burs",
+  "description": "Rotary dental bur.",
+  "image": null
+ },
+ {
+  "id": "bur-intensive-201cb",
+  "name": "Bur Intensive 201CB",
+  "brand": "",
+  "category": "fraise",
+  "categoryLabel": "Burs",
+  "description": "Rotary dental bur.",
+  "image": null
  },
  {
   "id": "bur-intensive-201-scb",
   "name": "Bur Intensive 201 SCB",
+  "brand": "",
+  "category": "fraise",
+  "categoryLabel": "Burs",
+  "description": "Rotary dental bur.",
+  "image": null
+ },
+ {
+  "id": "bur-intensive-d34",
+  "name": "Bur Intensive D34",
   "brand": "",
   "category": "fraise",
   "categoryLabel": "Burs",
@@ -10397,31 +9813,18 @@
   "image": null
  },
  {
-  "id": "acrylic-gd-model-a1-bulgary",
-  "name": "Acrylic GD Model A1 Bulgary",
+  "id": "acrylic-gd-model",
+  "name": "Acrylic GD Model",
   "brand": "",
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Acrylic dental material.",
-  "image": null
- },
- {
-  "id": "acrylic-gd-model-a2-bulgary",
-  "name": "Acrylic GD Model A2 Bulgary",
-  "brand": "",
-  "category": "temporary",
-  "categoryLabel": "Temporary Materials",
-  "description": "Acrylic dental material.",
-  "image": null
- },
- {
-  "id": "acrylic-gd-model-a3-bulgary",
-  "name": "Acrylic GD Model A3 Bulgary",
-  "brand": "",
-  "category": "temporary",
-  "categoryLabel": "Temporary Materials",
-  "description": "Acrylic dental material.",
-  "image": null
+  "image": null,
+  "variants": [
+   "A1 Bulgary",
+   "A2 Bulgary",
+   "A3 Bulgary"
+  ]
  },
  {
   "id": "acrylic-gd-model-bleach-bulgary",
@@ -10546,17 +9949,9 @@
   "image": null,
   "variants": [
    "1L",
+   "400 Ml",
    "5L"
   ]
- },
- {
-  "id": "acrylic-liquid-400-ml",
-  "name": "Acrylic Liquid 400 Ml",
-  "brand": "",
-  "category": "temporary",
-  "categoryLabel": "Temporary Materials",
-  "description": "Acrylic dental material.",
-  "image": null
  },
  {
   "id": "acrylic-liquid-bottle",
@@ -10671,22 +10066,17 @@
   "image": null
  },
  {
-  "id": "temporary-paste-temp-it-1-sereingue",
-  "name": "Temporary Paste Temp It 1 Sereingue",
+  "id": "temporary-paste-temp-it",
+  "name": "Temporary Paste Temp It",
   "brand": "",
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Temporary restorative material.",
-  "image": null
- },
- {
-  "id": "temporary-paste-temp-it-bag-of-3",
-  "name": "Temporary Paste Temp It Bag Of 3",
-  "brand": "",
-  "category": "temporary",
-  "categoryLabel": "Temporary Materials",
-  "description": "Temporary restorative material.",
-  "image": null
+  "image": null,
+  "variants": [
+   "1 Sereingue",
+   "Bag Of 3"
+  ]
  },
  {
   "id": "acrylic-powder-400mg",
@@ -11192,31 +10582,21 @@
   "image": null
  },
  {
-  "id": "sheets-goutiere-silver-1-0-soft",
-  "name": "Sheets Goutiere Silver 1.0 Soft",
+  "id": "sheets-goutiere-silver",
+  "name": "Sheets Goutiere Silver",
   "brand": "",
   "category": "whitening",
   "categoryLabel": "Whitening",
   "description": "Teeth whitening product.",
-  "image": null
- },
- {
-  "id": "sheets-goutiere-silver-1-5-hard",
-  "name": "Sheets Goutiere Silver 1.5 Hard",
-  "brand": "",
-  "category": "whitening",
-  "categoryLabel": "Whitening",
-  "description": "Teeth whitening product.",
-  "image": null
- },
- {
-  "id": "sheets-goutiere-silver-1-5-soft",
-  "name": "Sheets Goutiere Silver 1.5 Soft",
-  "brand": "",
-  "category": "whitening",
-  "categoryLabel": "Whitening",
-  "description": "Teeth whitening product.",
-  "image": null
+  "image": null,
+  "variants": [
+   "1.0 Soft",
+   "1.5 Hard",
+   "1.5 Soft",
+   "2mm Hard",
+   "3mm Hard",
+   "3mm Soft"
+  ]
  },
  {
   "id": "sheets-gouttiere-silver-2-5mm-hard",
@@ -11230,33 +10610,6 @@
  {
   "id": "sheets-gouttiere-silver-2-5mm-soft",
   "name": "Sheets Gouttiere Silver 2.5mm Soft",
-  "brand": "",
-  "category": "whitening",
-  "categoryLabel": "Whitening",
-  "description": "Teeth whitening product.",
-  "image": null
- },
- {
-  "id": "sheets-goutiere-silver-2mm-hard",
-  "name": "Sheets Goutiere Silver 2mm Hard",
-  "brand": "",
-  "category": "whitening",
-  "categoryLabel": "Whitening",
-  "description": "Teeth whitening product.",
-  "image": null
- },
- {
-  "id": "sheets-goutiere-silver-3mm-hard",
-  "name": "Sheets Goutiere Silver 3mm Hard",
-  "brand": "",
-  "category": "whitening",
-  "categoryLabel": "Whitening",
-  "description": "Teeth whitening product.",
-  "image": null
- },
- {
-  "id": "sheets-goutiere-silver-3mm-soft",
-  "name": "Sheets Goutiere Silver 3mm Soft",
   "brand": "",
   "category": "whitening",
   "categoryLabel": "Whitening",
@@ -11309,31 +10662,18 @@
   "image": null
  },
  {
-  "id": "sheets-gouttiere-silver-1mm-hard",
-  "name": "Sheets Gouttiere Silver 1mm Hard",
+  "id": "sheets-gouttiere-silver",
+  "name": "Sheets Gouttiere Silver",
   "brand": "",
   "category": "whitening",
   "categoryLabel": "Whitening",
   "description": "Teeth whitening product.",
-  "image": null
- },
- {
-  "id": "sheets-gouttiere-silver-1mm-soft",
-  "name": "Sheets Gouttiere Silver 1mm Soft",
-  "brand": "",
-  "category": "whitening",
-  "categoryLabel": "Whitening",
-  "description": "Teeth whitening product.",
-  "image": null
- },
- {
-  "id": "sheets-gouttiere-silver-2mm-soft",
-  "name": "Sheets Gouttiere Silver 2mm Soft",
-  "brand": "",
-  "category": "whitening",
-  "categoryLabel": "Whitening",
-  "description": "Teeth whitening product.",
-  "image": null
+  "image": null,
+  "variants": [
+   "1mm Hard",
+   "1mm Soft",
+   "2mm Soft"
+  ]
  },
  {
   "id": "si-smile-kit",
@@ -11815,21 +11155,6 @@
   ]
  },
  {
-  "id": "retraction-cord-atria",
-  "name": "Retraction Cord Atria",
-  "brand": "",
-  "category": "disposable",
-  "categoryLabel": "Disposables",
-  "description": "Disposable dental product.",
-  "image": "assets/products/disposable/retraction-cord-epinephrine-box.jpg",
-  "variants": [
-   "Retraction Cord 0 Atria",
-   "Retraction Cord 00 Atria",
-   "Retraction Cord 000 Atria",
-   "Retraction Cord 1 Atria"
-  ]
- },
- {
   "id": "self-sealing-pouch",
   "name": "Self Sealing Pouch",
   "brand": "",
@@ -11862,7 +11187,7 @@
   ]
  },
  {
-  "id": "suture",
+  "id": "suture-2",
   "name": "Suture",
   "brand": "",
   "category": "disposable",
@@ -11927,21 +11252,6 @@
   ]
  },
  {
-  "id": "endodontics-assorted",
-  "name": "Endodontics (Assorted)",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Surgical / endodontic product.",
-  "image": "assets/products/endo/eugenol-100-ml.jpg",
-  "variants": [
-   "Eugenol 100 Ml",
-   "Eugenol 100 Ml Pd",
-   "Eugenol 30ML",
-   "ZINC OXIDE ADI"
-  ]
- },
- {
   "id": "gutta-solvent",
   "name": "GUTTA Solvent",
   "brand": "",
@@ -11983,24 +11293,6 @@
   ]
  },
  {
-  "id": "peeso-reamers",
-  "name": "Peeso Reamers",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic reamer.",
-  "image": "assets/products/endo/peeso-reamers-largo.png",
-  "variants": [
-   "Peeso Reamers N 1-6 Largo",
-   "Peeso Reamers N 4 Largo",
-   "Peeso Reamers N1 (Largo)",
-   "Peeso Reamers N2 (Largo)",
-   "Peeso Reamers N3 (Largo)",
-   "Peeso Reamers N5 Largo",
-   "Peeso Reamers N6 Largo"
-  ]
- },
- {
   "id": "endodontics-assorted-2",
   "name": "Endodontics (Assorted)",
   "brand": "",
@@ -12014,7 +11306,7 @@
   ]
  },
  {
-  "id": "etching",
+  "id": "etching-2",
   "name": "Etching",
   "brand": "",
   "category": "etching",
@@ -12676,21 +11968,18 @@
   ]
  },
  {
-  "id": "autoclave-roll",
-  "name": "Autoclave Roll",
+  "id": "eugenol",
+  "name": "Eugenol",
   "brand": "",
-  "category": "disposable",
-  "categoryLabel": "Disposables",
-  "description": "Sterilization consumable / equipment.",
-  "image": "assets/products/disposable/autoclave-sterilization-pouch-roll.png",
+  "category": "endo",
+  "categoryLabel": "Endodontics",
+  "description": "Surgical / endodontic product.",
+  "image": "assets/products/endo/eugenol-100-ml.jpg",
   "variants": [
-   "15cm",
-   "20cm",
-   "25cm",
-   "30cm",
-   "7.5cm",
-   "Autoclave Roll Cm Autoclave Roll 10 Cm",
-   "Autoclave Roll Cm Autoclave Roll 5 Cm"
+   "100 Ml",
+   "30ML",
+   "Endodontics (Assorted) Eugenol 100 Ml Pd",
+   "Endodontics (Assorted) ZINC OXIDE ADI"
   ]
  },
  {
@@ -12777,6 +12066,24 @@
    "K-files Mani Assorted 15-40/25",
    "K-files Mani Assorted 15-40/31",
    "K-files Mani Assorted 45-80/25"
+  ]
+ },
+ {
+  "id": "peeso-reamers-largo",
+  "name": "Peeso Reamers (Largo)",
+  "brand": "",
+  "category": "endo",
+  "categoryLabel": "Endodontics",
+  "description": "Endodontic reamer.",
+  "image": "assets/products/endo/peeso-reamers-largo.png",
+  "variants": [
+   "Peeso Reamers N 1-6 Largo",
+   "Peeso Reamers N 4 Largo",
+   "Peeso Reamers N1 (Largo)",
+   "Peeso Reamers N2 (Largo)",
+   "Peeso Reamers N3 (Largo)",
+   "Peeso Reamers N5 Largo",
+   "Peeso Reamers N6 Largo"
   ]
  },
  {
@@ -12897,7 +12204,7 @@
   ]
  },
  {
-  "id": "super-snap-shofu-2",
+  "id": "super-snap-shofu",
   "name": "Super Snap Shofu",
   "brand": "",
   "category": "polishing",
@@ -12905,16 +12212,16 @@
   "description": "Polishing product.",
   "image": "assets/products/polishing/shofu-super-snap-single-disc.jpg",
   "variants": [
+   "501",
+   "508",
+   "519",
+   "521",
    "Super Snap 502 Shofu",
-   "Super Snap 506 Coarse Big Shofu",
-   "Super Snap 507 Coarse Shofu",
    "Super Snap 522 Shofu",
-   "Super Snap Kit Shofu",
-   "Super Snap Shofu 501",
-   "Super Snap Shofu 508",
-   "Super Snap Shofu 519",
-   "Super Snap Shofu 521",
-   "Super Snap Shofu Mini Kit"
+   "Super Snap Shofu Super Snap 506 Coarse Big Shofu",
+   "Super Snap Shofu Super Snap 507 Coarse Shofu",
+   "Super Snap Shofu Super Snap Kit Shofu",
+   "Super Snap Shofu Super Snap Shofu Mini Kit"
   ]
  },
  {
