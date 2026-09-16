@@ -2100,7 +2100,7 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Dental instrument.",
-  "image": null
+  "image": "assets/products/instrument/orthodontic-scissors.jpg"
  },
  {
   "id": "scaler-wrench",
@@ -2109,7 +2109,7 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Dental instrument.",
-  "image": null
+  "image": "assets/products/instrument/scaler-wrench.jpg"
  },
  {
   "id": "thickness-caliper",
@@ -2208,7 +2208,7 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Dental instrument.",
-  "image": null
+  "image": "assets/products/instrument/excavator.jpg"
  },
  {
   "id": "plugger-condenser",
@@ -2226,7 +2226,7 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Disposable dental cup.",
-  "image": null,
+  "image": "assets/products/instrument/rubber-cup.jpg",
   "variants": [
    "L",
    "M",
@@ -2249,7 +2249,7 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Dental stone / plaster.",
-  "image": null
+  "image": "assets/products/instrument/plaster-knife.jpg"
  },
  {
   "id": "wax-knife",
@@ -2258,7 +2258,7 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Dental instrument.",
-  "image": null
+  "image": "assets/products/instrument/wax-knife.jpg"
  },
  {
   "id": "luxator",
@@ -2276,7 +2276,7 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Dental instrument.",
-  "image": null
+  "image": "assets/products/instrument/perio-probe-millimetre.jpg"
  },
  {
   "id": "photo-contrast",
@@ -2336,28 +2336,6 @@
   "categoryLabel": "Instruments",
   "description": "Dental instrument.",
   "image": "assets/products/instrument/syndesmotome.jpg"
- },
- {
-  "id": "optrasculpt-instrument",
-  "name": "Optrasculpt Instrument",
-  "brand": "",
-  "category": "instrument",
-  "categoryLabel": "Instruments",
-  "description": "Dental instrument.",
-  "image": null
- },
- {
-  "id": "optrasculpt-refill",
-  "name": "Optrasculpt Refill",
-  "brand": "",
-  "category": "instrument",
-  "categoryLabel": "Instruments",
-  "description": "Dental instrument.",
-  "image": null,
-  "variants": [
-   "4mm",
-   "6mm"
-  ]
  },
  {
   "id": "polydenthia-id-rings",
@@ -4050,19 +4028,6 @@
   ]
  },
  {
-  "id": "instruments-assorted",
-  "name": "Instruments (Assorted)",
-  "brand": "",
-  "category": "instrument",
-  "categoryLabel": "Instruments",
-  "description": "Light-cure dental composite.",
-  "image": "assets/products/instrument/composite-instrument-kit-gold.jpg",
-  "variants": [
-   "Instrument Composite Kit Gold 6pcs",
-   "Optrasculpt Ivoclar(instrument Composite)"
-  ]
- },
- {
   "id": "light-cure-elipar",
   "name": "Light Cure Elipar",
   "brand": "",
@@ -4649,6 +4614,21 @@
    "Mouth Prop Double Sided Black",
    "Mouth Prop Mauve",
    "Mouth Prop Straight Transparent"
+  ]
+ },
+ {
+  "id": "optrasculpt",
+  "name": "Optrasculpt",
+  "brand": "",
+  "category": "instrument",
+  "categoryLabel": "Instruments",
+  "description": "Dental instrument.",
+  "image": "assets/products/instrument/optrasculpt-instrument.jpg",
+  "variants": [
+   "Optrasculpt Instrument",
+   "Optrasculpt Ivoclar(instrument Composite)",
+   "Optrasculpt Refill 4mm",
+   "Optrasculpt Refill 6mm"
   ]
  },
  {
@@ -6577,10 +6557,11 @@
   "brand": "",
   "category": "instrument",
   "categoryLabel": "Instruments",
-  "description": "Dental instrument.",
-  "image": null,
+  "description": "Light-cure dental composite.",
+  "image": "assets/products/instrument/composite-instrument-kit-gold.jpg",
   "variants": [
    "Instrument Coloré By Piece",
+   "Instrument Composite Kit Gold 6pcs",
    "Instrument Kit Precelle,sonde,mirror 3pcs"
   ]
  },
