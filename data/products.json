@@ -2513,7 +2513,7 @@
   "category": "machine",
   "categoryLabel": "Equipment",
   "description": "Dental practice equipment.",
-  "image": null
+  "image": "assets/products/machine/applicap-3m-73050.jpg"
  },
  {
   "id": "compressor",
@@ -2684,7 +2684,7 @@
   "category": "machine",
   "categoryLabel": "Equipment",
   "description": "Dental practice equipment.",
-  "image": null
+  "image": "assets/products/machine/vibrateur-platre.jpg"
  },
  {
   "id": "porte-crayon",
