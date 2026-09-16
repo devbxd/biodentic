@@ -626,7 +626,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Matrix system for restorations.",
-  "image": null
+  "image": "assets/products/disposable/matrices-rogin-box-of-100.jpg"
  },
  {
   "id": "medis-stainless",
@@ -715,7 +715,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null
+  "image": "assets/products/disposable/silicone-mouth-opener.jpg"
  },
  {
   "id": "oxide-d-aluminium-powder",
@@ -874,7 +874,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Cotton / gauze consumable.",
-  "image": null
+  "image": "assets/products/disposable/rouleau-cotton.jpg"
  },
  {
   "id": "sani-wash",
@@ -2878,7 +2878,7 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Polishing product.",
-  "image": null
+  "image": "assets/products/polishing/prophy-cups-by-piece.jpg"
  },
  {
   "id": "prophylaxis-capsule",
@@ -2941,7 +2941,7 @@
   "category": "prevention",
   "categoryLabel": "Prevention",
   "description": "Preventive care product.",
-  "image": null
+  "image": "assets/products/prevention/fluoride-foam.jpg"
  },
  {
   "id": "icon",
@@ -2968,7 +2968,7 @@
   "category": "restorative",
   "categoryLabel": "Restorative",
   "description": "Restorative dental material.",
-  "image": null
+  "image": "assets/products/restorative/3m-z350xt.jpg"
  },
  {
   "id": "reparation",
@@ -6334,7 +6334,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Surgical / endodontic product.",
-  "image": null,
+  "image": "assets/products/endo/edta-100ml-adi.jpg",
   "variants": [
    "Edta 100ml ADI",
    "Edta Liquid",
