@@ -182,7 +182,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Applicator brush.",
-  "image": null
+  "image": "assets/products/disposable/toothbrush-box.jpg"
  },
  {
   "id": "bonding-box-black-orange",
@@ -239,15 +239,6 @@
   "image": null
  },
  {
-  "id": "chair-head-rest-cover",
-  "name": "Chair Head Rest Cover",
-  "brand": "",
-  "category": "disposable",
-  "categoryLabel": "Disposables",
-  "description": "Disposable dental product.",
-  "image": null
- },
- {
   "id": "tooth-shade-ring",
   "name": "Tooth Shade Ring",
   "brand": "",
@@ -276,7 +267,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null
+  "image": "assets/products/disposable/cover-shoes.jpg"
  },
  {
   "id": "tooth-type-frasaco",
@@ -555,15 +546,6 @@
  {
   "id": "hand-sanitizer",
   "name": "Hand Sanitizer",
-  "brand": "",
-  "category": "disposable",
-  "categoryLabel": "Disposables",
-  "description": "Disposable dental product.",
-  "image": null
- },
- {
-  "id": "head-cover",
-  "name": "Head Cover",
   "brand": "",
   "category": "disposable",
   "categoryLabel": "Disposables",
@@ -3796,6 +3778,19 @@
    "Rubber Dam",
    "Rubber Dam Black",
    "Rubber Dam Dispo Dam"
+  ]
+ },
+ {
+  "id": "head-cover-2",
+  "name": "Head Cover",
+  "brand": "",
+  "category": "disposable",
+  "categoryLabel": "Disposables",
+  "description": "Disposable dental product.",
+  "image": "assets/products/disposable/head-cover.webp",
+  "variants": [
+   "Chair Head Rest Cover",
+   "Head Cover"
   ]
  },
  {
