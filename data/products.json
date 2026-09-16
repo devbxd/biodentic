@@ -1336,7 +1336,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Root canal sealer.",
-  "image": null
+  "image": "assets/products/endo/adseal-plus.png"
  },
  {
   "id": "metapex",
@@ -1478,7 +1478,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Surgical / endodontic product.",
-  "image": null
+  "image": "assets/products/endo/theracal-bisco-by-pc.jpg"
  },
  {
   "id": "tip-apex-locator",
