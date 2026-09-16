@@ -532,7 +532,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable patient protection.",
-  "image": null
+  "image": "assets/products/disposable/gown-sterile-by-piece.jpg"
  },
  {
   "id": "paste-of-kerr-green-tracing-sticks",
@@ -4212,6 +4212,20 @@
   ]
  },
  {
+  "id": "prophy-jet-machine",
+  "name": "Prophy Jet Machine",
+  "brand": "",
+  "category": "machine",
+  "categoryLabel": "Equipment",
+  "description": "Dental practice equipment.",
+  "image": "assets/products/machine/prophy-jet.jpg",
+  "variants": [
+   "Prophy Jet Machine Double Side",
+   "Prophy Jet Machine Ijet",
+   "Prophy Jet Machine R"
+  ]
+ },
+ {
   "id": "water-pick-2",
   "name": "Water Pick",
   "brand": "",
@@ -5577,20 +5591,6 @@
   "variants": [
    "Machine Ultrasonic 750ml",
    "Machine Ultrasonic Stainless"
-  ]
- },
- {
-  "id": "prophy-jet",
-  "name": "Prophy Jet",
-  "brand": "",
-  "category": "machine",
-  "categoryLabel": "Equipment",
-  "description": "Dental practice equipment.",
-  "image": null,
-  "variants": [
-   "Prophy Jet Machine Double Side",
-   "Prophy Jet Machine Ijet",
-   "Prophy Jet Machine R"
   ]
  },
  {
