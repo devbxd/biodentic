@@ -3767,6 +3767,20 @@
   ]
  },
  {
+  "id": "endo-measuring-ruler",
+  "name": "Endo Measuring Ruler",
+  "brand": "",
+  "category": "disposable",
+  "categoryLabel": "Disposables",
+  "description": "Disposable dental product.",
+  "image": "assets/products/disposable/endo-measuring.jpg",
+  "variants": [
+   "Endo Measuring Ruler Angelus",
+   "Endo Measuring Ruler Band",
+   "Endo Measuring Ruler Jumbo"
+  ]
+ },
+ {
   "id": "self-sealing-pouch",
   "name": "Self Sealing Pouch",
   "brand": "",
@@ -4991,20 +5005,6 @@
   "variants": [
    "Tray Mauve By Pc",
    "Tray Mauve Paquet Of 100"
-  ]
- },
- {
-  "id": "endo-measuring",
-  "name": "Endo Measuring",
-  "brand": "",
-  "category": "disposable",
-  "categoryLabel": "Disposables",
-  "description": "Disposable dental product.",
-  "image": null,
-  "variants": [
-   "Endo Measuring Ruler Angelus",
-   "Endo Measuring Ruler Band",
-   "Endo Measuring Ruler Jumbo"
   ]
  },
  {
