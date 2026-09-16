@@ -2202,7 +2202,7 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Dental instrument.",
-  "image": null
+  "image": "assets/products/instrument/scissors.jpg"
  },
  {
   "id": "scissors-micro",
@@ -2247,7 +2247,7 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Dental instrument.",
-  "image": null
+  "image": "assets/products/instrument/retractor-of-minesota.jpg"
  },
  {
   "id": "spatula-elevator",
@@ -2274,7 +2274,7 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Endodontic obturation instrument.",
-  "image": null
+  "image": "assets/products/instrument/plugger-condenser.jpg"
  },
  {
   "id": "rubber-cup",
@@ -2549,7 +2549,7 @@
   "category": "machine",
   "categoryLabel": "Equipment",
   "description": "Applicator brush.",
-  "image": null
+  "image": "assets/products/machine/electric-brush.png"
  },
  {
   "id": "light-meter-test-machine",
