@@ -1489,7 +1489,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Endodontic hand/rotary file.",
-  "image": null
+  "image": "assets/products/misc/glyde-file-prep.jpg"
  },
  {
   "id": "ceramic-primer-3m",
@@ -1934,7 +1934,7 @@
   "category": "impression",
   "categoryLabel": "Impression Materials",
   "description": "Impression material.",
-  "image": null
+  "image": "assets/products/impression/occlufast-zhermak.jpg"
  },
  {
   "id": "oranwash-zetaplus",
@@ -1943,7 +1943,7 @@
   "category": "impression",
   "categoryLabel": "Impression Materials",
   "description": "Impression material.",
-  "image": null
+  "image": "assets/products/impression/oranwash-zetaplus.jpg"
  },
  {
   "id": "paste-of-kerr",
