@@ -1345,7 +1345,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Surgical / endodontic product.",
-  "image": null
+  "image": "assets/products/endo/metapex-root-canal-filling.webp"
  },
  {
   "id": "neoputty",
@@ -1394,7 +1394,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Surgical / endodontic product.",
-  "image": null
+  "image": "assets/products/endo/pulpotec-pulpotomy-paste.png"
  },
  {
   "id": "pulpx",
@@ -1408,15 +1408,6 @@
  {
   "id": "rcprep-spident",
   "name": "Rcprep Spident",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Surgical / endodontic product.",
-  "image": null
- },
- {
-  "id": "reciproc-20-l25-mm",
-  "name": "Reciproc 20 L25 Mm",
   "brand": "",
   "category": "endo",
   "categoryLabel": "Endodontics",
@@ -1619,15 +1610,6 @@
  {
   "id": "reforpin",
   "name": "Reforpin",
-  "brand": "",
-  "category": "fiberpost",
-  "categoryLabel": "Fiber Posts",
-  "description": "Fiber post system.",
-  "image": null
- },
- {
-  "id": "reforpost-kit",
-  "name": "Reforpost KIT",
   "brand": "",
   "category": "fiberpost",
   "categoryLabel": "Fiber Posts",
@@ -4636,17 +4618,18 @@
   ]
  },
  {
-  "id": "reforpost-angelus",
-  "name": "Reforpost Angelus",
+  "id": "reforpost",
+  "name": "Reforpost",
   "brand": "",
   "category": "fiberpost",
   "categoryLabel": "Fiber Posts",
   "description": "Fiber post system.",
   "image": "assets/products/fiberpost/angelus-reforpost-fiber-post.jpg",
   "variants": [
-   "N 1",
-   "N2",
-   "N3"
+   "Reforpost Angelus N 1",
+   "Reforpost Angelus N2",
+   "Reforpost Angelus N3",
+   "Reforpost KIT"
   ]
  },
  {
@@ -5177,21 +5160,6 @@
    "Rc Prep ADI",
    "Rc Prep Edta Cream",
    "Rc Prep Germany By Pc"
-  ]
- },
- {
-  "id": "reciproc-25",
-  "name": "Reciproc 25",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Surgical / endodontic product.",
-  "image": "assets/products/endo/reciproc-niti-file.jpg",
-  "variants": [
-   "Reciproc 25 L25mm",
-   "Reciproc 25 L25mm Blue Nic",
-   "Reciproc 25 L25mm V+ Nic",
-   "Reciproc 25 L25mm W+ Nic"
   ]
  },
  {
@@ -7467,6 +7435,22 @@
    "F3",
    "Paper 02/15-40",
    "Paper F1-F3 Sure Endo Ass"
+  ]
+ },
+ {
+  "id": "reciproc-25",
+  "name": "Reciproc 25",
+  "brand": "",
+  "category": "endo",
+  "categoryLabel": "Endodontics",
+  "description": "Surgical / endodontic product.",
+  "image": "assets/products/endo/reciproc-niti-file.jpg",
+  "variants": [
+   "Reciproc 20 L25 Mm",
+   "Reciproc 25 L25mm",
+   "Reciproc 25 L25mm Blue Nic",
+   "Reciproc 25 L25mm V+ Nic",
+   "Reciproc 25 L25mm W+ Nic"
   ]
  },
  {
