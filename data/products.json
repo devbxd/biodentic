@@ -853,22 +853,6 @@
   "image": null
  },
  {
-  "id": "impression-tray-upper",
-  "name": "Impression Tray Upper",
-  "brand": "",
-  "category": "disposable",
-  "categoryLabel": "Disposables",
-  "description": "Impression material.",
-  "image": null,
-  "variants": [
-   "Large N1",
-   "Medium",
-   "Medium N3",
-   "Small",
-   "Small N5"
-  ]
- },
- {
   "id": "retraction-cord",
   "name": "Retraction Cord",
   "brand": "",
@@ -4159,19 +4143,6 @@
   ]
  },
  {
-  "id": "putty-vericom-2",
-  "name": "Putty Vericom",
-  "brand": "",
-  "category": "impression",
-  "categoryLabel": "Impression Materials",
-  "description": "Impression material.",
-  "image": "assets/products/impression/vericom-putty-light.jpg",
-  "variants": [
-   "Putty Light Vericom",
-   "Putty Vericom"
-  ]
- },
- {
   "id": "rubber-dam-3",
   "name": "Rubber Dam",
   "brand": "",
@@ -4235,20 +4206,6 @@
   "variants": [
    "Instrument Composite Kit Gold 6pcs",
    "Optrasculpt Ivoclar(instrument Composite)"
-  ]
- },
- {
-  "id": "nsk",
-  "name": "NSK",
-  "brand": "",
-  "category": "machine",
-  "categoryLabel": "Equipment",
-  "description": "Dental handpiece / motor.",
-  "image": "assets/products/machine/turbine-handpiece-nsk.jpg",
-  "variants": [
-   "Handpiece NSK",
-   "NSK Kit Contre Angle,handpiece,micro Moteur,turbine",
-   "Turbine NSK"
   ]
  },
  {
@@ -5080,22 +5037,6 @@
   "variants": [
    "Tray Mauve By Pc",
    "Tray Mauve Paquet Of 100"
-  ]
- },
- {
-  "id": "impression-tray",
-  "name": "Impression Tray",
-  "brand": "",
-  "category": "disposable",
-  "categoryLabel": "Disposables",
-  "description": "Impression material.",
-  "image": null,
-  "variants": [
-   "Impression Tray Anterior",
-   "Impression Tray Anterior Lavender",
-   "Impression Tray Left And Right",
-   "Impression Tray Pedo",
-   "Impression Tray Sachet"
   ]
  },
  {
@@ -6237,7 +6178,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Applicator brush.",
-  "image": null,
+  "image": "assets/products/disposable/microbrush-fine.jpg",
   "variants": [
    "Microbrush Brush",
    "Microbrush F",
@@ -6473,7 +6414,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Surgical / endodontic product.",
-  "image": null,
+  "image": "assets/products/endo/endodontic-spreader-assorted-box.jpg",
   "variants": [
    "Spreaders #15 White",
    "Spreaders #25 ROUGE",
@@ -6564,22 +6505,6 @@
    "BMS Condensation",
    "BMS Putty Addition",
    "Bms Condensation Light"
-  ]
- },
- {
-  "id": "putty-impression",
-  "name": "Putty",
-  "brand": "",
-  "category": "impression",
-  "categoryLabel": "Impression Materials",
-  "description": "Impression material.",
-  "image": null,
-  "variants": [
-   "Putty +2box Light Virtual Fast Set",
-   "Putty Bisico",
-   "Putty Han",
-   "Putty Metta",
-   "Putty OK"
   ]
  },
  {
@@ -6776,20 +6701,6 @@
   ]
  },
  {
-  "id": "mirror-instrument",
-  "name": "Mirror",
-  "brand": "",
-  "category": "instrument",
-  "categoryLabel": "Instruments",
-  "description": "Dental examination mirror.",
-  "image": null,
-  "variants": [
-   "Mirror + Handle",
-   "Mirror Handle",
-   "Mirror Handle Plastique Autoclavable"
-  ]
- },
- {
   "id": "pince-instrument",
   "name": "Pince",
   "brand": "",
@@ -6954,28 +6865,6 @@
    "Torch Gun",
    "Torch Long Neck",
    "Torch Small Neck"
-  ]
- },
- {
-  "id": "turbine-machine",
-  "name": "Turbine",
-  "brand": "",
-  "category": "machine",
-  "categoryLabel": "Equipment",
-  "description": "Dental handpiece / motor.",
-  "image": null,
-  "variants": [
-   "Turbine 3water 1led Meote N3",
-   "Turbine 4 Trou Rixi",
-   "Turbine 5 Led 5 Water Black N2 Meote",
-   "Turbine 5led 5water N1 Meote",
-   "Turbine Apple With Led A2 Pro",
-   "Turbine Lingchen",
-   "Turbine Matory With Led",
-   "Turbine Tulip With Led + 2 Tete",
-   "Turbine Udt With Led",
-   "Turbine Wismed",
-   "Turbine Without LED"
   ]
  },
  {
@@ -7249,6 +7138,24 @@
   ]
  },
  {
+  "id": "wooden-cone",
+  "name": "Wooden Cone",
+  "brand": "",
+  "category": "disposable",
+  "categoryLabel": "Disposables",
+  "description": "Teeth whitening product.",
+  "image": "assets/products/disposable/wooden-interdental-wedge.jpg",
+  "variants": [
+   "Blue",
+   "Orange",
+   "Pink",
+   "White",
+   "Wooden Cone Assorted",
+   "Wooden Cone Polydentia 1000 Pcs Pink",
+   "Yellow"
+  ]
+ },
+ {
   "id": "gloves-powder",
   "name": "Gloves Powder",
   "brand": "",
@@ -7286,6 +7193,55 @@
    "Gloves Powdered Xs Maxter",
    "Medium",
    "Small"
+  ]
+ },
+ {
+  "id": "mirror-disposable",
+  "name": "Mirror",
+  "brand": "",
+  "category": "disposable",
+  "categoryLabel": "Disposables",
+  "description": "Dental examination mirror.",
+  "image": "assets/products/disposable/dental-mirror-rhodium-autoclavable.jpg",
+  "variants": [
+   "Mirror + Handle",
+   "Mirror Colore Autoclavable",
+   "Mirror Handle",
+   "Mirror Handle Plastique Autoclavable",
+   "Mirror N5 Hanenkraft Plane",
+   "Mirror Rolf 5 By Pc",
+   "Mirror Seplus",
+   "N4 Becht",
+   "N5 Rolf",
+   "N6 Rolf"
+  ]
+ },
+ {
+  "id": "impression-tray-upper",
+  "name": "Impression Tray Upper",
+  "brand": "",
+  "category": "disposable",
+  "categoryLabel": "Disposables",
+  "description": "Impression material.",
+  "image": "assets/products/disposable/disposable-impression-tray-perforated.jpg",
+  "variants": [
+   "Blue",
+   "Impression Tray Anterior",
+   "Impression Tray Anterior Lavender",
+   "Impression Tray Left And Right",
+   "Impression Tray Pedo",
+   "Impression Tray Sachet",
+   "Large N1",
+   "Medium",
+   "Medium N3",
+   "Small",
+   "Small N5",
+   "Tray Blue Paquet Of 50",
+   "Tray Cover",
+   "Tray For Chaise Dentaire",
+   "Tray Stainless",
+   "Tray Stainless Steel + Boxes",
+   "White"
   ]
  },
  {
@@ -7528,7 +7484,14 @@
   "description": "Fiber post system.",
   "image": "assets/products/fiberpost/fiber-post-kit-with-drills.jpg",
   "variants": [
+   "3M RED",
+   "3M Yellow",
+   "Box Of 200",
    "Fiber Post Kit 20 + Drills",
+   "Fiberpost Contect 1.3 Pack Of 10",
+   "Fiberpost Inod 09 Box Of 10",
+   "Fiberpost KIT 100 CH",
+   "Fiberpost Maquira",
    "Kit Fiber Post Itena",
    "Purple",
    "Red",
@@ -7614,6 +7577,49 @@
   ]
  },
  {
+  "id": "putty-impression",
+  "name": "Putty",
+  "brand": "",
+  "category": "impression",
+  "categoryLabel": "Impression Materials",
+  "description": "Impression material.",
+  "image": "assets/products/impression/vericom-putty-light.jpg",
+  "variants": [
+   "Putty +2box Light Virtual Fast Set",
+   "Putty Bisico",
+   "Putty Han",
+   "Putty Light Vericom",
+   "Putty Metta",
+   "Putty OK",
+   "Putty Vericom"
+  ]
+ },
+ {
+  "id": "turbine-machine",
+  "name": "Turbine",
+  "brand": "",
+  "category": "machine",
+  "categoryLabel": "Equipment",
+  "description": "Dental handpiece / motor.",
+  "image": "assets/products/machine/turbine-handpiece-nsk.jpg",
+  "variants": [
+   "Handpiece NSK",
+   "NSK Kit Contre Angle,handpiece,micro Moteur,turbine",
+   "Turbine 3water 1led Meote N3",
+   "Turbine 4 Trou Rixi",
+   "Turbine 5 Led 5 Water Black N2 Meote",
+   "Turbine 5led 5water N1 Meote",
+   "Turbine Apple With Led A2 Pro",
+   "Turbine Lingchen",
+   "Turbine Matory With Led",
+   "Turbine NSK",
+   "Turbine Tulip With Led + 2 Tete",
+   "Turbine Udt With Led",
+   "Turbine Wismed",
+   "Turbine Without LED"
+  ]
+ },
+ {
   "id": "light-cure-2",
   "name": "Light Cure",
   "brand": "",
@@ -7661,24 +7667,6 @@
    "B0.5",
    "RELYX Veneer TR",
    "RELYX Veneer WO"
-  ]
- },
- {
-  "id": "wooden-cone",
-  "name": "Wooden Cone",
-  "brand": "",
-  "category": "disposable",
-  "categoryLabel": "Disposables",
-  "description": "Teeth whitening product.",
-  "image": null,
-  "variants": [
-   "Blue",
-   "Orange",
-   "Pink",
-   "White",
-   "Wooden Cone Assorted",
-   "Wooden Cone Polydentia 1000 Pcs Pink",
-   "Yellow"
   ]
  },
  {
@@ -7759,42 +7747,6 @@
    "Matrix Holder",
    "Matrix Holder Becht",
    "Matrix Holder Bleue"
-  ]
- },
- {
-  "id": "mirror-disposable",
-  "name": "Mirror",
-  "brand": "",
-  "category": "disposable",
-  "categoryLabel": "Disposables",
-  "description": "Dental examination mirror.",
-  "image": null,
-  "variants": [
-   "Mirror Colore Autoclavable",
-   "Mirror N5 Hanenkraft Plane",
-   "Mirror Rolf 5 By Pc",
-   "Mirror Seplus",
-   "N4 Becht",
-   "N5 Rolf",
-   "N6 Rolf"
-  ]
- },
- {
-  "id": "tray-disposable",
-  "name": "Tray",
-  "brand": "",
-  "category": "disposable",
-  "categoryLabel": "Disposables",
-  "description": "Dental tray.",
-  "image": null,
-  "variants": [
-   "Blue",
-   "Tray Blue Paquet Of 50",
-   "Tray Cover",
-   "Tray For Chaise Dentaire",
-   "Tray Stainless",
-   "Tray Stainless Steel + Boxes",
-   "White"
   ]
  },
  {
@@ -7893,24 +7845,6 @@
    "Etching Russe",
    "Etching Spident 5ml",
    "Etching Syringe Sample"
-  ]
- },
- {
-  "id": "fiberpost-fiberpost",
-  "name": "Fiberpost",
-  "brand": "",
-  "category": "fiberpost",
-  "categoryLabel": "Fiber Posts",
-  "description": "Fiber post system.",
-  "image": null,
-  "variants": [
-   "3M RED",
-   "3M Yellow",
-   "Box Of 200",
-   "Fiberpost Contect 1.3 Pack Of 10",
-   "Fiberpost Inod 09 Box Of 10",
-   "Fiberpost KIT 100 CH",
-   "Fiberpost Maquira"
   ]
  },
  {
