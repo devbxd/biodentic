@@ -248,24 +248,6 @@
   "image": null
  },
  {
-  "id": "clamp",
-  "name": "Clamp",
-  "brand": "",
-  "category": "disposable",
-  "categoryLabel": "Disposables",
-  "description": "Rubber dam clamp.",
-  "image": null
- },
- {
-  "id": "clamps",
-  "name": "Clamps",
-  "brand": "",
-  "category": "disposable",
-  "categoryLabel": "Disposables",
-  "description": "Rubber dam clamp.",
-  "image": null
- },
- {
   "id": "tooth-shade-ring",
   "name": "Tooth Shade Ring",
   "brand": "",
@@ -371,29 +353,6 @@
    "1 Epinephrine",
    "2",
    "3"
-  ]
- },
- {
-  "id": "fluor-tray",
-  "name": "Fluor Tray",
-  "brand": "",
-  "category": "disposable",
-  "categoryLabel": "Disposables",
-  "description": "Dental tray.",
-  "image": null
- },
- {
-  "id": "fluor-trays",
-  "name": "Fluor Trays",
-  "brand": "",
-  "category": "disposable",
-  "categoryLabel": "Disposables",
-  "description": "Disposable dental product.",
-  "image": null,
-  "variants": [
-   "Blue",
-   "Green",
-   "Yellow"
   ]
  },
  {
@@ -2334,15 +2293,6 @@
   "image": null
  },
  {
-  "id": "periotomes",
-  "name": "Periotomes",
-  "brand": "",
-  "category": "instrument",
-  "categoryLabel": "Instruments",
-  "description": "Dental instrument.",
-  "image": null
- },
- {
   "id": "manual-scaler",
   "name": "Manual Scaler",
   "brand": "",
@@ -2458,15 +2408,6 @@
  {
   "id": "perio-probe-millimetre",
   "name": "Perio Probe Millimetre",
-  "brand": "",
-  "category": "instrument",
-  "categoryLabel": "Instruments",
-  "description": "Dental instrument.",
-  "image": null
- },
- {
-  "id": "periotome",
-  "name": "Periotome",
   "brand": "",
   "category": "instrument",
   "categoryLabel": "Instruments",
@@ -8219,6 +8160,45 @@
    "Endodontics (Assorted) ZINC OXIDE ADI",
    "Eugenol 100 Ml ADI",
    "Eugenol K"
+  ]
+ },
+ {
+  "id": "clamp",
+  "name": "Clamp",
+  "brand": "",
+  "category": "disposable",
+  "categoryLabel": "Disposables",
+  "description": "Rubber dam clamp.",
+  "image": null,
+  "variants": [
+   "Clamps"
+  ]
+ },
+ {
+  "id": "fluor-trays",
+  "name": "Fluor Trays",
+  "brand": "",
+  "category": "disposable",
+  "categoryLabel": "Disposables",
+  "description": "Disposable dental product.",
+  "image": null,
+  "variants": [
+   "Blue",
+   "Fluor Tray",
+   "Green",
+   "Yellow"
+  ]
+ },
+ {
+  "id": "periotomes",
+  "name": "Periotomes",
+  "brand": "",
+  "category": "instrument",
+  "categoryLabel": "Instruments",
+  "description": "Dental instrument.",
+  "image": null,
+  "variants": [
+   "Periotome"
   ]
  }
 ]
