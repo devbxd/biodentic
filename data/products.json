@@ -2450,7 +2450,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Endodontic obturation material.",
-  "image": null,
+  "image": "assets/products/endo/gutta-condensor-25.jpg",
   "variants": [
    "25",
    "30",
