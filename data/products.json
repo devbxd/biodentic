@@ -104,7 +104,7 @@
   "category": "cementation",
   "categoryLabel": "Cementation",
   "description": "Dental cement.",
-  "image": null
+  "image": "assets/products/cementation/g-cem-one.webp"
  },
  {
   "id": "ionoseal-vocco",
@@ -131,7 +131,7 @@
   "category": "cementation",
   "categoryLabel": "Cementation",
   "description": "Dental cement.",
-  "image": null
+  "image": "assets/products/cementation/panavia-syringe.jpg"
  },
  {
   "id": "3m-try-in-paste-tr",
