@@ -2277,26 +2277,8 @@
   "image": null
  },
  {
-  "id": "elevator",
-  "name": "Elevator",
-  "brand": "",
-  "category": "instrument",
-  "categoryLabel": "Instruments",
-  "description": "Surgical elevator.",
-  "image": null
- },
- {
   "id": "spatula-elevator",
   "name": "Spatula Elevator",
-  "brand": "",
-  "category": "instrument",
-  "categoryLabel": "Instruments",
-  "description": "Surgical elevator.",
-  "image": null
- },
- {
-  "id": "elevator-left-and-right",
-  "name": "Elevator Left And Right",
   "brand": "",
   "category": "instrument",
   "categoryLabel": "Instruments",
@@ -3234,7 +3216,7 @@
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Temporary restorative material.",
-  "image": null
+  "image": "assets/products/temporary/charmtemp-b.webp"
  },
  {
   "id": "charmtemp",
@@ -3329,7 +3311,7 @@
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Temporary restorative material.",
-  "image": null
+  "image": "assets/products/temporary/luxatemp-bl.png"
  },
  {
   "id": "maquira-temorary-crown-master-temp-7g",
@@ -4188,6 +4170,19 @@
   "variants": [
    "Adult Extraction Forceps",
    "Extraction Forceps For Pedo"
+  ]
+ },
+ {
+  "id": "elevator-2",
+  "name": "Elevator",
+  "brand": "",
+  "category": "instrument",
+  "categoryLabel": "Instruments",
+  "description": "Surgical elevator.",
+  "image": "assets/products/instrument/elevator.jpg",
+  "variants": [
+   "Elevator",
+   "Elevator Left And Right"
   ]
  },
  {
