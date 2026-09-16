@@ -1469,7 +1469,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Surgical / endodontic product.",
-  "image": null
+  "image": "assets/products/endo/teracal-prevest.jpg"
  },
  {
   "id": "theracal-bisco-by-pc",
@@ -1886,15 +1886,6 @@
   "image": null
  },
  {
-  "id": "cavex-outline-impression-paste",
-  "name": "Cavex Outline Impression Paste",
-  "brand": "",
-  "category": "impression",
-  "categoryLabel": "Impression Materials",
-  "description": "Impression material.",
-  "image": null
- },
- {
   "id": "futar-silicone-transparent-medium-box-of-2",
   "name": "Futar Silicone Transparent Medium Box Of 2",
   "brand": "",
@@ -2012,15 +2003,6 @@
   "image": null
  },
  {
-  "id": "outline-impression-paste-pentron",
-  "name": "Outline Impression Paste Pentron",
-  "brand": "",
-  "category": "impression",
-  "categoryLabel": "Impression Materials",
-  "description": "Impression material.",
-  "image": null
- },
- {
   "id": "paste-of-kerr",
   "name": "Paste Of Kerr",
   "brand": "",
@@ -2082,15 +2064,6 @@
   "categoryLabel": "Impression Materials",
   "description": "Cavity liner / base material.",
   "image": "assets/products/impression/soft-liner.jpg"
- },
- {
-  "id": "zeugenol-impression-paste",
-  "name": "Zeugenol Impression Paste",
-  "brand": "",
-  "category": "impression",
-  "categoryLabel": "Impression Materials",
-  "description": "Impression material.",
-  "image": null
  },
  {
   "id": "vl",
@@ -4059,6 +4032,20 @@
    "Silaxil Catalyst",
    "Silaxil Condensation",
    "Silaxil Light"
+  ]
+ },
+ {
+  "id": "impression-paste",
+  "name": "Impression Paste",
+  "brand": "",
+  "category": "impression",
+  "categoryLabel": "Impression Materials",
+  "description": "Impression material.",
+  "image": "assets/products/impression/cavex-outline-impression-paste.jpg",
+  "variants": [
+   "Cavex Outline Impression Paste",
+   "Outline Impression Paste Pentron",
+   "Zeugenol Impression Paste"
   ]
  },
  {
