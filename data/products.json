@@ -413,91 +413,6 @@
   "image": null
  },
  {
-  "id": "bib-3-ply",
-  "name": "Bib 3-ply",
-  "brand": "",
-  "category": "disposable",
-  "categoryLabel": "Disposables",
-  "description": "Disposable patient protection.",
-  "image": "assets/products/disposable/bib-3-ply.jpg"
- },
- {
-  "id": "bib-white-tr",
-  "name": "Bib White Tr",
-  "brand": "",
-  "category": "disposable",
-  "categoryLabel": "Disposables",
-  "description": "Teeth whitening product.",
-  "image": null
- },
- {
-  "id": "bib-box-1-2",
-  "name": "Bib Box 1/2",
-  "brand": "",
-  "category": "disposable",
-  "categoryLabel": "Disposables",
-  "description": "Disposable patient protection.",
-  "image": null
- },
- {
-  "id": "bib-box",
-  "name": "Bib Box",
-  "brand": "",
-  "category": "disposable",
-  "categoryLabel": "Disposables",
-  "description": "Teeth whitening product.",
-  "image": null,
-  "variants": [
-   "BLACK",
-   "White"
-  ]
- },
- {
-  "id": "bib-box-delian",
-  "name": "Bib Box Delian",
-  "brand": "",
-  "category": "disposable",
-  "categoryLabel": "Disposables",
-  "description": "Disposable patient protection.",
-  "image": null
- },
- {
-  "id": "bib-box-tribest",
-  "name": "Bib Box Tribest",
-  "brand": "",
-  "category": "disposable",
-  "categoryLabel": "Disposables",
-  "description": "Disposable patient protection.",
-  "image": null
- },
- {
-  "id": "bib-box-infinity",
-  "name": "Bib Box Infinity",
-  "brand": "",
-  "category": "disposable",
-  "categoryLabel": "Disposables",
-  "description": "Disposable patient protection.",
-  "image": null
- },
- {
-  "id": "bib-roll-euronda",
-  "name": "Bib Roll Euronda",
-  "brand": "",
-  "category": "disposable",
-  "categoryLabel": "Disposables",
-  "description": "Disposable patient protection.",
-  "image": null
- },
- {
-  "id": "bib-roll-euronda-53-80",
-  "name": "Bib Roll Euronda 53*80",
-  "brand": "",
-  "category": "disposable",
-  "categoryLabel": "Disposables",
-  "description": "Disposable patient protection.",
-  "image": null
- },
- {
   "id": "blade",
   "name": "Blade",
   "brand": "",
@@ -511,15 +426,6 @@
    "15",
    "15c"
   ]
- },
- {
-  "id": "bib-box-maxident",
-  "name": "Bib Box Maxident",
-  "brand": "",
-  "category": "disposable",
-  "categoryLabel": "Disposables",
-  "description": "Disposable patient protection.",
-  "image": null
  },
  {
   "id": "boedic",
@@ -2967,6 +2873,19 @@
   "image": null
  },
  {
+  "id": "scaler-tip",
+  "name": "Scaler Tip",
+  "brand": "",
+  "category": "disposable",
+  "categoryLabel": "Disposables",
+  "description": "Disposable dental product.",
+  "image": "assets/products/disposable/ultrasonic-scaler-tip-e14d.png",
+  "variants": [
+   "E14D",
+   "E3D"
+  ]
+ },
+ {
   "id": "scie-colore",
   "name": "Scie Colore",
   "brand": "",
@@ -3066,44 +2985,23 @@
   "image": null
  },
  {
-  "id": "syringe-1cc",
-  "name": "Syringe 1cc",
+  "id": "syringe",
+  "name": "Syringe",
   "brand": "",
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null
- },
- {
-  "id": "syringe-20cc",
-  "name": "Syringe 20cc",
-  "brand": "",
-  "category": "disposable",
-  "categoryLabel": "Disposables",
-  "description": "Disposable dental product.",
-  "image": null
+  "image": null,
+  "variants": [
+   "1cc",
+   "20cc",
+   "3cc",
+   "5cc"
+  ]
  },
  {
   "id": "syringe-20cc-box-100",
   "name": "Syringe 20cc Box 100",
-  "brand": "",
-  "category": "disposable",
-  "categoryLabel": "Disposables",
-  "description": "Disposable dental product.",
-  "image": null
- },
- {
-  "id": "syringe-3cc",
-  "name": "Syringe 3cc",
-  "brand": "",
-  "category": "disposable",
-  "categoryLabel": "Disposables",
-  "description": "Disposable dental product.",
-  "image": null
- },
- {
-  "id": "syringe-5cc",
-  "name": "Syringe 5cc",
   "brand": "",
   "category": "disposable",
   "categoryLabel": "Disposables",
@@ -4286,31 +4184,19 @@
   "image": null
  },
  {
-  "id": "gutta-f1",
-  "name": "Gutta F1",
+  "id": "gutta-2",
+  "name": "Gutta",
   "brand": "",
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Endodontic obturation material.",
-  "image": null
- },
- {
-  "id": "gutta-f2",
-  "name": "Gutta F2",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic obturation material.",
-  "image": null
- },
- {
-  "id": "gutta-f3",
-  "name": "Gutta F3",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic obturation material.",
-  "image": null
+  "image": null,
+  "variants": [
+   "F1",
+   "F2",
+   "F3",
+   "M"
+  ]
  },
  {
   "id": "gutta-ff",
@@ -4324,15 +4210,6 @@
  {
   "id": "gutta-fm",
   "name": "Gutta FM",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic obturation material.",
-  "image": null
- },
- {
-  "id": "gutta-m",
-  "name": "Gutta M",
   "brand": "",
   "category": "endo",
   "categoryLabel": "Endodontics",
@@ -4672,13 +4549,19 @@
   "image": null
  },
  {
-  "id": "paper-45-80",
-  "name": "Paper 45-80",
+  "id": "paper",
+  "name": "Paper",
   "brand": "",
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Surgical / endodontic product.",
-  "image": null
+  "image": null,
+  "variants": [
+   "45-80",
+   "F1",
+   "F2",
+   "F3"
+  ]
  },
  {
   "id": "paper-15-40-fanta",
@@ -4798,35 +4681,8 @@
   "image": null
  },
  {
-  "id": "paper-f1",
-  "name": "Paper F1",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Surgical / endodontic product.",
-  "image": null
- },
- {
   "id": "paper-f1-f3-sure-endo-ass",
   "name": "Paper F1-F3 Sure Endo Ass",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Surgical / endodontic product.",
-  "image": null
- },
- {
-  "id": "paper-f2",
-  "name": "Paper F2",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Surgical / endodontic product.",
-  "image": null
- },
- {
-  "id": "paper-f3",
-  "name": "Paper F3",
   "brand": "",
   "category": "endo",
   "categoryLabel": "Endodontics",
@@ -5121,6 +4977,8 @@
   "description": "Endodontic hand/rotary file.",
   "image": null,
   "variants": [
+   "F1",
+   "F2",
    "S1",
    "S2"
   ]
@@ -5128,24 +4986,6 @@
  {
   "id": "rotary-file-sx",
   "name": "Rotary File SX",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic hand/rotary file.",
-  "image": null
- },
- {
-  "id": "rotary-file-f1",
-  "name": "Rotary File F1",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Endodontic hand/rotary file.",
-  "image": null
- },
- {
-  "id": "rotary-file-f2",
-  "name": "Rotary File F2",
   "brand": "",
   "category": "endo",
   "categoryLabel": "Endodontics",
@@ -5705,31 +5545,18 @@
   "image": null
  },
  {
-  "id": "exacto-n1",
-  "name": "Exacto N1",
+  "id": "exacto",
+  "name": "Exacto",
   "brand": "",
   "category": "fiberpost",
   "categoryLabel": "Fiber Posts",
   "description": "Fiber post system.",
-  "image": null
- },
- {
-  "id": "exacto-n2",
-  "name": "Exacto N2",
-  "brand": "",
-  "category": "fiberpost",
-  "categoryLabel": "Fiber Posts",
-  "description": "Fiber post system.",
-  "image": null
- },
- {
-  "id": "exacto-n3",
-  "name": "Exacto N3",
-  "brand": "",
-  "category": "fiberpost",
-  "categoryLabel": "Fiber Posts",
-  "description": "Fiber post system.",
-  "image": null
+  "image": null,
+  "variants": [
+   "N1",
+   "N2",
+   "N3"
+  ]
  },
  {
   "id": "reforpin",
@@ -5958,89 +5785,28 @@
   "image": null
  },
  {
-  "id": "bur-acier-thomas-n0",
-  "name": "Bur Acier Thomas N0",
+  "id": "bur-acier-thomas",
+  "name": "Bur Acier Thomas",
   "brand": "",
   "category": "fraise",
   "categoryLabel": "Burs",
   "description": "Rotary dental bur.",
-  "image": null
- },
- {
-  "id": "bur-acier-thomas-n1",
-  "name": "Bur Acier Thomas N1",
-  "brand": "",
-  "category": "fraise",
-  "categoryLabel": "Burs",
-  "description": "Rotary dental bur.",
-  "image": null
- },
- {
-  "id": "bur-acier-thomas-n2",
-  "name": "Bur Acier Thomas N2",
-  "brand": "",
-  "category": "fraise",
-  "categoryLabel": "Burs",
-  "description": "Rotary dental bur.",
-  "image": null
- },
- {
-  "id": "bur-acier-thomas-n3",
-  "name": "Bur Acier Thomas N3",
-  "brand": "",
-  "category": "fraise",
-  "categoryLabel": "Burs",
-  "description": "Rotary dental bur.",
-  "image": null
- },
- {
-  "id": "bur-acier-thomas-n4",
-  "name": "Bur Acier Thomas N4",
-  "brand": "",
-  "category": "fraise",
-  "categoryLabel": "Burs",
-  "description": "Rotary dental bur.",
-  "image": null
- },
- {
-  "id": "bur-acier-thomas-n5",
-  "name": "Bur Acier Thomas N5",
-  "brand": "",
-  "category": "fraise",
-  "categoryLabel": "Burs",
-  "description": "Rotary dental bur.",
-  "image": null
- },
- {
-  "id": "bur-acier-thomas-n6",
-  "name": "Bur Acier Thomas N6",
-  "brand": "",
-  "category": "fraise",
-  "categoryLabel": "Burs",
-  "description": "Rotary dental bur.",
-  "image": null
- },
- {
-  "id": "bur-acier-thomas-n7",
-  "name": "Bur Acier Thomas N7",
-  "brand": "",
-  "category": "fraise",
-  "categoryLabel": "Burs",
-  "description": "Rotary dental bur.",
-  "image": null
+  "image": null,
+  "variants": [
+   "N0",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5",
+   "N6",
+   "N7",
+   "N8"
+  ]
  },
  {
   "id": "bur-acier-thomas-n7-by-piece",
   "name": "Bur Acier Thomas N7 By Piece",
-  "brand": "",
-  "category": "fraise",
-  "categoryLabel": "Burs",
-  "description": "Rotary dental bur.",
-  "image": null
- },
- {
-  "id": "bur-acier-thomas-n8",
-  "name": "Bur Acier Thomas N8",
   "brand": "",
   "category": "fraise",
   "categoryLabel": "Burs",
@@ -6066,31 +5832,32 @@
   "image": null
  },
  {
-  "id": "bur-aq12b-korean",
-  "name": "Bur AQ12B Korean",
+  "id": "bur-aq",
+  "name": "Bur AQ",
   "brand": "",
   "category": "fraise",
   "categoryLabel": "Burs",
   "description": "Rotary dental bur.",
-  "image": null
+  "image": null,
+  "variants": [
+   "AQ12B Korean",
+   "AQ12C Korean"
+  ]
  },
  {
-  "id": "bur-aq12c-korean",
-  "name": "Bur AQ12C Korean",
+  "id": "bur-br",
+  "name": "Bur BR",
   "brand": "",
   "category": "fraise",
   "categoryLabel": "Burs",
   "description": "Rotary dental bur.",
-  "image": null
- },
- {
-  "id": "bur-br31-korean",
-  "name": "Bur BR31 Korean",
-  "brand": "",
-  "category": "fraise",
-  "categoryLabel": "Burs",
-  "description": "Rotary dental bur.",
-  "image": null
+  "image": null,
+  "variants": [
+   "BR31 Korean",
+   "BR40 Korean",
+   "BR41B Korean",
+   "BR41B TR"
+  ]
  },
  {
   "id": "bur-br31b-box-of-10",
@@ -6111,33 +5878,6 @@
   "image": null
  },
  {
-  "id": "bur-br40-korean",
-  "name": "Bur BR40 Korean",
-  "brand": "",
-  "category": "fraise",
-  "categoryLabel": "Burs",
-  "description": "Rotary dental bur.",
-  "image": null
- },
- {
-  "id": "bur-br41b-korean",
-  "name": "Bur BR41B Korean",
-  "brand": "",
-  "category": "fraise",
-  "categoryLabel": "Burs",
-  "description": "Rotary dental bur.",
-  "image": null
- },
- {
-  "id": "bur-br41b-tr",
-  "name": "Bur BR41B TR",
-  "brand": "",
-  "category": "fraise",
-  "categoryLabel": "Burs",
-  "description": "Rotary dental bur.",
-  "image": null
- },
- {
   "id": "bur-carbide-n5-mani",
   "name": "Bur Carbide N5 Mani",
   "brand": "",
@@ -6147,13 +5887,20 @@
   "image": null
  },
  {
-  "id": "bur-ce15ef",
-  "name": "Bur Ce15ef",
+  "id": "bur",
+  "name": "Bur",
   "brand": "",
   "category": "fraise",
   "categoryLabel": "Burs",
   "description": "Rotary dental bur.",
-  "image": null
+  "image": null,
+  "variants": [
+   "Ce15ef",
+   "T12F",
+   "TF21F",
+   "Tc11ef",
+   "Tf11sc"
+  ]
  },
  {
   "id": "bur-ceramic",
@@ -6201,40 +5948,30 @@
   "image": null
  },
  {
-  "id": "bur-fg021-tr",
-  "name": "Bur FG021 TR",
+  "id": "bur-fg",
+  "name": "Bur FG",
   "brand": "",
   "category": "fraise",
   "categoryLabel": "Burs",
   "description": "Rotary dental bur.",
-  "image": null
+  "image": null,
+  "variants": [
+   "FG021 TR",
+   "FG023 TR"
+  ]
  },
  {
-  "id": "bur-fg023-tr",
-  "name": "Bur FG023 TR",
+  "id": "bur-fo",
+  "name": "Bur FO",
   "brand": "",
   "category": "fraise",
   "categoryLabel": "Burs",
   "description": "Rotary dental bur.",
-  "image": null
- },
- {
-  "id": "bur-fo29-korean",
-  "name": "Bur FO29 Korean",
-  "brand": "",
-  "category": "fraise",
-  "categoryLabel": "Burs",
-  "description": "Rotary dental bur.",
-  "image": null
- },
- {
-  "id": "bur-fo32-korean",
-  "name": "Bur FO32 Korean",
-  "brand": "",
-  "category": "fraise",
-  "categoryLabel": "Burs",
-  "description": "Rotary dental bur.",
-  "image": null
+  "image": null,
+  "variants": [
+   "FO29 Korean",
+   "FO32 Korean"
+  ]
  },
  {
   "id": "bur-korean",
@@ -6345,40 +6082,19 @@
   "image": null
  },
  {
-  "id": "bur-sf12-korean",
-  "name": "Bur SF12 Korean",
+  "id": "bur-sf",
+  "name": "Bur SF",
   "brand": "",
   "category": "fraise",
   "categoryLabel": "Burs",
   "description": "Rotary dental bur.",
-  "image": null
- },
- {
-  "id": "bur-sf21b-tr",
-  "name": "Bur SF21B TR",
-  "brand": "",
-  "category": "fraise",
-  "categoryLabel": "Burs",
-  "description": "Rotary dental bur.",
-  "image": null
- },
- {
-  "id": "bur-sf31b-tr",
-  "name": "Bur SF31B TR",
-  "brand": "",
-  "category": "fraise",
-  "categoryLabel": "Burs",
-  "description": "Rotary dental bur.",
-  "image": null
- },
- {
-  "id": "bur-sf41b-tr",
-  "name": "Bur SF41B TR",
-  "brand": "",
-  "category": "fraise",
-  "categoryLabel": "Burs",
-  "description": "Rotary dental bur.",
-  "image": null
+  "image": null,
+  "variants": [
+   "SF12 Korean",
+   "SF21B TR",
+   "SF31B TR",
+   "SF41B TR"
+  ]
  },
  {
   "id": "bur-sr11-korean",
@@ -6399,49 +6115,18 @@
   "image": null
  },
  {
-  "id": "bur-t12f",
-  "name": "Bur T12F",
+  "id": "bur-tc",
+  "name": "Bur TC",
   "brand": "",
   "category": "fraise",
   "categoryLabel": "Burs",
   "description": "Rotary dental bur.",
-  "image": null
- },
- {
-  "id": "bur-tc09b-tr",
-  "name": "Bur TC09B TR",
-  "brand": "",
-  "category": "fraise",
-  "categoryLabel": "Burs",
-  "description": "Rotary dental bur.",
-  "image": null
- },
- {
-  "id": "bur-tc10b-tr",
-  "name": "Bur TC10B TR",
-  "brand": "",
-  "category": "fraise",
-  "categoryLabel": "Burs",
-  "description": "Rotary dental bur.",
-  "image": null
- },
- {
-  "id": "bur-tc11ef",
-  "name": "Bur Tc11ef",
-  "brand": "",
-  "category": "fraise",
-  "categoryLabel": "Burs",
-  "description": "Rotary dental bur.",
-  "image": null
- },
- {
-  "id": "bur-tc11ef-tr",
-  "name": "Bur Tc11ef TR",
-  "brand": "",
-  "category": "fraise",
-  "categoryLabel": "Burs",
-  "description": "Rotary dental bur.",
-  "image": null
+  "image": null,
+  "variants": [
+   "TC09B TR",
+   "TC10B TR",
+   "Tc11ef TR"
+  ]
  },
  {
   "id": "bur-teka",
@@ -6453,67 +6138,20 @@
   "image": null
  },
  {
-  "id": "bur-tf11sc",
-  "name": "Bur Tf11sc",
+  "id": "bur-tf",
+  "name": "Bur TF",
   "brand": "",
   "category": "fraise",
   "categoryLabel": "Burs",
   "description": "Rotary dental bur.",
-  "image": null
- },
- {
-  "id": "bur-tf12-korean",
-  "name": "Bur TF12 Korean",
-  "brand": "",
-  "category": "fraise",
-  "categoryLabel": "Burs",
-  "description": "Rotary dental bur.",
-  "image": null
- },
- {
-  "id": "bur-tf12b-korean",
-  "name": "Bur TF12B Korean",
-  "brand": "",
-  "category": "fraise",
-  "categoryLabel": "Burs",
-  "description": "Rotary dental bur.",
-  "image": null
- },
- {
-  "id": "bur-tf12c-korean",
-  "name": "Bur TF12C Korean",
-  "brand": "",
-  "category": "fraise",
-  "categoryLabel": "Burs",
-  "description": "Rotary dental bur.",
-  "image": null
- },
- {
-  "id": "bur-tf13c-korean",
-  "name": "Bur TF13C Korean",
-  "brand": "",
-  "category": "fraise",
-  "categoryLabel": "Burs",
-  "description": "Rotary dental bur.",
-  "image": null
- },
- {
-  "id": "bur-tf13c-tr",
-  "name": "Bur TF13C TR",
-  "brand": "",
-  "category": "fraise",
-  "categoryLabel": "Burs",
-  "description": "Rotary dental bur.",
-  "image": null
- },
- {
-  "id": "bur-tf21f",
-  "name": "Bur TF21F",
-  "brand": "",
-  "category": "fraise",
-  "categoryLabel": "Burs",
-  "description": "Rotary dental bur.",
-  "image": null
+  "image": null,
+  "variants": [
+   "TF12 Korean",
+   "TF12B Korean",
+   "TF12C Korean",
+   "TF13C Korean",
+   "TF13C TR"
+  ]
  },
  {
   "id": "bur-tfs20-tr",
@@ -6534,49 +6172,20 @@
   "image": null
  },
  {
-  "id": "bur-tr11ef-tr",
-  "name": "Bur Tr11ef TR",
+  "id": "bur-tr",
+  "name": "Bur TR",
   "brand": "",
   "category": "fraise",
   "categoryLabel": "Burs",
   "description": "Rotary dental bur.",
-  "image": null
- },
- {
-  "id": "bur-tr12-korean",
-  "name": "Bur TR12 Korean",
-  "brand": "",
-  "category": "fraise",
-  "categoryLabel": "Burs",
-  "description": "Rotary dental bur.",
-  "image": null
- },
- {
-  "id": "bur-tr12b-korean",
-  "name": "Bur TR12B Korean",
-  "brand": "",
-  "category": "fraise",
-  "categoryLabel": "Burs",
-  "description": "Rotary dental bur.",
-  "image": null
- },
- {
-  "id": "bur-tr12c-korean",
-  "name": "Bur TR12C Korean",
-  "brand": "",
-  "category": "fraise",
-  "categoryLabel": "Burs",
-  "description": "Rotary dental bur.",
-  "image": null
- },
- {
-  "id": "bur-tr13-korean",
-  "name": "Bur TR13 Korean",
-  "brand": "",
-  "category": "fraise",
-  "categoryLabel": "Burs",
-  "description": "Rotary dental bur.",
-  "image": null
+  "image": null,
+  "variants": [
+   "TR12 Korean",
+   "TR12B Korean",
+   "TR12C Korean",
+   "TR13 Korean",
+   "Tr11ef TR"
+  ]
  },
  {
   "id": "bur-transmetal",
@@ -6633,76 +6242,23 @@
   "image": null
  },
  {
-  "id": "stainless-steel-burs-n1",
-  "name": "Stainless Steel Burs N1",
+  "id": "stainless-steel-burs",
+  "name": "Stainless Steel Burs",
   "brand": "",
   "category": "fraise",
   "categoryLabel": "Burs",
   "description": "Rotary dental bur.",
-  "image": null
- },
- {
-  "id": "stainless-steel-burs-n2",
-  "name": "Stainless Steel Burs N2",
-  "brand": "",
-  "category": "fraise",
-  "categoryLabel": "Burs",
-  "description": "Rotary dental bur.",
-  "image": null
- },
- {
-  "id": "stainless-steel-burs-n3",
-  "name": "Stainless Steel Burs N3",
-  "brand": "",
-  "category": "fraise",
-  "categoryLabel": "Burs",
-  "description": "Rotary dental bur.",
-  "image": null
- },
- {
-  "id": "stainless-steel-burs-n4",
-  "name": "Stainless Steel Burs N4",
-  "brand": "",
-  "category": "fraise",
-  "categoryLabel": "Burs",
-  "description": "Rotary dental bur.",
-  "image": null
- },
- {
-  "id": "stainless-steel-burs-n5",
-  "name": "Stainless Steel Burs N5",
-  "brand": "",
-  "category": "fraise",
-  "categoryLabel": "Burs",
-  "description": "Rotary dental bur.",
-  "image": null
- },
- {
-  "id": "stainless-steel-burs-n6",
-  "name": "Stainless Steel Burs N6",
-  "brand": "",
-  "category": "fraise",
-  "categoryLabel": "Burs",
-  "description": "Rotary dental bur.",
-  "image": null
- },
- {
-  "id": "stainless-steel-burs-n7",
-  "name": "Stainless Steel Burs N7",
-  "brand": "",
-  "category": "fraise",
-  "categoryLabel": "Burs",
-  "description": "Rotary dental bur.",
-  "image": null
- },
- {
-  "id": "stainless-steel-burs-n8",
-  "name": "Stainless Steel Burs N8",
-  "brand": "",
-  "category": "fraise",
-  "categoryLabel": "Burs",
-  "description": "Rotary dental bur.",
-  "image": null
+  "image": null,
+  "variants": [
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5",
+   "N6",
+   "N7",
+   "N8"
+  ]
  },
  {
   "id": "stainless-steel-wire",
@@ -6731,8 +6287,10 @@
   "description": "Rotary dental bur.",
   "image": null,
   "variants": [
+   "201CB",
    "201L",
    "231",
+   "255CB",
    "3525",
    "411A",
    "4205",
@@ -6740,66 +6298,16 @@
    "4236",
    "4250",
    "8525",
-   "D4"
+   "D11",
+   "D11A",
+   "D34",
+   "D4",
+   "D7CB"
   ]
- },
- {
-  "id": "bur-intensive-d11",
-  "name": "Bur Intensive D11",
-  "brand": "",
-  "category": "fraise",
-  "categoryLabel": "Burs",
-  "description": "Rotary dental bur.",
-  "image": null
- },
- {
-  "id": "bur-intensive-d7cb",
-  "name": "Bur Intensive D7CB",
-  "brand": "",
-  "category": "fraise",
-  "categoryLabel": "Burs",
-  "description": "Rotary dental bur.",
-  "image": null
- },
- {
-  "id": "bur-intensive-255cb",
-  "name": "Bur Intensive 255CB",
-  "brand": "",
-  "category": "fraise",
-  "categoryLabel": "Burs",
-  "description": "Rotary dental bur.",
-  "image": null
- },
- {
-  "id": "bur-intensive-d11a",
-  "name": "Bur Intensive D11A",
-  "brand": "",
-  "category": "fraise",
-  "categoryLabel": "Burs",
-  "description": "Rotary dental bur.",
-  "image": null
- },
- {
-  "id": "bur-intensive-201cb",
-  "name": "Bur Intensive 201CB",
-  "brand": "",
-  "category": "fraise",
-  "categoryLabel": "Burs",
-  "description": "Rotary dental bur.",
-  "image": null
  },
  {
   "id": "bur-intensive-201-scb",
   "name": "Bur Intensive 201 SCB",
-  "brand": "",
-  "category": "fraise",
-  "categoryLabel": "Burs",
-  "description": "Rotary dental bur.",
-  "image": null
- },
- {
-  "id": "bur-intensive-d34",
-  "name": "Bur Intensive D34",
   "brand": "",
   "category": "fraise",
   "categoryLabel": "Burs",
@@ -8215,17 +7723,9 @@
   "image": null,
   "variants": [
    "000",
+   "F2",
    "L8"
   ]
- },
- {
-  "id": "brush-composite-f2",
-  "name": "Brush Composite F2",
-  "brand": "",
-  "category": "instrument",
-  "categoryLabel": "Instruments",
-  "description": "Light-cure dental composite.",
-  "image": null
  },
  {
   "id": "plastic-appuie-crown",
@@ -10143,52 +9643,20 @@
    "8690C",
    "8690F",
    "8690M",
+   "8690sf",
    "8691C",
    "8691F",
    "8691M",
+   "8691sf",
    "8692C",
    "8692F",
    "8692M",
+   "8692sf",
    "8693C",
    "8693F",
-   "8693M"
+   "8693M",
+   "8693sf"
   ]
- },
- {
-  "id": "soflex-8690sf",
-  "name": "Soflex 8690sf",
-  "brand": "",
-  "category": "polishing",
-  "categoryLabel": "Polishing",
-  "description": "Polishing product.",
-  "image": null
- },
- {
-  "id": "soflex-8691sf",
-  "name": "Soflex 8691sf",
-  "brand": "",
-  "category": "polishing",
-  "categoryLabel": "Polishing",
-  "description": "Polishing product.",
-  "image": null
- },
- {
-  "id": "soflex-8692sf",
-  "name": "Soflex 8692sf",
-  "brand": "",
-  "category": "polishing",
-  "categoryLabel": "Polishing",
-  "description": "Polishing product.",
-  "image": null
- },
- {
-  "id": "soflex-8693sf",
-  "name": "Soflex 8693sf",
-  "brand": "",
-  "category": "polishing",
-  "categoryLabel": "Polishing",
-  "description": "Polishing product.",
-  "image": null
  },
  {
   "id": "soflex-ch-kit-like-3m",
@@ -12219,22 +11687,6 @@
   ]
  },
  {
-  "id": "cotton-roll",
-  "name": "Cotton Roll",
-  "brand": "",
-  "category": "disposable",
-  "categoryLabel": "Disposables",
-  "description": "Cotton / gauze consumable.",
-  "image": "assets/products/disposable/dental-cotton-roll-pack.jpg",
-  "variants": [
-   "Box Cotton Roll Quality Autoclavable",
-   "Cotton Roll Box",
-   "Cotton Roll N1",
-   "Cotton Roll N2",
-   "Cotton Roll Pack Of 500"
-  ]
- },
- {
   "id": "rubber-dam-2",
   "name": "Rubber Dam",
   "brand": "",
@@ -12396,19 +11848,6 @@
   ]
  },
  {
-  "id": "scaler-tip",
-  "name": "Scaler Tip",
-  "brand": "",
-  "category": "disposable",
-  "categoryLabel": "Disposables",
-  "description": "Disposable dental product.",
-  "image": "assets/products/disposable/ultrasonic-scaler-tip-e14d.png",
-  "variants": [
-   "Scaler Tip E14D",
-   "Scaler Tip E3D"
-  ]
- },
- {
   "id": "shade-guide",
   "name": "Shade Guide",
   "brand": "",
@@ -12503,24 +11942,6 @@
   ]
  },
  {
-  "id": "gates-drill",
-  "name": "Gates Drill",
-  "brand": "",
-  "category": "endo",
-  "categoryLabel": "Endodontics",
-  "description": "Surgical / endodontic product.",
-  "image": "assets/products/endo/gates-glidden-drill.png",
-  "variants": [
-   "Gates Drill N 1-6",
-   "Gates Drill N1",
-   "Gates Drill N2",
-   "Gates Drill N3",
-   "Gates Drill N4",
-   "Gates Drill N5",
-   "Gates Drill N6"
-  ]
- },
- {
   "id": "gutta-solvent",
   "name": "GUTTA Solvent",
   "brand": "",
@@ -12604,20 +12025,6 @@
    "3M Etching Syringe",
    "Etching Bottle 3M",
    "Etching Syringe Sample"
-  ]
- },
- {
-  "id": "reforpost-angelus",
-  "name": "Reforpost Angelus",
-  "brand": "",
-  "category": "fiberpost",
-  "categoryLabel": "Fiber Posts",
-  "description": "Fiber post system.",
-  "image": "assets/products/fiberpost/angelus-reforpost-fiber-post.jpg",
-  "variants": [
-   "Reforpost Angelus N 1",
-   "Reforpost Angelus N2",
-   "Reforpost Angelus N3"
   ]
  },
  {
@@ -13231,6 +12638,44 @@
   ]
  },
  {
+  "id": "bib",
+  "name": "Bib",
+  "brand": "",
+  "category": "disposable",
+  "categoryLabel": "Disposables",
+  "description": "Disposable patient protection.",
+  "image": "assets/products/disposable/bib-3-ply.jpg",
+  "variants": [
+   "Bib 3-ply",
+   "Bib Box 1/2",
+   "Bib Box BLACK",
+   "Bib Box Delian",
+   "Bib Box Infinity",
+   "Bib Box Maxident",
+   "Bib Box Tribest",
+   "Bib Box White",
+   "Bib Roll Euronda",
+   "Bib Roll Euronda 53*80",
+   "Bib White Tr"
+  ]
+ },
+ {
+  "id": "cotton-roll",
+  "name": "Cotton Roll",
+  "brand": "",
+  "category": "disposable",
+  "categoryLabel": "Disposables",
+  "description": "Cotton / gauze consumable.",
+  "image": "assets/products/disposable/dental-cotton-roll-pack.jpg",
+  "variants": [
+   "Cotton Roll Box Box Cotton Roll Quality Autoclavable",
+   "Cotton Roll Box Cotton Roll Box",
+   "N1",
+   "N2",
+   "Pack Of 500"
+  ]
+ },
+ {
   "id": "autoclave-roll",
   "name": "Autoclave Roll",
   "brand": "",
@@ -13246,6 +12691,24 @@
    "7.5cm",
    "Autoclave Roll Cm Autoclave Roll 10 Cm",
    "Autoclave Roll Cm Autoclave Roll 5 Cm"
+  ]
+ },
+ {
+  "id": "gates-drill",
+  "name": "Gates Drill",
+  "brand": "",
+  "category": "endo",
+  "categoryLabel": "Endodontics",
+  "description": "Surgical / endodontic product.",
+  "image": "assets/products/endo/gates-glidden-drill.png",
+  "variants": [
+   "N 1-6",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5",
+   "N6"
   ]
  },
  {
@@ -13317,24 +12780,38 @@
   ]
  },
  {
-  "id": "rotary-fanta",
-  "name": "Rotary Fanta",
+  "id": "rotary-files-fanta",
+  "name": "Rotary Files Fanta",
   "brand": "",
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Endodontic hand/rotary file.",
   "image": "assets/products/endo/rotary-path-file-fanta.png",
   "variants": [
-   "Rotary Files Fanta 20-04",
-   "Rotary Files Fanta 20-06 31mm",
-   "Rotary Files Fanta 25-04",
-   "Rotary Files Fanta F1",
-   "Rotary Files Fanta F2",
-   "Rotary Files Fanta S1",
-   "Rotary Files Fanta S2",
-   "Rotary Files Sx Fanta",
-   "Rotary One File Single System Fanta",
-   "Rotary Path File Fanta"
+   "20-04",
+   "25-04",
+   "F1",
+   "F2",
+   "Rotary Fanta Rotary Files Fanta 20-06 31mm",
+   "Rotary Fanta Rotary Files Sx Fanta",
+   "Rotary Fanta Rotary One File Single System Fanta",
+   "Rotary Fanta Rotary Path File Fanta",
+   "S1",
+   "S2"
+  ]
+ },
+ {
+  "id": "reforpost-angelus",
+  "name": "Reforpost Angelus",
+  "brand": "",
+  "category": "fiberpost",
+  "categoryLabel": "Fiber Posts",
+  "description": "Fiber post system.",
+  "image": "assets/products/fiberpost/angelus-reforpost-fiber-post.jpg",
+  "variants": [
+   "N 1",
+   "N2",
+   "N3"
   ]
  },
  {
