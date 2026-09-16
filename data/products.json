@@ -1,27 +1,5 @@
 [
  {
-  "id": "choice-2",
-  "name": "Choice 2",
-  "brand": "",
-  "category": "cementation",
-  "categoryLabel": "Cementation",
-  "description": "Dental cement.",
-  "image": null,
-  "variants": [
-   "A1",
-   "B1"
-  ]
- },
- {
-  "id": "choice-2-transclucent",
-  "name": "Choice 2 Transclucent",
-  "brand": "",
-  "category": "cementation",
-  "categoryLabel": "Cementation",
-  "description": "Dental cement.",
-  "image": null
- },
- {
   "id": "fujji-grd-model",
   "name": "Fujji Grd Model",
   "brand": "",
@@ -64,7 +42,7 @@
   "category": "cementation",
   "categoryLabel": "Cementation",
   "description": "Dental cement.",
-  "image": null
+  "image": "assets/products/cementation/relyx-lutting-2.jpg"
  },
  {
   "id": "supercem",
@@ -73,7 +51,7 @@
   "category": "cementation",
   "categoryLabel": "Cementation",
   "description": "Dental cement.",
-  "image": null
+  "image": "assets/products/cementation/supercem.webp"
  },
  {
   "id": "theracem",
@@ -3569,20 +3547,6 @@
   ]
  },
  {
-  "id": "choice-2-milky",
-  "name": "Choice 2 Milky",
-  "brand": "",
-  "category": "cementation",
-  "categoryLabel": "Cementation",
-  "description": "Teeth whitening product.",
-  "image": "assets/products/cementation/choice-2-milky-bright.jpg",
-  "variants": [
-   "Choice 2 Milky Bright",
-   "Choice 2 Milky Opaque",
-   "Choice 2 Milky White"
-  ]
- },
- {
   "id": "cementation-assorted",
   "name": "Cementation (Assorted)",
   "brand": "",
@@ -4457,6 +4421,23 @@
   "variants": [
    "Stainless STEEL CROWN BY PIECE",
    "Stainless STEEL CROWN KIT"
+  ]
+ },
+ {
+  "id": "choice-2-2",
+  "name": "Choice 2",
+  "brand": "",
+  "category": "cementation",
+  "categoryLabel": "Cementation",
+  "description": "Teeth whitening product.",
+  "image": "assets/products/cementation/choice-2.jpg",
+  "variants": [
+   "Choice 2 A1",
+   "Choice 2 B1",
+   "Choice 2 Milky Bright",
+   "Choice 2 Milky Opaque",
+   "Choice 2 Milky White",
+   "Choice 2 Transclucent"
   ]
  },
  {
