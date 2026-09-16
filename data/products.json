@@ -58,17 +58,13 @@
   "image": null
  },
  {
-  "id": "relyx-ultimate",
-  "name": "RELYX Ultimate",
+  "id": "relyx-lutting-2",
+  "name": "Relyx Lutting 2",
   "brand": "",
   "category": "cementation",
   "categoryLabel": "Cementation",
   "description": "Dental cement.",
-  "image": null,
-  "variants": [
-   "A1",
-   "B0.5"
-  ]
+  "image": null
  },
  {
   "id": "supercem",
@@ -236,7 +232,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Applicator brush.",
-  "image": null
+  "image": "assets/products/disposable/copper-brush.jpg"
  },
  {
   "id": "chair-head-rest-cover",
@@ -4477,6 +4473,20 @@
   ]
  },
  {
+  "id": "relyx-ultimate",
+  "name": "RELYX Ultimate",
+  "brand": "",
+  "category": "cementation",
+  "categoryLabel": "Cementation",
+  "description": "Dental cement.",
+  "image": "assets/products/cementation/relyx-ultimate.jpg",
+  "variants": [
+   "A1",
+   "B0.5",
+   "TR"
+  ]
+ },
+ {
   "id": "saliva-ejector-2",
   "name": "Saliva Ejector",
   "brand": "",
@@ -5972,19 +5982,6 @@
   "variants": [
    "Breeze Tr",
    "Breeze Wo"
-  ]
- },
- {
-  "id": "relyx-cementation",
-  "name": "Relyx",
-  "brand": "",
-  "category": "cementation",
-  "categoryLabel": "Cementation",
-  "description": "Dental cement.",
-  "image": null,
-  "variants": [
-   "RELYX Ultimate TR",
-   "Relyx Lutting 2"
   ]
  },
  {
