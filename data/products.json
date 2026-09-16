@@ -1916,7 +1916,7 @@
   "category": "impression",
   "categoryLabel": "Impression Materials",
   "description": "Alginate impression material.",
-  "image": null
+  "image": "assets/products/impression/millenium-alginate.jpg"
  },
  {
   "id": "monophase",
@@ -2916,7 +2916,7 @@
   "category": "restorative",
   "categoryLabel": "Restorative",
   "description": "Restorative dental material.",
-  "image": null
+  "image": "assets/products/restorative/dycal.png"
  },
  {
   "id": "estelite-a1-a2-bw-we",
@@ -2943,7 +2943,7 @@
   "category": "restorative",
   "categoryLabel": "Restorative",
   "description": "Restorative dental material.",
-  "image": null
+  "image": "assets/products/restorative/irm-dentsply.jpg"
  },
  {
   "id": "medifill",
