@@ -2716,7 +2716,7 @@
   "category": "ortho",
   "categoryLabel": "Orthodontics",
   "description": "Orthodontic product.",
-  "image": null
+  "image": "assets/products/ortho/3m-ortho-power-chain.jpg"
  },
  {
   "id": "myobrace",
@@ -2725,7 +2725,7 @@
   "category": "ortho",
   "categoryLabel": "Orthodontics",
   "description": "Orthodontic product.",
-  "image": null
+  "image": "assets/products/ortho/myobrace-appliance.jpg"
  },
  {
   "id": "trainer-for-kids-myobrace-k2-t2-medium-k2-broad",
@@ -2910,7 +2910,7 @@
   "category": "prevention",
   "categoryLabel": "Prevention",
   "description": "Preventive care product.",
-  "image": null
+  "image": "assets/products/prevention/icon-resin-infiltration.png"
  },
  {
   "id": "3m-1370-z250",
@@ -3432,7 +3432,7 @@
   "category": "uniform",
   "categoryLabel": "Uniform",
   "description": "Disposable patient protection.",
-  "image": null
+  "image": "assets/products/uniform/medical-gown.jpg"
  },
  {
   "id": "uniform",
@@ -3441,7 +3441,7 @@
   "category": "uniform",
   "categoryLabel": "Uniform",
   "description": "Practice uniform / apparel.",
-  "image": null
+  "image": "assets/products/uniform/uniform.jpg"
  },
  {
   "id": "bioceramic-diadent",
@@ -3545,7 +3545,7 @@
   "category": "xray",
   "categoryLabel": "X-Ray",
   "description": "X-ray / imaging product.",
-  "image": null,
+  "image": "assets/products/xray/dental-film-eco30.jpg",
   "variants": [
    "Box Of 50"
   ]
@@ -3557,7 +3557,7 @@
   "category": "xray",
   "categoryLabel": "X-Ray",
   "description": "X-ray / imaging product.",
-  "image": null
+  "image": "assets/products/xray/fixer-samit.jpg"
  },
  {
   "id": "skydent-x-ray-film",
@@ -5723,7 +5723,7 @@
   "category": "prevention",
   "categoryLabel": "Prevention",
   "description": "Preventive care product.",
-  "image": null,
+  "image": "assets/products/prevention/gel-fluore-fluorotop-apf.jpg",
   "variants": [
    "Gel Fluore Prevest",
    "Gel Fluore Strawberry Eazigel"
@@ -5736,7 +5736,7 @@
   "category": "prevention",
   "categoryLabel": "Prevention",
   "description": "Preventive care product.",
-  "image": null,
+  "image": "assets/products/prevention/vernis-fluore-fluorodip.jpg",
   "variants": [
    "Vernis Fluore Prevest 0.5ML",
    "Vernis Fluore Vericom",
@@ -5921,7 +5921,7 @@
   "category": "xray",
   "categoryLabel": "X-Ray",
   "description": "X-ray / imaging product.",
-  "image": null,
+  "image": "assets/products/xray/xray-camera-wall-mount.jpg",
   "variants": [
    "Xray Camera On The Wall New Life Italian",
    "Xray Camera Portable"
@@ -5934,7 +5934,7 @@
   "category": "xray",
   "categoryLabel": "X-Ray",
   "description": "X-ray / imaging product.",
-  "image": null,
+  "image": "assets/products/xray/xray-plastic-sensor-sleeve.jpg",
   "variants": [
    "Xray Plastic Protection",
    "Xray Plastic Protection Big Size"
@@ -6821,7 +6821,7 @@
   "category": "ortho",
   "categoryLabel": "Orthodontics",
   "description": "Orthodontic product.",
-  "image": null,
+  "image": "assets/products/ortho/orthodontic-mathieu-plier.jpg",
   "variants": [
    "Orthodontic Band",
    "Orthodontic Plier - Mathieu"
@@ -7911,7 +7911,7 @@
   "category": "xray",
   "categoryLabel": "X-Ray",
   "description": "X-ray / imaging product.",
-  "image": null,
+  "image": "assets/products/xray/developer-samit.jpg",
   "variants": [
    "Developer"
   ]
