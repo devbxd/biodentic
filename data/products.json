@@ -174,7 +174,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Alginate impression material.",
-  "image": null
+  "image": "assets/products/disposable/alginate-mixing-bowl.jpg"
  },
  {
   "id": "alcohol-bottle",
@@ -557,15 +557,6 @@
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
   "image": "assets/products/disposable/clear-protective-goggles-2.jpg"
- },
- {
-  "id": "mandrels-3m",
-  "name": "Mandrels 3m",
-  "brand": "",
-  "category": "disposable",
-  "categoryLabel": "Disposables",
-  "description": "Disposable dental product.",
-  "image": null
  },
  {
   "id": "master-buccal-tube",
@@ -1056,15 +1047,6 @@
  {
   "id": "y",
   "name": "Y",
-  "brand": "",
-  "category": "disposable",
-  "categoryLabel": "Disposables",
-  "description": "Disposable dental product.",
-  "image": null
- },
- {
-  "id": "mandrels",
-  "name": "Mandrels",
   "brand": "",
   "category": "disposable",
   "categoryLabel": "Disposables",
@@ -3658,6 +3640,19 @@
   "variants": [
    "Hair Net",
    "Hair Net With Straps"
+  ]
+ },
+ {
+  "id": "mandrels-2",
+  "name": "Mandrels",
+  "brand": "",
+  "category": "disposable",
+  "categoryLabel": "Disposables",
+  "description": "Disposable dental product.",
+  "image": "assets/products/disposable/mandrels-3m.jpg",
+  "variants": [
+   "Mandrels",
+   "Mandrels 3m"
   ]
  },
  {
