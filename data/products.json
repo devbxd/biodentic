@@ -810,7 +810,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Examination / surgical glove.",
-  "image": null,
+  "image": "assets/products/disposable/gloves-powder-free-mint-small.jpg",
   "variants": [
    "Large",
    "Medium",
@@ -8969,7 +8969,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Examination / surgical glove.",
-  "image": null,
+  "image": "assets/products/disposable/gloves-powder-free-king.jpg",
   "variants": [
    "Gloves Powder FREE LARGE FIFTY FIVE",
    "Gloves Powder FREE XS KING0",
@@ -9024,7 +9024,7 @@
   "category": "cementation",
   "categoryLabel": "Cementation",
   "description": "Glass ionomer material.",
-  "image": null,
+  "image": "assets/products/cementation/gc-fuji-glass-ionomer-cement.jpg",
   "variants": [
    "Glass Ionomere Cavex",
    "Glass Ionomere Rident",
@@ -9233,7 +9233,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Examination / surgical glove.",
-  "image": null,
+  "image": "assets/products/disposable/gloves-powder-free-king.jpg",
   "variants": [
    "Gloves Powdered KING Medium",
    "Gloves Powdered Large Blossom",
@@ -9310,7 +9310,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Dental curing / operatory light.",
-  "image": null,
+  "image": "assets/products/machine/led-curing-light-wireless.jpg",
   "variants": [
    "Light Cure Ai 1second",
    "Light Cure Protection"
@@ -10047,7 +10047,7 @@
   "category": "machine",
   "categoryLabel": "Equipment",
   "description": "Dental practice equipment.",
-  "image": null,
+  "image": "assets/products/machine/contra-angle-handpiece-blue.jpg",
   "variants": [
    "Contre Angle Band Rouge + Lumiere Et Eau",
    "Contre Angle Blue",
@@ -10078,7 +10078,7 @@
   "category": "machine",
   "categoryLabel": "Equipment",
   "description": "Dental curing / operatory light.",
-  "image": null,
+  "image": "assets/products/machine/led-curing-light-wireless.jpg",
   "variants": [
    "Light Cure Blue",
    "Light Cure Cicada 1sec",
@@ -10383,7 +10383,7 @@
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Acrylic dental material.",
-  "image": null,
+  "image": "assets/products/temporary/self-cure-acrylic-denture-powder.webp",
   "variants": [
    "Acrylic Powder 400mg",
    "Acrylic Powder B1 Nictone Grd",
@@ -10425,7 +10425,7 @@
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Dental bonding / adhesive agent.",
-  "image": null,
+  "image": "assets/products/temporary/tempbond-temporary-cement.jpg",
   "variants": [
    "Temp Bond Automix Meta",
    "Temp Bond Cavex",
