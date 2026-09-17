@@ -3822,5 +3822,221 @@
     "categoryLabel": "Disposables",
     "description": "Porte-empreinte pédodontique perforé, format réduit pour patients enfants, autoclavable.",
     "image": "assets/products/disposable/porte-emprunte-pedo.jpg"
+  },
+  {
+    "id": "in-osteotomes-angulated-pqt-of",
+    "name": "In Osteotomes Angulated Pqt Of",
+    "category": "instrument",
+    "categoryLabel": "Instruments",
+    "description": "Set of five angulated, convex-bladed osteotomes used for carrying and condensing bone graft material during elevated sinus-lift implant procedures.",
+    "image": "assets/products/instrument/in-osteotomes-angulated-pqt-of.jpg"
+  },
+  {
+    "id": "cle-scaler",
+    "name": "Cle Scaler",
+    "category": "instrument",
+    "categoryLabel": "Instruments",
+    "description": "Torque-limiting wrench key used to correctly tighten ultrasonic scaler tips onto the handpiece without over-tightening.",
+    "image": "assets/products/instrument/cle-scaler.jpg"
+  },
+  {
+    "id": "compas-d-epaisseur",
+    "name": "Compas D Epaisseur",
+    "category": "instrument",
+    "categoryLabel": "Instruments",
+    "description": "Iwanson-pattern stainless steel caliper with a 0-10mm sliding scale used to measure wax, metal and crown thickness.",
+    "image": "assets/products/instrument/compas-d-epaisseur.jpg"
+  },
+  {
+    "id": "in-arrache-courone-automatique",
+    "name": "In Arrache Courone Automatique",
+    "category": "instrument",
+    "categoryLabel": "Instruments",
+    "description": "Automatic mechanical crown and bridge remover delivering rapid micro-strokes via a bayonet-attached interchangeable tip for efficient removal.",
+    "image": "assets/products/instrument/in-arrache-courone-automatique.jpg"
+  },
+  {
+    "id": "in-arrache-couronne-manuel",
+    "name": "In Arrache Couronne Manuel",
+    "category": "instrument",
+    "categoryLabel": "Instruments",
+    "description": "Spring-loaded crown and bridge remover with bayonet attachment and adjustable intensity for controlled manual removal of bonded restorations.",
+    "image": "assets/products/instrument/in-arrache-couronne-manuel.jpg"
+  },
+  {
+    "id": "in-curette-gracy",
+    "name": "In Curette Gracy",
+    "category": "instrument",
+    "categoryLabel": "Instruments",
+    "description": "Area-specific Gracey curette used for subgingival scaling and root planing, with an ergonomic double-ended stainless steel design.",
+    "image": "assets/products/instrument/in-curette-gracy.jpg"
+  },
+  {
+    "id": "in-decolleurs",
+    "name": "In Decolleurs",
+    "category": "instrument",
+    "categoryLabel": "Instruments",
+    "description": "Molt-pattern periosteal elevator used to reflect and detach the mucoperiosteal flap from bone during oral surgery.",
+    "image": "assets/products/instrument/in-decolleurs.jpg"
+  },
+  {
+    "id": "in-detartreur-manuel",
+    "name": "In Detartreur Manuel",
+    "category": "instrument",
+    "categoryLabel": "Instruments",
+    "description": "Manual sickle hand scaler with sharp curved tip used for supragingival removal of tartar and plaque on anterior teeth.",
+    "image": "assets/products/instrument/in-detartreur-manuel.jpg"
+  },
+  {
+    "id": "in-godet-caoutchouc-l",
+    "name": "In Godet Caoutchouc L",
+    "category": "instrument",
+    "categoryLabel": "Instruments",
+    "description": "Flexible silicone/rubber dappen dish (large) used to hold and mix acrylic and other dental materials chairside.",
+    "image": "assets/products/instrument/in-godet-caoutchouc-l.jpg"
+  },
+  {
+    "id": "in-godet-en-verre",
+    "name": "In Godet En Verre",
+    "category": "instrument",
+    "categoryLabel": "Instruments",
+    "description": "Glass dappen dish with a smooth, non-porous mixing well used to hold dental cements and other materials during procedures.",
+    "image": "assets/products/instrument/in-godet-en-verre.jpg"
+  },
+  {
+    "id": "in-kit-pour-rubber-dam",
+    "name": "In Kit Pour Rubber Dam",
+    "category": "instrument",
+    "categoryLabel": "Instruments",
+    "description": "Complete rubber dam isolation kit including punch, forceps, plastic frame, rubber sheets and winged clamps for tooth isolation.",
+    "image": "assets/products/instrument/in-kit-pour-rubber-dam.jpg"
+  },
+  {
+    "id": "in-manche-mirroir",
+    "name": "In Manche Mirroir",
+    "category": "instrument",
+    "categoryLabel": "Instruments",
+    "description": "Stainless steel dental mouth mirror handle used with interchangeable mirror heads for intraoral examination.",
+    "image": "assets/products/instrument/in-manche-mirroir.jpg"
+  },
+  {
+    "id": "in-porte-lame",
+    "name": "In Porte Lame",
+    "category": "instrument",
+    "categoryLabel": "Instruments",
+    "description": "Reusable stainless steel scalpel blade handle (No. 3, straight, round 7mm) that accepts standard blade sizes 10, 11, 12 and 15.",
+    "image": "assets/products/instrument/in-porte-lame.jpg"
+  },
+  {
+    "id": "in-porte-papier-articuler",
+    "name": "In Porte Papier Articuler",
+    "category": "instrument",
+    "categoryLabel": "Instruments",
+    "description": "Curved stainless steel forceps designed to hold articulating paper for marking occlusal contacts during bite checks.",
+    "image": "assets/products/instrument/in-porte-papier-articuler.jpg"
+  },
+  {
+    "id": "in-seringue-anesthesie-1038",
+    "name": "In Seringue Anesthesie 1038",
+    "category": "instrument",
+    "categoryLabel": "Instruments",
+    "description": "Seringue d'anesthésie métallique aspirante 1038, cran de sûreté à harpon, pour cartouches de 1.8ml.",
+    "image": "assets/products/instrument/in-seringue-anesthesie-1038.jpg"
+  },
+  {
+    "id": "in-seringue-anesthesie-1040",
+    "name": "In Seringue Anesthesie 1040",
+    "category": "instrument",
+    "categoryLabel": "Instruments",
+    "description": "Seringue à anesthésie métallique 1040 avec bague digitale, système aspirant pour cartouches dentaires 1.8ml.",
+    "image": "assets/products/instrument/in-seringue-anesthesie-1040.jpg"
+  },
+  {
+    "id": "in-seringue-anesthesie-1041",
+    "name": "In Seringue Anesthesie 1041",
+    "category": "instrument",
+    "categoryLabel": "Instruments",
+    "description": "Seringue métallique d'anesthésie 1041, piston à harpon anti-piqûre, format cartouche 1.8ml.",
+    "image": "assets/products/instrument/in-seringue-anesthesie-1041.jpg"
+  },
+  {
+    "id": "in-sonde",
+    "name": "In Sonde",
+    "category": "instrument",
+    "categoryLabel": "Instruments",
+    "description": "Double-ended dental explorer probe with a fine tactile tip and shepherd's hook end used to detect caries and calculus.",
+    "image": "assets/products/instrument/in-sonde.jpg"
+  },
+  {
+    "id": "sinus-lift-instrument",
+    "name": "Sinus Lift Instrument",
+    "category": "instrument",
+    "categoryLabel": "Instruments",
+    "description": "Kit d'ostéotomes courbes utilisés pour condenser le greffon osseux lors des élévations de sinus.",
+    "image": "assets/products/instrument/sinus-lift-instrument.jpg"
+  },
+  {
+    "id": "large-mirror",
+    "name": "Large Mirror",
+    "category": "instrument",
+    "categoryLabel": "Instruments",
+    "description": "Large stainless steel dental mouth mirror with handle used for intraoral visualization, cheek and tongue retraction.",
+    "image": "assets/products/instrument/large-mirror.jpg"
+  },
+  {
+    "id": "gauge-reglette-de-reduction-0-10-till-0-50",
+    "name": "Gauge Reglette De Reduction 0.10 Till 0.50",
+    "category": "instrument",
+    "categoryLabel": "Instruments",
+    "description": "Metal reduction gauge/caliper with graduated scale (0.10-0.50 range reference) used to check tooth reduction and material thickness.",
+    "image": "assets/products/instrument/gauge-reglette-de-reduction-0-10-till-0-50.jpg"
+  },
+  {
+    "id": "in-periosteal-molt-422-7525",
+    "name": "In Periosteal Molt 422-7525",
+    "category": "instrument",
+    "categoryLabel": "Instruments",
+    "description": "Décolleur périosté Molt 422-7525, pour détacher le lambeau muco-périosté de l'os pendant la chirurgie orale.",
+    "image": "assets/products/instrument/in-periosteal-molt-422-7525.jpg"
+  },
+  {
+    "id": "fraise-endo-z-mani",
+    "name": "Fraise Endo Z Mani",
+    "category": "fraise",
+    "categoryLabel": "Burs",
+    "description": "Endo-Z access-cavity bur with six tungsten-carbide spiral blades and a non-cutting safety tip used to shape the pulp chamber and locate canal orifices.",
+    "image": "assets/products/fraise/fraise-endo-z-mani.50"
+  },
+  {
+    "id": "fraise-acryl-carbide-piece-a-main",
+    "name": "Fraise Acryl Carbide Piece A Main",
+    "category": "fraise",
+    "categoryLabel": "Burs",
+    "description": "Tungsten carbide acrylic trimmer bur for a straight handpiece, used to trim and adjust denture bases in the lab.",
+    "image": "assets/products/fraise/fraise-acryl-carbide-piece-a-main.jpeg"
+  },
+  {
+    "id": "fraise-diamond-cut",
+    "name": "Fraise Diamond Cut",
+    "category": "fraise",
+    "categoryLabel": "Burs",
+    "description": "Cross-cut, flat-end tungsten carbide FG airotor bur used for efficient tooth material removal and cavity preparation.",
+    "image": "assets/products/fraise/fraise-diamond-cut.jpg"
+  },
+  {
+    "id": "fraise-sswhite",
+    "name": "Fraise Sswhite",
+    "category": "fraise",
+    "categoryLabel": "Burs",
+    "description": "SS White tungsten carbide taper/flat-end cross-cut fissure FG bur made in the USA for durable, precise cavity preparation.",
+    "image": "assets/products/fraise/fraise-sswhite.jpg"
+  },
+  {
+    "id": "fraise-transmetal",
+    "name": "Fraise Transmetal",
+    "category": "fraise",
+    "categoryLabel": "Burs",
+    "description": "Transmetal tungsten carbide FG crown cutter bur for fast, precise removal of PFM, zirconia and metal crowns and bridges.",
+    "image": "assets/products/fraise/fraise-transmetal.png"
   }
 ]
