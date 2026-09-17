@@ -2368,7 +2368,7 @@
   "category": "machine",
   "categoryLabel": "Equipment",
   "description": "Dental practice equipment.",
-  "image": null
+  "image": "assets/products/machine/micro-moteur-4-trou-external.jpg"
  },
  {
   "id": "oral-cleaner-kit-detartreur",
@@ -2521,7 +2521,7 @@
   "category": "ortho",
   "categoryLabel": "Orthodontics",
   "description": "Orthodontic product.",
-  "image": null
+  "image": "assets/products/ortho/myobrace.jpg"
  },
  {
   "id": "trainer-for-kids-myobrace-k2-t2-medium-k2-broad",
@@ -2706,7 +2706,7 @@
   "category": "prevention",
   "categoryLabel": "Prevention",
   "description": "Preventive care product.",
-  "image": null
+  "image": "assets/products/prevention/icon.png"
  },
  {
   "id": "3m-1370-z250",
@@ -2805,7 +2805,7 @@
   "category": "restorative",
   "categoryLabel": "Restorative",
   "description": "Cavity liner / base material.",
-  "image": null
+  "image": "assets/products/restorative/ionosit-base-it.jpg"
  },
  {
   "id": "irm-dentsply",
@@ -2877,7 +2877,7 @@
   "category": "restorative",
   "categoryLabel": "Restorative",
   "description": "Dental curing / operatory light.",
-  "image": null
+  "image": "assets/products/restorative/variolink-lc-light-plus.jpg"
  },
  {
   "id": "z-primer",
@@ -2895,7 +2895,7 @@
   "category": "restorative",
   "categoryLabel": "Restorative",
   "description": "Restorative dental material.",
-  "image": null
+  "image": "assets/products/restorative/z250xt-a1-a2-a3-a3-5.jpg"
  },
  {
   "id": "bone-xenograft-2cc-1cc-0-5cc",
@@ -3045,7 +3045,7 @@
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Dental crown.",
-  "image": null
+  "image": "assets/products/temporary/maquira-temorary-crown-master-temp-7g.jpg"
  },
  {
   "id": "temporary-paste-temp-it",
@@ -3067,7 +3067,7 @@
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Temporary restorative material.",
-  "image": null,
+  "image": "assets/products/temporary/powder-alike.jpg",
   "variants": [
    "A1",
    "A2",
@@ -3084,7 +3084,7 @@
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Temporary restorative material.",
-  "image": null,
+  "image": "assets/products/temporary/protemp-4.jpg",
   "variants": [
    "A1",
    "A2",
@@ -3195,7 +3195,7 @@
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Impression material.",
-  "image": null
+  "image": "assets/products/temporary/resin-for-impression-tray-individuel.webp"
  },
  {
   "id": "any-cem-implant",
@@ -3249,7 +3249,7 @@
   "category": "whitening",
   "categoryLabel": "Whitening",
   "description": "Teeth whitening product.",
-  "image": null
+  "image": "assets/products/whitening/hexa-whitening-22.png"
  },
  {
   "id": "hp-whiteness-home-16",
@@ -5135,7 +5135,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Surgical suture.",
-  "image": null,
+  "image": "assets/products/disposable/suture-5-0.jpg",
   "variants": [
    "Suture 5.0 Absorbable Falcon",
    "Suture 5.0 Nylon Falcon"
@@ -5161,7 +5161,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Endodontic obturation material.",
-  "image": null,
+  "image": "assets/products/endo/gutta-assorted.jpg",
   "variants": [
    "Gutta Assorted 15-40",
    "Gutta Assorted F1 -F3"
@@ -5214,7 +5214,7 @@
   "category": "fiberpost",
   "categoryLabel": "Fiber Posts",
   "description": "Fiber post system.",
-  "image": null,
+  "image": "assets/products/fiberpost/fiberpost-0-5.jpg",
   "variants": [
    "Fiberpost 0.5 Fgm Box Of 5 +Drill",
    "Fiberpost 0.5 Fgm Box Of 5 Refill"
