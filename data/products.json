@@ -6,7 +6,7 @@
   "category": "cementation",
   "categoryLabel": "Cementation",
   "description": "Dental cement.",
-  "image": null
+  "image": "assets/products/cementation/fujji-grd-model.jpg"
  },
  {
   "id": "ketac-cem",
@@ -24,15 +24,6 @@
   "category": "cementation",
   "categoryLabel": "Cementation",
   "description": "Dental cement.",
-  "image": null
- },
- {
-  "id": "medicem-glass-ionomere",
-  "name": "Medicem Glass Ionomere",
-  "brand": "",
-  "category": "cementation",
-  "categoryLabel": "Cementation",
-  "description": "Glass ionomer material.",
   "image": null
  },
  {
@@ -69,7 +60,7 @@
   "category": "cementation",
   "categoryLabel": "Cementation",
   "description": "Dental cement.",
-  "image": null
+  "image": "assets/products/cementation/u-cem.jpg"
  },
  {
   "id": "g-cem-one",
@@ -87,7 +78,7 @@
   "category": "cementation",
   "categoryLabel": "Cementation",
   "description": "Root canal sealer.",
-  "image": null
+  "image": "assets/products/cementation/ionoseal-vocco.jpg"
  },
  {
   "id": "overcem",
@@ -114,7 +105,7 @@
   "category": "cementation",
   "categoryLabel": "Cementation",
   "description": "Dental cement.",
-  "image": null
+  "image": "assets/products/cementation/3m-try-in-paste-tr.jpg"
  },
  {
   "id": "blade",
@@ -201,7 +192,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null
+  "image": "assets/products/disposable/breeze-a2.jpg"
  },
  {
   "id": "copper-brush",
@@ -259,7 +250,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null
+  "image": "assets/products/disposable/tooth-type-frasaco.jpg"
  },
  {
   "id": "dentier",
@@ -277,7 +268,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null
+  "image": "assets/products/disposable/denture-box-by-pc.jpg"
  },
  {
   "id": "dochem-impression-tray-lower",
@@ -299,7 +290,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Alginate impression material.",
-  "image": null
+  "image": "assets/products/disposable/dozeur-alginate.jpg"
  },
  {
   "id": "dry-dent",
@@ -345,7 +336,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Cotton / gauze consumable.",
-  "image": null
+  "image": "assets/products/disposable/dochem-gauze.jpg"
  },
  {
   "id": "gloves-kingfa-nitril",
@@ -354,7 +345,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Examination / surgical glove.",
-  "image": null,
+  "image": "assets/products/disposable/gloves-kingfa-nitril.jpg",
   "variants": [
    "Large",
    "Medium",
@@ -368,7 +359,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Examination / surgical glove.",
-  "image": null,
+  "image": "assets/products/disposable/gloves-maxter-pf.jpg",
   "variants": [
    "Large",
    "Medium"
@@ -444,35 +435,8 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Examination / surgical glove.",
-  "image": null,
+  "image": "assets/products/disposable/gloves-pink-nitril.jpg",
   "variants": [
-   "Medium",
-   "Small"
-  ]
- },
- {
-  "id": "gloves-powder-free-cranberry",
-  "name": "Gloves Powder Free Cranberry",
-  "brand": "",
-  "category": "disposable",
-  "categoryLabel": "Disposables",
-  "description": "Examination / surgical glove.",
-  "image": null,
-  "variants": [
-   "Medium",
-   "Small"
-  ]
- },
- {
-  "id": "gloves-powdered-cranberry",
-  "name": "Gloves Powdered Cranberry",
-  "brand": "",
-  "category": "disposable",
-  "categoryLabel": "Disposables",
-  "description": "Examination / surgical glove.",
-  "image": null,
-  "variants": [
-   "Large",
    "Medium",
    "Small"
   ]
@@ -484,7 +448,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null
+  "image": "assets/products/disposable/gluma-desensitizer-5ml.png"
  },
  {
   "id": "gouttiere",
@@ -520,7 +484,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null
+  "image": "assets/products/disposable/hand-sanitizer.jpg"
  },
  {
   "id": "head-cover",
@@ -583,7 +547,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Matrix system for restorations.",
-  "image": null,
+  "image": "assets/products/disposable/matrix-band-box.jpg",
   "variants": [
    "100",
    "36"
@@ -638,7 +602,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null
+  "image": "assets/products/endo/micromega-assorted-one-reci.jpg"
  },
  {
   "id": "mwt",
@@ -647,35 +611,6 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null
- },
- {
-  "id": "needles",
-  "name": "Needles",
-  "brand": "",
-  "category": "disposable",
-  "categoryLabel": "Disposables",
-  "description": "Dental injection needle.",
-  "image": "assets/products/disposable/dental-injection-needle-box.webp",
-  "variants": [
-   "27g*34 Dochem",
-   "27g*34 Supermed",
-   "30g*12 Dochem",
-   "30g*12 Monojecto",
-   "30g*21 Dochem",
-   "30g*21 Monojecto",
-   "30g*21 Supermed",
-   "30g*25",
-   "30g*8 Monojecto"
-  ]
- },
- {
-  "id": "needles-27g-x34-monojecto",
-  "name": "Needles 27g X34 Monojecto",
-  "brand": "",
-  "category": "disposable",
-  "categoryLabel": "Disposables",
-  "description": "Dental injection needle.",
   "image": null
  },
  {
@@ -721,7 +656,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null
+  "image": "assets/products/disposable/pick-and-stick-veneer-box-of-10.jpg"
  },
  {
   "id": "pipette",
@@ -760,22 +695,13 @@
   "image": "assets/products/disposable/kids-saliva-ejector-flex.jpg"
  },
  {
-  "id": "edentulous-impression-tray-sachet-of-6",
-  "name": "Edentulous Impression Tray Sachet Of 6",
-  "brand": "",
-  "category": "disposable",
-  "categoryLabel": "Disposables",
-  "description": "Impression material.",
-  "image": null
- },
- {
   "id": "impression-tray-lower",
   "name": "Impression Tray Lower",
   "brand": "",
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Impression material.",
-  "image": null,
+  "image": "assets/products/disposable/impression-tray-lower.jpg",
   "variants": [
    "Large N2",
    "Medium N4",
@@ -875,7 +801,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Fiber post system.",
-  "image": null
+  "image": "assets/products/disposable/screw-post-euro-post.jpg"
  },
  {
   "id": "sealite-regular",
@@ -884,7 +810,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null
+  "image": "assets/products/disposable/sealite-regular.jpg"
  },
  {
   "id": "white-syringe-piece",
@@ -1018,15 +944,6 @@
   ]
  },
  {
-  "id": "3m-intra-oral-syringue-71508-by-pc",
-  "name": "3M Intra Oral Syringue 71508 By Pc",
-  "brand": "",
-  "category": "disposable",
-  "categoryLabel": "Disposables",
-  "description": "Disposable dental product.",
-  "image": null
- },
- {
   "id": "roll-chariot",
   "name": "Roll Chariot",
   "brand": "",
@@ -1069,7 +986,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Surgical / endodontic product.",
-  "image": null
+  "image": "assets/products/endo/neoputty-mediclus.jpg"
  },
  {
   "id": "alvocure",
@@ -1355,7 +1272,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Surgical / endodontic product.",
-  "image": null
+  "image": "assets/products/endo/rcprep-spident.png"
  },
  {
   "id": "rosen",
@@ -1457,7 +1374,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Surgical / endodontic product.",
-  "image": null,
+  "image": "assets/products/endo/smart-cord.jpg",
   "variants": [
    "0",
    "000",
@@ -1489,7 +1406,7 @@
   "category": "etching",
   "categoryLabel": "Etching & Bonding",
   "description": "Etching / bonding material.",
-  "image": null
+  "image": "assets/products/etching/ceramic-primer-3m.jpg"
  },
  {
   "id": "etchin-3m",
@@ -1498,7 +1415,7 @@
   "category": "etching",
   "categoryLabel": "Etching & Bonding",
   "description": "Dental etching gel.",
-  "image": null
+  "image": "assets/products/etching/etchin-3m.jpg"
  },
  {
   "id": "fluoridrique-acid-fgm",
@@ -1516,7 +1433,7 @@
   "category": "etching",
   "categoryLabel": "Etching & Bonding",
   "description": "Dental etching gel.",
-  "image": null
+  "image": "assets/products/etching/hexa-etching-2ml.png"
  },
  {
   "id": "meta-etching",
@@ -1575,7 +1492,7 @@
   "category": "fiberpost",
   "categoryLabel": "Fiber Posts",
   "description": "Fiber post system.",
-  "image": null
+  "image": "assets/products/fiberpost/3m-fiberpost-drills.jpg"
  },
  {
   "id": "bur-acier-thomas",
@@ -1780,7 +1697,7 @@
   "category": "impression",
   "categoryLabel": "Impression Materials",
   "description": "Impression material.",
-  "image": null
+  "image": "assets/products/impression/astringent.jpg"
  },
  {
   "id": "futar-silicone-transparent-medium-box-of-2",
@@ -1789,7 +1706,7 @@
   "category": "impression",
   "categoryLabel": "Impression Materials",
   "description": "Impression material.",
-  "image": null
+  "image": "assets/products/impression/futar-silicone-transparent-medium-box-of-2.jpg"
  },
  {
   "id": "herculite-kit",
@@ -1906,7 +1823,7 @@
   "category": "impression",
   "categoryLabel": "Impression Materials",
   "description": "Impression material.",
-  "image": null
+  "image": "assets/products/impression/paste-of-kerr.webp"
  },
  {
   "id": "pattern-resin",
@@ -1915,7 +1832,7 @@
   "category": "impression",
   "categoryLabel": "Impression Materials",
   "description": "Dental resin material.",
-  "image": null
+  "image": "assets/products/impression/pattern-resin.jpg"
  },
  {
   "id": "permlastic-regular",
@@ -1951,7 +1868,7 @@
   "category": "impression",
   "categoryLabel": "Impression Materials",
   "description": "Impression material.",
-  "image": null
+  "image": "assets/products/impression/sildent-medium-body.jpg"
  },
  {
   "id": "soft-liner",
@@ -2005,7 +1922,7 @@
   "category": "impression",
   "categoryLabel": "Impression Materials",
   "description": "Impression material.",
-  "image": null,
+  "image": "assets/products/impression/wax-maarc.jpg",
   "variants": [
    "Green",
    "Pink"
@@ -2045,7 +1962,7 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Applicator brush.",
-  "image": null
+  "image": "assets/products/instrument/brush-silicon-0.jpg"
  },
  {
   "id": "orthodontic-scissors",
@@ -2072,7 +1989,7 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Dental instrument.",
-  "image": null
+  "image": "assets/products/instrument/thickness-caliper.jpg"
  },
  {
   "id": "tongue-depressor",
@@ -2239,7 +2156,7 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Dental instrument.",
-  "image": null
+  "image": "assets/products/instrument/photo-contrast.jpg"
  },
  {
   "id": "brush-composite",
@@ -2271,7 +2188,7 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Dental instrument.",
-  "image": null
+  "image": "assets/products/instrument/syringe-air-eau.jpg"
  },
  {
   "id": "spatule-plugger-condenser-lsp12",
@@ -2298,7 +2215,7 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Dental instrument.",
-  "image": null
+  "image": "assets/products/instrument/polydenthia-id-rings.webp"
  },
  {
   "id": "sinus-lift-instrument",
@@ -2406,7 +2323,7 @@
   "category": "machine",
   "categoryLabel": "Equipment",
   "description": "Sterilization consumable / equipment.",
-  "image": null
+  "image": "assets/products/machine/coupe-papier-for-sterilisation-sealing-machine.jpg"
  },
  {
   "id": "dental-chair",
@@ -2514,7 +2431,7 @@
   "category": "machine",
   "categoryLabel": "Equipment",
   "description": "Dental examination mirror.",
-  "image": null
+  "image": "assets/products/machine/fog-mirror-machine.jpg"
  },
  {
   "id": "composite-heater",
@@ -2532,7 +2449,7 @@
   "category": "machine",
   "categoryLabel": "Equipment",
   "description": "Dental practice equipment.",
-  "image": null
+  "image": "assets/products/machine/syringe-anesthesie-pen.webp"
  },
  {
   "id": "adapteur-turbine-2trou-et-4-trou",
@@ -2631,7 +2548,7 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Polishing product.",
-  "image": null
+  "image": "assets/products/polishing/5092im-polishing-3m.jpg"
  },
  {
   "id": "diamond-excel-polissage-composite",
@@ -3110,7 +3027,7 @@
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Temporary restorative material.",
-  "image": null
+  "image": "assets/products/temporary/liquid-alike.webp"
  },
  {
   "id": "luxatemp-bl",
@@ -3460,6 +3377,38 @@
   ]
  },
  {
+  "id": "glass-ionomer",
+  "name": "Glass Ionomer",
+  "brand": "",
+  "category": "cementation",
+  "categoryLabel": "Cementation",
+  "description": "Glass ionomer material.",
+  "image": "assets/products/cementation/gc-fuji-glass-ionomer-cement.jpg",
+  "variants": [
+   "Glass Ionomer CH",
+   "Glass Ionomer Everest",
+   "Glass Ionomer Restorative Vocco",
+   "Glass Ionomer Tokoyama"
+  ]
+ },
+ {
+  "id": "glass-ionomere",
+  "name": "Glass Ionomere",
+  "brand": "",
+  "category": "cementation",
+  "categoryLabel": "Cementation",
+  "description": "Glass ionomer material.",
+  "image": "assets/products/cementation/medicem-glass-ionomere.jpg",
+  "variants": [
+   "Glass Ionomere Cavex",
+   "Glass Ionomere Rident",
+   "Glass Ionomere Shofu",
+   "Glass Ionomere Shofu Mini",
+   "Glass Ionomere Vocco",
+   "Medicem Glass Ionomere"
+  ]
+ },
+ {
   "id": "relyx-u200",
   "name": "RELYX U200",
   "brand": "",
@@ -3560,6 +3509,20 @@
   ]
  },
  {
+  "id": "intra-oral",
+  "name": "Intra Oral",
+  "brand": "",
+  "category": "disposable",
+  "categoryLabel": "Disposables",
+  "description": "Disposable dental product.",
+  "image": "assets/products/disposable/3m-intra-oral-syringue-71508-by-pc.jpg",
+  "variants": [
+   "3M Intra Oral Syringue 71508 By Pc",
+   "Intra Oral Tips",
+   "Intra Oral Tips For Cement"
+  ]
+ },
+ {
   "id": "mandrels-2",
   "name": "Mandrels",
   "brand": "",
@@ -3613,6 +3576,34 @@
   ]
  },
  {
+  "id": "mouth-wash",
+  "name": "Mouth Wash",
+  "brand": "",
+  "category": "disposable",
+  "categoryLabel": "Disposables",
+  "description": "Disposable dental product.",
+  "image": "assets/products/disposable/mouth-wash.jpg",
+  "variants": [
+   "Mouth Wash Liquid",
+   "Mouth Wash Liquid Drops",
+   "Mouth Wash Tablets"
+  ]
+ },
+ {
+  "id": "mouth-prop-2",
+  "name": "Mouth Prop",
+  "brand": "",
+  "category": "disposable",
+  "categoryLabel": "Disposables",
+  "description": "Disposable dental product.",
+  "image": "assets/products/disposable/mouth-prop.webp",
+  "variants": [
+   "Mouth Prop Metal",
+   "Mouth Prop Metal 14cm",
+   "Mouth Prop Transaparent"
+  ]
+ },
+ {
   "id": "pins-fomanion",
   "name": "Pins Fomanion",
   "brand": "",
@@ -3623,6 +3614,19 @@
   "variants": [
    "Pins Fomanion Green",
    "Pins Fomanion Sweeden"
+  ]
+ },
+ {
+  "id": "impression-tray-sachet-2",
+  "name": "Impression Tray Sachet",
+  "brand": "",
+  "category": "disposable",
+  "categoryLabel": "Disposables",
+  "description": "Impression material.",
+  "image": "assets/products/disposable/edentulous-impression-tray-sachet-of-6.jpg",
+  "variants": [
+   "Edentulous Impression Tray Sachet Of 6",
+   "Impression Tray Sachet"
   ]
  },
  {
@@ -3669,6 +3673,33 @@
    "Shade Guide Ivoclar",
    "Shade Guide Vita",
    "Shade Guide Vita 29 Shades"
+  ]
+ },
+ {
+  "id": "tuyau-aspirator-model",
+  "name": "Tuyau Aspirator Model",
+  "brand": "",
+  "category": "disposable",
+  "categoryLabel": "Disposables",
+  "description": "Disposable dental product.",
+  "image": "assets/products/disposable/tuyau-aspirator.jpg",
+  "variants": [
+   "Tuyau Aspirator Grd Model",
+   "Tuyau Aspirator Petit Model"
+  ]
+ },
+ {
+  "id": "stand-composite-holes",
+  "name": "Stand Composite Holes",
+  "brand": "",
+  "category": "disposable",
+  "categoryLabel": "Disposables",
+  "description": "Light-cure dental composite.",
+  "image": "assets/products/disposable/stand-composite.jpg",
+  "variants": [
+   "Stand Composite 12 Holes Four Storages",
+   "Stand Composite 21 Holes Five Storages",
+   "Stand Composite 23 Holes"
   ]
  },
  {
@@ -3783,6 +3814,19 @@
   "variants": [
    "Etching Denfil Box Of 12",
    "Etching Denfil By Piece"
+  ]
+ },
+ {
+  "id": "etching-fluoridrique",
+  "name": "Etching Fluoridrique",
+  "brand": "",
+  "category": "etching",
+  "categoryLabel": "Etching & Bonding",
+  "description": "Dental etching gel.",
+  "image": "assets/products/etching/etching-fluoridrique.jpg",
+  "variants": [
+   "Etching Fluoridrique Bisco",
+   "Etching Fluoridrique Ultradent"
   ]
  },
  {
@@ -3959,6 +4003,19 @@
   ]
  },
  {
+  "id": "putty-spident",
+  "name": "Putty Spident",
+  "brand": "",
+  "category": "impression",
+  "categoryLabel": "Impression Materials",
+  "description": "Impression material.",
+  "image": "assets/products/impression/putty-spident.jpg",
+  "variants": [
+   "Putty Spident Fast",
+   "Putty Spident Regular"
+  ]
+ },
+ {
   "id": "rubber-dam-3",
   "name": "Rubber Dam",
   "brand": "",
@@ -4022,6 +4079,20 @@
   "variants": [
    "Elevator",
    "Elevator Left And Right"
+  ]
+ },
+ {
+  "id": "machine-ultrasonic-2",
+  "name": "Machine Ultrasonic",
+  "brand": "",
+  "category": "machine",
+  "categoryLabel": "Equipment",
+  "description": "Dental practice equipment.",
+  "image": "assets/products/machine/machine-ultrasonic.webp",
+  "variants": [
+   "Machine Ultrasonic",
+   "Machine Ultrasonic 750ml",
+   "Machine Ultrasonic Stainless"
   ]
  },
  {
@@ -4129,6 +4200,22 @@
    "Finishing Strips Metal One Side Becht",
    "Finishing Strips Metal One Side Tor Coarse Medium Fine",
    "Polishing Disc And Finishing Strip Zenit Flex 160disc/20 Strips/1 Mandrel"
+  ]
+ },
+ {
+  "id": "prophy-brush",
+  "name": "Prophy Brush",
+  "brand": "",
+  "category": "polishing",
+  "categoryLabel": "Polishing",
+  "description": "Applicator brush.",
+  "image": "assets/products/polishing/prophy-brush.jpg",
+  "variants": [
+   "Prophy Brush Colored",
+   "Prophy Brush Colored By Piece",
+   "Prophy Brush Poil Beige",
+   "Prophy Brush Transparent (By Piece)",
+   "Prophy Brush White By Piece"
   ]
  },
  {
@@ -4487,6 +4574,27 @@
   ]
  },
  {
+  "id": "needles",
+  "name": "Needles",
+  "brand": "",
+  "category": "disposable",
+  "categoryLabel": "Disposables",
+  "description": "Dental injection needle.",
+  "image": "assets/products/disposable/needles-27g-x34-monojecto.jpg",
+  "variants": [
+   "27g X34 Monojecto",
+   "27g*34 Dochem",
+   "27g*34 Supermed",
+   "30g*12 Dochem",
+   "30g*12 Monojecto",
+   "30g*21 Dochem",
+   "30g*21 Monojecto",
+   "30g*21 Supermed",
+   "30g*25",
+   "30g*8 Monojecto"
+  ]
+ },
+ {
   "id": "gates-drill",
   "name": "Gates Drill",
   "brand": "",
@@ -4630,7 +4738,7 @@
   ]
  },
  {
-  "id": "mouth-prop-2",
+  "id": "mouth-prop-3",
   "name": "Mouth Prop",
   "brand": "",
   "category": "instrument",
@@ -4926,19 +5034,6 @@
   ]
  },
  {
-  "id": "intra-oral",
-  "name": "Intra Oral",
-  "brand": "",
-  "category": "disposable",
-  "categoryLabel": "Disposables",
-  "description": "Disposable dental product.",
-  "image": null,
-  "variants": [
-   "Intra Oral Tips",
-   "Intra Oral Tips For Cement"
-  ]
- },
- {
   "id": "micro-moteur",
   "name": "Micro Moteur",
   "brand": "",
@@ -4964,34 +5059,6 @@
   "variants": [
    "Mirror Rodium Hahnenkratt",
    "Mirror Rodium Uk"
-  ]
- },
- {
-  "id": "mouth-wash",
-  "name": "Mouth Wash",
-  "brand": "",
-  "category": "disposable",
-  "categoryLabel": "Disposables",
-  "description": "Disposable dental product.",
-  "image": null,
-  "variants": [
-   "Mouth Wash Liquid",
-   "Mouth Wash Liquid Drops",
-   "Mouth Wash Tablets"
-  ]
- },
- {
-  "id": "mouth-prop-3",
-  "name": "Mouth Prop",
-  "brand": "",
-  "category": "disposable",
-  "categoryLabel": "Disposables",
-  "description": "Disposable dental product.",
-  "image": null,
-  "variants": [
-   "Mouth Prop Metal",
-   "Mouth Prop Metal 14cm",
-   "Mouth Prop Transaparent"
   ]
  },
  {
@@ -5075,33 +5142,6 @@
   ]
  },
  {
-  "id": "tuyau-aspirator",
-  "name": "Tuyau Aspirator",
-  "brand": "",
-  "category": "disposable",
-  "categoryLabel": "Disposables",
-  "description": "Disposable dental product.",
-  "image": null,
-  "variants": [
-   "Tuyau Aspirator Grd Model",
-   "Tuyau Aspirator Petit Model"
-  ]
- },
- {
-  "id": "stand-composite",
-  "name": "Stand Composite",
-  "brand": "",
-  "category": "disposable",
-  "categoryLabel": "Disposables",
-  "description": "Light-cure dental composite.",
-  "image": null,
-  "variants": [
-   "Stand Composite 12 Holes Four Storages",
-   "Stand Composite 21 Holes Five Storages",
-   "Stand Composite 23 Holes"
-  ]
- },
- {
   "id": "endo-seal",
   "name": "Endo Seal",
   "brand": "",
@@ -5165,19 +5205,6 @@
   "variants": [
    "Tir Nerf Mani 1-21",
    "Tir Nerf Swiss 40 Black"
-  ]
- },
- {
-  "id": "etching-fluoridrique",
-  "name": "Etching Fluoridrique",
-  "brand": "",
-  "category": "etching",
-  "categoryLabel": "Etching & Bonding",
-  "description": "Dental etching gel.",
-  "image": null,
-  "variants": [
-   "Etching Fluoridrique Bisco",
-   "Etching Fluoridrique Ultradent"
   ]
  },
  {
@@ -5390,19 +5417,6 @@
   ]
  },
  {
-  "id": "putty-spident",
-  "name": "Putty Spident",
-  "brand": "",
-  "category": "impression",
-  "categoryLabel": "Impression Materials",
-  "description": "Impression material.",
-  "image": null,
-  "variants": [
-   "Putty Spident Fast",
-   "Putty Spident Regular"
-  ]
- },
- {
   "id": "bite-wing",
   "name": "Bite Wing",
   "brand": "",
@@ -5473,19 +5487,6 @@
    "Contre Angle For Implant With Fiber",
    "Contre Angle Implant",
    "Contre Angle Wismed"
-  ]
- },
- {
-  "id": "machine-ultrasonic-2",
-  "name": "Machine Ultrasonic",
-  "brand": "",
-  "category": "machine",
-  "categoryLabel": "Equipment",
-  "description": "Dental practice equipment.",
-  "image": null,
-  "variants": [
-   "Machine Ultrasonic 750ml",
-   "Machine Ultrasonic Stainless"
   ]
  },
  {
@@ -5584,26 +5585,10 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Polishing product.",
-  "image": null,
+  "image": "assets/products/polishing/polishing-eve.jpg",
   "variants": [
    "Polishing Eve Beige",
    "Polishing Eve Pink"
-  ]
- },
- {
-  "id": "prophy-brush",
-  "name": "Prophy Brush",
-  "brand": "",
-  "category": "polishing",
-  "categoryLabel": "Polishing",
-  "description": "Applicator brush.",
-  "image": null,
-  "variants": [
-   "Prophy Brush Colored",
-   "Prophy Brush Colored By Piece",
-   "Prophy Brush Poil Beige",
-   "Prophy Brush Transparent (By Piece)",
-   "Prophy Brush White By Piece"
   ]
  },
  {
@@ -5700,7 +5685,7 @@
   "category": "restorative",
   "categoryLabel": "Restorative",
   "description": "Cavity liner / base material.",
-  "image": null,
+  "image": "assets/products/restorative/base-it.jpg",
   "variants": [
    "Base It Fusion",
    "Base It Glass Liner"
@@ -5726,7 +5711,7 @@
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Temporary restorative material.",
-  "image": null,
+  "image": "assets/products/temporary/lang-jet.webp",
   "variants": [
    "Lang Jet Liquid",
    "Lang Jet Powder"
@@ -6227,7 +6212,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Surgical / endodontic product.",
-  "image": null,
+  "image": "assets/products/endo/formocresol.jpg",
   "variants": [
    "Formocresol And Triclesor Formalin",
    "Formocresol Maquira",
@@ -6256,7 +6241,7 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Surgical / endodontic product.",
-  "image": null,
+  "image": "assets/products/endo/reciproque.jpg",
   "variants": [
    "Reciproque Assorted 25_50 Blue Nic",
    "Reciproque N21",
@@ -6370,7 +6355,7 @@
   "category": "impression",
   "categoryLabel": "Impression Materials",
   "description": "Dental bonding / adhesive agent.",
-  "image": null,
+  "image": "assets/products/impression/silagum.jpg",
   "variants": [
    "Silagum Adhesive",
    "Silagum Co-comfort",
@@ -6456,7 +6441,7 @@
   "category": "impression",
   "categoryLabel": "Impression Materials",
   "description": "Dental curing / operatory light.",
-  "image": null,
+  "image": "assets/products/impression/honigum.webp",
   "variants": [
    "Honigum Light 2 Cartridge",
    "Honigum Putty + Light"
@@ -6469,7 +6454,7 @@
   "category": "impression",
   "categoryLabel": "Impression Materials",
   "description": "Impression material.",
-  "image": null,
+  "image": "assets/products/impression/impregum.jpg",
   "variants": [
    "Impregum 1/2",
    "Impregum Medium"
@@ -6524,7 +6509,7 @@
   "category": "impression",
   "categoryLabel": "Impression Materials",
   "description": "Impression material.",
-  "image": null,
+  "image": "assets/products/impression/zetaplus.jpg",
   "variants": [
    "Zetaplus Condensation",
    "Zetaplus Putty Only"
@@ -6537,7 +6522,7 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Dental / periodontal curette.",
-  "image": null,
+  "image": "assets/products/instrument/curette.jpg",
   "variants": [
    "Curette Of Lucas S M L",
    "Curette Universal Kohler"
@@ -6592,7 +6577,7 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Dental instrument.",
-  "image": null,
+  "image": "assets/products/instrument/precelle.jpg",
   "variants": [
    "Precelle Dissection",
    "Precelle Geneve",
@@ -6679,8 +6664,7 @@
   "image": null,
   "variants": [
    "Machine A Gouttiere",
-   "Machine Eau Distiller",
-   "Machine Ultrasonic"
+   "Machine Eau Distiller"
   ]
  },
  {
@@ -6960,7 +6944,7 @@
   "category": "whitening",
   "categoryLabel": "Whitening",
   "description": "Teeth whitening product.",
-  "image": null,
+  "image": "assets/products/whitening/opalescence.jpg",
   "variants": [
    "Opalescence Endo",
    "Opalescence Toothpaste"
@@ -6991,6 +6975,21 @@
   "variants": [
    "Xray Film Holder",
    "Xray Protection Denu"
+  ]
+ },
+ {
+  "id": "relyx-veneer",
+  "name": "RELYX Veneer",
+  "brand": "",
+  "category": "cementation",
+  "categoryLabel": "Cementation",
+  "description": "Dental cement.",
+  "image": "assets/products/cementation/relyx-veneer.jpg",
+  "variants": [
+   "A1",
+   "B0.5",
+   "RELYX Veneer TR",
+   "RELYX Veneer WO"
   ]
  },
  {
@@ -7044,6 +7043,36 @@
    "Face Mask King",
    "Face Mask Maxident",
    "Face Mask Surgical"
+  ]
+ },
+ {
+  "id": "gloves-black",
+  "name": "Gloves BLACK",
+  "brand": "",
+  "category": "disposable",
+  "categoryLabel": "Disposables",
+  "description": "Examination / surgical glove.",
+  "image": "assets/products/disposable/gloves-black.jpg",
+  "variants": [
+   "Gloves BLACK SMALL Ch",
+   "Gloves Black King Small",
+   "LARGE",
+   "Medium",
+   "Xs"
+  ]
+ },
+ {
+  "id": "gloves-powdered-cranberry",
+  "name": "Gloves Powdered Cranberry",
+  "brand": "",
+  "category": "disposable",
+  "categoryLabel": "Disposables",
+  "description": "Examination / surgical glove.",
+  "image": "assets/products/disposable/gloves-powder-free-cranberry.jpg",
+  "variants": [
+   "Large",
+   "Medium",
+   "Small"
   ]
  },
  {
@@ -7121,7 +7150,6 @@
    "Impression Tray Anterior Lavender",
    "Impression Tray Left And Right",
    "Impression Tray Pedo",
-   "Impression Tray Sachet",
    "Large N1",
    "Medium",
    "Medium N3",
@@ -7428,6 +7456,22 @@
   ]
  },
  {
+  "id": "syringe-anesthesie",
+  "name": "Syringe Anesthesie",
+  "brand": "",
+  "category": "instrument",
+  "categoryLabel": "Instruments",
+  "description": "Dental instrument.",
+  "image": "assets/products/instrument/syringe-anesthesie.jpg",
+  "variants": [
+   "1038",
+   "1040",
+   "1041",
+   "Syringe Anesthesie Fixed Head Usa",
+   "Syringe Anesthesie Like Scissors"
+  ]
+ },
+ {
   "id": "soflex",
   "name": "Soflex",
   "brand": "",
@@ -7482,26 +7526,6 @@
    "Sheets Gouttiere Durasoft 3MM",
    "Sheets Gouttiere Silver 2.5mm Hard",
    "Sheets Gouttiere Silver 2.5mm Soft"
-  ]
- },
- {
-  "id": "glass-ionomere",
-  "name": "Glass Ionomere",
-  "brand": "",
-  "category": "cementation",
-  "categoryLabel": "Cementation",
-  "description": "Glass ionomer material.",
-  "image": "assets/products/cementation/gc-fuji-glass-ionomer-cement.jpg",
-  "variants": [
-   "Glass Ionomer CH",
-   "Glass Ionomer Everest",
-   "Glass Ionomer Restorative Vocco",
-   "Glass Ionomer Tokoyama",
-   "Glass Ionomere Cavex",
-   "Glass Ionomere Rident",
-   "Glass Ionomere Shofu",
-   "Glass Ionomere Shofu Mini",
-   "Glass Ionomere Vocco"
   ]
  },
  {
@@ -7583,21 +7607,6 @@
   ]
  },
  {
-  "id": "relyx-veneer",
-  "name": "RELYX Veneer",
-  "brand": "",
-  "category": "cementation",
-  "categoryLabel": "Cementation",
-  "description": "Dental cement.",
-  "image": null,
-  "variants": [
-   "A1",
-   "B0.5",
-   "RELYX Veneer TR",
-   "RELYX Veneer WO"
-  ]
- },
- {
   "id": "gauze-disposable",
   "name": "Gauze",
   "brand": "",
@@ -7612,22 +7621,6 @@
    "Gauze Box",
    "Gauze Pack Of 500 2x2",
    "Pack Of 500"
-  ]
- },
- {
-  "id": "gloves-black",
-  "name": "Gloves BLACK",
-  "brand": "",
-  "category": "disposable",
-  "categoryLabel": "Disposables",
-  "description": "Examination / surgical glove.",
-  "image": null,
-  "variants": [
-   "Gloves BLACK SMALL Ch",
-   "Gloves Black King Small",
-   "LARGE",
-   "Medium",
-   "Xs"
   ]
  },
  {
@@ -7788,22 +7781,6 @@
    "Plugger 040-050",
    "Plugger 060-070",
    "Plugger 090-100"
-  ]
- },
- {
-  "id": "syringe-anesthesie",
-  "name": "Syringe Anesthesie",
-  "brand": "",
-  "category": "instrument",
-  "categoryLabel": "Instruments",
-  "description": "Dental instrument.",
-  "image": null,
-  "variants": [
-   "1038",
-   "1040",
-   "1041",
-   "Syringe Anesthesie Fixed Head Usa",
-   "Syringe Anesthesie Like Scissors"
   ]
  },
  {
@@ -8014,7 +7991,7 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Dental instrument.",
-  "image": null,
+  "image": "assets/products/instrument/periotomes.jpg",
   "variants": [
    "Periotome"
   ]
