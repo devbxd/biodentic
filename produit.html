@@ -324,7 +324,7 @@
   if (!id) {
     showNotFound();
   } else {
-    fetch('data/products.json')
+    fetch('data/products.json?v=' + Date.now())
       .then(function (res) {
         if (!res.ok) throw new Error('Failed to load product data');
         return res.json();

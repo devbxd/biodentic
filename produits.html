@@ -265,7 +265,7 @@
 
   grid.innerHTML = '<p style="color:var(--ink-faint);padding:40px 0">Loading catalog…</p>';
 
-  fetch('data/products.json')
+  fetch('data/products.json?v=' + Date.now())
     .then(function (res) { return res.json(); })
     .then(function (products) {
       allProducts = products.slice().sort(function (a, b) {
