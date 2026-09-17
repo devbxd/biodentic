@@ -9,10 +9,10 @@
   },
   {
     "id": "lunette-protection",
-    "name": "Lunette protection transparent/orange/red",
+    "name": "Protective Eyewear (Clear/Orange/Red)",
     "category": "machine",
     "categoryLabel": "Equipment",
-    "description": "Lunettes de protection pour usage dentaire et médical, disponibles en transparent, orange et rouge.",
+    "description": "Protective eyewear for dental and medical use, available in clear, orange and red.",
     "image": "assets/products/machine/protective-eyewear-uv-orange-red-safety-glasses-for-dental-medical-use.jpg"
   },
   {
@@ -105,10 +105,10 @@
   },
   {
     "id": "godet-en-caoutchouc",
-    "name": "Godet en caoutchouc",
+    "name": "Rubber Dappen Dish",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Godet doseur en caoutchouc souple, disponible en small, medium et large.",
+    "description": "Flexible rubber dosing dappen dish, available in small, medium and large.",
     "image": "assets/products/disposable/godet-ref.png"
   },
   {
@@ -137,10 +137,10 @@
   },
   {
     "id": "rouleau-autoclave",
-    "name": "Rouleau autoclave",
+    "name": "Autoclave Sterilization Roll",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Rouleau de stérilisation autoclave, disponible en 5cm, 7.5cm, 10cm, 15cm, 20cm, 25cm et 30cm.",
+    "description": "Autoclave sterilization roll, available in 5cm, 7.5cm, 10cm, 15cm, 20cm, 25cm and 30cm.",
     "image": "assets/products/disposable/rouleau-autoclave.png"
   },
   {
@@ -313,10 +313,10 @@
   },
   {
     "id": "ouvre-bouche-silicon",
-    "name": "Ouvre bouche silicon",
+    "name": "Silicone Mouth Prop",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Ouvre-bouche en silicone, réutilisable et autoclavable, pour maintenir la bouche ouverte pendant les soins.",
+    "description": "Reusable, autoclavable silicone mouth prop used to keep the mouth open during treatment.",
     "image": "assets/products/disposable/silicone-cheek-retractor.jpg"
   },
   {
@@ -732,7 +732,7 @@
     "name": "Yellow box",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Conteneur à objets tranchants, boîte jaune standard.",
+    "description": "Standard yellow sharps disposal container.",
     "image": "assets/products/disposable/yellow-box-plain.png"
   },
   {
@@ -1012,7 +1012,7 @@
     "name": "Self sealing pouch",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Pochette de stérilisation auto-scellante, disponible en 57x130, 70x255, 90x165, 90x260, 135x260, 190x330 et 305x430mm.",
+    "description": "Self-sealing sterilization pouch, available in 57x130, 70x255, 90x165, 90x260, 135x260, 190x330 and 305x430mm.",
     "image": "assets/products/disposable/self-sealing-pouch.png"
   },
   {
@@ -1108,7 +1108,7 @@
     "name": "Cotisen Microbrush",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Microbrush disponible en Ultrafine (0.5mm), Superfine (1.0mm), Fine (1.5mm) et Regular (2.0mm).",
+    "description": "Microbrush applicators available in Ultrafine (0.5mm), Superfine (1.0mm), Fine (1.5mm) and Regular (2.0mm).",
     "image": "assets/products/disposable/cotisen-microbrush.jpg"
   },
   {
@@ -1116,7 +1116,7 @@
     "name": "Disposable syringes",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Seringues jetables 3cc, 5cc, 10cc et 20cc, boîte de 100 pièces.",
+    "description": "Disposable syringes 3cc, 5cc, 10cc and 20cc, box of 100.",
     "image": "assets/products/disposable/disposable-syringe-boxes.png"
   },
   {
@@ -2212,7 +2212,7 @@
     "name": "Microbrush",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Applicateurs Microbrush, embout mousse, disponibles en Ultrafine, Superfine, Fine et Regular selon le diamètre souhaité.",
+    "description": "Microbrush applicators with foam tip, available in Ultrafine, Superfine, Fine and Regular diameters.",
     "image": "assets/products/disposable/microbrush-sizes.png"
   },
   {
@@ -2841,7 +2841,7 @@
   },
   {
     "id": "polishing-compound-dialux-blanc-white",
-    "name": "Polishing compound - Dialux blanc white",
+    "name": "Polishing compound - Dialux White white",
     "category": "restorative",
     "categoryLabel": "Restorative",
     "description": "",
@@ -2937,50 +2937,50 @@
   },
   {
     "id": "boite-a-fraise-autoclavable-10-trous",
-    "name": "Boite a fraise autoclavable (10 trous)",
+    "name": "Autoclavable Bur Box (10 Holes)",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Boite porte-fraises autoclavable en aluminium, 10 trous, avec couvercle en silicone (caoutchouc) pour fraises FG/RA, sterilisable jusqu a 135 C.",
+    "description": "Autoclavable aluminium bur box, 10 holes, with a silicone (rubber) cover for FG/RA burs, sterilizable up to 135°C.",
     "image": "assets/products/disposable/boite-a-fraise-autoclavable-10-trous.jpg"
   },
   {
     "id": "boite-a-lime-autoclavable",
-    "name": "Boite a lime autoclavable",
+    "name": "Autoclavable File Box",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Boite porte-limes endodontiques autoclavable avec regle de mesure integree, sterilisable jusqu a 134 C.",
+    "description": "Autoclavable endodontic file box with a built-in measuring ruler, sterilizable up to 134°C.",
     "image": "assets/products/disposable/boite-a-lime-autoclavable.jpg"
   },
   {
     "id": "boite-a-sterilisation-fraise",
-    "name": "Boite a sterilisation fraise",
+    "name": "Bur Sterilization Box",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Boite de sterilisation pour fraises en inox, 30 trous, autoclavable jusqu a 135 C et 0.22Mpa.",
+    "description": "Stainless steel bur sterilization box, 30 holes, autoclavable up to 135°C and 0.22Mpa.",
     "image": "assets/products/disposable/boite-a-sterilisation-fraise.jpg"
   },
   {
     "id": "boite-a-sterilisation-instrument",
-    "name": "Boite a sterilisation instrument",
+    "name": "Instrument Sterilization Box",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Boite de sterilisation pour instruments, 4 compartiments, plastique resistant a la chaleur jusqu a 135 C, favorise la circulation de l air.",
+    "description": "Instrument sterilization box, 4 compartments, heat-resistant plastic up to 135°C, promotes air circulation.",
     "image": "assets/products/disposable/boite-a-sterilisation-instrument.jpg"
   },
   {
     "id": "boite-a-cotton-roll",
-    "name": "Boite a cotton roll",
+    "name": "Cotton Roll Dispenser Box",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Distributeur de rouleaux de coton, couvercle transparent a rabat pour un chargement facile et un acces hygienique.",
+    "description": "Cotton roll dispenser with a clear flip-top lid for easy loading and hygienic access.",
     "image": "assets/products/disposable/boite-a-cotton-roll.jpg"
   },
   {
     "id": "boite-a-brosse-a-dent",
-    "name": "Boite a brosse a dent",
+    "name": "Toothbrush Box",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Brosses a dents jetables pre-encollees, emballees individuellement, boite de 100 pieces.",
+    "description": "Pre-pasted disposable toothbrushes, individually wrapped, box of 100.",
     "image": "assets/products/disposable/boite-a-brosse-a-dent.jpg"
   },
   {
@@ -2993,34 +2993,34 @@
   },
   {
     "id": "pompe-a-salive",
-    "name": "Pompe a salive",
+    "name": "Saliva Ejector",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Pompe à salive (aspirateur salivaire), sac de 100 pièces, longueur 15cm, diamètre 6.5mm.",
+    "description": "Saliva ejector, bag of 100, length 15cm, diameter 6.5mm.",
     "image": "assets/products/disposable/pompe-a-salive.png"
   },
   {
     "id": "pompe-a-salive-chirurgical-tuyau-avec-trou",
-    "name": "Pompe a salive chirurgical tuyau avec trou",
+    "name": "Surgical Saliva Ejector (Vented Tube)",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Pompe à salive chirurgicale avec tuyau à trou, embout blanc rigide.",
+    "description": "Surgical saliva ejector with a vented tube and a rigid white tip.",
     "image": "assets/products/disposable/pompe-a-salive-tuyau-avec-trou.png"
   },
   {
     "id": "tips-seringue-air-eau",
-    "name": "Tips seringue air eau",
+    "name": "Air/Water Syringe Tips",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Embouts de seringue air/eau, coloris assortis, tailles 1/4, 1/8 et 1/16.",
+    "description": "Air/water syringe tips, assorted colors, sizes 1/4, 1/8 and 1/16.",
     "image": "assets/products/disposable/tips-seringue-air-eau-2.png"
   },
   {
     "id": "chirurgical-aspire",
-    "name": "Chirurgical aspire",
+    "name": "Surgical Aspirator Tips",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Embouts d'aspiration chirurgicale, coloris assortis (vert, bleu clair, jaune, blanc, bleu).",
+    "description": "Surgical aspiration tips, assorted colors (green, light blue, yellow, white, blue).",
     "image": "assets/products/disposable/chirurgical-aspire.png"
   },
   {
@@ -3028,7 +3028,7 @@
     "name": "Mixing tips for cement",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Embouts de mélange pour ciment dentaire.",
+    "description": "Mixing tips for dental cement.",
     "image": "assets/products/disposable/mixing-tips-for-cement.jpg"
   },
   {
@@ -3036,7 +3036,7 @@
     "name": "Mixing tips for temporary",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Embouts de mélange pour matériau temporaire, sachet de 50 pièces.",
+    "description": "Mixing tips for temporary material, bag of 50.",
     "image": "assets/products/disposable/mixing-tips-intraoral.png"
   },
   {
@@ -3044,23 +3044,23 @@
     "name": "Mixing tips yellow for light",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Embouts de mélange jaunes avec embout intra-oral, pour matériaux photopolymérisables.",
+    "description": "Yellow mixing tips with intraoral tip, for light-cure materials.",
     "image": "assets/products/disposable/mixing-tips-yellow-light.png"
   },
   {
     "id": "porte-matrix-pince",
-    "name": "Porte matrix pince",
+    "name": "Matrix Retainer with Clamp",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Porte-matrice avec pince, autoclavable à 121°C.",
+    "description": "Matrix retainer with clamp, autoclavable at 121°C.",
     "image": "assets/products/disposable/porte-matrix-pince.png"
   },
   {
     "id": "godet-en-verre",
-    "name": "Godet en verre",
+    "name": "Glass Dappen Dish",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Godet doseur en verre, disponible en small, medium et large.",
+    "description": "Glass dosing dappen dish, available in small, medium and large.",
     "image": "assets/products/disposable/godet-ref.png"
   },
   {
@@ -3068,7 +3068,7 @@
     "name": "Fluor tray",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Gouttières à fluor, disponibles en vert, jaune et bleu.",
+    "description": "Fluoride trays, available in green, yellow and blue.",
     "image": "assets/products/disposable/gloves-fluor-ref.png"
   },
   {
@@ -3076,7 +3076,7 @@
     "name": "Falcon Medicals suture",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Suture chirurgicale Falcon Medicals, silk/nylon/absorbable, tailles 3.0, 4.0, 5.0 et 6.0.",
+    "description": "Falcon Medicals surgical suture, silk/nylon/absorbable, sizes 3.0, 4.0, 5.0 and 6.0.",
     "image": "assets/products/disposable/falcon-medicals-suture.png"
   },
   {
@@ -3084,7 +3084,7 @@
     "name": "Dispensing gun",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Pistolet applicateur pour cartouches dentaires.",
+    "description": "Dispensing gun for dental cartridges.",
     "image": "assets/products/disposable/dispensing-gun-2.jpg"
   },
   {
@@ -3092,7 +3092,7 @@
     "name": "Protemp 4",
     "category": "restorative",
     "categoryLabel": "Restorative",
-    "description": "3M ESPE Protemp 4, matériau de temporisation, boîte de lancement avec pistolet applicateur.",
+    "description": "3M ESPE Protemp 4 temporization material, introductory kit with dispensing gun.",
     "image": "assets/products/restorative/protemp-4.png"
   },
   {
@@ -3100,7 +3100,7 @@
     "name": "Gloves HMS Latex",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Gants latex HMS, disponibles en poudré (powder) et non poudré (powder free), tailles small, medium, large.",
+    "description": "HMS latex gloves, available powdered and powder-free, sizes small, medium, large.",
     "image": "assets/products/disposable/gloves-hms-latex.jpg"
   },
   {
@@ -3108,7 +3108,7 @@
     "name": "Gloves Mint King",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Gants King coloris menthe, poudré et non poudré (powder free), tailles small, medium, large.",
+    "description": "King gloves in mint color, powdered and powder-free, sizes small, medium, large.",
     "image": "assets/products/disposable/gloves-mint-king.jpg"
   },
   {
@@ -3116,7 +3116,7 @@
     "name": "Gloves Pink King",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Gants King coloris rose, tailles small, medium, large.",
+    "description": "King gloves in pink, sizes small, medium, large.",
     "image": "assets/products/disposable/gloves-pink-king.jpg"
   },
   {
@@ -3124,7 +3124,7 @@
     "name": "Gloves Powder Free Small",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Gants d'examen jetables sans latex, non poudrés, embout texturé pour une bonne préhension, boîte de 100.",
+    "description": "Disposable powder-free, latex-free exam gloves, textured tip for a good grip, box of 100.",
     "image": "assets/products/disposable/gloves-powder-free-small.jpg"
   },
   {
@@ -3137,71 +3137,71 @@
   },
   {
     "id": "bol-alginate",
-    "name": "Bol Alginate",
+    "name": "Alginate Mixing Bowl",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Godet doseur autoclavable pour le mélange de petites quantités d'alginate ou de résine.",
+    "description": "Autoclavable dosing dappen dish for mixing small quantities of alginate or resin.",
     "image": "assets/products/disposable/bol-alginate.jpg"
   },
   {
     "id": "cone-en-bois-assorted",
-    "name": "Cone En Bois Assorted",
+    "name": "Wooden Wedges (Assorted)",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Coins en bois d'érable assortis, utilisés avec les bandes matrices lors des restaurations de classe II.",
+    "description": "Assorted maple wood wedges, used with matrix bands during Class II restorations.",
     "image": "assets/products/disposable/cone-en-bois-assorted.jpg"
   },
   {
     "id": "cone-en-bois-blanc",
-    "name": "Cone En Bois Blanc",
+    "name": "Wooden Wedge (White)",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Coin interdentaire en bois blanc, calé sous la matrice pour un bon point de contact en classe II.",
+    "description": "White wooden interdental wedge, placed under the matrix band for a good contact point in Class II restorations.",
     "image": "assets/products/disposable/cone-en-bois-blanc.jpg"
   },
   {
     "id": "cone-en-bois-bleu",
-    "name": "Cone En Bois Bleu",
+    "name": "Wooden Wedge (Blue)",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Coin en bois bleu, stabilise la matrice pendant les restaurations composite/amalgame de classe II.",
+    "description": "Blue wooden wedge, stabilizes the matrix band during Class II composite/amalgam restorations.",
     "image": "assets/products/disposable/cone-en-bois-bleu.jpg"
   },
   {
     "id": "cone-en-bois-rose",
-    "name": "Cone En Bois Rose",
+    "name": "Wooden Wedge (Pink)",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Coin dentaire en bois rose, placé sous la bande matrice pour assurer un contact serré en classe II.",
+    "description": "Pink wooden wedge, placed under the matrix band to ensure a tight contact in Class II restorations.",
     "image": "assets/products/disposable/cone-en-bois-rose.jpg"
   },
   {
     "id": "cone-en-bois-polydentia-1000-pcs-rose",
-    "name": "Cone En Bois Polydentia 1000 Pcs Rose",
+    "name": "Wooden Wedges Polydentia 1000pcs (Pink)",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Coins en bois rose Polydentia, boîte de 1000 pièces, pour le maintien de la matrice en classe II.",
+    "description": "Polydentia pink wooden wedges, box of 1000, for matrix band support in Class II restorations.",
     "image": "assets/products/disposable/cone-en-bois-polydentia-1000-pcs-rose.jpg"
   },
   {
     "id": "curaspon-eponge-hemostatique",
-    "name": "Curaspon Eponge Hemostatique",
+    "name": "Curaspon Hemostatic Sponge",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Éponge hémostatique résorbable Curaspon, utilisée pour contrôler le saignement après extraction ou petite chirurgie orale.",
+    "description": "Curaspon resorbable hemostatic sponge, used to control bleeding after extraction or minor oral surgery.",
     "image": "assets/products/disposable/curaspon-eponge-hemostatique.jpg"
   },
   {
     "id": "cutanplast-eponge-hemostatique",
-    "name": "Cutanplast Eponge Hemostatique",
+    "name": "Cutanplast Hemostatic Sponge",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Éponge hémostatique en gélatine Cutanplast, favorise la coagulation après une extraction ou un acte chirurgical mineur.",
+    "description": "Cutanplast gelatin hemostatic sponge, promotes coagulation after an extraction or minor surgical procedure.",
     "image": "assets/products/disposable/cutanplast-eponge-hemostatique.jpg"
   },
   {
     "id": "dochem-porte-emprunte-lower-large",
-    "name": "Dochem Porte Emprunte Lower Large",
+    "name": "Dochem Impression Tray (Lower, Large)",
     "category": "disposable",
     "categoryLabel": "Disposables",
     "description": "Perforated stainless steel dental impression tray, autoclavable, used for taking alginate/impression material.",
@@ -3209,10 +3209,10 @@
   },
   {
     "id": "dozeur-alginate",
-    "name": "Dozeur Alginate",
+    "name": "Alginate Measuring Scoop",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Doseur pour alginate, permet de mesurer précisément la poudre avant le mélange.",
+    "description": "Alginate scoop, used to accurately measure the powder before mixing.",
     "image": "assets/products/disposable/dozeur-alginate.jpg"
   },
   {
@@ -3225,18 +3225,18 @@
   },
   {
     "id": "eponge-hemostatique-belgium-by-pc",
-    "name": "Eponge Hemostatique Belgium By Pc",
+    "name": "Hemostatic Sponge Belgium (By Piece)",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Éponge hémostatique résorbable (origine Belgique), vendue à la pièce, pour la gestion du saignement post-extraction.",
+    "description": "Resorbable hemostatic sponge (Belgium), sold by the piece, for post-extraction bleeding control.",
     "image": "assets/products/disposable/eponge-hemostatique-belgium-by-pc.jpg"
   },
   {
     "id": "fil-retr-0-epinephrine",
-    "name": "FIL Retr 0 Epinephrine",
+    "name": "Retraction Cord 0 Epinephrine",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Fil de rétraction gingivale en coton tressé, imprégné d'épinéphrine, taille #0, pour la déflexion tissulaire avant empreinte.",
+    "description": "Braided cotton gingival retraction cord impregnated with epinephrine, size #0, for tissue deflection before impressions.",
     "image": "assets/products/disposable/fil-retr-0-epinephrine.jpg"
   },
   {
@@ -3244,7 +3244,7 @@
     "name": "Gloves Maxter PF Large",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Gants nitrile Maxter non poudrés, sans latex, surface texturée au bout des doigts, conditionnés par 100.",
+    "description": "Maxter nitrile gloves, powder-free, latex-free, textured fingertips, box of 100.",
     "image": "assets/products/disposable/gloves-maxter-pf-large.jpg"
   },
   {
@@ -3252,7 +3252,7 @@
     "name": "Gloves Maxter PF Medium",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Gants Maxter powder-free en nitrile, texturés aux doigts, sans latex, boîte de 100 pièces.",
+    "description": "Maxter powder-free nitrile gloves, textured fingertips, latex-free, box of 100.",
     "image": "assets/products/disposable/gloves-maxter-pf-medium.jpg"
   },
   {
@@ -3260,7 +3260,7 @@
     "name": "Gloves Vinyl Medium",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Gants d'examen en vinyle, jetables, alternative économique sans latex ni nitrile, boîte de 100.",
+    "description": "Disposable vinyl exam gloves, an economical latex- and nitrile-free option, box of 100.",
     "image": "assets/products/disposable/gloves-vinyl-medium.jpg"
   },
   {
@@ -3268,7 +3268,7 @@
     "name": "Gloves Mint Powdered Xs",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Gants d'examen poudrés parfumés à la menthe, doigts texturés, boîte de 100 pièces.",
+    "description": "Powdered mint-scented exam gloves, textured fingertips, box of 100.",
     "image": "assets/products/disposable/gloves-mint-powdered-xs.jpg"
   },
   {
@@ -3276,7 +3276,7 @@
     "name": "Gloves Nitril Blue Point Small",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Gants nitrile bleus à bout texturé, sans latex, non poudrés, 100 pièces par boîte.",
+    "description": "Blue nitrile gloves with textured tips, latex-free, powder-free, 100 per box.",
     "image": "assets/products/disposable/gloves-nitril-blue-point-small.jpg"
   },
   {
@@ -3284,7 +3284,7 @@
     "name": "Gloves Nitril Xs Cranberry",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Gants nitrile Cranberry sans latex, non poudrés, doigts texturés pour une meilleure prise, boîte de 100.",
+    "description": "Cranberry nitrile gloves, latex-free, powder-free, textured fingertips for a better grip, box of 100.",
     "image": "assets/products/disposable/gloves-nitril-xs-cranberry.jpg"
   },
   {
@@ -3292,7 +3292,7 @@
     "name": "Gloves Nitril Xs Natural Touch",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Gants nitrile Natural Touch, texture fine sur toute la main, sans latex, boîte de 100.",
+    "description": "Natural Touch nitrile gloves, fine texture over the whole hand, latex-free, box of 100.",
     "image": "assets/products/disposable/gloves-nitril-xs-natural-touch.jpg"
   },
   {
@@ -3300,7 +3300,7 @@
     "name": "Gloves Powder Free Large Fifty Five",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Gants d'examen non poudrés, sans latex, embouts texturés, boîte de 100, tailles assorties.",
+    "description": "Powder-free, latex-free exam gloves, textured tips, box of 100, assorted sizes.",
     "image": "assets/products/disposable/gloves-powder-free-large-fifty-five.jpg"
   },
   {
@@ -3308,7 +3308,7 @@
     "name": "Gloves Powdered Small King",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Gants King poudrés, texturés au bout des doigts, sans latex, boîte de 100.",
+    "description": "King powdered gloves, textured fingertips, latex-free, box of 100.",
     "image": "assets/products/disposable/gloves-powdered-small-king.jpg"
   },
   {
@@ -3316,7 +3316,7 @@
     "name": "Gloves Powdered Large Blossom",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Gants Blossom poudrés, sans latex, surface texturée, conditionnement de 100 pièces.",
+    "description": "Blossom powdered gloves, latex-free, textured surface, box of 100.",
     "image": "assets/products/disposable/gloves-powdered-large-blossom.jpg"
   },
   {
@@ -3329,186 +3329,186 @@
   },
   {
     "id": "gun-astringent",
-    "name": "Gun Astringent",
+    "name": "Dispensing Gun (Astringent)",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Pistolet applicateur ergonomique pour cartouches d'agent astringent/rétraction.",
+    "description": "Ergonomic dispensing gun for astringent/retraction agent cartridges.",
     "image": "assets/products/disposable/gun-astringent.jpg"
   },
   {
     "id": "gun-light-77580",
-    "name": "Gun Light 77580",
+    "name": "Dispensing Gun (Light 77580)",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Pistolet applicateur ergonomique pour cartouches légères d'empreinte ou de matériau provisoire.",
+    "description": "Ergonomic dispensing gun for lightweight impression or temporary material cartridges.",
     "image": "assets/products/disposable/gun-light-77580.jpg"
   },
   {
     "id": "gun-protemp-77581",
-    "name": "Gun Protemp 77581",
+    "name": "Dispensing Gun (Protemp 77581)",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Pistolet applicateur ergonomique dédié aux cartouches de matériau provisoire type Protemp.",
+    "description": "Ergonomic dispensing gun dedicated to Protemp-type temporary material cartridges.",
     "image": "assets/products/disposable/gun-protemp-77581.jpg"
   },
   {
     "id": "in-porte-matrice",
-    "name": "In Porte Matrice",
+    "name": "Matrix Band Retainer (Tofflemire)",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Porte-matrice type Tofflemire en acier inoxydable, tient la bande matrice pendant les restaurations de classe II.",
+    "description": "Tofflemire-style stainless steel matrix retainer, holds the matrix band during Class II restorations.",
     "image": "assets/products/disposable/in-porte-matrice.jpg"
   },
   {
     "id": "matrice-becht-tr",
-    "name": "Matrice Becht Tr",
+    "name": "Becht TR Matrix Retainer",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Porte-matrice Becht, acier inoxydable, système de serrage type Tofflemire pour restaurations proximales.",
+    "description": "Becht matrix retainer, stainless steel, Tofflemire-style clamping system for proximal restorations.",
     "image": "assets/products/disposable/matrice-becht-tr.jpg"
   },
   {
     "id": "matric-anatomique-ref",
-    "name": "Matric Anatomique Ref",
+    "name": "Anatomic Matrix Band",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Bande matrice en acier inoxydable, reproduit le contour anatomique de la dent pour les restaurations composite/amalgame de classe II.",
+    "description": "Stainless steel matrix band, reproduces the anatomical tooth contour for Class II composite/amalgam restorations.",
     "image": "assets/products/disposable/matric-anatomique-ref.jpg"
   },
   {
     "id": "matrice-0-03x5mm",
-    "name": "Matrice 0.03x5mm",
+    "name": "Matrix Band 0.03x5mm",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Matrice métallique anatomique (0.03 x 5mm), utilisée pour redonner un point de contact naturel lors des obturations proximales.",
+    "description": "Anatomic stainless steel matrix band — 0.03 x 5mm, used to restore natural proximal contact during Class II fillings.",
     "image": "assets/products/disposable/matrice-0-03x5mm.jpg"
   },
   {
     "id": "matrice-0-03x6mm",
-    "name": "Matrice 0.03x6mm",
+    "name": "Matrix Band 0.03x6mm",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Bande de matriçage en inox, modèle 0.03 x 6mm, épouse la forme de la dent pendant la restauration de classe II.",
+    "description": "Stainless steel matrix band (0.03 x 6mm), shapes to the tooth contour during Class II restorations.",
     "image": "assets/products/disposable/matrice-0-03x6mm.jpg"
   },
   {
     "id": "matrice-0-03x7mm",
-    "name": "Matrice 0.03x7mm",
+    "name": "Matrix Band 0.03x7mm",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Matrice dentaire 0.03 x 7mm en acier inoxydable, pour reconstituer les faces proximales lors des obturations composite/amalgame.",
+    "description": "Anatomic matrix band, model 0.03 x 7mm, in stainless steel, for reproducing proximal surfaces during composite/amalgam fillings.",
     "image": "assets/products/disposable/matrice-0-03x7mm.jpg"
   },
   {
     "id": "matrice-1098",
-    "name": "Matrice 1098",
+    "name": "Matrix Band 1098",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Bande anatomique en inox — 1098, indispensable pour la mise en forme des restaurations de classe II.",
+    "description": "Stainless steel matrix band — ref. 1098, essential for shaping Class II restorations.",
     "image": "assets/products/disposable/matrice-1098.jpg"
   },
   {
     "id": "matrice-1384",
-    "name": "Matrice 1384",
+    "name": "Matrix Band 1384",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Bande matrice en acier inoxydable, reproduit le contour anatomique de la dent pour les restaurations composite/amalgame de classe II — réf. 1384.",
+    "description": "Metal matrix band (1384), used to re-establish a natural contact point during proximal fillings.",
     "image": "assets/products/disposable/matrice-1384.jpg"
   },
   {
     "id": "matrice-1387-unica-spoon-m",
-    "name": "Matrice 1387 Unica Spoon M",
+    "name": "Matrix Band 1387 Unica Spoon M",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Matrice métallique anatomique (1387 Unica Spoon M), utilisée pour redonner un point de contact naturel lors des obturations proximales.",
+    "description": "Anatomic stainless steel matrix band — 1387 Unica Spoon M, used to restore natural proximal contact during Class II fillings.",
     "image": "assets/products/disposable/matrice-1387-unica-spoon-m.jpg"
   },
   {
     "id": "matrice-1523-unica",
-    "name": "Matrice 1523 Unica",
+    "name": "Matrix Band 1523 Unica",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Bande de matriçage en inox, modèle 1523 Unica, épouse la forme de la dent pendant la restauration de classe II.",
+    "description": "Stainless steel matrix band (1523 Unica), shapes to the tooth contour during Class II restorations.",
     "image": "assets/products/disposable/matrice-1523-unica.jpg"
   },
   {
     "id": "matrice-1533-unica",
-    "name": "Matrice 1533 Unica",
+    "name": "Matrix Band 1533 Unica",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Matrice dentaire 1533 Unica en acier inoxydable, pour reconstituer les faces proximales lors des obturations composite/amalgame.",
+    "description": "Anatomic matrix band, model 1533 Unica, in stainless steel, for reproducing proximal surfaces during composite/amalgam fillings.",
     "image": "assets/products/disposable/matrice-1533-unica.jpg"
   },
   {
     "id": "matrice-1888-assorted-unica-and-spoon",
-    "name": "Matrice 1888 Assorted Unica And Spoon",
+    "name": "Matrix Band 1888 Assorted (Unica and Spoon)",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Bande anatomique en inox — 1888 (Unica et Spoon assortis), indispensable pour la mise en forme des restaurations de classe II.",
+    "description": "Stainless steel matrix band — ref. 1888 (Unica and Spoon assorted), essential for shaping Class II restorations.",
     "image": "assets/products/disposable/matrice-1888-assorted-unica-and-spoon.jpg"
   },
   {
     "id": "matrice-1972",
-    "name": "Matrice 1972",
+    "name": "Matrix Band 1972",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Bande matrice en acier inoxydable, reproduit le contour anatomique de la dent pour les restaurations composite/amalgame de classe II — réf. 1972.",
+    "description": "Metal matrix band (1972), used to re-establish a natural contact point during proximal fillings.",
     "image": "assets/products/disposable/matrice-1972.jpg"
   },
   {
     "id": "matrice-1973",
-    "name": "Matrice 1973",
+    "name": "Matrix Band 1973",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Matrice métallique anatomique (1973), utilisée pour redonner un point de contact naturel lors des obturations proximales.",
+    "description": "Anatomic stainless steel matrix band — 1973, used to restore natural proximal contact during Class II fillings.",
     "image": "assets/products/disposable/matrice-1973.jpg"
   },
   {
     "id": "matrice-1976",
-    "name": "Matrice 1976",
+    "name": "Matrix Band 1976",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Bande de matriçage en inox, modèle 1976, épouse la forme de la dent pendant la restauration de classe II.",
+    "description": "Stainless steel matrix band (1976), shapes to the tooth contour during Class II restorations.",
     "image": "assets/products/disposable/matrice-1976.jpg"
   },
   {
     "id": "matrice-anatomique-5714-pqt-de-50-polydentia",
-    "name": "Matrice Anatomique 5714 Pqt De 50 Polydentia",
+    "name": "Matrix Band Anatomic 5714 Polydentia (Pack of 50)",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Matrice dentaire 5714 Polydentia, paquet de 50 en acier inoxydable, pour reconstituer les faces proximales lors des obturations composite/amalgame.",
+    "description": "Anatomic matrix band, model 5714 Polydentia, pack of 50, in stainless steel, for reproducing proximal surfaces during composite/amalgam fillings.",
     "image": "assets/products/disposable/matrice-anatomique-5714-pqt-de-50-polydentia.jpg"
   },
   {
     "id": "matrice-anatomique-6104-pqt-de-12-t",
-    "name": "Matrice Anatomique 6104 Pqt De 12 T",
+    "name": "Matrix Band Anatomic 6104 (Pack of 12)",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Bande anatomique en inox — 6104, paquet de 12, indispensable pour la mise en forme des restaurations de classe II.",
+    "description": "Stainless steel matrix band — ref. 6104, pack of 12, essential for shaping Class II restorations.",
     "image": "assets/products/disposable/matrice-anatomique-6104-pqt-de-12-t.jpg"
   },
   {
     "id": "matrice-anterieur-tr1912-bte-64-pcs",
-    "name": "Matrice Anterieur Tr1912 Bte 64 Pcs",
+    "name": "Matrix Band Anterior TR1912 (Box of 64)",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Bande matrice en acier inoxydable, reproduit le contour anatomique de la dent pour les restaurations composite/amalgame de classe II — réf. TR 1912, boîte de 64.",
+    "description": "Metal matrix band (TR 1912, box of 64), used to re-establish a natural contact point during proximal fillings.",
     "image": "assets/products/disposable/matrice-anterieur-tr1912-bte-64-pcs.jpg"
   },
   {
     "id": "matrice-bte-36-tor-1330",
-    "name": "Matrice Bte 36 TOR 1330",
+    "name": "Matrix Band Box of 36 TOR 1330",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Bande de matriçage en inox, modèle TOR 1330, boîte de 36, épouse la forme de la dent pendant la restauration de classe II.",
+    "description": "Stainless steel matrix band (TOR 1330, box of 36), shapes to the tooth contour during Class II restorations.",
     "image": "assets/products/disposable/matrice-bte-36-tor-1330.jpg"
   },
   {
     "id": "matrice-celluloide-kit",
-    "name": "Matrice Celluloide Kit",
+    "name": "Matrix Band Celluloid Kit",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Matrice dentaire kit cellulose en acier inoxydable, pour reconstituer les faces proximales lors des obturations composite/amalgame.",
+    "description": "Anatomic matrix band, model celluloid kit, in stainless steel, for reproducing proximal surfaces during composite/amalgam fillings.",
     "image": "assets/products/disposable/matrice-celluloide-kit.jpg"
   },
   {
@@ -3516,39 +3516,39 @@
     "name": "Matrice Kerr Manche",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Porte-matrice Kerr avec manche ergonomique, maintien fiable de la bande pendant l'obturation.",
+    "description": "Kerr matrix retainer with an ergonomic handle, holds the band securely during the filling.",
     "image": "assets/products/disposable/matrice-kerr-manche.jpg"
   },
   {
     "id": "matrice-posterieur-tr",
-    "name": "Matrice Posterieur Tr",
+    "name": "Matrix Band Posterior TR",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Bande anatomique en inox — postérieure TR, indispensable pour la mise en forme des restaurations de classe II.",
+    "description": "Stainless steel matrix band — ref. posterior TR, essential for shaping Class II restorations.",
     "image": "assets/products/disposable/matrice-posterieur-tr.jpg"
   },
   {
     "id": "matrice-ring",
-    "name": "Matrice Ring",
+    "name": "Matrix Band Ring",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Bande matrice en acier inoxydable, reproduit le contour anatomique de la dent pour les restaurations composite/amalgame de classe II — réf. à anneau.",
+    "description": "Metal matrix band (ring type), used to re-establish a natural contact point during proximal fillings.",
     "image": "assets/products/disposable/matrice-ring.jpg"
   },
   {
     "id": "matrice-tr-roll",
-    "name": "Matrice Tr Roll",
+    "name": "Matrix Band TR Roll",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Matrice métallique anatomique (TR en rouleau), utilisée pour redonner un point de contact naturel lors des obturations proximales.",
+    "description": "Anatomic stainless steel matrix band — TR roll, used to restore natural proximal contact during Class II fillings.",
     "image": "assets/products/disposable/matrice-tr-roll.jpg"
   },
   {
     "id": "matrices-rogin-bte-de",
-    "name": "Matrices Rogin BTE DE",
+    "name": "Matrix Bands Rogin (Box)",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Bande de matriçage en inox, modèle Rogin, épouse la forme de la dent pendant la restauration de classe II.",
+    "description": "Stainless steel matrix band (Rogin), shapes to the tooth contour during Class II restorations.",
     "image": "assets/products/disposable/matrices-rogin-bte-de.jpg"
   },
   {
@@ -3561,10 +3561,10 @@
   },
   {
     "id": "mixing-tips-inta-oral",
-    "name": "Mixing Tips + Inta Oral",
+    "name": "Mixing Tips + Intraoral Tip",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Embouts de mélange hélicoïdaux avec canule intra-orale, compatibles avec les pistolets applicateurs standards.",
+    "description": "Helical mixing tips with an intraoral cannula, compatible with standard dispensing guns.",
     "image": "assets/products/disposable/mixing-tips-inta-oral.jpg"
   },
   {
@@ -3572,7 +3572,7 @@
     "name": "Mixing Tips Bite Registration",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Embouts de mélange automix pour matériaux d'enregistrement d'occlusion, s'adaptent aux cartouches standards.",
+    "description": "Automix mixing tips for bite registration materials, fit standard cartridges.",
     "image": "assets/products/disposable/mixing-tips-bite-registration.jpg"
   },
   {
@@ -3580,7 +3580,7 @@
     "name": "Mixing Tips Protemp",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Embouts de mélange automix pour cartouches de matériau provisoire type Protemp.",
+    "description": "Automix mixing tips for Protemp-type temporary material cartridges.",
     "image": "assets/products/disposable/mixing-tips-protemp.jpg"
   },
   {
@@ -3588,7 +3588,7 @@
     "name": "Mixing Tips White 3M 50pcs",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Embouts de mélange hélicoïdaux blancs 3M, sachet de 50 pièces, pour cartouches d'empreinte.",
+    "description": "White 3M helical mixing tips, bag of 50, for impression material cartridges.",
     "image": "assets/products/disposable/mixing-tips-white-3m-50pcs.jpg"
   },
   {
@@ -3596,7 +3596,7 @@
     "name": "Needles 27g*34 Dochem",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Aiguille dentaire stérile à usage unique 27G, triple biseau, pour seringues à cartouche — Dochem.",
+    "description": "Sterile single-use 27G dental needle, triple bevel, for cartridge syringes — Dochem.",
     "image": "assets/products/disposable/needles-27g-34-dochem.jpg"
   },
   {
@@ -3604,7 +3604,7 @@
     "name": "Needles 27g*34 Supermed",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Aiguille dentaire stérile à usage unique 27G, triple biseau, pour seringues à cartouche — Supermed.",
+    "description": "Sterile single-use 27G dental needle, triple bevel, for cartridge syringes — Supermed.",
     "image": "assets/products/disposable/needles-27g-34-supermed.jpg"
   },
   {
@@ -3612,95 +3612,95 @@
     "name": "Penta Mixing Tips",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Embouts de mélange automix format Penta, compatibles avec les pistolets dentaires standards.",
+    "description": "Penta-format automix mixing tips, compatible with standard dental dispensing guns.",
     "image": "assets/products/disposable/penta-mixing-tips.jpg"
   },
   {
     "id": "plateau-blanc",
-    "name": "Plateau Blanc",
+    "name": "Tray (White)",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Plateau en plastique autoclavable blanc, pratique pour organiser et transporter les instruments au fauteuil.",
+    "description": "White autoclavable plastic tray, handy for organizing and carrying instruments chairside.",
     "image": "assets/products/disposable/plateau-blanc.jpg"
   },
   {
     "id": "plateau-bleu",
-    "name": "Plateau Bleu",
+    "name": "Tray (Blue)",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Plateau en plastique bleu, autoclavable, pour le rangement des instruments côté fauteuil.",
+    "description": "Blue autoclavable plastic tray for chairside instrument storage.",
     "image": "assets/products/disposable/plateau-bleu.jpg"
   },
   {
     "id": "plateau-mauve-by-pc",
-    "name": "Plateau Mauve By Pc",
+    "name": "Tray (Purple, By Piece)",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Plateau plastique mauve, autoclavable, vendu à la pièce, pour l'organisation des instruments.",
+    "description": "Purple autoclavable plastic tray, sold by the piece, for instrument organization.",
     "image": "assets/products/disposable/plateau-mauve-by-pc.jpg"
   },
   {
     "id": "plateau-mauve-paquet-de",
-    "name": "Plateau Mauve Paquet De",
+    "name": "Tray (Purple, Pack)",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Plateau plastique mauve autoclavable, vendu en paquet, pour le transport des instruments.",
+    "description": "Purple autoclavable plastic tray, sold in a pack, for carrying instruments.",
     "image": "assets/products/disposable/plateau-mauve-paquet-de.jpg"
   },
   {
     "id": "plateau-pour-chaise-dentaire",
-    "name": "Plateau Pour Chaise Dentaire",
+    "name": "Dental Chair Tray",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Plateau adapté au fauteuil dentaire, autoclavable, pour garder les instruments à portée de main.",
+    "description": "Tray designed for the dental chair, autoclavable, keeps instruments within reach.",
     "image": "assets/products/disposable/plateau-pour-chaise-dentaire.jpg"
   },
   {
     "id": "plateau-stainless",
-    "name": "Plateau Stainless",
+    "name": "Tray (Stainless Steel)",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Plateau en acier inoxydable, robuste et autoclavable, pour l'organisation des instruments au fauteuil.",
+    "description": "Stainless steel tray, sturdy and autoclavable, for chairside instrument organization.",
     "image": "assets/products/disposable/plateau-stainless.jpg"
   },
   {
     "id": "porte-emprunte-anterior",
-    "name": "Porte Emprunte Anterior",
+    "name": "Impression Tray (Anterior)",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Porte-empreinte perforé en acier inoxydable pour le secteur antérieur, autoclavable, pour prise d'empreinte alginate.",
+    "description": "Perforated stainless steel impression tray for the anterior sector, autoclavable, for alginate impressions.",
     "image": "assets/products/disposable/porte-emprunte-anterior.jpg"
   },
   {
     "id": "porte-emprunte-edente-sachet-de",
-    "name": "Porte Emprunte Edente Sachet De",
+    "name": "Impression Tray (Edentulous, Bag)",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Porte-empreinte perforé pour patient édenté, acier inoxydable autoclavable, vendu en sachet.",
+    "description": "Perforated impression tray for edentulous patients, autoclavable stainless steel, sold in a bag.",
     "image": "assets/products/disposable/porte-emprunte-edente-sachet-de.jpg"
   },
   {
     "id": "porte-emprunte-left-and-right",
-    "name": "Porte Emprunte Left And Right",
+    "name": "Impression Tray (Left and Right)",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Porte-empreinte perforé gauche/droite, en acier inoxydable, autoclavable, pour prise d'empreinte.",
+    "description": "Perforated left/right impression tray, stainless steel, autoclavable.",
     "image": "assets/products/disposable/porte-emprunte-left-and-right.jpg"
   },
   {
     "id": "porte-emprunte-metal-boite-de",
-    "name": "Porte Emprunte Metal Boite De",
+    "name": "Impression Tray (Metal, Box)",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Porte-empreinte métallique perforé, autoclavable, vendu en boîte assortie de tailles.",
+    "description": "Perforated metal impression tray, autoclavable, sold in a box of assorted sizes.",
     "image": "assets/products/disposable/porte-emprunte-metal-boite-de.jpg"
   },
   {
     "id": "porte-emprunte-upper-medium",
-    "name": "Porte Emprunte Upper Medium",
+    "name": "Impression Tray (Upper, Medium)",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Porte-empreinte perforé taille moyenne pour l'arcade supérieure, en acier inoxydable autoclavable.",
+    "description": "Medium-size perforated impression tray for the upper arch, autoclavable stainless steel.",
     "image": "assets/products/disposable/porte-emprunte-upper-medium.jpg"
   },
   {
@@ -3708,12 +3708,12 @@
     "name": "Retraction Cord 0 Atria",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Fil de rétraction gingivale en coton tressé Atria, taille #0, pour dégager le sulcus avant la prise d'empreinte.",
+    "description": "Atria braided cotton gingival retraction cord, size #0, to open the sulcus before taking an impression.",
     "image": "assets/products/disposable/retraction-cord-0-atria.jpg"
   },
   {
     "id": "rouleau-cotton",
-    "name": "Rouleau Cotton",
+    "name": "Cotton Roll",
     "category": "disposable",
     "categoryLabel": "Disposables",
     "description": "100% long fibre pure white absorbent cotton dental rolls for moisture/isolation control.",
@@ -3724,7 +3724,7 @@
     "name": "Shade Guide Ivoclar",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Guide de teintes Ivoclar pour une correspondance précise des teintes en dentisterie restauratrice et prothétique.",
+    "description": "Ivoclar shade guide for precise shade matching in restorative and prosthetic dentistry.",
     "image": "assets/products/disposable/shade-guide-ivoclar.jpg"
   },
   {
@@ -3732,7 +3732,7 @@
     "name": "Shade Guide Vita",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Teintier Vita Classical, référence pour le choix des teintes en restauration et prothèse dentaire.",
+    "description": "Vita Classical shade guide, a reference for shade selection in restorative and prosthetic dentistry.",
     "image": "assets/products/disposable/shade-guide-vita.jpg"
   },
   {
@@ -3740,7 +3740,7 @@
     "name": "Surgical Gloves 7.5 Other Brand Powder Free",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Gants chirurgicaux stériles non poudrés, sans latex, taille 7.5, texturés pour une bonne prise en main.",
+    "description": "Sterile surgical gloves, powder-free, latex-free, size 7.5, textured for a secure grip.",
     "image": "assets/products/disposable/surgical-gloves-7-5-other-brand-powder-free.jpg"
   },
   {
@@ -3748,7 +3748,7 @@
     "name": "Suture 4.0 Absorbable Rapid Falcon",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Suture chirurgicale résorbable rapide Falcon, taille 4-0, pour la fermeture des tissus mous après extraction.",
+    "description": "Falcon fast-absorbing surgical suture, size 4-0, for soft-tissue closure after extraction.",
     "image": "assets/products/disposable/suture-4-0-absorbable-rapid-falcon.jpg"
   },
   {
@@ -3756,23 +3756,23 @@
     "name": "Suture 5.0 Nylon Falcon",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Suture Falcon en nylon non résorbable, taille 5-0, pour la fermeture des tissus mous en chirurgie orale.",
+    "description": "Falcon non-absorbable nylon suture, size 5-0, for soft-tissue closure in oral surgery.",
     "image": "assets/products/disposable/suture-5-0-nylon-falcon.jpg"
   },
   {
     "id": "porte-matrice-bleue",
-    "name": "Porte Matrice Bleue",
+    "name": "Matrix Retainer (Blue)",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Porte-matrice bleu, mécanisme de serrage type Tofflemire, réutilisable et autoclavable.",
+    "description": "Blue matrix retainer, Tofflemire-style clamping mechanism, reusable and autoclavable.",
     "image": "assets/products/disposable/porte-matrice-bleue.jpg"
   },
   {
     "id": "matrice-anatomique-mini-by-piece",
-    "name": "Matrice Anatomique Mini (By Piece)",
+    "name": "Matrix Band Anatomic Mini (By Piece)",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Matrice dentaire mini, à la pièce en acier inoxydable, pour reconstituer les faces proximales lors des obturations composite/amalgame.",
+    "description": "Anatomic matrix band, model mini, by piece, in stainless steel, for reproducing proximal surfaces during composite/amalgam fillings.",
     "image": "assets/products/disposable/matrice-anatomique-mini-by-piece.jpg"
   },
   {
@@ -3780,23 +3780,23 @@
     "name": "Suture 4.0 Silkam Non Absorbable 36 Pieces",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Suture Silkam non résorbable en soie, taille 4-0, boîte de 36 pièces, pour fermetures post-extraction.",
+    "description": "Silkam non-absorbable silk suture, size 4-0, box of 36, for post-extraction closures.",
     "image": "assets/products/disposable/suture-4-0-silkam-non-absorbable-36-pieces.jpg"
   },
   {
     "id": "matrice-anterieur-tr-1913-bte-de-20-pcs",
-    "name": "Matrice Anterieur Tr 1913 Bte De 20 Pcs",
+    "name": "Matrix Band Anterior TR 1913 (Box of 20)",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Matrice métallique anatomique (TR 1913, boîte de 20), utilisée pour redonner un point de contact naturel lors des obturations proximales.",
+    "description": "Anatomic stainless steel matrix band — TR 1913, box of 20, used to restore natural proximal contact during Class II fillings.",
     "image": "assets/products/disposable/matrice-anterieur-tr-1913-bte-de-20-pcs.jpg"
   },
   {
     "id": "porte-emprunte-pour-implant",
-    "name": "Porte Emprunte Pour Implant",
+    "name": "Impression Tray (Implant)",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Porte-empreinte spécifique implantaire, perforé, en acier inoxydable autoclavable.",
+    "description": "Implant-specific perforated impression tray, autoclavable stainless steel.",
     "image": "assets/products/disposable/porte-emprunte-pour-implant.jpg"
   },
   {
@@ -3804,7 +3804,7 @@
     "name": "Articulation Paper Bauch 200 Microns Box Of",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Papier à articuler fin et résistant, coloré recto-verso, 200 microns, boîte de recharge.",
+    "description": "Thin, tear-resistant articulating paper, coloured on both sides, 200 microns, refill box.",
     "image": "assets/products/disposable/articulation-paper-bauch-200-microns-box-of.jpg"
   },
   {
@@ -3812,15 +3812,15 @@
     "name": "Suture 3.0 Nylon Look",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Suture en nylon non résorbable, taille 3-0, pour la fermeture des tissus mous en chirurgie buccale.",
+    "description": "Non-absorbable nylon suture, size 3-0, for soft-tissue closure in oral surgery.",
     "image": "assets/products/disposable/suture-3-0-nylon-look.jpg"
   },
   {
     "id": "porte-emprunte-pedo",
-    "name": "Porte Emprunte Pedo",
+    "name": "Impression Tray (Pedo)",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Porte-empreinte pédodontique perforé, format réduit pour patients enfants, autoclavable.",
+    "description": "Pedodontic perforated impression tray, reduced size for child patients, autoclavable.",
     "image": "assets/products/disposable/porte-emprunte-pedo.jpg"
   },
   {
@@ -3889,7 +3889,7 @@
   },
   {
     "id": "in-godet-caoutchouc-l",
-    "name": "In Godet Caoutchouc L",
+    "name": "Rubber Dappen Dish (Large)",
     "category": "instrument",
     "categoryLabel": "Instruments",
     "description": "Flexible silicone/rubber dappen dish (large) used to hold and mix acrylic and other dental materials chairside.",
@@ -3897,7 +3897,7 @@
   },
   {
     "id": "in-godet-en-verre",
-    "name": "In Godet En Verre",
+    "name": "Glass Dappen Dish",
     "category": "instrument",
     "categoryLabel": "Instruments",
     "description": "Glass dappen dish with a smooth, non-porous mixing well used to hold dental cements and other materials during procedures.",
@@ -3905,7 +3905,7 @@
   },
   {
     "id": "in-kit-pour-rubber-dam",
-    "name": "In Kit Pour Rubber Dam",
+    "name": "Rubber Dam Kit",
     "category": "instrument",
     "categoryLabel": "Instruments",
     "description": "Complete rubber dam isolation kit including punch, forceps, plastic frame, rubber sheets and winged clamps for tooth isolation.",
@@ -3921,7 +3921,7 @@
   },
   {
     "id": "in-porte-lame",
-    "name": "In Porte Lame",
+    "name": "Scalpel Blade Handle",
     "category": "instrument",
     "categoryLabel": "Instruments",
     "description": "Reusable stainless steel scalpel blade handle (No. 3, straight, round 7mm) that accepts standard blade sizes 10, 11, 12 and 15.",
@@ -3929,7 +3929,7 @@
   },
   {
     "id": "in-porte-papier-articuler",
-    "name": "In Porte Papier Articuler",
+    "name": "Articulating Paper Forceps",
     "category": "instrument",
     "categoryLabel": "Instruments",
     "description": "Curved stainless steel forceps designed to hold articulating paper for marking occlusal contacts during bite checks.",
@@ -3937,26 +3937,26 @@
   },
   {
     "id": "in-seringue-anesthesie-1038",
-    "name": "In Seringue Anesthesie 1038",
+    "name": "Anesthesia Syringe 1038",
     "category": "instrument",
     "categoryLabel": "Instruments",
-    "description": "Seringue d'anesthésie métallique aspirante 1038, cran de sûreté à harpon, pour cartouches de 1.8ml.",
+    "description": "Metallic aspirating anesthesia syringe 1038, harpoon safety catch, for 1.8ml cartridges.",
     "image": "assets/products/instrument/in-seringue-anesthesie-1038.jpg"
   },
   {
     "id": "in-seringue-anesthesie-1040",
-    "name": "In Seringue Anesthesie 1040",
+    "name": "Anesthesia Syringe 1040",
     "category": "instrument",
     "categoryLabel": "Instruments",
-    "description": "Seringue à anesthésie métallique 1040 avec bague digitale, système aspirant pour cartouches dentaires 1.8ml.",
+    "description": "Metallic anesthesia syringe 1040 with finger ring, aspirating system for 1.8ml dental cartridges.",
     "image": "assets/products/instrument/in-seringue-anesthesie-1040.jpg"
   },
   {
     "id": "in-seringue-anesthesie-1041",
-    "name": "In Seringue Anesthesie 1041",
+    "name": "Anesthesia Syringe 1041",
     "category": "instrument",
     "categoryLabel": "Instruments",
-    "description": "Seringue métallique d'anesthésie 1041, piston à harpon anti-piqûre, format cartouche 1.8ml.",
+    "description": "Metallic anesthesia syringe 1041, harpoon plunger, needlestick-protective, 1.8ml cartridge format.",
     "image": "assets/products/instrument/in-seringue-anesthesie-1041.jpg"
   },
   {
@@ -3972,7 +3972,7 @@
     "name": "Sinus Lift Instrument",
     "category": "instrument",
     "categoryLabel": "Instruments",
-    "description": "Kit d'ostéotomes courbes utilisés pour condenser le greffon osseux lors des élévations de sinus.",
+    "description": "Kit of curved osteotomes used to condense bone graft material during sinus lift procedures.",
     "image": "assets/products/instrument/sinus-lift-instrument.jpg"
   },
   {
@@ -3985,7 +3985,7 @@
   },
   {
     "id": "gauge-reglette-de-reduction-0-10-till-0-50",
-    "name": "Gauge Reglette De Reduction 0.10 Till 0.50",
+    "name": "Reduction Gauge 0.10-0.50",
     "category": "instrument",
     "categoryLabel": "Instruments",
     "description": "Metal reduction gauge/caliper with graduated scale (0.10-0.50 range reference) used to check tooth reduction and material thickness.",
@@ -3996,12 +3996,12 @@
     "name": "In Periosteal Molt 422-7525",
     "category": "instrument",
     "categoryLabel": "Instruments",
-    "description": "Décolleur périosté Molt 422-7525, pour détacher le lambeau muco-périosté de l'os pendant la chirurgie orale.",
+    "description": "Molt periosteal elevator 422-7525, used to detach the mucoperiosteal flap from bone during oral surgery.",
     "image": "assets/products/instrument/in-periosteal-molt-422-7525.jpg"
   },
   {
     "id": "fraise-endo-z-mani",
-    "name": "Fraise Endo Z Mani",
+    "name": "Endo-Z Bur (Mani)",
     "category": "fraise",
     "categoryLabel": "Burs",
     "description": "Endo-Z access-cavity bur with six tungsten-carbide spiral blades and a non-cutting safety tip used to shape the pulp chamber and locate canal orifices.",
@@ -4009,7 +4009,7 @@
   },
   {
     "id": "fraise-acryl-carbide-piece-a-main",
-    "name": "Fraise Acryl Carbide Piece A Main",
+    "name": "Acrylic Carbide Bur (Straight Handpiece)",
     "category": "fraise",
     "categoryLabel": "Burs",
     "description": "Tungsten carbide acrylic trimmer bur for a straight handpiece, used to trim and adjust denture bases in the lab.",
@@ -4017,7 +4017,7 @@
   },
   {
     "id": "fraise-diamond-cut",
-    "name": "Fraise Diamond Cut",
+    "name": "Diamond Cut Bur",
     "category": "fraise",
     "categoryLabel": "Burs",
     "description": "Cross-cut, flat-end tungsten carbide FG airotor bur used for efficient tooth material removal and cavity preparation.",
@@ -4025,7 +4025,7 @@
   },
   {
     "id": "fraise-sswhite",
-    "name": "Fraise Sswhite",
+    "name": "SS White Bur",
     "category": "fraise",
     "categoryLabel": "Burs",
     "description": "SS White tungsten carbide taper/flat-end cross-cut fissure FG bur made in the USA for durable, precise cavity preparation.",
@@ -4033,7 +4033,7 @@
   },
   {
     "id": "fraise-transmetal",
-    "name": "Fraise Transmetal",
+    "name": "Transmetal Bur",
     "category": "fraise",
     "categoryLabel": "Burs",
     "description": "Transmetal tungsten carbide FG crown cutter bur for fast, precise removal of PFM, zirconia and metal crowns and bridges.",
@@ -4129,7 +4129,7 @@
   },
   {
     "id": "hydroxide-de-calcium-pd-swiss",
-    "name": "Hydroxide De Calcium Pd Swiss",
+    "name": "Calcium Hydroxide PD Swiss",
     "category": "endo",
     "categoryLabel": "Endodontics",
     "description": "Calcium hydroxide intracanal medicament paste used as a temporary antibacterial root canal dressing.",
@@ -4297,7 +4297,7 @@
   },
   {
     "id": "hfile-mani-20-31-jaune",
-    "name": "Hfile Mani 20-31 Jaune",
+    "name": "Hfile Mani 20-31 Yellow",
     "category": "endo",
     "categoryLabel": "Endodontics",
     "description": "Mani H-Files 31mm, color-coded yellow (size 20), used for hand shaping and debris removal in root canals.",
@@ -4305,7 +4305,7 @@
   },
   {
     "id": "hfiles-mani-8-21-gris",
-    "name": "Hfiles Mani 8-21 Gris",
+    "name": "Hfiles Mani 8-21 Grey",
     "category": "endo",
     "categoryLabel": "Endodontics",
     "description": "Mani H-Files 21mm, color-coded grey (size 8), used for canal negotiation and shaping.",
@@ -4313,7 +4313,7 @@
   },
   {
     "id": "hfiles-mani-15-25-blanc",
-    "name": "Hfiles Mani 15-25 Blanc",
+    "name": "Hfiles Mani 15-25 White",
     "category": "endo",
     "categoryLabel": "Endodontics",
     "description": "Mani H-Files 25mm, color-coded white (size 15), for hand instrumentation of root canals.",
@@ -4321,7 +4321,7 @@
   },
   {
     "id": "hfiles-mani-20-25-jaune",
-    "name": "Hfiles Mani 20-25 Jaune",
+    "name": "Hfiles Mani 20-25 Yellow",
     "category": "endo",
     "categoryLabel": "Endodontics",
     "description": "Mani H-Files 25mm, color-coded yellow (size 20), used for shaping and debris removal.",
@@ -4337,7 +4337,7 @@
   },
   {
     "id": "hfiles-vdeya-25-25-rouge",
-    "name": "Hfiles Vdeya 25-25 Rouge",
+    "name": "Hfiles Vdeya 25-25 Red",
     "category": "endo",
     "categoryLabel": "Endodontics",
     "description": "Stainless steel hand H-Files 25mm, color-coded red (size 25), for root canal instrumentation.",
@@ -4345,7 +4345,7 @@
   },
   {
     "id": "hfiles-vdeya-30-25-bleu",
-    "name": "Hfiles Vdeya 30-25 Bleu",
+    "name": "Hfiles Vdeya 30-25 Blue",
     "category": "endo",
     "categoryLabel": "Endodontics",
     "description": "Stainless steel hand H-Files 25mm, color-coded blue (size 30), for root canal shaping.",
@@ -4361,7 +4361,7 @@
   },
   {
     "id": "anypex-hydroxide-de-calcium-with-iodoform",
-    "name": "Anypex Hydroxide De Calcium With Iodoform",
+    "name": "Anypex Calcium Hydroxide With Iodoform",
     "category": "endo",
     "categoryLabel": "Endodontics",
     "description": "Premixed calcium hydroxide-iodoform paste for antibacterial intracanal dressing and pediatric root filling.",
@@ -4385,7 +4385,7 @@
   },
   {
     "id": "kfile-mani-06-25-rose",
-    "name": "Kfile Mani 06-25 Rose",
+    "name": "Kfile Mani 06-25 Pink",
     "category": "endo",
     "categoryLabel": "Endodontics",
     "description": "Mani K-Files 25mm, color-coded pink (size 06), used for fine canal negotiation.",
@@ -4401,7 +4401,7 @@
   },
   {
     "id": "kfiles-mani-8-31-gris",
-    "name": "Kfiles Mani 8-31 Gris",
+    "name": "Kfiles Mani 8-31 Grey",
     "category": "endo",
     "categoryLabel": "Endodontics",
     "description": "Mani K-Files 31mm, color-coded grey (size 8), for hand root canal instrumentation.",
@@ -4409,7 +4409,7 @@
   },
   {
     "id": "kfiles-mani-15-21-blanc",
-    "name": "Kfiles Mani 15-21 Blanc",
+    "name": "Kfiles Mani 15-21 White",
     "category": "endo",
     "categoryLabel": "Endodontics",
     "description": "Mani K-Files 21mm, color-coded white (size 15), for canal preparation.",
@@ -4417,7 +4417,7 @@
   },
   {
     "id": "kfiles-mani-20-21-jaune",
-    "name": "Kfiles Mani 20-21 Jaune",
+    "name": "Kfiles Mani 20-21 Yellow",
     "category": "endo",
     "categoryLabel": "Endodontics",
     "description": "Mani K-Files 21mm, color-coded yellow (size 20), for hand root canal shaping.",
@@ -4425,7 +4425,7 @@
   },
   {
     "id": "kfiles-mani-30-21-bleu",
-    "name": "Kfiles Mani 30-21 Bleu",
+    "name": "Kfiles Mani 30-21 Blue",
     "category": "endo",
     "categoryLabel": "Endodontics",
     "description": "Mani K-Files 21mm, color-coded blue (size 30), for hand root canal shaping.",
@@ -4457,7 +4457,7 @@
   },
   {
     "id": "kfiles-vdeya-25-25-rouge",
-    "name": "Kfiles Vdeya 25-25 Rouge",
+    "name": "Kfiles Vdeya 25-25 Red",
     "category": "endo",
     "categoryLabel": "Endodontics",
     "description": "Stainless steel K-File 25mm, color-coded red (size 25), for root canal shaping.",
@@ -4513,10 +4513,10 @@
   },
   {
     "id": "mta-seringue-bio-c-repair",
-    "name": "Mta Seringue Bio-c Repair",
+    "name": "MTA Syringe Bio-C Repair",
     "category": "endo",
     "categoryLabel": "Endodontics",
-    "description": "Bioceramic repair cement in syringe form used for perforation repair and root-end filling.",
+    "description": "Bioceramic repair cement in syringe form, used for perforation repair and root-end filling.",
     "image": "assets/products/endo/mta-seringue-bio-c-repair.jpg"
   },
   {
@@ -4649,7 +4649,7 @@
   },
   {
     "id": "rotary-files-35-06-vert-gold",
-    "name": "Rotary Files 35-06 Vert Gold",
+    "name": "Rotary Files 35-06 Green Gold",
     "category": "endo",
     "categoryLabel": "Endodontics",
     "description": "Gold heat-treated NiTi rotary file, 06 taper size 35, color-coded green, for canal shaping.",
@@ -4657,7 +4657,7 @@
   },
   {
     "id": "rotary-files-15-06-blanc",
-    "name": "Rotary Files 15-06 Blanc",
+    "name": "Rotary Files 15-06 White",
     "category": "endo",
     "categoryLabel": "Endodontics",
     "description": "NiTi rotary file, 06 taper size 15, color-coded white, for canal shaping.",
@@ -4665,7 +4665,7 @@
   },
   {
     "id": "rotary-files-20-04-jaune",
-    "name": "Rotary Files 20-04 Jaune",
+    "name": "Rotary Files 20-04 Yellow",
     "category": "endo",
     "categoryLabel": "Endodontics",
     "description": "NiTi rotary file, 04 taper size 20, color-coded yellow, for canal shaping.",
@@ -4673,7 +4673,7 @@
   },
   {
     "id": "rotary-files-25-06-rouge-blue",
-    "name": "Rotary Files 25-06 Rouge (Blue)",
+    "name": "Rotary Files 25-06 Red (Blue)",
     "category": "endo",
     "categoryLabel": "Endodontics",
     "description": "NiTi rotary file, 06 taper size 25, color-coded red, for mechanized canal preparation.",
@@ -4681,7 +4681,7 @@
   },
   {
     "id": "rotary-files-30-04-bleu",
-    "name": "Rotary Files 30-04 Bleu",
+    "name": "Rotary Files 30-04 Blue",
     "category": "endo",
     "categoryLabel": "Endodontics",
     "description": "NiTi rotary file, 04 taper size 30, color-coded blue, for canal shaping.",
@@ -4689,7 +4689,7 @@
   },
   {
     "id": "rotary-files-40-06-noir",
-    "name": "Rotary Files 40-06 Noir",
+    "name": "Rotary Files 40-06 Black",
     "category": "endo",
     "categoryLabel": "Endodontics",
     "description": "NiTi rotary file, 06 taper size 40, color-coded black, for apical enlargement of wider canals.",
@@ -4721,7 +4721,7 @@
   },
   {
     "id": "spreaders-15-blanc",
-    "name": "Spreaders #15 Blanc",
+    "name": "Spreaders #15 White",
     "category": "endo",
     "categoryLabel": "Endodontics",
     "description": "Mani finger spreader, size 15, color-coded white, used for lateral condensation of gutta percha.",
@@ -4729,7 +4729,7 @@
   },
   {
     "id": "spreaders-25-rouge",
-    "name": "Spreaders #25 Rouge",
+    "name": "Spreaders #25 Red",
     "category": "endo",
     "categoryLabel": "Endodontics",
     "description": "Mani finger spreader, size 25, color-coded red, used for lateral condensation of gutta percha.",
@@ -4737,7 +4737,7 @@
   },
   {
     "id": "spreaders-30-bleu",
-    "name": "Spreaders #30 Bleu",
+    "name": "Spreaders #30 Blue",
     "category": "endo",
     "categoryLabel": "Endodontics",
     "description": "Mani finger spreader, size 30, color-coded blue, used for lateral condensation of gutta percha.",
@@ -4745,7 +4745,7 @@
   },
   {
     "id": "spreaders-35-vert",
-    "name": "Spreaders #35 Vert",
+    "name": "Spreaders #35 Green",
     "category": "endo",
     "categoryLabel": "Endodontics",
     "description": "Mani finger spreader, size 35, color-coded green, used for lateral condensation of gutta percha.",
@@ -4825,7 +4825,7 @@
   },
   {
     "id": "boite-a-lime-endo-cotton",
-    "name": "Boite A Lime Endo + Cotton",
+    "name": "Endo File Box + Cotton",
     "category": "endo",
     "categoryLabel": "Endodontics",
     "description": "Autoclavable endo file box with cotton insert for organized storage and sterilization of endodontic files.",
@@ -4873,7 +4873,7 @@
   },
   {
     "id": "ortho-coin-de-rotation",
-    "name": "Ortho Coin De Rotation",
+    "name": "Orthodontic Rotation Wedge",
     "category": "ortho",
     "categoryLabel": "Orthodontics",
     "description": "Orthodontic rotation wedges (coin de rotation) are elastomeric auxiliaries placed between the archwire and bracket to help correct tooth rotation during fixed appliance treatment.",
@@ -4889,7 +4889,7 @@
   },
   {
     "id": "clinpro-sealant-seringue",
-    "name": "Clinpro Sealant Seringue",
+    "name": "Clinpro Sealant Syringe",
     "category": "prevention",
     "categoryLabel": "Prevention",
     "description": "3M Clinpro Sealant is a fluoride-releasing, light-cure pit and fissure sealant delivered in a low-viscosity syringe that flows easily into grooves and changes from pink to white as it cures.",
@@ -5049,26 +5049,26 @@
   },
   {
     "id": "disk-soflex-tor-1020",
-    "name": "Disk Soflex Tor 1020",
+    "name": "Disk Sof-Lex TOR 1020",
     "category": "polishing",
     "categoryLabel": "Polishing",
-    "description": "Kit de disques de finition TOR VM, montés sur mandrin, série de grains du plus gros au plus fin pour le polissage composite.",
+    "description": "TOR VM finishing disc kit, mounted on a mandrel, graded from coarse to fine for composite polishing.",
     "image": "assets/products/polishing/disk-soflex-tor-1020.jpg"
   },
   {
     "id": "disk-soflex-tor-1071",
-    "name": "Disk Soflex Tor 1071",
+    "name": "Disk Sof-Lex TOR 1071",
     "category": "polishing",
     "categoryLabel": "Polishing",
-    "description": "Disques flexibles TOR VM avec mandrin, progression de grains pour la finition des restaurations composites.",
+    "description": "TOR VM flexible discs with mandrel, graded grit progression for finishing composite restorations.",
     "image": "assets/products/polishing/disk-soflex-tor-1071.jpg"
   },
   {
     "id": "disk-soflex-tor-1075",
-    "name": "Disk Soflex Tor 1075",
+    "name": "Disk Sof-Lex TOR 1075",
     "category": "polishing",
     "categoryLabel": "Polishing",
-    "description": "Set de disques polissage TOR VM sur mandrin, du grain gros au superfin, pour finir les obturations composite.",
+    "description": "TOR VM polishing disc set on a mandrel, coarse to superfine, for finishing composite fillings.",
     "image": "assets/products/polishing/disk-soflex-tor-1075.jpg"
   },
   {
@@ -5092,7 +5092,7 @@
     "name": "Soflex 8690c",
     "category": "polishing",
     "categoryLabel": "Polishing",
-    "description": "Disque de polissage 3M Sof-Lex 8690, grain coarse (gros grain), monté sur mandrin pop-on pour contourer et polir composites, compomères et restaurations métalliques.",
+    "description": "3M Sof-Lex 8690 polishing disc, coarse grit, mounted on a pop-on mandrel to contour and polish composites, compomers and metal restorations.",
     "image": "assets/products/polishing/soflex-8690c.jpg"
   },
   {
@@ -5100,7 +5100,7 @@
     "name": "Soflex 8691c",
     "category": "polishing",
     "categoryLabel": "Polishing",
-    "description": "Disque de polissage 3M Sof-Lex 8691, grain coarse (gros grain), monté sur mandrin pop-on pour contourer et polir composites, compomères et restaurations métalliques.",
+    "description": "3M Sof-Lex 8691 polishing disc, coarse grit, mounted on a pop-on mandrel to contour and polish composites, compomers and metal restorations.",
     "image": "assets/products/polishing/soflex-8691c.jpg"
   },
   {
@@ -5108,7 +5108,7 @@
     "name": "Soflex 8692c",
     "category": "polishing",
     "categoryLabel": "Polishing",
-    "description": "Disque de polissage 3M Sof-Lex 8692, grain coarse (gros grain), monté sur mandrin pop-on pour contourer et polir composites, compomères et restaurations métalliques.",
+    "description": "3M Sof-Lex 8692 polishing disc, coarse grit, mounted on a pop-on mandrel to contour and polish composites, compomers and metal restorations.",
     "image": "assets/products/polishing/soflex-8692c.jpg"
   },
   {
@@ -5116,7 +5116,7 @@
     "name": "Soflex 8693c",
     "category": "polishing",
     "categoryLabel": "Polishing",
-    "description": "Disque de polissage 3M Sof-Lex 8693, grain coarse (gros grain), monté sur mandrin pop-on pour contourer et polir composites, compomères et restaurations métalliques.",
+    "description": "3M Sof-Lex 8693 polishing disc, coarse grit, mounted on a pop-on mandrel to contour and polish composites, compomers and metal restorations.",
     "image": "assets/products/polishing/soflex-8693c.jpg"
   },
   {
@@ -5124,7 +5124,7 @@
     "name": "Soflex 8690f",
     "category": "polishing",
     "categoryLabel": "Polishing",
-    "description": "Disque de polissage 3M Sof-Lex 8690, grain fine, monté sur mandrin pop-on pour contourer et polir composites, compomères et restaurations métalliques.",
+    "description": "3M Sof-Lex 8690 polishing disc, fine grit, mounted on a pop-on mandrel to contour and polish composites, compomers and metal restorations.",
     "image": "assets/products/polishing/soflex-8690f.jpg"
   },
   {
@@ -5132,7 +5132,7 @@
     "name": "Soflex 8691f",
     "category": "polishing",
     "categoryLabel": "Polishing",
-    "description": "Disque de polissage 3M Sof-Lex 8691, grain fine, monté sur mandrin pop-on pour contourer et polir composites, compomères et restaurations métalliques.",
+    "description": "3M Sof-Lex 8691 polishing disc, fine grit, mounted on a pop-on mandrel to contour and polish composites, compomers and metal restorations.",
     "image": "assets/products/polishing/soflex-8691f.jpg"
   },
   {
@@ -5140,7 +5140,7 @@
     "name": "Soflex 8692f",
     "category": "polishing",
     "categoryLabel": "Polishing",
-    "description": "Disque de polissage 3M Sof-Lex 8692, grain fine, monté sur mandrin pop-on pour contourer et polir composites, compomères et restaurations métalliques.",
+    "description": "3M Sof-Lex 8692 polishing disc, fine grit, mounted on a pop-on mandrel to contour and polish composites, compomers and metal restorations.",
     "image": "assets/products/polishing/soflex-8692f.jpg"
   },
   {
@@ -5148,7 +5148,7 @@
     "name": "Soflex 8693f",
     "category": "polishing",
     "categoryLabel": "Polishing",
-    "description": "Disque de polissage 3M Sof-Lex 8693, grain fine, monté sur mandrin pop-on pour contourer et polir composites, compomères et restaurations métalliques.",
+    "description": "3M Sof-Lex 8693 polishing disc, fine grit, mounted on a pop-on mandrel to contour and polish composites, compomers and metal restorations.",
     "image": "assets/products/polishing/soflex-8693f.jpg"
   },
   {
@@ -5156,7 +5156,7 @@
     "name": "Soflex 8690m",
     "category": "polishing",
     "categoryLabel": "Polishing",
-    "description": "Disque de polissage 3M Sof-Lex 8690, grain medium, monté sur mandrin pop-on pour contourer et polir composites, compomères et restaurations métalliques.",
+    "description": "3M Sof-Lex 8690 polishing disc, medium grit, mounted on a pop-on mandrel to contour and polish composites, compomers and metal restorations.",
     "image": "assets/products/polishing/soflex-8690m.jpg"
   },
   {
@@ -5164,7 +5164,7 @@
     "name": "Soflex 8691m",
     "category": "polishing",
     "categoryLabel": "Polishing",
-    "description": "Disque de polissage 3M Sof-Lex 8691, grain medium, monté sur mandrin pop-on pour contourer et polir composites, compomères et restaurations métalliques.",
+    "description": "3M Sof-Lex 8691 polishing disc, medium grit, mounted on a pop-on mandrel to contour and polish composites, compomers and metal restorations.",
     "image": "assets/products/polishing/soflex-8691m.jpg"
   },
   {
@@ -5172,7 +5172,7 @@
     "name": "Soflex 8692m",
     "category": "polishing",
     "categoryLabel": "Polishing",
-    "description": "Disque de polissage 3M Sof-Lex 8692, grain medium, monté sur mandrin pop-on pour contourer et polir composites, compomères et restaurations métalliques.",
+    "description": "3M Sof-Lex 8692 polishing disc, medium grit, mounted on a pop-on mandrel to contour and polish composites, compomers and metal restorations.",
     "image": "assets/products/polishing/soflex-8692m.jpg"
   },
   {
@@ -5180,7 +5180,7 @@
     "name": "Soflex 8693m",
     "category": "polishing",
     "categoryLabel": "Polishing",
-    "description": "Disque de polissage 3M Sof-Lex 8693, grain medium, monté sur mandrin pop-on pour contourer et polir composites, compomères et restaurations métalliques.",
+    "description": "3M Sof-Lex 8693 polishing disc, medium grit, mounted on a pop-on mandrel to contour and polish composites, compomers and metal restorations.",
     "image": "assets/products/polishing/soflex-8693m.jpg"
   },
   {
@@ -5188,7 +5188,7 @@
     "name": "Soflex 8690sf",
     "category": "polishing",
     "categoryLabel": "Polishing",
-    "description": "Disque de polissage 3M Sof-Lex 8690, grain superfine (extra-fin), monté sur mandrin pop-on pour contourer et polir composites, compomères et restaurations métalliques.",
+    "description": "3M Sof-Lex 8690 polishing disc, superfine grit, mounted on a pop-on mandrel to contour and polish composites, compomers and metal restorations.",
     "image": "assets/products/polishing/soflex-8690sf.jpg"
   },
   {
@@ -5196,7 +5196,7 @@
     "name": "Soflex 8691sf",
     "category": "polishing",
     "categoryLabel": "Polishing",
-    "description": "Disque de polissage 3M Sof-Lex 8691, grain superfine (extra-fin), monté sur mandrin pop-on pour contourer et polir composites, compomères et restaurations métalliques.",
+    "description": "3M Sof-Lex 8691 polishing disc, superfine grit, mounted on a pop-on mandrel to contour and polish composites, compomers and metal restorations.",
     "image": "assets/products/polishing/soflex-8691sf.jpg"
   },
   {
@@ -5204,7 +5204,7 @@
     "name": "Soflex 8692sf",
     "category": "polishing",
     "categoryLabel": "Polishing",
-    "description": "Disque de polissage 3M Sof-Lex 8692, grain superfine (extra-fin), monté sur mandrin pop-on pour contourer et polir composites, compomères et restaurations métalliques.",
+    "description": "3M Sof-Lex 8692 polishing disc, superfine grit, mounted on a pop-on mandrel to contour and polish composites, compomers and metal restorations.",
     "image": "assets/products/polishing/soflex-8692sf.jpg"
   },
   {
@@ -5212,7 +5212,7 @@
     "name": "Soflex 8693sf",
     "category": "polishing",
     "categoryLabel": "Polishing",
-    "description": "Disque de polissage 3M Sof-Lex 8693, grain superfine (extra-fin), monté sur mandrin pop-on pour contourer et polir composites, compomères et restaurations métalliques.",
+    "description": "3M Sof-Lex 8693 polishing disc, superfine grit, mounted on a pop-on mandrel to contour and polish composites, compomers and metal restorations.",
     "image": "assets/products/polishing/soflex-8693sf.jpg"
   },
   {
@@ -5225,26 +5225,26 @@
   },
   {
     "id": "disc-soflex-tor-1620",
-    "name": "Disc Soflex Tor 1620",
+    "name": "Disc Sof-Lex TOR 1620",
     "category": "polishing",
     "categoryLabel": "Polishing",
-    "description": "Disques de polissage TOR VM montés sur mandrin, gamme de grains pour lisser progressivement les restaurations composites.",
+    "description": "TOR VM polishing discs on a mandrel, graded grits to progressively smooth composite restorations.",
     "image": "assets/products/polishing/disc-soflex-tor-1620.jpg"
   },
   {
     "id": "soflex-ch-refill-1630",
-    "name": "Soflex Ch Refill 1630",
+    "name": "Sof-Lex CH Refill 1630",
     "category": "polishing",
     "categoryLabel": "Polishing",
-    "description": "Recharge de disques de polissage TOR VM (grains gradués), pour porte-disque CH.",
+    "description": "TOR VM polishing disc refill (graded grits), for the CH disc holder.",
     "image": "assets/products/polishing/soflex-ch-refill-1630.jpg"
   },
   {
     "id": "soflex-ch-refill-1631",
-    "name": "Soflex Ch Refill 1631",
+    "name": "Sof-Lex CH Refill 1631",
     "category": "polishing",
     "categoryLabel": "Polishing",
-    "description": "Recharge de disques TOR VM grains gradués, compatible porte-disque CH, pour la finition composite.",
+    "description": "TOR VM graded-grit disc refill, compatible with the CH disc holder, for composite finishing.",
     "image": "assets/products/polishing/soflex-ch-refill-1631.jpg"
   },
   {
@@ -5260,7 +5260,7 @@
     "name": "Super Snap Shofu",
     "category": "polishing",
     "categoryLabel": "Polishing",
-    "description": "Disques de finition et polissage Shofu Super-Snap, double face codée couleur, mandrin sans métal pour l'accès interproximal.",
+    "description": "Shofu Super-Snap finishing and polishing discs, double-sided colour-coded, metal-free mandrel for interproximal access.",
     "image": "assets/products/polishing/super-snap-shofu.jpg"
   },
   {
@@ -5297,7 +5297,7 @@
   },
   {
     "id": "contre-angle-bague-rouge-lumiere-et-eau",
-    "name": "Contre Angle Bague Rouge + Lumiere Et Eau",
+    "name": "Contra-Angle Handpiece (Red Ring, Light and Water)",
     "category": "machine",
     "categoryLabel": "Equipment",
     "description": "Fiber-optic contra-angle handpiece (red ring, 1:5 speed increasing) with built-in LED light and water spray, used for high-speed finishing procedures.",
@@ -5305,7 +5305,7 @@
   },
   {
     "id": "contre-angle-bleu",
-    "name": "Contre Angle Bleu",
+    "name": "Contra-Angle Handpiece (Blue)",
     "category": "machine",
     "categoryLabel": "Equipment",
     "description": "Apple Dental blue contra-angle handpiece, low-vibration attachment compatible with standard micromotors for restorative and prophy procedures.",
@@ -5321,7 +5321,7 @@
   },
   {
     "id": "contre-angle-pour-implant-avec-fiber",
-    "name": "Contre Angle Pour Implant Avec Fiber",
+    "name": "Contra-Angle Handpiece for Implant (Fiber Optic)",
     "category": "machine",
     "categoryLabel": "Equipment",
     "description": "NSK SG20M implant contra-angle handpiece with fiber optic illumination and internal water spray, used for implant surgery.",
@@ -5369,10 +5369,10 @@
   },
   {
     "id": "piece-a-main-bleu",
-    "name": "Piece A Main Bleu",
+    "name": "Handpiece (Blue)",
     "category": "machine",
     "categoryLabel": "Equipment",
-    "description": "Contre-angle bleu Apple Dental, faible vibration, compatible avec les micromoteurs standards, pour la restauration et la prophylaxie.",
+    "description": "Blue Apple Dental contra-angle, low vibration, compatible with standard micromotors, for restorative and prophylaxis work.",
     "image": "assets/products/machine/piece-a-main-bleu.jpg"
   },
   {
@@ -5393,7 +5393,7 @@
   },
   {
     "id": "tete-de-lumiere-bleu",
-    "name": "Tete De Lumiere Bleu",
+    "name": "Curing Light Head (Blue)",
     "category": "machine",
     "categoryLabel": "Equipment",
     "description": "Blue LED curing light head/probe used to deliver polymerizing light onto composite restorations.",
