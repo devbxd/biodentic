@@ -1575,132 +1575,6 @@
   "imageIsRepresentative": true
  },
  {
-  "id": "bur-aq",
-  "name": "Bur AQ",
-  "brand": "",
-  "category": "fraise",
-  "categoryLabel": "Burs",
-  "description": "Rotary dental bur.",
-  "image": "assets/products/fraise/bur-endo-z.jpg",
-  "variants": [
-   "AQ12B Korean",
-   "AQ12C Korean"
-  ],
-  "imageIsRepresentative": true
- },
- {
-  "id": "bur-br",
-  "name": "Bur BR",
-  "brand": "",
-  "category": "fraise",
-  "categoryLabel": "Burs",
-  "description": "Rotary dental bur.",
-  "image": "assets/products/fraise/bur-carbide-boule-contre-angle.png",
-  "variants": [
-   "BR31 Korean",
-   "BR40 Korean",
-   "BR41B Korean",
-   "BR41B TR"
-  ],
-  "imageIsRepresentative": true
- },
- {
-  "id": "bur-fg",
-  "name": "Bur FG",
-  "brand": "",
-  "category": "fraise",
-  "categoryLabel": "Burs",
-  "description": "Rotary dental bur.",
-  "image": "assets/products/fraise/bur-chirurgicale.jpg",
-  "variants": [
-   "FG021 TR",
-   "FG023 TR"
-  ],
-  "imageIsRepresentative": true
- },
- {
-  "id": "bur-fo",
-  "name": "Bur FO",
-  "brand": "",
-  "category": "fraise",
-  "categoryLabel": "Burs",
-  "description": "Rotary dental bur.",
-  "image": "assets/products/fraise/stainless-steel-burs.jpg",
-  "variants": [
-   "FO29 Korean",
-   "FO32 Korean"
-  ],
-  "imageIsRepresentative": true
- },
- {
-  "id": "bur-sf",
-  "name": "Bur SF",
-  "brand": "",
-  "category": "fraise",
-  "categoryLabel": "Burs",
-  "description": "Rotary dental bur.",
-  "image": "assets/products/fraise/bur-zekria.jpg",
-  "variants": [
-   "SF12 Korean",
-   "SF21B TR",
-   "SF31B TR",
-   "SF41B TR"
-  ],
-  "imageIsRepresentative": true
- },
- {
-  "id": "bur-tc",
-  "name": "Bur TC",
-  "brand": "",
-  "category": "fraise",
-  "categoryLabel": "Burs",
-  "description": "Rotary dental bur.",
-  "image": "assets/products/fraise/bur-acryl.jpg",
-  "variants": [
-   "TC09B TR",
-   "TC10B TR",
-   "Tc11ef",
-   "Tc11ef TR"
-  ],
-  "imageIsRepresentative": true
- },
- {
-  "id": "bur-tf",
-  "name": "Bur TF",
-  "brand": "",
-  "category": "fraise",
-  "categoryLabel": "Burs",
-  "description": "Rotary dental bur.",
-  "image": "assets/products/fraise/bur-mani.jpg",
-  "variants": [
-   "TF12 Korean",
-   "TF12B Korean",
-   "TF12C Korean",
-   "TF13C Korean",
-   "TF13C TR",
-   "TF21F",
-   "Tf11sc"
-  ],
-  "imageIsRepresentative": true
- },
- {
-  "id": "bur-tr",
-  "name": "Bur TR",
-  "brand": "",
-  "category": "fraise",
-  "categoryLabel": "Burs",
-  "description": "Rotary dental bur.",
-  "image": "assets/products/fraise/lime-a-os-miller.jpg",
-  "variants": [
-   "TR12 Korean",
-   "TR12B Korean",
-   "TR12C Korean",
-   "TR13 Korean",
-   "Tr11ef TR"
-  ],
-  "imageIsRepresentative": true
- },
- {
   "id": "lime-a-os-miller",
   "name": "Lime A Os Miller",
   "brand": "",
@@ -8229,5 +8103,47 @@
   "variants": [
    "Periotome"
   ]
+ },
+ {
+  "id": "bur-assorted-shapes",
+  "name": "Bur (Assorted Shapes)",
+  "brand": "",
+  "category": "fraise",
+  "categoryLabel": "Burs",
+  "description": "Rotary dental bur.",
+  "image": "assets/products/fraise/bur-mani.jpg",
+  "variants": [
+   "AQ12B Korean",
+   "AQ12C Korean",
+   "BR31 Korean",
+   "BR40 Korean",
+   "BR41B Korean",
+   "BR41B TR",
+   "FG021 TR",
+   "FG023 TR",
+   "FO29 Korean",
+   "FO32 Korean",
+   "SF12 Korean",
+   "SF21B TR",
+   "SF31B TR",
+   "SF41B TR",
+   "TC09B TR",
+   "TC10B TR",
+   "TF12 Korean",
+   "TF12B Korean",
+   "TF12C Korean",
+   "TF13C Korean",
+   "TF13C TR",
+   "TF21F",
+   "TR12 Korean",
+   "TR12B Korean",
+   "TR12C Korean",
+   "TR13 Korean",
+   "Tc11ef",
+   "Tc11ef TR",
+   "Tf11sc",
+   "Tr11ef TR"
+  ],
+  "imageIsRepresentative": true
  }
 ]
