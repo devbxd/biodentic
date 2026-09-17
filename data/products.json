@@ -733,7 +733,7 @@
     "category": "disposable",
     "categoryLabel": "Disposables",
     "description": "Conteneur à objets tranchants, boîte jaune standard.",
-    "image": "assets/products/disposable/yellow-box-ref.png"
+    "image": "assets/products/disposable/yellow-box-plain.png"
   },
   {
     "id": "purewhite-35-whitening-tube",
@@ -5526,5 +5526,269 @@
     "categoryLabel": "Equipment",
     "description": "Woodpecker LED-D cordless LED curing light used to polymerize light-cure composite and adhesive dental materials.",
     "image": "assets/products/machine/light-cure-blue.jpg"
+  },
+  {
+    "id": "3m-1370-z250",
+    "name": "3m-1370 Z250",
+    "category": "restorative",
+    "categoryLabel": "Restorative",
+    "description": "3M ESPE Filtek Z250 XT is a radiopaque, visible-light cured universal nanohybrid restorative composite offering excellent sculptability and wear resistance.",
+    "image": "assets/products/restorative/3m-1370-z250.jpg"
+  },
+  {
+    "id": "3m-z350xt",
+    "name": "3m-z350xt",
+    "category": "restorative",
+    "categoryLabel": "Restorative",
+    "description": "3M ESPE Filtek Z350 XT Universal Restorative is a nanofilled composite offering unsurpassed esthetics, strength, and polish retention for anterior and posterior restorations.",
+    "image": "assets/products/restorative/3m-z350xt.jpg"
+  },
+  {
+    "id": "composite-bulk-tetric",
+    "name": "Composite Bulk Tetric",
+    "category": "restorative",
+    "categoryLabel": "Restorative",
+    "description": "Ivoclar Tetric N-Ceram Bulk Fill is a light-curing composite with Ivocerin technology enabling single-layer posterior restorations up to 4mm with minimal shrinkage.",
+    "image": "assets/products/restorative/composite-bulk-tetric.jpg"
+  },
+  {
+    "id": "amalgam",
+    "name": "Amalgam",
+    "category": "restorative",
+    "categoryLabel": "Restorative",
+    "description": "SDI Permite dental amalgam capsules offer high compressive strength, low microleakage, and excellent margin adaptation with extended carving time.",
+    "image": "assets/products/restorative/amalgam.jpg"
+  },
+  {
+    "id": "charisma-kit",
+    "name": "Charisma KIT",
+    "category": "restorative",
+    "categoryLabel": "Restorative",
+    "description": "Kulzer Charisma Classic Composite Restorative Kit with Gluma Bond Universal combines a microglass-filled composite with a universal bonding agent for anterior and posterior restorations.",
+    "image": "assets/products/restorative/charisma-kit.jpeg"
+  },
+  {
+    "id": "composite-charisma-a1-a2-a3",
+    "name": "Composite Charisma A1 A2 A3",
+    "category": "restorative",
+    "categoryLabel": "Restorative",
+    "description": "Kulzer Charisma Classic composite resin with microglass filler technology offers good handling, precise placement, and durable wear resistance in multiple VITA shades.",
+    "image": "assets/products/restorative/composite-charisma-a1-a2-a3.jpeg"
+  },
+  {
+    "id": "composite-denfill-a1-a2-a3-a3-5-b1",
+    "name": "Composite Denfill A1 A2 A3 A3.5 B1",
+    "category": "restorative",
+    "categoryLabel": "Restorative",
+    "description": "Vericom DenFil light-cure micro-hybrid composite resin for posterior and anterior restorations, with high filler loading for low shrinkage and excellent marginal sealing.",
+    "image": "assets/products/restorative/composite-denfill-a1-a2-a3-a3-5-b1.jpg"
+  },
+  {
+    "id": "composite-diafil",
+    "name": "Composite Diafil",
+    "category": "restorative",
+    "categoryLabel": "Restorative",
+    "description": "DiaDent DiaFil is a light-cured nanohybrid composite combining the esthetics of micro-filled composites with the strength of hybrids, available in 12 shades.",
+    "image": "assets/products/restorative/composite-diafil.jpg"
+  },
+  {
+    "id": "composite-omnichroma",
+    "name": "Composite Omnichroma",
+    "category": "restorative",
+    "categoryLabel": "Restorative",
+    "description": "Tokuyama Omnichroma is a universal single-shade composite using structural color technology to match all 16 VITA classical shades from A1 to D4.",
+    "image": "assets/products/restorative/composite-omnichroma.jpg"
+  },
+  {
+    "id": "composite-shofu-ls-a1-a2-a3-b2",
+    "name": "Composite Shofu LS A1 A2 A3 B2",
+    "category": "restorative",
+    "categoryLabel": "Restorative",
+    "description": "Shofu Beautifil II LS is a stackable, non-sticky universal composite with S-PRG Giomer technology for fluoride release/recharge, suitable for all restoration classes.",
+    "image": "assets/products/restorative/composite-shofu-ls-a1-a2-a3-b2.png"
+  },
+  {
+    "id": "core-build-up-vericom",
+    "name": "Core Build Up Vericom",
+    "category": "restorative",
+    "categoryLabel": "Restorative",
+    "description": "Vericom Dual Core is a dual-cured (light + chemical), radiopaque core build-up material with strong compressive/flexural strength and thixotropic handling.",
+    "image": "assets/products/restorative/core-build-up-vericom.jpg"
+  },
+  {
+    "id": "dycal",
+    "name": "Dycal",
+    "category": "restorative",
+    "categoryLabel": "Restorative",
+    "description": "Dentsply Dycal is a radiopaque calcium hydroxide cavity liner used for direct and indirect pulp capping, stimulating reparative dentin formation.",
+    "image": "assets/products/restorative/dycal.jpg"
+  },
+  {
+    "id": "estelite-a1-a2-bw-we",
+    "name": "Estelite A1 A2 BW WE",
+    "category": "restorative",
+    "categoryLabel": "Restorative",
+    "description": "Tokuyama Estelite Sigma Quick is a supra-nano universal composite with 100% spherical fillers, quick 10-second cure, and exceptional polishability across 20 shades.",
+    "image": "assets/products/restorative/estelite-a1-a2-bw-we.jpg"
+  },
+  {
+    "id": "estelite-caps-a2-sigma-quick",
+    "name": "Estelite Caps A2 Sigma Quick",
+    "category": "restorative",
+    "categoryLabel": "Restorative",
+    "description": "Tokuyama Estelite Sigma Quick capsule delivery, a supra-nano filled composite with chameleon-effect shade blending and fast light-curing.",
+    "image": "assets/products/restorative/estelite-caps-a2-sigma-quick.jpg"
+  },
+  {
+    "id": "flow-ruby",
+    "name": "Flow Ruby",
+    "category": "restorative",
+    "categoryLabel": "Restorative",
+    "description": "RubyFlow is a microhybrid flowable light-cure radiopaque composite offering low shrinkage, low wear, and high-gloss polishability.",
+    "image": "assets/products/restorative/flow-ruby.png"
+  },
+  {
+    "id": "flow-itena",
+    "name": "Flow Itena",
+    "category": "restorative",
+    "categoryLabel": "Restorative",
+    "description": "Itena Reflectys Flow is a flowable composite with high resin content for low viscosity and better cavity wall adaptation, used for fissure sealing and small restorations.",
+    "image": "assets/products/restorative/flow-itena.jpg"
+  },
+  {
+    "id": "flow-mani",
+    "name": "Flow Mani",
+    "category": "restorative",
+    "categoryLabel": "Restorative",
+    "description": "Mani Flo V is a high-viscosity light-cure flowable composite with 77% inorganic filler content, high radiopacity, and BIS-GMA-free biocompatible formulation.",
+    "image": "assets/products/restorative/flow-mani.jpeg"
+  },
+  {
+    "id": "flow-shofu-plus-f00-f03-xbw",
+    "name": "Flow Shofu Plus F00 F03 XBW",
+    "category": "restorative",
+    "categoryLabel": "Restorative",
+    "description": "Shofu Beautifil Flow Plus F00 combines flowable application ease with the durability and esthetics of a moldable hybrid composite, ideal for sculpting fine anatomy.",
+    "image": "assets/products/restorative/flow-shofu-plus-f00-f03-xbw.png"
+  },
+  {
+    "id": "ionosit-base-it",
+    "name": "Ionosit Base It",
+    "category": "restorative",
+    "categoryLabel": "Restorative",
+    "description": "DMG Ionosit Baseliner is a light-cured base material that expands ~1% to counteract composite polymerization shrinkage, preventing marginal gaps and releasing fluoride/zinc ions.",
+    "image": "assets/products/restorative/ionosit-base-it.jpg"
+  },
+  {
+    "id": "irm-dentsply",
+    "name": "IRM Dentsply",
+    "category": "restorative",
+    "categoryLabel": "Restorative",
+    "description": "Dentsply IRM (Intermediate Restorative Material) is a polymer-reinforced zinc oxide-eugenol cement used for temporary restorations lasting up to one year.",
+    "image": "assets/products/restorative/irm-dentsply.jpg"
+  },
+  {
+    "id": "palfique-oa1-oa2-oa3",
+    "name": "Palfique OA1 OA2 OA3",
+    "category": "restorative",
+    "categoryLabel": "Restorative",
+    "description": "Tokuyama Palfique LX5 is a quick-cure composite with 82% silica-zirconia filler, RAP technology for fast curing, and high gloss retention across a wide shade range.",
+    "image": "assets/products/restorative/palfique-oa1-oa2-oa3.jpg"
+  },
+  {
+    "id": "snow-white-estelite",
+    "name": "Snow White Estelite",
+    "category": "restorative",
+    "categoryLabel": "Restorative",
+    "description": "Tokuyama Palfique Asteria composite resin with 82% filler content, RAP technology for 90-second curing, and 7 body/5 enamel shades for whitened/esthetic restorations.",
+    "image": "assets/products/restorative/snow-white-estelite.jpg"
+  },
+  {
+    "id": "z-primer",
+    "name": "Z-primer",
+    "category": "restorative",
+    "categoryLabel": "Restorative",
+    "description": "BISCO Z-Prime Plus is a single-component priming agent for bonding resin cements to zirconia, metal, and alumina substrates.",
+    "image": "assets/products/restorative/z-primer.jpg"
+  },
+  {
+    "id": "z250xt-a1-a2-a3-a3-5",
+    "name": "Z250xt A1 A2 A3 A3.5",
+    "category": "restorative",
+    "categoryLabel": "Restorative",
+    "description": "3M Filtek Z250 XT nanohybrid universal restorative composite, radiopaque and visible-light cured, available in multiple VITA shades including A1-A3.5.",
+    "image": "assets/products/restorative/z250xt-a1-a2-a3-a3-5.jpg"
+  },
+  {
+    "id": "bone-xenograft-2cc-1cc-0-5cc",
+    "name": "Bone Xenograft 2cc 1cc 0.5cc",
+    "category": "restorative",
+    "categoryLabel": "Restorative",
+    "description": "Botiss Cerabone bone xenograft granules are 100% pure bovine-origin bone mineral with a human-like bone structure and rough hydrophilic surface for volume stability, sold by DMS in Lebanon.",
+    "image": "assets/products/restorative/bone-xenograft-2cc-1cc-0-5cc.jpg"
+  },
+  {
+    "id": "membrane-25x25-10x10",
+    "name": "Membrane 25x25 10x10",
+    "category": "restorative",
+    "categoryLabel": "Restorative",
+    "description": "Botiss Collprotect Membrane is a native collagen membrane from porcine dermis used for dental bone and soft tissue regeneration, available in various sizes, distributed by DMS in Lebanon.",
+    "image": "assets/products/restorative/membrane-25x25-10x10.jpg"
+  },
+  {
+    "id": "composite-tetric-evoceram-blxl",
+    "name": "Composite Tetric Evoceram Blxl",
+    "category": "restorative",
+    "categoryLabel": "Restorative",
+    "description": "Ivoclar Tetric N-Ceram composite refill (Tetric family), a packable universal nano-hybrid with chameleon color-blending effect, available in bleach/extra-light (BL-XL) shade.",
+    "image": "assets/products/restorative/composite-tetric-evoceram-blxl.jpg"
+  },
+  {
+    "id": "flow-diafil",
+    "name": "Flow Diafil",
+    "category": "restorative",
+    "categoryLabel": "Restorative",
+    "description": "DiaDent DiaFil Flow is a light-cured radiopaque flowable composite resin with superior flow properties, good color matching, and reduced shrinkage, available in nine shades.",
+    "image": "assets/products/restorative/flow-diafil.jpg"
+  },
+  {
+    "id": "fuji-15g-glass-ionomere",
+    "name": "Fuji 15g Glass Ionomere",
+    "category": "cementation",
+    "categoryLabel": "Cementation",
+    "description": "GC Fuji I is a self-cured glass ionomer cement for final cementation of crowns and bridges, chemically bonding to tooth structure and metal with sustained fluoride release.",
+    "image": "assets/products/cementation/fuji-15g-glass-ionomere.webp"
+  },
+  {
+    "id": "fuji-automix-evolve-resin-cement",
+    "name": "Fuji Automix Evolve Resin Cement",
+    "category": "cementation",
+    "categoryLabel": "Cementation",
+    "description": "GC FujiCEM Evolve is an automix, radiopaque resin-reinforced glass ionomer cement with a tack-cure feature, superior zirconia adhesion, and rechargeable fluoride release.",
+    "image": "assets/products/cementation/fuji-automix-evolve-resin-cement.webp"
+  },
+  {
+    "id": "choice-2-veneer-cement",
+    "name": "Choice 2 Veneer Cement",
+    "category": "cementation",
+    "categoryLabel": "Cementation",
+    "description": "BISCO Choice 2 is a light-cured luting cement for bonding porcelain, zirconia, and composite veneers, valued for exceptional color stability and available in multiple shades including Milky, Opaque, White, and Try-In.",
+    "image": "assets/products/cementation/choice-2-veneer-cement.jpg"
+  },
+  {
+    "id": "silane-bisco-10ml-bottle",
+    "name": "Silane Bisco 10ml/bottle",
+    "category": "cementation",
+    "categoryLabel": "Cementation",
+    "description": "BISCO Porcelain Primer/Bis-Silane is a silane coupling agent used to improve bonding between porcelain substrates and resin cements, distributed by DMS in Lebanon.",
+    "image": "assets/products/cementation/silane-bisco-10ml-bottle.jpg"
+  },
+  {
+    "id": "silane-bisco-2-tubes",
+    "name": "Silane Bisco 2 Tubes",
+    "category": "cementation",
+    "categoryLabel": "Cementation",
+    "description": "BISCO Porcelain Primer/Bis-Silane coupling agent improves bonding between porcelain and resin cements, sold in a 2-tube configuration by DMS in Lebanon.",
+    "image": "assets/products/cementation/silane-bisco-2-tubes.jpg"
   }
 ]
