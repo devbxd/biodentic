@@ -8,11 +8,11 @@
     "image": "assets/products/polishing/composite-polishing-and-finishing-kit.webp"
   },
   {
-    "id": "protective-eyewear-uv-orange-red-safety-glasses-for-dental-medical-use",
-    "name": "Protective Eyewear UV – Orange/Red | Safety Glasses For Dental & Medical Use",
+    "id": "lunette-protection",
+    "name": "Lunette protection transparent/orange/red",
     "category": "machine",
     "categoryLabel": "Equipment",
-    "description": "The Protective Eyewear UV offers premium eye protection against harmful UV light, blue light, and debris during dental and medical procedures. Designed with optically clear, impact-resistant lenses, these lightweight and comfortable safety glasses ensure maximum visibility and protection. Available in Orange and Green tinted lenses, they effectively reduce glare and enhance contrast, making them ideal for laser and curing light procedures. The wraparound design provides a secure fit for all-day comfort.",
+    "description": "Lunettes de protection pour usage dentaire et médical, disponibles en transparent, orange et rouge.",
     "image": "assets/products/machine/protective-eyewear-uv-orange-red-safety-glasses-for-dental-medical-use.jpg"
   },
   {
@@ -104,12 +104,12 @@
     "image": "assets/products/whitening/tooth-bleaching-8-blue-led-lights.webp"
   },
   {
-    "id": "disposable-dappen-dish",
-    "name": "Disposable Dappen Dish",
+    "id": "godet-en-caoutchouc",
+    "name": "Godet en caoutchouc",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "100 pc/pack",
-    "image": "assets/products/disposable/disposable-dappen-dish.jpg"
+    "description": "Godet doseur en caoutchouc souple, disponible en small, medium et large.",
+    "image": "assets/products/disposable/godet-ref.png"
   },
   {
     "id": "fantastat-hemostatic-retraction-gel",
@@ -136,12 +136,12 @@
     "image": "assets/products/restorative/bisco-porcelain-etch.jpg"
   },
   {
-    "id": "maxident-sterilization-rolls",
-    "name": "Maxident Sterilization Rolls",
+    "id": "rouleau-autoclave",
+    "name": "Rouleau autoclave",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "",
-    "image": "assets/products/disposable/maxident-sterilization-rolls.jpg"
+    "description": "Rouleau de stérilisation autoclave, disponible en 5cm, 7.5cm, 10cm, 15cm, 20cm, 25cm et 30cm.",
+    "image": "assets/products/disposable/rouleau-autoclave.png"
   },
   {
     "id": "nitinol-archwire-ortho-source",
@@ -312,11 +312,11 @@
     "image": "assets/products/ortho/reliance-flow-tain.jpg"
   },
   {
-    "id": "silicone-cheek-retractor",
-    "name": "Silicone cheek retractor",
+    "id": "ouvre-bouche-silicon",
+    "name": "Ouvre bouche silicon",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "",
+    "description": "Ouvre-bouche en silicone, réutilisable et autoclavable, pour maintenir la bouche ouverte pendant les soins.",
     "image": "assets/products/disposable/silicone-cheek-retractor.jpg"
   },
   {
@@ -421,7 +421,7 @@
     "category": "disposable",
     "categoryLabel": "Disposables",
     "description": "53 par 60 ou 53 par 80",
-    "image": "assets/products/disposable/bibb-roll.jpg"
+    "image": "assets/products/disposable/bavette-rolls-box-ref.png"
   },
   {
     "id": "band-seater-china",
@@ -728,12 +728,12 @@
     "image": "assets/products/machine/thermoforming-plates.jpg"
   },
   {
-    "id": "plastic-sharp-container",
-    "name": "Plastic Sharp Container",
+    "id": "yellow-box",
+    "name": "Yellow box",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "",
-    "image": "assets/products/disposable/plastic-sharp-container.webp"
+    "description": "Conteneur à objets tranchants, boîte jaune standard.",
+    "image": "assets/products/disposable/yellow-box-ref.png"
   },
   {
     "id": "purewhite-35-whitening-tube",
@@ -1008,12 +1008,12 @@
     "image": "assets/products/ortho/lcr-tips.webp"
   },
   {
-    "id": "sterilization-pouch",
-    "name": "Sterilization Pouch",
+    "id": "self-sealing-pouch",
+    "name": "Self sealing pouch",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Large pouches for Instrument Small pouches for tips and burs Maxident Pack of 200 pieces With indicator",
-    "image": "assets/products/disposable/sterilization-pouch.jpg"
+    "description": "Pochette de stérilisation auto-scellante, disponible en 57x130, 70x255, 90x165, 90x260, 135x260, 190x330 et 305x430mm.",
+    "image": "assets/products/disposable/self-sealing-pouch.png"
   },
   {
     "id": "tor-vm-wedges",
@@ -1108,7 +1108,7 @@
     "name": "Cotisen Microbrush",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "100 pcs/box",
+    "description": "Microbrush disponible en Ultrafine (0.5mm), Superfine (1.0mm), Fine (1.5mm) et Regular (2.0mm).",
     "image": "assets/products/disposable/cotisen-microbrush.jpg"
   },
   {
@@ -1116,8 +1116,8 @@
     "name": "Disposable syringes",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "100 pcs/box",
-    "image": "assets/products/disposable/disposable-syringes.jpg"
+    "description": "Seringues jetables 3cc, 5cc, 10cc et 20cc, boîte de 100 pièces.",
+    "image": "assets/products/disposable/disposable-syringe-boxes.png"
   },
   {
     "id": "denfil-etching-5ml",
@@ -1893,7 +1893,7 @@
     "category": "disposable",
     "categoryLabel": "Disposables",
     "description": "25 pcs/bag + 2 switches",
-    "image": "assets/products/disposable/saliva-ejector-french-aspiration-tips.jpg"
+    "image": "assets/products/disposable/saliva-ejector-french.png"
   },
   {
     "id": "transmetal-bur-fg-1958-high-quality",
@@ -2212,8 +2212,8 @@
     "name": "Microbrush",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "",
-    "image": "assets/products/disposable/microbrush.jpg"
+    "description": "Microbrush disponible en Ultrafine (0.5mm), Superfine (1.0mm), Fine (1.5mm) et Regular (2.0mm).",
+    "image": "assets/products/disposable/microbrush-sizes.png"
   },
   {
     "id": "universal-barrier-film",
@@ -2805,7 +2805,7 @@
     "category": "disposable",
     "categoryLabel": "Disposables",
     "description": "3pli bips 500pc per box",
-    "image": "assets/products/disposable/maxident-bibs.jpg"
+    "image": "assets/products/disposable/bavette-rolls-box-ref.png"
   },
   {
     "id": "cotisen-intraoral-mixing-tips-2",
@@ -2990,5 +2990,133 @@
     "categoryLabel": "Disposables",
     "description": "Kingfa Medical powder free black nitrile examination gloves, 100 pcs per box.",
     "image": "assets/products/disposable/gloves-black-kingfa-box.jpg"
+  },
+  {
+    "id": "pompe-a-salive",
+    "name": "Pompe a salive",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Pompe à salive (aspirateur salivaire), sac de 100 pièces, longueur 15cm, diamètre 6.5mm.",
+    "image": "assets/products/disposable/pompe-a-salive.png"
+  },
+  {
+    "id": "pompe-a-salive-chirurgical-tuyau-avec-trou",
+    "name": "Pompe a salive chirurgical tuyau avec trou",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Pompe à salive chirurgicale avec tuyau à trou, embout blanc rigide.",
+    "image": "assets/products/disposable/pompe-a-salive-tuyau-avec-trou.png"
+  },
+  {
+    "id": "tips-seringue-air-eau",
+    "name": "Tips seringue air eau",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Embouts de seringue air/eau, coloris assortis, tailles 1/4, 1/8 et 1/16.",
+    "image": "assets/products/disposable/tips-seringue-air-eau-2.png"
+  },
+  {
+    "id": "chirurgical-aspire",
+    "name": "Chirurgical aspire",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Embouts d'aspiration chirurgicale, coloris assortis (vert, bleu clair, jaune, blanc, bleu).",
+    "image": "assets/products/disposable/chirurgical-aspire.png"
+  },
+  {
+    "id": "mixing-tips-for-cement",
+    "name": "Mixing tips for cement",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Embouts de mélange pour ciment dentaire.",
+    "image": "assets/products/disposable/mixing-tips-for-cement.jpg"
+  },
+  {
+    "id": "mixing-tips-for-temporary",
+    "name": "Mixing tips for temporary",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Embouts de mélange pour matériau temporaire, sachet de 50 pièces.",
+    "image": "assets/products/disposable/mixing-tips-intraoral.png"
+  },
+  {
+    "id": "mixing-tips-yellow-for-light",
+    "name": "Mixing tips yellow for light",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Embouts de mélange jaunes avec embout intra-oral, pour matériaux photopolymérisables.",
+    "image": "assets/products/disposable/mixing-tips-yellow-light.png"
+  },
+  {
+    "id": "porte-matrix-pince",
+    "name": "Porte matrix pince",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Porte-matrice avec pince, autoclavable à 121°C.",
+    "image": "assets/products/disposable/porte-matrix-pince.png"
+  },
+  {
+    "id": "godet-en-verre",
+    "name": "Godet en verre",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Godet doseur en verre, disponible en small, medium et large.",
+    "image": "assets/products/disposable/godet-ref.png"
+  },
+  {
+    "id": "fluor-tray",
+    "name": "Fluor tray",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Gouttières à fluor, disponibles en vert, jaune et bleu.",
+    "image": "assets/products/disposable/gloves-fluor-ref.png"
+  },
+  {
+    "id": "falcon-medicals-suture",
+    "name": "Falcon Medicals suture",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Suture chirurgicale Falcon Medicals, silk/nylon/absorbable, tailles 3.0, 4.0, 5.0 et 6.0.",
+    "image": "assets/products/disposable/falcon-medicals-suture.png"
+  },
+  {
+    "id": "dispensing-gun",
+    "name": "Dispensing gun",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Pistolet applicateur pour cartouches dentaires.",
+    "image": "assets/products/disposable/dispensing-gun-2.jpg"
+  },
+  {
+    "id": "protemp-4",
+    "name": "Protemp 4",
+    "category": "restorative",
+    "categoryLabel": "Restorative",
+    "description": "3M ESPE Protemp 4, matériau de temporisation, boîte de lancement avec pistolet applicateur.",
+    "image": "assets/products/restorative/protemp-4.png"
+  },
+  {
+    "id": "gloves-hms-latex",
+    "name": "Gloves HMS Latex",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Gants latex HMS, disponibles en poudré (powder) et non poudré (powder free), tailles small, medium, large.",
+    "image": "assets/products/disposable/gloves-hms-latex.jpg"
+  },
+  {
+    "id": "gloves-mint-king",
+    "name": "Gloves Mint King",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Gants King coloris menthe, poudré et non poudré (powder free), tailles small, medium, large.",
+    "image": "assets/products/disposable/gloves-mint-king.jpg"
+  },
+  {
+    "id": "gloves-pink-king",
+    "name": "Gloves Pink King",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Gants King coloris rose, tailles small, medium, large.",
+    "image": "assets/products/disposable/gloves-pink-king.jpg"
   }
 ]
