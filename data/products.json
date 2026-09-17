@@ -248,14 +248,6 @@
     "image": "assets/products/ortho/optical-orthosource-usa.jpg"
   },
   {
-    "id": "cotton-wool",
-    "name": "Cotton Wool",
-    "category": "disposable",
-    "categoryLabel": "Disposables",
-    "description": "",
-    "image": "assets/products/disposable/cotton-wool.png"
-  },
-  {
     "id": "open-coil-spring-niti-0-010-inch-master",
     "name": "Open coil spring NiTi 0.010 inch Master",
     "category": "ortho",
@@ -425,10 +417,10 @@
   },
   {
     "id": "bibb-roll",
-    "name": "Bibb Roll",
+    "name": "Bavette roll",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Roll bibs 80 pieces per roll 60mm World work Made in Italy 3 color available",
+    "description": "53 par 60 ou 53 par 80",
     "image": "assets/products/disposable/bibb-roll.jpg"
   },
   {
@@ -480,20 +472,12 @@
     "image": "assets/products/restorative/metacem-dual-cure-resin-cement.webp"
   },
   {
-    "id": "quick-tools-disinfection",
-    "name": "Quick tools disinfection",
+    "id": "gloves-nitrile-kingfa",
+    "name": "Gloves Nitrile Kingfa",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Enzyme based surface & tool disinfectant Used for disinfecting medical accessories used in minor procedures or surfaces Alcohol-free, safe on sensitive materials Convenient spray application for rapid disinfection. Broad spectrum coverage",
-    "image": "assets/products/disposable/quick-tools-disinfection.webp"
-  },
-  {
-    "id": "maxter-nitrile-powder-free",
-    "name": "Maxter Nitrile Powder Free",
-    "category": "disposable",
-    "categoryLabel": "Disposables",
-    "description": "Latex-free (safe for allergies) Powder-free High puncture resistance Strong and durable nitrile material Textured fingertips for better grip Comfortable fit for long procedures Excellent tactile sensitivity Suitable for dental and medical use",
-    "image": "assets/products/disposable/maxter-nitrile-powder-free.jpg"
+    "description": "Kingfa Medical powder free nitrile examination gloves, textured fingertips, 100 pcs per box.",
+    "image": "assets/products/disposable/gloves-kingfa-nitril.jpg"
   },
   {
     "id": "dg-16-endodontic-probe",
@@ -2817,10 +2801,10 @@
   },
   {
     "id": "maxident-bibs",
-    "name": "Maxident Bibs",
+    "name": "Bavette",
     "category": "disposable",
     "categoryLabel": "Disposables",
-    "description": "Maxident Bibs 500 pcs/box",
+    "description": "3pli bips 500pc per box",
     "image": "assets/products/disposable/maxident-bibs.jpg"
   },
   {
@@ -2950,5 +2934,61 @@
     "categoryLabel": "Endodontics",
     "description": "",
     "image": "assets/products/endo/fg-surg-152-endo-z.webp"
+  },
+  {
+    "id": "boite-a-fraise-autoclavable-10-trous",
+    "name": "Boite a fraise autoclavable (10 trous)",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Boite porte-fraises autoclavable en aluminium, 10 trous, avec couvercle en silicone (caoutchouc) pour fraises FG/RA, sterilisable jusqu a 135 C.",
+    "image": "assets/products/disposable/boite-a-fraise-autoclavable-10-trous.jpg"
+  },
+  {
+    "id": "boite-a-lime-autoclavable",
+    "name": "Boite a lime autoclavable",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Boite porte-limes endodontiques autoclavable avec regle de mesure integree, sterilisable jusqu a 134 C.",
+    "image": "assets/products/disposable/boite-a-lime-autoclavable.jpg"
+  },
+  {
+    "id": "boite-a-sterilisation-fraise",
+    "name": "Boite a sterilisation fraise",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Boite de sterilisation pour fraises en inox, 30 trous, autoclavable jusqu a 135 C et 0.22Mpa.",
+    "image": "assets/products/disposable/boite-a-sterilisation-fraise.jpg"
+  },
+  {
+    "id": "boite-a-sterilisation-instrument",
+    "name": "Boite a sterilisation instrument",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Boite de sterilisation pour instruments, 4 compartiments, plastique resistant a la chaleur jusqu a 135 C, favorise la circulation de l air.",
+    "image": "assets/products/disposable/boite-a-sterilisation-instrument.jpg"
+  },
+  {
+    "id": "boite-a-cotton-roll",
+    "name": "Boite a cotton roll",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Distributeur de rouleaux de coton, couvercle transparent a rabat pour un chargement facile et un acces hygienique.",
+    "image": "assets/products/disposable/boite-a-cotton-roll.jpg"
+  },
+  {
+    "id": "boite-a-brosse-a-dent",
+    "name": "Boite a brosse a dent",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Brosses a dents jetables pre-encollees, emballees individuellement, boite de 100 pieces.",
+    "image": "assets/products/disposable/boite-a-brosse-a-dent.jpg"
+  },
+  {
+    "id": "gloves-black-kingfa",
+    "name": "Gloves Black Kingfa",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Kingfa Medical powder free black nitrile examination gloves, 100 pcs per box.",
+    "image": "assets/products/disposable/gloves-black-kingfa-box.jpg"
   }
 ]
