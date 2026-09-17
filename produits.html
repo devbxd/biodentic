@@ -106,15 +106,27 @@
 <section class="py-xl">
   <div class="container">
 
-    <div class="section-head center" style="margin-bottom:28px">
-      <div class="eyebrow" style="justify-content:center">Browse by category</div>
-      <h2>Looking for something specific?</h2>
+    <div id="category-picker">
+      <div class="section-head center" style="margin-bottom:28px">
+        <div class="eyebrow" style="justify-content:center">Browse by category</div>
+        <h2>Looking for something specific?</h2>
+      </div>
+      <div class="category-grid" id="filter-bar">
+        <button class="category-card active" data-filter="all">
+          <span class="category-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="7" height="7"></rect><rect x="14" y="3" width="7" height="7"></rect><rect x="14" y="14" width="7" height="7"></rect><rect x="3" y="14" width="7" height="7"></rect></svg></span>
+          <span class="category-name">All Products</span>
+        </button>
+      </div>
     </div>
-    <div class="category-grid" id="filter-bar">
-      <button class="category-card active" data-filter="all">
-        <span class="category-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="7" height="7"></rect><rect x="14" y="3" width="7" height="7"></rect><rect x="14" y="14" width="7" height="7"></rect><rect x="3" y="14" width="7" height="7"></rect></svg></span>
-        <span class="category-name">All Products</span>
+
+    <div id="category-detail-header" hidden style="margin-bottom:28px">
+      <button id="back-to-catalog" class="btn btn-outline" type="button">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" width="16" height="16" style="margin-right:6px;vertical-align:-3px"><line x1="19" y1="12" x2="5" y2="12"></line><polyline points="12 19 5 12 12 5"></polyline></svg>
+        Back to catalog
       </button>
+      <div class="section-head" style="margin-top:20px">
+        <h2 id="category-detail-title">Category</h2>
+      </div>
     </div>
 
     <p id="result-count" style="color:var(--ink-faint);font-size:13.5px;margin:38px 0 22px"></p>
@@ -160,6 +172,11 @@
   var loadMoreBtn = document.getElementById('load-more');
   var resultCount = document.getElementById('result-count');
   var emptyState = document.getElementById('empty-state');
+  var categoryPicker = document.getElementById('category-picker');
+  var categoryDetailHeader = document.getElementById('category-detail-header');
+  var categoryDetailTitle = document.getElementById('category-detail-title');
+  var backBtn = document.getElementById('back-to-catalog');
+  var categoryLabels = {};
 
   function esc(s) {
     var d = document.createElement('div');
@@ -227,12 +244,37 @@
     uniform: '<path d="M8 3l4 3 4-3 3 3-3 3v11a1 1 0 0 1-1 1H9a1 1 0 0 1-1-1V9L5 6l3-3z"></path>'
   };
 
+  function showCategoryView(filter) {
+    activeFilter = filter;
+    categoryPicker.hidden = true;
+    categoryDetailHeader.hidden = false;
+    categoryDetailTitle.textContent = categoryLabels[filter] || filter;
+    filterBar.querySelectorAll('.category-card').forEach(function (b) {
+      b.classList.toggle('active', b.dataset.filter === filter);
+    });
+    renderPage(true);
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  }
+
+  function showCatalogView() {
+    activeFilter = 'all';
+    categoryPicker.hidden = false;
+    categoryDetailHeader.hidden = true;
+    filterBar.querySelectorAll('.category-card').forEach(function (b) {
+      b.classList.toggle('active', b.dataset.filter === 'all');
+    });
+    renderPage(true);
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  }
+
   function buildFilterBar() {
     var cats = {};
     allProducts.forEach(function (p) {
       if (!cats[p.category]) cats[p.category] = { label: p.categoryLabel, count: 0 };
       cats[p.category].count++;
     });
+    categoryLabels = {};
+    Object.keys(cats).forEach(function (slug) { categoryLabels[slug] = cats[slug].label; });
     var order = ['disposable','endo','impression','polishing','fraise','instrument','temporary','machine','restorative','whitening','cementation','fiberpost','etching','ortho','xray','prevention','crowns','implant','uniform'];
     var html = '<button class="category-card active" data-filter="all">' +
       '<span class="category-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">' + CATEGORY_ICONS.ortho + '</svg></span>' +
@@ -251,13 +293,27 @@
     filterBar.addEventListener('click', function (e) {
       var btn = e.target.closest('.category-card');
       if (!btn) return;
-      filterBar.querySelectorAll('.category-card').forEach(function (b) { b.classList.remove('active'); });
-      btn.classList.add('active');
-      activeFilter = btn.dataset.filter;
-      renderPage(true);
-      window.scrollTo({ top: grid.offsetTop - 120, behavior: 'smooth' });
+      var filter = btn.dataset.filter;
+      if (filter === 'all') {
+        history.pushState(null, '', 'produits.html');
+        showCatalogView();
+      } else {
+        history.pushState(null, '', '#' + filter);
+        showCategoryView(filter);
+      }
     });
   }
+
+  backBtn.addEventListener('click', function () {
+    history.pushState(null, '', 'produits.html');
+    showCatalogView();
+  });
+
+  window.addEventListener('popstate', function () {
+    var hash = window.location.hash.replace('#', '');
+    if (hash && categoryLabels[hash]) showCategoryView(hash);
+    else showCatalogView();
+  });
 
   var CATEGORY_ORDER = ['disposable','endo','impression','polishing','fraise','instrument','temporary','machine','restorative','whitening','cementation','fiberpost','etching','ortho','xray','prevention','crowns','implant','uniform'];
 
@@ -284,18 +340,13 @@
       grid.innerHTML = '';
       buildFilterBar();
 
-      // deep-link support: produits.html#category
+      // deep-link support: produits.html#category opens straight into the category page
       var hash = window.location.hash.replace('#', '');
-      if (hash) {
-        var match = filterBar.querySelector('[data-filter="' + hash + '"]');
-        if (match) {
-          filterBar.querySelectorAll('.category-card').forEach(function (b) { b.classList.remove('active'); });
-          match.classList.add('active');
-          activeFilter = hash;
-        }
+      if (hash && categoryLabels[hash]) {
+        showCategoryView(hash);
+      } else {
+        renderPage(true);
       }
-
-      renderPage(true);
     })
     .catch(function () {
       grid.innerHTML = '<p style="color:var(--ink-soft);padding:40px 0">Unable to load the catalog right now. Please refresh or contact us directly.</p>';
