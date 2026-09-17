@@ -109,7 +109,7 @@
     "category": "disposable",
     "categoryLabel": "Disposables",
     "description": "Flexible rubber dosing dappen dish, available in small, medium and large.",
-    "image": "assets/products/disposable/godet-ref.png"
+    "image": "assets/products/disposable/godet-caoutchouc-crop.png"
   },
   {
     "id": "fantastat-hemostatic-retraction-gel",
@@ -421,7 +421,7 @@
     "category": "disposable",
     "categoryLabel": "Disposables",
     "description": "53 par 60 ou 53 par 80",
-    "image": "assets/products/disposable/bavette-rolls-box-ref.png"
+    "image": "assets/products/disposable/bavette-roll-crop.png"
   },
   {
     "id": "band-seater-china",
@@ -2805,7 +2805,7 @@
     "category": "disposable",
     "categoryLabel": "Disposables",
     "description": "3pli bips 500pc per box",
-    "image": "assets/products/disposable/bavette-rolls-box-ref.png"
+    "image": "assets/products/disposable/bavette-box-crop.png"
   },
   {
     "id": "cotisen-intraoral-mixing-tips-2",
@@ -3061,7 +3061,7 @@
     "category": "disposable",
     "categoryLabel": "Disposables",
     "description": "Glass dosing dappen dish, available in small, medium and large.",
-    "image": "assets/products/disposable/godet-ref.png"
+    "image": "assets/products/disposable/godet-verre-crop.png"
   },
   {
     "id": "fluor-tray",
@@ -3069,7 +3069,7 @@
     "category": "disposable",
     "categoryLabel": "Disposables",
     "description": "Fluoride trays, available in green, yellow and blue.",
-    "image": "assets/products/disposable/gloves-fluor-ref.png"
+    "image": "assets/products/disposable/fluor-tray-crop.png"
   },
   {
     "id": "falcon-medicals-suture",
