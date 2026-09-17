@@ -4038,5 +4038,1013 @@
     "categoryLabel": "Burs",
     "description": "Transmetal tungsten carbide FG crown cutter bur for fast, precise removal of PFM, zirconia and metal crowns and bridges.",
     "image": "assets/products/fraise/fraise-transmetal.png"
+  },
+  {
+    "id": "neoputty-mediclus",
+    "name": "Neoputty Mediclus",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "Premixed bioceramic putty used for perforation repair, pulp capping and root-end filling, similar in class to Cerkamed Bio MTA+.",
+    "image": "assets/products/endo/neoputty-mediclus.jpg"
+  },
+  {
+    "id": "bioceramic-mediclus",
+    "name": "Bioceramic Mediclus",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "Bioceramic/MTA repair cement releasing calcium ions to promote mineralized tissue formation and provide a biological seal.",
+    "image": "assets/products/endo/bioceramic-mediclus.jpg"
+  },
+  {
+    "id": "rotary-files-assorted-heated-chameleon",
+    "name": "Rotary Files Assorted Heated Chameleon",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "Heat-treated gold NiTi rotary files with progressively changing tapers, offering enhanced flexibility for canal shaping.",
+    "image": "assets/products/endo/rotary-files-assorted-heated-chameleon.jpg"
+  },
+  {
+    "id": "ah26-root-canal-sealing-dentsply",
+    "name": "Ah26 Root Canal Sealing Dentsply",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "Dentsply AH26/AH Plus epoxy resin-based root canal sealer with minimal shrinkage and strong dentin adhesion.",
+    "image": "assets/products/endo/ah26-root-canal-sealing-dentsply.jpg"
+  },
+  {
+    "id": "alveogyl-pd",
+    "name": "Alveogyl Pd",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "Dry socket dressing paste with fibrous consistency for easy filling of the alveolus, self-eliminating without need for removal.",
+    "image": "assets/products/endo/alveogyl-pd.jpg"
+  },
+  {
+    "id": "alveogyl-septodent",
+    "name": "Alveogyl Septodent",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "Septodont Alveogyl dry socket dressing containing Penghawar fibers, used as a one-step post-extraction alveolitis treatment.",
+    "image": "assets/products/endo/alveogyl-septodent.jpg"
+  },
+  {
+    "id": "alvocure",
+    "name": "Alvocure",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "Post-extraction dry socket dressing paste in the same product class as Alveogyl, applied to soothe alveolitis pain.",
+    "image": "assets/products/endo/alvocure.jpg"
+  },
+  {
+    "id": "apex-locator-woodpecker-3rd-generation",
+    "name": "Apex Locator Woodpecker 3rd Generation",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "Woodpecker electronic apex locator using multi-frequency impedance measurement to determine root canal working length.",
+    "image": "assets/products/endo/apex-locator-woodpecker-3rd-generation.jpg"
+  },
+  {
+    "id": "bioceramic-germany",
+    "name": "Bioceramic Germany",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "Bioactive calcium-silicate dentin substitute used for pulp capping, perforation repair and deep cavity restorations.",
+    "image": "assets/products/endo/bioceramic-germany.jpg"
+  },
+  {
+    "id": "biodentine",
+    "name": "Biodentine",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "Septodont Biodentine bioactive dentin substitute, resin-free, used for pulp capping, perforation repair and coronal restorations.",
+    "image": "assets/products/endo/biodentine.jpg"
+  },
+  {
+    "id": "calcium-hydroxide-prevest-base-liner",
+    "name": "Calcium Hydroxide Prevest Base Liner",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "Calcium hydroxide-based paste used as a cavity liner/base to stimulate secondary dentin formation and protect the pulp.",
+    "image": "assets/products/endo/calcium-hydroxide-prevest-base-liner.jpg"
+  },
+  {
+    "id": "hydroxide-de-calcium-pd-swiss",
+    "name": "Hydroxide De Calcium Pd Swiss",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "Calcium hydroxide intracanal medicament paste used as a temporary antibacterial root canal dressing.",
+    "image": "assets/products/endo/hydroxide-de-calcium-pd-swiss.jpg"
+  },
+  {
+    "id": "caries-indicator-adi",
+    "name": "Caries Indicator ADI",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "Caries detector dye that selectively stains infected, non-remineralisable dentin red to guide conservative caries removal.",
+    "image": "assets/products/endo/caries-indicator-adi.jpg"
+  },
+  {
+    "id": "devitec",
+    "name": "Devitec",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "Pulp devitalizing paste used for chemical devitalization of vital pulp tissue prior to pulpotomy/pulpectomy.",
+    "image": "assets/products/endo/devitec.jpg"
+  },
+  {
+    "id": "dia-root-canal-sealer-diaseal",
+    "name": "Dia Root Canal Sealer Diaseal",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "Root canal sealer used for permanent obturation with gutta percha, offering good flow and sealing ability.",
+    "image": "assets/products/endo/dia-root-canal-sealer-diaseal.jpg"
+  },
+  {
+    "id": "diaprep",
+    "name": "Diaprep",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "EDTA-based root canal preparation cream used to remove the smear layer and lubricate canals during instrumentation.",
+    "image": "assets/products/endo/diaprep.jpg"
+  },
+  {
+    "id": "edta-100ml-adi",
+    "name": "Edta 100ml ADI",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "Liquid EDTA solution used as a chelating irrigant to remove the smear layer and soften canal walls.",
+    "image": "assets/products/endo/edta-100ml-adi.jpg"
+  },
+  {
+    "id": "edta-liquide",
+    "name": "Edta Liquide",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "17% liquid EDTA irrigation solution used for chemo-mechanical root canal preparation.",
+    "image": "assets/products/endo/edta-liquide.jpg"
+  },
+  {
+    "id": "endo-files-sterilisation-box",
+    "name": "Endo Files Sterilisation Box",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "Autoclavable stainless steel endo box with numbered holes for organized storage and sterilization of endodontic files.",
+    "image": "assets/products/endo/endo-files-sterilisation-box.jpg"
+  },
+  {
+    "id": "endo-seal-kris-root-x",
+    "name": "Endo Seal Kris Root X",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "Resin-based root canal sealer with high radiopacity and biocompatibility used for permanent obturation.",
+    "image": "assets/products/endo/endo-seal-kris-root-x.jpg"
+  },
+  {
+    "id": "endo-seal-prevest",
+    "name": "Endo Seal Prevest",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "Root canal sealer used with gutta percha for hermetic obturation of the cleaned and shaped canal.",
+    "image": "assets/products/endo/endo-seal-prevest.jpg"
+  },
+  {
+    "id": "endomethasone-septodent",
+    "name": "Endomethasone Septodent",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "Resorbable resin-based root canal sealing paste historically used for obturation, including in primary teeth.",
+    "image": "assets/products/endo/endomethasone-septodent.jpg"
+  },
+  {
+    "id": "eugenol",
+    "name": "Eugenol",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "Eugenol liquid used with zinc oxide powder to form ZOE cement for temporary restorations and sedative dressings.",
+    "image": "assets/products/endo/eugenol.jpg"
+  },
+  {
+    "id": "files-progress-shape",
+    "name": "Files Progress Shape",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "Progressively tapered NiTi rotary shaping files used to prepare root canals with a reduced number of instruments.",
+    "image": "assets/products/endo/files-progress-shape.jpg"
+  },
+  {
+    "id": "gates-drill",
+    "name": "Gates Drill",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "Mani Gates Glidden drills, flame-shaped non-cutting-tip rotary instruments used to flare the coronal third of root canals.",
+    "image": "assets/products/endo/gates-drill.jpg"
+  },
+  {
+    "id": "gutta-02-45-80-diadent",
+    "name": "Gutta 02/ 45-80 Diadent",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "DiaDent 2% taper gutta percha points, radiopaque cones sized 45-80 used to obturate root canals.",
+    "image": "assets/products/endo/gutta-02-45-80-diadent.jpg"
+  },
+  {
+    "id": "gutta-assorted-15-40",
+    "name": "Gutta Assorted 15-40",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "Assorted-size gutta percha points (ISO 15-40) used for filling and sealing the root canal system after shaping.",
+    "image": "assets/products/endo/gutta-assorted-15-40.jpg"
+  },
+  {
+    "id": "gutta-condensor-30-dentsply",
+    "name": "Gutta Condensor 30 Dentsply",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "Rotary gutta percha condenser instrument used to laterally and vertically compact warm gutta percha during obturation.",
+    "image": "assets/products/endo/gutta-condensor-30-dentsply.jpg"
+  },
+  {
+    "id": "gutta-condensor-assorted",
+    "name": "Gutta Condensor Assorted",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "Assorted-size gutta percha condensers used for obturation compaction across varying canal diameters.",
+    "image": "assets/products/endo/gutta-condensor-assorted.jpg"
+  },
+  {
+    "id": "gutta-m-meta",
+    "name": "Gutta M Meta",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "Meta Biomed gutta percha points used for cold lateral or warm vertical obturation of the root canal.",
+    "image": "assets/products/endo/gutta-m-meta.jpg"
+  },
+  {
+    "id": "gutta-paper-mix",
+    "name": "Gutta Paper Mix",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "Combined pack of gutta percha and paper points used together for canal drying and obturation.",
+    "image": "assets/products/endo/gutta-paper-mix.jpg"
+  },
+  {
+    "id": "hfile-mani-8-25",
+    "name": "Hfile Mani 8-25",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "Mani stainless steel H-Files with helical cutting flutes for efficient dentin removal, sizes 8-25.",
+    "image": "assets/products/endo/hfile-mani-8-25.jpg"
+  },
+  {
+    "id": "hfile-mani-20-31-jaune",
+    "name": "Hfile Mani 20-31 Jaune",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "Mani H-Files 31mm, color-coded yellow (size 20), used for hand shaping and debris removal in root canals.",
+    "image": "assets/products/endo/hfile-mani-20-31-jaune.jpg"
+  },
+  {
+    "id": "hfiles-mani-8-21-gris",
+    "name": "Hfiles Mani 8-21 Gris",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "Mani H-Files 21mm, color-coded grey (size 8), used for canal negotiation and shaping.",
+    "image": "assets/products/endo/hfiles-mani-8-21-gris.jpg"
+  },
+  {
+    "id": "hfiles-mani-15-25-blanc",
+    "name": "Hfiles Mani 15-25 Blanc",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "Mani H-Files 25mm, color-coded white (size 15), for hand instrumentation of root canals.",
+    "image": "assets/products/endo/hfiles-mani-15-25-blanc.jpg"
+  },
+  {
+    "id": "hfiles-mani-20-25-jaune",
+    "name": "Hfiles Mani 20-25 Jaune",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "Mani H-Files 25mm, color-coded yellow (size 20), used for shaping and debris removal.",
+    "image": "assets/products/endo/hfiles-mani-20-25-jaune.jpg"
+  },
+  {
+    "id": "hfiles-vdeya-10-25-mauve",
+    "name": "Hfiles Vdeya 10-25 Mauve",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "Stainless steel hand H-Files 25mm, color-coded mauve (size 10), for root canal instrumentation.",
+    "image": "assets/products/endo/hfiles-vdeya-10-25-mauve.jpg"
+  },
+  {
+    "id": "hfiles-vdeya-25-25-rouge",
+    "name": "Hfiles Vdeya 25-25 Rouge",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "Stainless steel hand H-Files 25mm, color-coded red (size 25), for root canal instrumentation.",
+    "image": "assets/products/endo/hfiles-vdeya-25-25-rouge.jpg"
+  },
+  {
+    "id": "hfiles-vdeya-30-25-bleu",
+    "name": "Hfiles Vdeya 30-25 Bleu",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "Stainless steel hand H-Files 25mm, color-coded blue (size 30), for root canal shaping.",
+    "image": "assets/products/endo/hfiles-vdeya-30-25-bleu.jpg"
+  },
+  {
+    "id": "hfiles-vdeya-assorted-15-40-25",
+    "name": "Hfiles Vdeya Assorted 15-40/25",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "Assorted-size stainless steel H-Files 25mm (15-40) for hand root canal shaping.",
+    "image": "assets/products/endo/hfiles-vdeya-assorted-15-40-25.jpg"
+  },
+  {
+    "id": "anypex-hydroxide-de-calcium-with-iodoform",
+    "name": "Anypex Hydroxide De Calcium With Iodoform",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "Premixed calcium hydroxide-iodoform paste for antibacterial intracanal dressing and pediatric root filling.",
+    "image": "assets/products/endo/anypex-hydroxide-de-calcium-with-iodoform.jpg"
+  },
+  {
+    "id": "in-precelle-gutta",
+    "name": "In Precelle Gutta",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "Individually blister-packed gutta percha points used for root canal obturation.",
+    "image": "assets/products/endo/in-precelle-gutta.jpg"
+  },
+  {
+    "id": "k-shape-rotary",
+    "name": "K-shape Rotary",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "NiTi rotary shaping file system used for mechanized canal preparation.",
+    "image": "assets/products/endo/k-shape-rotary.jpg"
+  },
+  {
+    "id": "kfile-mani-06-25-rose",
+    "name": "Kfile Mani 06-25 Rose",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "Mani K-Files 25mm, color-coded pink (size 06), used for fine canal negotiation.",
+    "image": "assets/products/endo/kfile-mani-06-25-rose.jpg"
+  },
+  {
+    "id": "kfiles-kendo",
+    "name": "Kfiles Kendo",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "Stainless steel K-Files used for canal scouting, working length establishment and hand shaping.",
+    "image": "assets/products/endo/kfiles-kendo.jpg"
+  },
+  {
+    "id": "kfiles-mani-8-31-gris",
+    "name": "Kfiles Mani 8-31 Gris",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "Mani K-Files 31mm, color-coded grey (size 8), for hand root canal instrumentation.",
+    "image": "assets/products/endo/kfiles-mani-8-31-gris.jpg"
+  },
+  {
+    "id": "kfiles-mani-15-21-blanc",
+    "name": "Kfiles Mani 15-21 Blanc",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "Mani K-Files 21mm, color-coded white (size 15), for canal preparation.",
+    "image": "assets/products/endo/kfiles-mani-15-21-blanc.jpg"
+  },
+  {
+    "id": "kfiles-mani-20-21-jaune",
+    "name": "Kfiles Mani 20-21 Jaune",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "Mani K-Files 21mm, color-coded yellow (size 20), for hand root canal shaping.",
+    "image": "assets/products/endo/kfiles-mani-20-21-jaune.jpg"
+  },
+  {
+    "id": "kfiles-mani-30-21-bleu",
+    "name": "Kfiles Mani 30-21 Bleu",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "Mani K-Files 21mm, color-coded blue (size 30), for hand root canal shaping.",
+    "image": "assets/products/endo/kfiles-mani-30-21-bleu.jpg"
+  },
+  {
+    "id": "kfiles-mani-assorted-45-80",
+    "name": "Kfiles Mani Assorted 45-80",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "Assorted large-size Mani K-Files (45-80) used for apical enlargement in wider canals.",
+    "image": "assets/products/endo/kfiles-mani-assorted-45-80.jpg"
+  },
+  {
+    "id": "kfiles-vdeya-06-25-pink",
+    "name": "Kfiles Vdeya 06-25 Pink",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "Stainless steel K-File 25mm, color-coded pink (size 06), for fine canal scouting.",
+    "image": "assets/products/endo/kfiles-vdeya-06-25-pink.jpg"
+  },
+  {
+    "id": "kfiles-vdeya-10-21-mauve",
+    "name": "Kfiles Vdeya 10-21 Mauve",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "Stainless steel K-File 21mm, color-coded mauve (size 10), for root canal instrumentation.",
+    "image": "assets/products/endo/kfiles-vdeya-10-21-mauve.jpg"
+  },
+  {
+    "id": "kfiles-vdeya-25-25-rouge",
+    "name": "Kfiles Vdeya 25-25 Rouge",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "Stainless steel K-File 25mm, color-coded red (size 25), for root canal shaping.",
+    "image": "assets/products/endo/kfiles-vdeya-25-25-rouge.jpg"
+  },
+  {
+    "id": "lentulo-21",
+    "name": "Lentulo 21",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "Mani Lentulo spiral paste carrier, 21mm, used to distribute root canal sealer via slow-speed handpiece.",
+    "image": "assets/products/endo/lentulo-21.jpg"
+  },
+  {
+    "id": "meta-root-canal-sealer-adseal",
+    "name": "Meta Root Canal Sealer Adseal",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "Meta Biomed Adseal resin-based root canal sealer offering good biocompatibility and radiopacity.",
+    "image": "assets/products/endo/meta-root-canal-sealer-adseal.jpg"
+  },
+  {
+    "id": "adseal-plus",
+    "name": "Adseal Plus",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "Meta Biomed Adseal Plus resin-based root canal sealer with enhanced flowability and high radiopacity.",
+    "image": "assets/products/endo/adseal-plus.jpg"
+  },
+  {
+    "id": "metapex",
+    "name": "Metapex",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "Meta Biomed Metapex premixed calcium hydroxide-iodoform paste for intracanal dressing and pediatric root filling.",
+    "image": "assets/products/endo/metapex.jpg"
+  },
+  {
+    "id": "mta-pd",
+    "name": "MTA PD",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "Mineral trioxide aggregate powder used for pulp capping, perforation repair and apexification.",
+    "image": "assets/products/endo/mta-pd.jpg"
+  },
+  {
+    "id": "mta-sachet",
+    "name": "Mta Sachet",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "Single-dose MTA sachet used for root repair, pulp capping and perforation sealing.",
+    "image": "assets/products/endo/mta-sachet.jpg"
+  },
+  {
+    "id": "mta-seringue-bio-c-repair",
+    "name": "Mta Seringue Bio-c Repair",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "Bioceramic repair cement in syringe form used for perforation repair and root-end filling.",
+    "image": "assets/products/endo/mta-seringue-bio-c-repair.jpg"
+  },
+  {
+    "id": "offer-gutta-paper-adseal-gutta-solvent",
+    "name": "Offer Gutta Paper Adseal Gutta Solvent",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "Bundle offer including gutta percha points, paper points, resin sealer and gutta percha solvent for obturation.",
+    "image": "assets/products/endo/offer-gutta-paper-adseal-gutta-solvent.jpg"
+  },
+  {
+    "id": "paper-15-40-fanta",
+    "name": "Paper 15-40 Fanta",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "Assorted absorbent paper points (ISO 15-40) used to dry root canals before obturation.",
+    "image": "assets/products/endo/paper-15-40-fanta.jpg"
+  },
+  {
+    "id": "peeso-reamers-n5-largo",
+    "name": "Peeso Reamers N5 Largo",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "Mani Peeso reamer, size 5, a rigid rotary instrument with safety tip used for post-space preparation.",
+    "image": "assets/products/endo/peeso-reamers-n5-largo.jpg"
+  },
+  {
+    "id": "protaper-s1",
+    "name": "Protaper S1",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "Dentsply ProTaper S1 shaping file with progressively increasing taper for coronal and middle canal preparation.",
+    "image": "assets/products/endo/protaper-s1.jpg"
+  },
+  {
+    "id": "pulpodent",
+    "name": "Pulpodent",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "Calcium hydroxide-based pulp capping and lining material used to protect the dental pulp.",
+    "image": "assets/products/endo/pulpodent.jpg"
+  },
+  {
+    "id": "pulpotec",
+    "name": "Pulpotec",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "PD Pulpotec pulpotomy filling paste (powder + liquid) for long-term treatment of pulpitis in vital molars.",
+    "image": "assets/products/endo/pulpotec.jpg"
+  },
+  {
+    "id": "pulpx",
+    "name": "Pulpx",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "Pulpotomy/devitalizing paste used for treatment of vital pulp in primary and permanent molars.",
+    "image": "assets/products/endo/pulpx.jpg"
+  },
+  {
+    "id": "rc-prep-germany-by-pc",
+    "name": "Rc Prep Germany By Pc",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "EDTA-based chelating cream used to lubricate canals and remove calcifications during root canal preparation.",
+    "image": "assets/products/endo/rc-prep-germany-by-pc.jpg"
+  },
+  {
+    "id": "rcprep-spident",
+    "name": "Rcprep Spident",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "EDTA-based intracanal lubricant cream used to soften dentin and ease instrumentation during canal preparation.",
+    "image": "assets/products/endo/rcprep-spident.jpg"
+  },
+  {
+    "id": "reciproc-20-l25-mm",
+    "name": "Reciproc 20 L25 Mm",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "Reciprocating NiTi single-file system instrument, size 25/25mm, used for full canal preparation with reciprocating motion.",
+    "image": "assets/products/endo/reciproc-20-l25-mm.jpg"
+  },
+  {
+    "id": "reciproc-25-l25mm",
+    "name": "Reciproc 25 L25mm",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "Reciprocating NiTi endodontic file, R25, 25mm length, used to shape narrow to average canals in one file.",
+    "image": "assets/products/endo/reciproc-25-l25mm.jpg"
+  },
+  {
+    "id": "reciproque-assorted-25-50-blue-nic",
+    "name": "Reciproque Assorted 25_50 Blue Nic",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "Assorted Reciproc Blue reciprocating NiTi files (sizes 25-50) for single-file canal shaping.",
+    "image": "assets/products/endo/reciproque-assorted-25-50-blue-nic.jpg"
+  },
+  {
+    "id": "root-canal-sealer-vioseal-1x10g",
+    "name": "Root Canal Sealer Vioseal 1x10g",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "10g root canal sealer used with gutta percha for hermetic obturation of the prepared canal.",
+    "image": "assets/products/endo/root-canal-sealer-vioseal-1x10g.jpg"
+  },
+  {
+    "id": "rotary-file-reprise-d1-d2-d3-nic-o",
+    "name": "Rotary File Reprise D1 D2 D3 Nic O+",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "NiTi retreatment rotary file set (D1, D2, D3) used to remove old gutta percha and sealer from filled canals.",
+    "image": "assets/products/endo/rotary-file-reprise-d1-d2-d3-nic-o.jpg"
+  },
+  {
+    "id": "rotary-file-silver-04-25-with-opener-4files-byekoul",
+    "name": "Rotary File Silver 04-25 With Opener (4files)byekoul",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "NiTi rotary file set, 04 taper/size 25, packaged with an orifice opener file, 4 files per pack.",
+    "image": "assets/products/endo/rotary-file-silver-04-25-with-opener-4files-byekoul.jpg"
+  },
+  {
+    "id": "rotary-files-10-04-mauve",
+    "name": "Rotary Files 10-04 Mauve",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "NiTi rotary file, 04 taper size 10, color-coded mauve, for mechanized canal shaping.",
+    "image": "assets/products/endo/rotary-files-10-04-mauve.jpg"
+  },
+  {
+    "id": "rotary-files-35-06-vert-gold",
+    "name": "Rotary Files 35-06 Vert Gold",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "Gold heat-treated NiTi rotary file, 06 taper size 35, color-coded green, for canal shaping.",
+    "image": "assets/products/endo/rotary-files-35-06-vert-gold.jpg"
+  },
+  {
+    "id": "rotary-files-15-06-blanc",
+    "name": "Rotary Files 15-06 Blanc",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "NiTi rotary file, 06 taper size 15, color-coded white, for canal shaping.",
+    "image": "assets/products/endo/rotary-files-15-06-blanc.jpg"
+  },
+  {
+    "id": "rotary-files-20-04-jaune",
+    "name": "Rotary Files 20-04 Jaune",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "NiTi rotary file, 04 taper size 20, color-coded yellow, for canal shaping.",
+    "image": "assets/products/endo/rotary-files-20-04-jaune.jpg"
+  },
+  {
+    "id": "rotary-files-25-06-rouge-blue",
+    "name": "Rotary Files 25-06 Rouge (Blue)",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "NiTi rotary file, 06 taper size 25, color-coded red, for mechanized canal preparation.",
+    "image": "assets/products/endo/rotary-files-25-06-rouge-blue.jpg"
+  },
+  {
+    "id": "rotary-files-30-04-bleu",
+    "name": "Rotary Files 30-04 Bleu",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "NiTi rotary file, 04 taper size 30, color-coded blue, for canal shaping.",
+    "image": "assets/products/endo/rotary-files-30-04-bleu.jpg"
+  },
+  {
+    "id": "rotary-files-40-06-noir",
+    "name": "Rotary Files 40-06 Noir",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "NiTi rotary file, 06 taper size 40, color-coded black, for apical enlargement of wider canals.",
+    "image": "assets/products/endo/rotary-files-40-06-noir.jpg"
+  },
+  {
+    "id": "rotary-files-fanta-f1",
+    "name": "Rotary Files Fanta F1",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "NiTi rotary finishing file (F1 taper), 31mm length, used for apical finishing of the canal.",
+    "image": "assets/products/endo/rotary-files-fanta-f1.jpg"
+  },
+  {
+    "id": "rotary-sx-to-f3-length",
+    "name": "Rotary Sx To F3 Length",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "ProTaper-style rotary file sequence (SX-F3), 31mm length option, for canal shaping.",
+    "image": "assets/products/endo/rotary-sx-to-f3-length.jpg"
+  },
+  {
+    "id": "spray-endo-frost",
+    "name": "Spray Endo Frost",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "Coltene Endo-Frost pulp vitality cold spray used to perform cold sensitivity testing on teeth.",
+    "image": "assets/products/endo/spray-endo-frost.jpg"
+  },
+  {
+    "id": "spreaders-15-blanc",
+    "name": "Spreaders #15 Blanc",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "Mani finger spreader, size 15, color-coded white, used for lateral condensation of gutta percha.",
+    "image": "assets/products/endo/spreaders-15-blanc.jpg"
+  },
+  {
+    "id": "spreaders-25-rouge",
+    "name": "Spreaders #25 Rouge",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "Mani finger spreader, size 25, color-coded red, used for lateral condensation of gutta percha.",
+    "image": "assets/products/endo/spreaders-25-rouge.jpg"
+  },
+  {
+    "id": "spreaders-30-bleu",
+    "name": "Spreaders #30 Bleu",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "Mani finger spreader, size 30, color-coded blue, used for lateral condensation of gutta percha.",
+    "image": "assets/products/endo/spreaders-30-bleu.jpg"
+  },
+  {
+    "id": "spreaders-35-vert",
+    "name": "Spreaders #35 Vert",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "Mani finger spreader, size 35, color-coded green, used for lateral condensation of gutta percha.",
+    "image": "assets/products/endo/spreaders-35-vert.jpg"
+  },
+  {
+    "id": "spreaders-assorted",
+    "name": "Spreaders Assorted",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "Assorted-size finger spreaders used for lateral condensation of gutta percha during obturation.",
+    "image": "assets/products/endo/spreaders-assorted.jpg"
+  },
+  {
+    "id": "spreaders-20-yellow",
+    "name": "Spreaders# 20 Yellow",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "Mani finger spreader, size 20, color-coded yellow, used for lateral condensation of gutta percha.",
+    "image": "assets/products/endo/spreaders-20-yellow.jpg"
+  },
+  {
+    "id": "teracal-prevest",
+    "name": "Teracal Prevest",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "Calcium hydroxide/calcium silicate liner used as a protective base under restorations and for pulp capping.",
+    "image": "assets/products/endo/teracal-prevest.jpg"
+  },
+  {
+    "id": "test-a-froid",
+    "name": "Test A Froid",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "Cold pulp-testing refrigerant spray used to assess pulpal nerve response and vitality.",
+    "image": "assets/products/endo/test-a-froid.jpg"
+  },
+  {
+    "id": "theracal-bisco-by-pc",
+    "name": "Theracal Bisco By Pc",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "BISCO TheraCal light-cured resin-modified calcium silicate liner used for direct/indirect pulp capping.",
+    "image": "assets/products/endo/theracal-bisco-by-pc.jpg"
+  },
+  {
+    "id": "zinc-oxide-adi",
+    "name": "Zinc Oxide ADI",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "Zinc oxide powder combined with eugenol to form ZOE cement used for temporary restorations.",
+    "image": "assets/products/endo/zinc-oxide-adi.jpg"
+  },
+  {
+    "id": "zinconol",
+    "name": "Zinconol",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "Prevest Zinconol zinc oxide eugenol cement offering high strength for temporary cementation.",
+    "image": "assets/products/endo/zinconol.jpg"
+  },
+  {
+    "id": "mta-rekita",
+    "name": "MTA Rekita",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "Mineral trioxide aggregate powder used for perforation repair, pulp capping and apexification.",
+    "image": "assets/products/endo/mta-rekita.jpg"
+  },
+  {
+    "id": "smart-cord",
+    "name": "Smart Cord",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "Knitted 100% cotton gingival retraction cord available in graduated sizes for tissue displacement before impressions.",
+    "image": "assets/products/endo/smart-cord.jpg"
+  },
+  {
+    "id": "boite-a-lime-endo-cotton",
+    "name": "Boite A Lime Endo + Cotton",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "Autoclavable endo file box with cotton insert for organized storage and sterilization of endodontic files.",
+    "image": "assets/products/endo/boite-a-lime-endo-cotton.jpg"
+  },
+  {
+    "id": "glyde-file-prep",
+    "name": "Glyde File Prep",
+    "category": "endo",
+    "categoryLabel": "Endodontics",
+    "description": "Dentsply Glyde File Prep EDTA/carbamide peroxide gel used to chelate and lubricate canals during instrumentation.",
+    "image": "assets/products/endo/glyde-file-prep.jpg"
+  },
+  {
+    "id": "bague-ortho",
+    "name": "Bague Ortho",
+    "category": "ortho",
+    "categoryLabel": "Orthodontics",
+    "description": "Preformed stainless steel orthodontic molar band (bague) anatomically contoured for a secure fit around the first molar, used to anchor archwires and orthodontic appliances.",
+    "image": "assets/products/ortho/bague-ortho.jpg"
+  },
+  {
+    "id": "myobrace",
+    "name": "Myobrace",
+    "category": "ortho",
+    "categoryLabel": "Orthodontics",
+    "description": "Myobrace is a removable myofunctional orthodontic appliance system that trains correct tongue posture and oral habits to guide natural teeth alignment and jaw development in children.",
+    "image": "assets/products/ortho/myobrace.jpg"
+  },
+  {
+    "id": "orthodontic-plier-mathieu",
+    "name": "Orthodontic Plier - Mathieu",
+    "category": "ortho",
+    "categoryLabel": "Orthodontics",
+    "description": "Stainless steel Mathieu needle holder/plier with a ratchet-locking mechanism, used in orthodontics for placing elastic ligatures and in oral surgery for suturing.",
+    "image": "assets/products/ortho/orthodontic-plier-mathieu.jpg"
+  },
+  {
+    "id": "transbond-xt",
+    "name": "Transbond Xt",
+    "category": "ortho",
+    "categoryLabel": "Orthodontics",
+    "description": "3M Unitek Transbond XT is a light-cure orthodontic bonding adhesive used to bond metal, ceramic, and plastic brackets to enamel, offering immediate bond strength for archwire placement.",
+    "image": "assets/products/ortho/transbond-xt.jpg"
+  },
+  {
+    "id": "ortho-coin-de-rotation",
+    "name": "Ortho Coin De Rotation",
+    "category": "ortho",
+    "categoryLabel": "Orthodontics",
+    "description": "Orthodontic rotation wedges (coin de rotation) are elastomeric auxiliaries placed between the archwire and bracket to help correct tooth rotation during fixed appliance treatment.",
+    "image": "assets/products/ortho/ortho-coin-de-rotation.jpg"
+  },
+  {
+    "id": "brackets-clarity-022-with-hook-3m",
+    "name": "Brackets Clarity 022 With Hook 3M",
+    "category": "ortho",
+    "categoryLabel": "Orthodontics",
+    "description": "3M Unitek Clarity Advanced ceramic orthodontic brackets, pre-coated with APC Flash-Free adhesive, offering strong esthetics and a low profile; available in .022 slot with hook configurations.",
+    "image": "assets/products/ortho/brackets-clarity-022-with-hook-3m.jpg"
+  },
+  {
+    "id": "clinpro-sealant-seringue",
+    "name": "Clinpro Sealant Seringue",
+    "category": "prevention",
+    "categoryLabel": "Prevention",
+    "description": "3M Clinpro Sealant is a fluoride-releasing, light-cure pit and fissure sealant delivered in a low-viscosity syringe that flows easily into grooves and changes from pink to white as it cures.",
+    "image": "assets/products/prevention/clinpro-sealant-seringue.jpg"
+  },
+  {
+    "id": "clinpro-varnish",
+    "name": "Clinpro Varnish",
+    "category": "prevention",
+    "categoryLabel": "Prevention",
+    "description": "3M Clinpro White Varnish is a 5% sodium fluoride varnish with functionalized tricalcium phosphate that forms a tooth-colored, virtually invisible protective film to help prevent caries and reduce sensitivity.",
+    "image": "assets/products/prevention/clinpro-varnish.jpg"
+  },
+  {
+    "id": "gc-mi-paste-plus",
+    "name": "GC MI Paste Plus",
+    "category": "prevention",
+    "categoryLabel": "Prevention",
+    "description": "GC MI Paste Plus (Tooth Mousse Plus) is a remineralizing topical tooth creme containing RECALDENT (CPP-ACP) plus fluoride that helps buffer plaque acids and strengthen enamel.",
+    "image": "assets/products/prevention/gc-mi-paste-plus.jpg"
+  },
+  {
+    "id": "gel-fluore-prevest-bottle",
+    "name": "Gel Fluore Prevest Bottle",
+    "category": "prevention",
+    "categoryLabel": "Prevention",
+    "description": "Prevest DenPro Fluorotop APF is a topical acidulated phosphate fluoride (1.23%) gel in a bottle format, used chairside for anti-caries treatment with improved thixotropic adherence and xylitol content.",
+    "image": "assets/products/prevention/gel-fluore-prevest-bottle.jpg"
+  },
+  {
+    "id": "gel-fluore-strawberry-eazigel-bottle",
+    "name": "Gel Fluore Strawberry Eazigel Bottle",
+    "category": "prevention",
+    "categoryLabel": "Prevention",
+    "description": "Vericom Eazigel is a strawberry-flavored 1.23% APF topical fluoride gel in a soft, easy-pour bottle, formulated with xylitol for tooth remineralization with minimal tray overflow.",
+    "image": "assets/products/prevention/gel-fluore-strawberry-eazigel-bottle.jpg"
+  },
+  {
+    "id": "vernis-fluore-vericom",
+    "name": "Vernis Fluore Vericom",
+    "category": "prevention",
+    "categoryLabel": "Prevention",
+    "description": "Vericom V-Varnish is a transparent 5% sodium fluoride cavity varnish containing TCP and xylitol, used to treat dentin hypersensitivity with high adhesion and fluoride release.",
+    "image": "assets/products/prevention/vernis-fluore-vericom.jpg"
+  },
+  {
+    "id": "vernis-fluore-voco-bubble-mint-cola",
+    "name": "Vernis Fluore Voco Bubble Mint Cola",
+    "category": "prevention",
+    "categoryLabel": "Prevention",
+    "description": "VOCO Profluorid Varnish is a 5% sodium fluoride, xylitol-infused varnish available in single-dose applicators in several flavors including bubble gum, mint, cherry, caramel and melon.",
+    "image": "assets/products/prevention/vernis-fluore-voco-bubble-mint-cola.jpg"
+  },
+  {
+    "id": "vitrebond-clicker",
+    "name": "Vitrebond Clicker",
+    "category": "prevention",
+    "categoryLabel": "Prevention",
+    "description": "3M Vitrebond Plus is a light-cure glass ionomer liner/base dispensed via a convenient Clicker system, offering fluoride release, low microleakage, and reduced post-operative sensitivity under restorations.",
+    "image": "assets/products/prevention/vitrebond-clicker.jpg"
+  },
+  {
+    "id": "icon",
+    "name": "Icon",
+    "category": "prevention",
+    "categoryLabel": "Prevention",
+    "description": "DMG Icon is a micro-invasive caries infiltration resin that treats early proximal and smooth-surface caries lesions without drilling or anesthesia, arresting lesion progression in a single visit.",
+    "image": "assets/products/prevention/icon.jpg"
+  },
+  {
+    "id": "fiberpost-exacto-n0-5-n1-n2",
+    "name": "Fiberpost Exacto N0.5 N1 N2",
+    "category": "fiberpost",
+    "categoryLabel": "Fiber Posts",
+    "description": "Angelus Exacto is a glass fiber intraradicular conical post with a modulus of elasticity similar to dentin, offering high radiopacity and light transmission for esthetic post-and-core restorations, available in multiple sizes.",
+    "image": "assets/products/fiberpost/fiberpost-exacto-n0-5-n1-n2.jpg"
+  },
+  {
+    "id": "fiberpost-reforpost-n-1-n2",
+    "name": "Fiberpost Reforpost N 1 N2",
+    "category": "fiberpost",
+    "categoryLabel": "Fiber Posts",
+    "description": "Angelus Reforpost is a serrated, parallel glass fiber post with a conical tip, radiopaque and resilient, designed for reinforcing endodontically treated teeth, available in N1 and N2 sizes.",
+    "image": "assets/products/fiberpost/fiberpost-reforpost-n-1-n2.jpg"
+  },
+  {
+    "id": "fiberpost-contect",
+    "name": "Fiberpost Contect",
+    "category": "fiberpost",
+    "categoryLabel": "Fiber Posts",
+    "description": "Hahnenkratt Contec Blanco Fiber Post is a white, semi-translucent glass-fiber root post with high bending strength and a cylindrical/conical design for esthetic post-and-core restorations.",
+    "image": "assets/products/fiberpost/fiberpost-contect.jpg"
+  },
+  {
+    "id": "fiberpost-itena",
+    "name": "Fiberpost Itena",
+    "category": "fiberpost",
+    "categoryLabel": "Fiber Posts",
+    "description": "Itena DentoClic is a French-made glass fiber post composed of unidirectional glass fibers in epoxy resin, offering high flexion resistance, translucency, and a modulus of elasticity close to dentin.",
+    "image": "assets/products/fiberpost/fiberpost-itena.webp"
+  },
+  {
+    "id": "permanent-crown-kit",
+    "name": "Permanent Crown KIT",
+    "category": "crowns",
+    "categoryLabel": "Crowns",
+    "description": "A crown form kit (such as polycarbonate/strip crown kits) providing an assortment of pre-shaped shells used to fabricate temporary or provisional crowns while a final permanent restoration is made.",
+    "image": "assets/products/crowns/permanent-crown-kit.jpg"
+  },
+  {
+    "id": "stainless-steel-crown-kit",
+    "name": "Stainless Steel Crown KIT",
+    "category": "crowns",
+    "categoryLabel": "Crowns",
+    "description": "3M ESPE Stainless Steel Crown Intro Kit for primary molars, containing a full assortment of pre-crimped, pre-trimmed pediatric crowns with shallow occlusal anatomy for durable full-coverage restorations.",
+    "image": "assets/products/crowns/stainless-steel-crown-kit.jpg"
+  },
+  {
+    "id": "stainless-steel-crown-by-piece",
+    "name": "Stainless Steel Crown BY Piece",
+    "category": "crowns",
+    "categoryLabel": "Crowns",
+    "description": "3M ESPE single stainless steel primary molar crown sold individually by size/tooth position, featuring a thick occlusal surface and parallel walls for a customizable pediatric restoration fit.",
+    "image": "assets/products/crowns/stainless-steel-crown-by-piece.jpg"
+  },
+  {
+    "id": "mh1-metal-housing",
+    "name": "MH1 (Metal Housing)",
+    "category": "implant",
+    "categoryLabel": "Implant",
+    "description": "Metal housing component for an implant overdenture O-ring/ball attachment system, embedded in the denture base to retain the O-ring insert that snaps onto the implant abutment.",
+    "image": "assets/products/implant/mh1-metal-housing.png"
+  },
+  {
+    "id": "o-ring-implant-550",
+    "name": "O Ring Implant 550",
+    "category": "implant",
+    "categoryLabel": "Implant",
+    "description": "Replacement O-ring insert used with implant overdenture metal housings to maintain retention between the denture and the implant ball/stud abutment; sold in color-coded retention grades.",
+    "image": "assets/products/implant/o-ring-implant-550.png"
+  },
+  {
+    "id": "robe-medicale",
+    "name": "Robe Medicale",
+    "category": "uniform",
+    "categoryLabel": "Uniform",
+    "description": "A women's lab coat (robe medicale) made of durable, easy-care fabric, worn by dental and medical clinic staff for a professional appearance and protective coverage.",
+    "image": "assets/products/uniform/robe-medicale.jpg"
+  },
+  {
+    "id": "uniform",
+    "name": "Uniform",
+    "category": "uniform",
+    "categoryLabel": "Uniform",
+    "description": "A classic scrub top and pant uniform set worn by dental clinic staff, made from breathable, wrinkle-resistant fabric with practical pockets for a comfortable, professional fit.",
+    "image": "assets/products/uniform/uniform.jpg"
   }
 ]
