@@ -3,59 +3,455 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Biodentic — Coming Soon</title>
-<meta name="description" content="Biodentic, dental equipment and consumables supplier in Lebanon. Our new website is coming soon.">
-<meta name="robots" content="noindex">
+<title>Biodentic — Dental Supplies in Lebanon</title>
+<meta name="description" content="Biodentic, dental equipment and consumables supplier in Lebanon. Orthodontics, general dentistry, sterilization, surgery and precision instruments.">
 <link rel="icon" type="image/svg+xml" href="assets/logo-mark.svg">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Poppins:wght@500;600;700;800&display=swap" rel="stylesheet">
-<style>
-  *{box-sizing:border-box;margin:0;padding:0}
-  body{
-    font-family:'Inter',sans-serif;
-    background:linear-gradient(180deg,#0a1f2e 0%,#0e2c3f 55%,#134156 100%);
-    color:#fff;min-height:100vh;display:flex;align-items:center;justify-content:center;
-    padding:24px;text-align:center;
-  }
-  .card{max-width:520px}
-  .mark{width:72px;height:72px;margin:0 auto 24px}
-  .wordmark{font-family:'Poppins',sans-serif;font-weight:700;font-size:26px;letter-spacing:-.01em}
-  .tag{font-family:'Poppins',sans-serif;font-size:11px;font-weight:600;letter-spacing:.24em;
-    text-transform:uppercase;color:#5eead4;margin-top:6px}
-  h1{font-family:'Poppins',sans-serif;font-weight:700;font-size:32px;line-height:1.25;
-    margin:32px 0 14px;background:linear-gradient(90deg,#fff,#5eead4);-webkit-background-clip:text;
-    background-clip:text;color:transparent}
-  p{color:#c7d7de;font-size:15.5px;line-height:1.6;margin-bottom:28px}
-  .contact{display:flex;gap:14px;justify-content:center;flex-wrap:wrap}
-  .btn{
-    display:inline-flex;align-items:center;gap:8px;padding:13px 22px;border-radius:10px;
-    font-family:'Poppins',sans-serif;font-weight:600;font-size:14.5px;text-decoration:none;
-    transition:transform .15s;
-  }
-  .btn:hover{transform:translateY(-2px)}
-  .btn-primary{background:linear-gradient(90deg,#0d9488,#14b8a6);color:#fff}
-  .btn-ghost{border:1px solid rgba(255,255,255,.25);color:#fff}
-  .btn svg{width:17px;height:17px}
-</style>
+<link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-  <div class="card">
-    <img src="assets/logo-mark.svg" alt="Biodentic" class="mark">
-    <div class="wordmark">Biodentic</div>
-    <div class="tag">For Dental Supplies</div>
-    <h1>We're updating our catalog</h1>
-    <p>Our website is temporarily offline while we rebuild our product catalog with accurate photos, descriptions and categories. We'll be back online shortly — thank you for your patience.</p>
-    <div class="contact">
-      <a href="https://wa.me/96171844249" target="_blank" rel="noopener" class="btn btn-primary">
-        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 11.5a8.38 8.38 0 0 1-.9 3.8 8.5 8.5 0 0 1-7.6 4.7 8.38 8.38 0 0 1-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 0 1-.9-3.8 8.5 8.5 0 0 1 4.7-7.6 8.38 8.38 0 0 1 3.8-.9h.5a8.48 8.48 0 0 1 8 8v.5z"/></svg>
-        Message us on WhatsApp
-      </a>
-      <a href="tel:+96171844249" class="btn btn-ghost">
+
+<div class="topbar">
+  <div class="container">
+    <div class="topbar-left">
+      <a href="tel:+96171844249">
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.127.96.361 1.903.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
         +961 71 844 249
       </a>
+      <a href="#">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>
+        Fanar, Beirut — near the Lebanese University
+      </a>
+    </div>
+    <div class="topbar-right">
+      <a href="https://wa.me/96171844249" target="_blank" rel="noopener">WhatsApp</a>
+      <a href="contact.html">Request a Quote</a>
     </div>
   </div>
+</div>
+
+<header class="site-header">
+  <div class="container nav-inner">
+    <a href="index.html" class="brand">
+      <img src="assets/logo-mark.svg" alt="Biodentic" class="mark">
+      <span class="wordmark">
+        <span class="name">Biodentic</span>
+        <span class="tag">For Dental Supplies</span>
+      </span>
+    </a>
+    <nav class="main-nav">
+      <a href="index.html" class="active">Home</a>
+      <a href="produits.html">Catalog</a>
+      <a href="a-propos.html">About</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+    <form class="site-search" action="produits.html" method="get" role="search">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+      <input type="search" name="q" placeholder="Search products…" aria-label="Search products">
+    </form>
+    <div class="header-actions">
+      <div class="phone">
+        <small>Need help?</small>
+        <strong>+961 71 844 249</strong>
+      </div>
+      <a href="contact.html" class="btn btn-primary btn-sm">Request a Quote</a>
+      <button class="nav-toggle" aria-label="Menu">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
+      </button>
+    </div>
+  </div>
+</header>
+
+<div class="mobile-nav">
+  <div class="mobile-nav-panel">
+    <div class="mobile-nav-head">
+      <img src="assets/logo-mark.svg" alt="Biodentic" class="mobile-nav-logo">
+      <button class="mobile-nav-close" aria-label="Close">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
+      </button>
+    </div>
+    <nav class="mobile-nav-links">
+      <a href="index.html">Home</a>
+      <a href="produits.html">Catalog</a>
+      <a href="a-propos.html">About</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+    <a href="contact.html" class="btn btn-primary btn-block">Request a Quote</a>
+    <div class="mobile-nav-contact">
+      <a href="tel:+96171844249">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.127.96.361 1.903.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
+        +961 71 844 249
+      </a>
+      <a href="https://wa.me/96171844249" target="_blank" rel="noopener">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 11.5a8.38 8.38 0 0 1-.9 3.8 8.5 8.5 0 0 1-7.6 4.7 8.38 8.38 0 0 1-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 0 1-.9-3.8 8.5 8.5 0 0 1 4.7-7.6 8.38 8.38 0 0 1 3.8-.9h.5a8.48 8.48 0 0 1 8 8v.5z"/></svg>
+        WhatsApp
+      </a>
+    </div>
+  </div>
+</div>
+
+<!-- ===================== HERO ===================== -->
+<section class="hero">
+  <div class="container hero-inner">
+    <div class="hero-copy">
+      <div class="eyebrow">Dental supplier in lebanon</div>
+      <h1>Trusted dental equipment, <span>delivered to your practice</span></h1>
+      <p>Biodentic supports dental practices and clinics across Lebanon with a complete range of consumables, instruments and equipment — selected for quality and reliability.</p>
+      <div class="hero-actions">
+        <a href="produits.html" class="btn btn-gradient">
+          View the catalog
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+        </a>
+        <a href="contact.html" class="btn btn-ghost-light">Contact Us</a>
+      </div>
+      <div class="hero-trust">
+        <div class="item">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6L9 17l-5-5"/></svg>
+          <span>Certified equipment</span>
+        </div>
+        <div class="item">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="1" y="3" width="15" height="13"/><polygon points="16 8 20 8 23 11 23 16 16 16 16 8"/><circle cx="5.5" cy="18.5" r="2.5"/><circle cx="18.5" cy="18.5" r="2.5"/></svg>
+          <span>Delivery across Lebanon</span>
+        </div>
+        <div class="item">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 11.5a8.38 8.38 0 0 1-.9 3.8 8.5 8.5 0 0 1-7.6 4.7 8.38 8.38 0 0 1-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 0 1-.9-3.8 8.5 8.5 0 0 1 4.7-7.6 8.38 8.38 0 0 1 3.8-.9h.5a8.48 8.48 0 0 1 8 8v.5z"/></svg>
+          <span>WhatsApp support</span>
+        </div>
+      </div>
+    </div>
+    <div class="hero-visual">
+      <div class="glow"></div>
+      <div class="ring r1"></div>
+      <div class="ring r2"></div>
+      <img src="assets/logo-mark.svg" alt="" class="big-mark">
+      <div class="chip c1">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6L9 17l-5-5"/></svg>
+        <span>Quality checked</span>
+      </div>
+      <div class="chip c2">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+        <span>Fast response</span>
+      </div>
+      <div class="chip c3">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2L2 7l10 5 10-5-10-5z"/><path d="M2 17l10 5 10-5"/><path d="M2 12l10 5 10-5"/></svg>
+        <span>Multi-brand supply</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ===================== STAT STRIP ===================== -->
+<div class="strip">
+  <div class="container">
+    <div class="stat"><b>1800+</b><span>Product references</span></div>
+    <div class="stat"><b>100%</b><span>Practices &amp; clinics</span></div>
+    <div class="stat"><b>24h</b><span>Quote response time</span></div>
+    <div class="stat"><b>Lebanon</b><span>Nationwide delivery</span></div>
+  </div>
+</div>
+
+<!-- ===================== CATEGORIES ===================== -->
+<section class="py-xl">
+  <div class="container">
+    <div class="section-head center" style="margin-left:auto;margin-right:auto">
+      <div class="eyebrow" style="justify-content:center">Our catalog</div>
+      <h2>A complete range for your practice</h2>
+      <p>From everyday consumables to precision instruments, find everything you need for your practice.</p>
+    </div>
+    <div class="cat-grid">
+
+      <a href="produits.html#ortho" class="cat-card">
+        <div class="icon-wrap">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2a7 7 0 0 0-7 7c0 3 1.5 4.5 2.2 7.5.4 1.8.8 3.5 1.8 3.5s1.2-2 1.5-3.5c.2-1 .5-1.5 1.5-1.5s1.3.5 1.5 1.5c.3 1.5.5 3.5 1.5 3.5s1.4-1.7 1.8-3.5C17.5 13.5 19 12 19 9a7 7 0 0 0-7-7z"/></svg>
+        </div>
+        <h3>Orthodontics</h3>
+        <p>Brackets, wires, bands and orthodontic accessories.</p>
+        <span class="go">Discover
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+        </span>
+      </a>
+
+      <a href="produits.html#restorative" class="cat-card">
+        <div class="icon-wrap">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 3"/></svg>
+        </div>
+        <h3>Restorative</h3>
+        <p>Composites, adhesives and everyday filling materials.</p>
+        <span class="go">Discover
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+        </span>
+      </a>
+
+      <a href="produits.html#endo" class="cat-card">
+        <div class="icon-wrap">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="6" cy="6" r="3"/><circle cx="6" cy="18" r="3"/><line x1="20" y1="4" x2="8.12" y2="15.88"/><line x1="14.47" y1="14.48" x2="20" y2="20"/><line x1="8.12" y1="8.12" x2="12" y2="12"/></svg>
+        </div>
+        <h3>Endodontics</h3>
+        <p>Files, sealers, gutta-percha and root canal materials.</p>
+        <span class="go">Discover
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+        </span>
+      </a>
+
+      <a href="produits.html#impression" class="cat-card">
+        <div class="icon-wrap">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+        </div>
+        <h3>Impression Materials</h3>
+        <p>Alginates, silicones and impression accessories.</p>
+        <span class="go">Discover
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+        </span>
+      </a>
+
+      <a href="produits.html#instrument" class="cat-card">
+        <div class="icon-wrap">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z"/></svg>
+        </div>
+        <h3>Instruments</h3>
+        <p>Hand instruments for demanding daily clinical use.</p>
+        <span class="go">Discover
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+        </span>
+      </a>
+
+      <a href="produits.html#disposable" class="cat-card">
+        <div class="icon-wrap">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"/><polyline points="3.27 6.96 12 12.01 20.73 6.96"/><line x1="12" y1="22.08" x2="12" y2="12"/></svg>
+        </div>
+        <h3>Disposables</h3>
+        <p>Gloves, masks, drapes and disposables for daily use.</p>
+        <span class="go">Discover
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+        </span>
+      </a>
+
+      <a href="produits.html#machine" class="cat-card">
+        <div class="icon-wrap">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="3" width="20" height="14" rx="2"/><line x1="8" y1="21" x2="16" y2="21"/><line x1="12" y1="17" x2="12" y2="21"/></svg>
+        </div>
+        <h3>Practice Equipment</h3>
+        <p>Chairs, lamps and equipment for fitting out your practice.</p>
+        <span class="go">Discover
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+        </span>
+      </a>
+
+      <a href="produits.html#polishing" class="cat-card">
+        <div class="icon-wrap">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 1 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-4 0v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 1 1-2.83-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1 0-4h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 1 1 2.83-2.83l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 4 0v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 1 1 2.83 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z"/></svg>
+        </div>
+        <h3>Polishing</h3>
+        <p>Prophy cups, discs and finishing accessories.</p>
+        <span class="go">Discover
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+        </span>
+      </a>
+
+    </div>
+  </div>
+</section>
+
+<!-- ===================== FEATURED PRODUCTS ===================== -->
+<section class="py-xl bg-soft-section">
+  <div class="container">
+    <div class="section-head">
+      <div class="eyebrow">Selection</div>
+      <h2>Our Featured Products</h2>
+      <p>A preview of our catalog — the full list and detailed references are available on request.</p>
+    </div>
+    <div class="product-grid">
+
+      <div class="product-card">
+        <a href="produit.html?id=biodentine-endo009">
+          <div class="product-media">
+            <span class="product-tag">Best-seller</span>
+            <img src="assets/products/endo/biodentine-septodont.jpg" alt="Biodentine" loading="lazy">
+          </div>
+        </a>
+        <div class="product-body">
+          <span class="product-cat">Endodontics</span>
+          <h4><a href="produit.html?id=biodentine-endo009">Biodentine</a></h4>
+          <p>Bioactive dentin substitute for restorative and endodontic use.</p>
+          <div class="product-foot">
+            <span class="quote">On request</span>
+            <a href="contact.html" class="btn btn-outline">Request a Quote</a>
+          </div>
+        </div>
+      </div>
+
+      <div class="product-card">
+        <a href="produit.html?id=3m-impregum-light-cartridge-31751-by-piece-impr006">
+          <div class="product-media">
+            <img src="assets/products/impression/3m-impregum-polyether-cartridge.jpg" alt="3M Impregum Light Cartridge" loading="lazy">
+          </div>
+        </a>
+        <div class="product-body">
+          <span class="product-cat">Impression Materials</span>
+          <h4><a href="produit.html?id=3m-impregum-light-cartridge-31751-by-piece-impr006">3M Impregum Light Cartridge</a></h4>
+          <p>Impression material.</p>
+          <div class="product-foot">
+            <span class="quote">On request</span>
+            <a href="contact.html" class="btn btn-outline">Request a Quote</a>
+          </div>
+        </div>
+      </div>
+
+      <div class="product-card">
+        <a href="produit.html?id=charisma-kit-rest042">
+          <div class="product-media">
+            <span class="product-tag">New</span>
+            <img src="assets/products/restorative/kulzer-charisma-diamond-composite.jpg" alt="Charisma Kit" loading="lazy">
+          </div>
+        </a>
+        <div class="product-body">
+          <span class="product-cat">Restorative</span>
+          <h4><a href="produit.html?id=charisma-kit-rest042">Charisma Kit</a></h4>
+          <p>Light-cure dental composite.</p>
+          <div class="product-foot">
+            <span class="quote">On request</span>
+            <a href="contact.html" class="btn btn-outline">Request a Quote</a>
+          </div>
+        </div>
+      </div>
+
+      <div class="product-card">
+        <a href="produit.html?id=3m-pentamix-machine-mac001">
+          <div class="product-media">
+            <img src="assets/products/machine/3m-pentamix-mixing-machine.jpg" alt="3M Pentamix Machine" loading="lazy">
+          </div>
+        </a>
+        <div class="product-body">
+          <span class="product-cat">Equipment</span>
+          <h4><a href="produit.html?id=3m-pentamix-machine-mac001">3M Pentamix Machine</a></h4>
+          <p>Dental practice equipment.</p>
+          <div class="product-foot">
+            <span class="quote">On request</span>
+            <a href="contact.html" class="btn btn-outline">Request a Quote</a>
+          </div>
+        </div>
+      </div>
+
+    </div>
+    <div class="text-center mt-40">
+      <a href="produits.html" class="btn btn-primary">View Full Catalog</a>
+    </div>
+  </div>
+</section>
+
+<!-- ===================== WHY CHOOSE US ===================== -->
+<section class="py-xl">
+  <div class="container">
+    <div class="section-head center" style="margin-left:auto;margin-right:auto">
+      <div class="eyebrow" style="justify-content:center">Why Biodentic</div>
+      <h2>A reliable partner for your practice</h2>
+    </div>
+    <div class="why-grid">
+      <div class="why-card">
+        <div class="icon-wrap">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+        </div>
+        <h4>Guaranteed Quality</h4>
+        <p>Products sourced from recognized brands, checked before shipping.</p>
+      </div>
+      <div class="why-card">
+        <div class="icon-wrap">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="1" y="3" width="15" height="13"/><polygon points="16 8 20 8 23 11 23 16 16 16 16 8"/><circle cx="5.5" cy="18.5" r="2.5"/><circle cx="18.5" cy="18.5" r="2.5"/></svg>
+        </div>
+        <h4>Fast Delivery</h4>
+        <p>A logistics network built to deliver to your practice anywhere in Lebanon, on time.</p>
+      </div>
+      <div class="why-card">
+        <div class="icon-wrap">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 11.5a8.38 8.38 0 0 1-.9 3.8 8.5 8.5 0 0 1-7.6 4.7 8.38 8.38 0 0 1-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 0 1-.9-3.8 8.5 8.5 0 0 1 4.7-7.6 8.38 8.38 0 0 1 3.8-.9h.5a8.48 8.48 0 0 1 8 8v.5z"/></svg>
+        </div>
+        <h4>Personalized Support</h4>
+        <p>A team available to advise you and prepare your quotes quickly.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ===================== CTA BAND ===================== -->
+<section class="py-lg">
+  <div class="container">
+    <div class="cta-band">
+      <div>
+        <h2>Ready to equip your practice?</h2>
+        <p>Contact our team to receive a personalized quote or for any questions about our products.</p>
+      </div>
+      <div class="actions">
+        <a href="contact.html" class="btn btn-gradient">Request a Quote</a>
+        <a href="https://wa.me/96171844249" target="_blank" rel="noopener" class="btn btn-ghost-light">Message us on WhatsApp</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ===================== FOOTER ===================== -->
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-top">
+      <div class="footer-brand">
+        <a href="index.html" class="brand">
+          <img src="assets/logo-mark.svg" alt="Biodentic" class="mark">
+          <span class="wordmark">
+            <span class="name">Biodentic</span>
+            <span class="tag">For Dental Supplies</span>
+          </span>
+        </a>
+        <p>Dental equipment and consumables supplier serving practices and clinics across Lebanon.</p>
+        <div class="footer-social">
+          <a href="#" aria-label="Instagram"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="2" width="20" height="20" rx="5"/><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"/><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"/></svg></a>
+          <a href="#" aria-label="Facebook"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"/></svg></a>
+          <a href="https://wa.me/96171844249" target="_blank" rel="noopener" aria-label="WhatsApp"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 11.5a8.38 8.38 0 0 1-.9 3.8 8.5 8.5 0 0 1-7.6 4.7 8.38 8.38 0 0 1-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 0 1-.9-3.8 8.5 8.5 0 0 1 4.7-7.6 8.38 8.38 0 0 1 3.8-.9h.5a8.48 8.48 0 0 1 8 8v.5z"/></svg></a>
+        </div>
+      </div>
+      <div class="footer-col">
+        <h5>Navigation</h5>
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="produits.html">Catalog</a></li>
+          <li><a href="a-propos.html">About</a></li>
+          <li><a href="contact.html">Contact</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h5>Categories</h5>
+        <ul>
+          <li><a href="produits.html#disposable">Disposables</a></li>
+          <li><a href="produits.html#endo">Endodontics</a></li>
+          <li><a href="produits.html#instrument">Instruments</a></li>
+          <li><a href="produits.html#machine">Equipment</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h5>Contact</h5>
+        <ul>
+          <li class="contact-line">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.127.96.361 1.903.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
+            <span>+961 71 844 249</span>
+          </li>
+          <li class="contact-line">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>
+            <span>Fanar, Beirut — near the Lebanese University, Lebanon</span>
+          </li>
+          <li class="contact-line">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+            <span>Mon – Fri: 8:30 AM – 5:00 PM</span>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <span>© <span data-year></span> Biodentic. All rights reserved.</span>
+      <span>Website designed for Biodentic — Fanar, Lebanon</span>
+    </div>
+  </div>
+</footer>
+
+<script src="js/main.js"></script>
 </body>
 </html>
