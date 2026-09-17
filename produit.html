@@ -3,349 +3,59 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Product — Biodentic</title>
-<meta name="description" content="Product details from the Biodentic catalog — dental equipment and consumables supplier serving practices and clinics across Lebanon.">
+<title>Biodentic — Coming Soon</title>
+<meta name="description" content="Biodentic, dental equipment and consumables supplier in Lebanon. Our new website is coming soon.">
+<meta name="robots" content="noindex">
 <link rel="icon" type="image/svg+xml" href="assets/logo-mark.svg">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Poppins:wght@500;600;700;800&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="css/style.css">
+<style>
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{
+    font-family:'Inter',sans-serif;
+    background:linear-gradient(180deg,#0a1f2e 0%,#0e2c3f 55%,#134156 100%);
+    color:#fff;min-height:100vh;display:flex;align-items:center;justify-content:center;
+    padding:24px;text-align:center;
+  }
+  .card{max-width:520px}
+  .mark{width:72px;height:72px;margin:0 auto 24px}
+  .wordmark{font-family:'Poppins',sans-serif;font-weight:700;font-size:26px;letter-spacing:-.01em}
+  .tag{font-family:'Poppins',sans-serif;font-size:11px;font-weight:600;letter-spacing:.24em;
+    text-transform:uppercase;color:#5eead4;margin-top:6px}
+  h1{font-family:'Poppins',sans-serif;font-weight:700;font-size:32px;line-height:1.25;
+    margin:32px 0 14px;background:linear-gradient(90deg,#fff,#5eead4);-webkit-background-clip:text;
+    background-clip:text;color:transparent}
+  p{color:#c7d7de;font-size:15.5px;line-height:1.6;margin-bottom:28px}
+  .contact{display:flex;gap:14px;justify-content:center;flex-wrap:wrap}
+  .btn{
+    display:inline-flex;align-items:center;gap:8px;padding:13px 22px;border-radius:10px;
+    font-family:'Poppins',sans-serif;font-weight:600;font-size:14.5px;text-decoration:none;
+    transition:transform .15s;
+  }
+  .btn:hover{transform:translateY(-2px)}
+  .btn-primary{background:linear-gradient(90deg,#0d9488,#14b8a6);color:#fff}
+  .btn-ghost{border:1px solid rgba(255,255,255,.25);color:#fff}
+  .btn svg{width:17px;height:17px}
+</style>
 </head>
 <body>
-
-<div class="topbar">
-  <div class="container">
-    <div class="topbar-left">
-      <a href="tel:+96171844249">
-        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.127.96.361 1.903.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
-        +961 71 844 249
-      </a>
-      <a href="#">
-        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>
-        Fanar, Beirut — near the Lebanese University
-      </a>
-    </div>
-    <div class="topbar-right">
-      <a href="https://wa.me/96171844249" target="_blank" rel="noopener">WhatsApp</a>
-      <a href="contact.html">Request a Quote</a>
-    </div>
-  </div>
-</div>
-
-<header class="site-header">
-  <div class="container nav-inner">
-    <a href="index.html" class="brand">
-      <img src="assets/logo-mark.svg" alt="Biodentic" class="mark">
-      <span class="wordmark">
-        <span class="name">Biodentic</span>
-        <span class="tag">For Dental Supplies</span>
-      </span>
-    </a>
-    <nav class="main-nav">
-      <a href="index.html">Home</a>
-      <a href="produits.html" class="active">Catalog</a>
-      <a href="a-propos.html">About</a>
-      <a href="contact.html">Contact</a>
-    </nav>
-    <form class="site-search" action="produits.html" method="get" role="search">
-      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
-      <input type="search" name="q" placeholder="Search products…" aria-label="Search products">
-    </form>
-    <div class="header-actions">
-      <div class="phone">
-        <small>Need help?</small>
-        <strong>+961 71 844 249</strong>
-      </div>
-      <a href="contact.html" class="btn btn-primary btn-sm">Request a Quote</a>
-      <button class="nav-toggle" aria-label="Menu">
-        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
-      </button>
-    </div>
-  </div>
-</header>
-
-<div class="mobile-nav">
-  <div class="mobile-nav-panel">
-    <div class="mobile-nav-head">
-      <img src="assets/logo-mark.svg" alt="Biodentic" class="mobile-nav-logo">
-      <button class="mobile-nav-close" aria-label="Close">
-        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
-      </button>
-    </div>
-    <nav class="mobile-nav-links">
-      <a href="index.html">Home</a>
-      <a href="produits.html">Catalog</a>
-      <a href="a-propos.html">About</a>
-      <a href="contact.html">Contact</a>
-    </nav>
-    <a href="contact.html" class="btn btn-primary btn-block">Request a Quote</a>
-    <div class="mobile-nav-contact">
-      <a href="tel:+96171844249">
-        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.127.96.361 1.903.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
-        +961 71 844 249
-      </a>
-      <a href="https://wa.me/96171844249" target="_blank" rel="noopener">
+  <div class="card">
+    <img src="assets/logo-mark.svg" alt="Biodentic" class="mark">
+    <div class="wordmark">Biodentic</div>
+    <div class="tag">For Dental Supplies</div>
+    <h1>We're updating our catalog</h1>
+    <p>Our website is temporarily offline while we rebuild our product catalog with accurate photos, descriptions and categories. We'll be back online shortly — thank you for your patience.</p>
+    <div class="contact">
+      <a href="https://wa.me/96171844249" target="_blank" rel="noopener" class="btn btn-primary">
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 11.5a8.38 8.38 0 0 1-.9 3.8 8.5 8.5 0 0 1-7.6 4.7 8.38 8.38 0 0 1-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 0 1-.9-3.8 8.5 8.5 0 0 1 4.7-7.6 8.38 8.38 0 0 1 3.8-.9h.5a8.48 8.48 0 0 1 8 8v.5z"/></svg>
-        WhatsApp
+        Message us on WhatsApp
+      </a>
+      <a href="tel:+96171844249" class="btn btn-ghost">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.127.96.361 1.903.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
+        +961 71 844 249
       </a>
     </div>
   </div>
-</div>
-
-<!-- ===================== BREADCRUMB STRIP ===================== -->
-<section class="page-hero compact">
-  <div class="container">
-    <div class="breadcrumb">
-      <a href="index.html">Home</a>
-      <span>/</span>
-      <a href="produits.html">Catalog</a>
-      <span>/</span>
-      <span id="pd-crumb">Product</span>
-    </div>
-  </div>
-</section>
-
-<!-- ===================== PRODUCT DETAIL ===================== -->
-<section class="py-lg">
-  <div class="container">
-
-    <!-- Loading skeleton -->
-    <div id="pd-loading" class="pd-loading">
-      <div class="pd-skel-media"></div>
-      <div class="pd-skel-lines">
-        <div class="pd-skel-line w-30"></div>
-        <div class="pd-skel-line w-60"></div>
-        <div class="pd-skel-line w-95"></div>
-        <div class="pd-skel-line w-95"></div>
-        <div class="pd-skel-line w-80"></div>
-      </div>
-    </div>
-
-    <!-- Not found state -->
-    <div id="pd-notfound" class="pd-empty" hidden>
-      <div class="pd-empty-icon">
-        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.65" y2="16.65"/><line x1="8" y1="8" x2="14" y2="14"/><line x1="14" y1="8" x2="8" y2="14"/></svg>
-      </div>
-      <h2>We couldn't find that product</h2>
-      <p>The item you're looking for may have been moved, renamed, or the link is incorrect. Browse the full catalog to find what you need — our team is also happy to help you locate a specific reference.</p>
-      <div class="pd-empty-actions">
-        <a href="produits.html" class="btn btn-primary">Back to catalog</a>
-        <a href="contact.html" class="btn btn-outline">Contact us</a>
-      </div>
-    </div>
-
-    <!-- Product content -->
-    <div id="pd-content" class="pd-detail" hidden>
-      <div class="pd-media">
-        <img id="pd-image" src="" alt="">
-      </div>
-      <div class="pd-info">
-        <span class="product-cat" id="pd-cat">Category</span>
-        <h1 id="pd-name">Product name</h1>
-        <p class="pd-brand" id="pd-brand" hidden></p>
-        <p class="pd-desc" id="pd-desc"></p>
-
-        <div class="pd-variants" id="pd-variants" hidden>
-          <span class="pd-variants-label">Available options</span>
-          <div class="pd-variants-list" id="pd-variants-list"></div>
-        </div>
-
-        <div class="pd-quote-line">
-          <span class="quote">Pricing on request</span>
-        </div>
-
-        <div class="pd-actions">
-          <a href="contact.html" id="pd-quote-btn" class="btn btn-gradient">
-            Request a Quote
-          </a>
-          <a href="https://wa.me/96171844249" target="_blank" rel="noopener" class="btn btn-outline">
-            WhatsApp us
-          </a>
-        </div>
-
-        <a href="produits.html" class="pd-back">
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="19" y1="12" x2="5" y2="12"/><polyline points="12 19 5 12 12 5"/></svg>
-          Back to catalog
-        </a>
-      </div>
-    </div>
-
-  </div>
-</section>
-
-<!-- ===================== CTA ===================== -->
-<section class="py-lg">
-  <div class="container">
-    <div class="cta-band">
-      <div>
-        <h2>Can't find a specific item?</h2>
-        <p>Our team can help you source a specific product or prepare a bulk quote for your practice.</p>
-      </div>
-      <div class="actions">
-        <a href="contact.html" class="btn btn-gradient">Request a Quote</a>
-        <a href="https://wa.me/96171844249" target="_blank" rel="noopener" class="btn btn-ghost-light">Message us on WhatsApp</a>
-      </div>
-    </div>
-  </div>
-</section>
-
-<!-- ===================== FOOTER ===================== -->
-<footer class="site-footer">
-  <div class="container">
-    <div class="footer-top">
-      <div class="footer-brand">
-        <a href="index.html" class="brand">
-          <img src="assets/logo-mark.svg" alt="Biodentic" class="mark">
-          <span class="wordmark">
-            <span class="name">Biodentic</span>
-            <span class="tag">For Dental Supplies</span>
-          </span>
-        </a>
-        <p>Dental equipment and consumables supplier serving practices and clinics across Lebanon.</p>
-        <div class="footer-social">
-          <a href="#" aria-label="Instagram"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="2" width="20" height="20" rx="5"/><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"/><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"/></svg></a>
-          <a href="#" aria-label="Facebook"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"/></svg></a>
-          <a href="https://wa.me/96171844249" target="_blank" rel="noopener" aria-label="WhatsApp"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 11.5a8.38 8.38 0 0 1-.9 3.8 8.5 8.5 0 0 1-7.6 4.7 8.38 8.38 0 0 1-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 0 1-.9-3.8 8.5 8.5 0 0 1 4.7-7.6 8.38 8.38 0 0 1 3.8-.9h.5a8.48 8.48 0 0 1 8 8v.5z"/></svg></a>
-        </div>
-      </div>
-      <div class="footer-col">
-        <h5>Navigation</h5>
-        <ul>
-          <li><a href="index.html">Home</a></li>
-          <li><a href="produits.html">Catalog</a></li>
-          <li><a href="a-propos.html">About</a></li>
-          <li><a href="contact.html">Contact</a></li>
-        </ul>
-      </div>
-      <div class="footer-col">
-        <h5>Categories</h5>
-        <ul>
-          <li><a href="produits.html#disposable">Disposables</a></li>
-          <li><a href="produits.html#endo">Endodontics</a></li>
-          <li><a href="produits.html#instrument">Instruments</a></li>
-          <li><a href="produits.html#machine">Equipment</a></li>
-        </ul>
-      </div>
-      <div class="footer-col">
-        <h5>Contact</h5>
-        <ul>
-          <li class="contact-line">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.127.96.361 1.903.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
-            <span>+961 71 844 249</span>
-          </li>
-          <li class="contact-line">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>
-            <span>Fanar, Beirut — near the Lebanese University, Lebanon</span>
-          </li>
-          <li class="contact-line">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
-            <span>Mon – Fri: 8:30 AM – 5:00 PM</span>
-          </li>
-        </ul>
-      </div>
-    </div>
-    <div class="footer-bottom">
-      <span>© <span data-year></span> Biodentic. All rights reserved.</span>
-      <span>Website designed for Biodentic — Fanar, Lebanon</span>
-    </div>
-  </div>
-</footer>
-
-<script src="js/main.js"></script>
-<script>
-(function () {
-  var params = new URLSearchParams(window.location.search);
-  var id = params.get('id');
-
-  var loadingEl = document.getElementById('pd-loading');
-  var notFoundEl = document.getElementById('pd-notfound');
-  var contentEl = document.getElementById('pd-content');
-  var crumbEl = document.getElementById('pd-crumb');
-
-  function showNotFound() {
-    loadingEl.hidden = true;
-    contentEl.hidden = true;
-    notFoundEl.hidden = false;
-    crumbEl.textContent = 'Product not found';
-  }
-
-  function renderProduct(product) {
-    document.title = product.name + ' — Biodentic';
-    crumbEl.textContent = product.name;
-
-    var img = document.getElementById('pd-image');
-    var mediaEl = document.querySelector('.pd-media');
-    if (product.image) {
-      img.src = product.image;
-      mediaEl.classList.remove('placeholder');
-    } else {
-      img.src = 'assets/logo-mark.svg';
-      mediaEl.classList.add('placeholder');
-    }
-    img.alt = product.name;
-
-    document.getElementById('pd-cat').textContent = product.categoryLabel || product.category || '';
-    document.getElementById('pd-name').textContent = product.name;
-
-    var brandEl = document.getElementById('pd-brand');
-    if (product.brand) {
-      brandEl.textContent = product.brand;
-      brandEl.hidden = false;
-    } else {
-      brandEl.hidden = true;
-    }
-
-    document.getElementById('pd-desc').textContent = product.description || '';
-
-    var variantsWrap = document.getElementById('pd-variants');
-    var variantsList = document.getElementById('pd-variants-list');
-    variantsList.innerHTML = '';
-    if (product.variants && product.variants.length) {
-      product.variants.forEach(function (v, i) {
-        var chip = document.createElement('button');
-        chip.type = 'button';
-        chip.className = 'pd-variant-chip' + (i === 0 ? ' active' : '');
-        chip.textContent = v;
-        chip.addEventListener('click', function () {
-          variantsList.querySelectorAll('.pd-variant-chip').forEach(function (c) { c.classList.remove('active'); });
-          chip.classList.add('active');
-        });
-        variantsList.appendChild(chip);
-      });
-      variantsWrap.hidden = false;
-    } else {
-      variantsWrap.hidden = true;
-    }
-
-    var quoteBtn = document.getElementById('pd-quote-btn');
-    quoteBtn.href = 'contact.html?product=' + encodeURIComponent(product.name);
-
-    loadingEl.hidden = true;
-    notFoundEl.hidden = true;
-    contentEl.hidden = false;
-  }
-
-  if (!id) {
-    showNotFound();
-  } else {
-    fetch('data/products.json?v=' + Date.now())
-      .then(function (res) {
-        if (!res.ok) throw new Error('Failed to load product data');
-        return res.json();
-      })
-      .then(function (products) {
-        var product = Array.isArray(products) ? products.find(function (p) { return p.id === id; }) : null;
-        if (!product) {
-          showNotFound();
-        } else {
-          renderProduct(product);
-        }
-      })
-      .catch(function () {
-        showNotFound();
-      });
-  }
-})();
-</script>
 </body>
 </html>
