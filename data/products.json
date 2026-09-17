@@ -24,7 +24,8 @@
   "category": "cementation",
   "categoryLabel": "Cementation",
   "description": "Dental cement.",
-  "image": null
+  "image": "assets/products/cementation/fuji-2.jpg",
+  "imageIsRepresentative": true
  },
  {
   "id": "relyx-lutting-2",
@@ -87,7 +88,8 @@
   "category": "cementation",
   "categoryLabel": "Cementation",
   "description": "Dental cement.",
-  "image": null
+  "image": "assets/products/cementation/silane-bonding-bottle.jpg",
+  "imageIsRepresentative": true
  },
  {
   "id": "panavia-syringe",
@@ -129,7 +131,8 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null
+  "image": "assets/products/disposable/dozeur-alginate.jpg",
+  "imageIsRepresentative": true
  },
  {
   "id": "veneer-box-black",
@@ -156,7 +159,8 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Dental bonding / adhesive agent.",
-  "image": null
+  "image": "assets/products/disposable/matrix-band-box.jpg",
+  "imageIsRepresentative": true
  },
  {
   "id": "alginate-mixing-bowl",
@@ -183,7 +187,8 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null
+  "image": "assets/products/disposable/edentulous-impression-tray-sachet-of-6.jpg",
+  "imageIsRepresentative": true
  },
  {
   "id": "breeze-a2",
@@ -232,7 +237,8 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null
+  "image": "assets/products/disposable/veneer-storage-box.jpg",
+  "imageIsRepresentative": true
  },
  {
   "id": "cover-shoes",
@@ -259,7 +265,8 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null
+  "image": "assets/products/disposable/face-shield-visor.jpg",
+  "imageIsRepresentative": true
  },
  {
   "id": "denture-box-by-pc",
@@ -277,11 +284,12 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Impression material.",
-  "image": null,
+  "image": "assets/products/endo/micromega.jpg",
   "variants": [
    "Large",
    "Small"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "dozeur-alginate",
@@ -299,7 +307,8 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null
+  "image": "assets/products/disposable/euronda-monoart-saliva-ejector.jpg",
+  "imageIsRepresentative": true
  },
  {
   "id": "thread-retr",
@@ -308,7 +317,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null,
+  "image": "assets/products/disposable/tor-vm-matrix-band.jpg",
   "variants": [
    "0",
    "0 Epinephrine",
@@ -318,7 +327,8 @@
    "1 Epinephrine",
    "2",
    "3"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "gallon-for-machine-eau-distiller",
@@ -327,7 +337,8 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null
+  "image": "assets/products/disposable/tor-vm-matrix-band.jpg",
+  "imageIsRepresentative": true
  },
  {
   "id": "dochem-gauze",
@@ -387,7 +398,8 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null
+  "image": "assets/products/disposable/implant-impression-tray.png",
+  "imageIsRepresentative": true
  },
  {
   "id": "gloves-nitril-blue-point",
@@ -396,11 +408,12 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Examination / surgical glove.",
-  "image": null,
+  "image": "assets/products/disposable/screw-post-euro-post.jpg",
   "variants": [
    "Medium",
    "SMALL"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "gloves-nitril-dark-blue",
@@ -409,11 +422,12 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Examination / surgical glove.",
-  "image": null,
+  "image": "assets/products/disposable/pick-and-stick-veneer-box-of-10.jpg",
   "variants": [
    "Medium",
    "Small"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "gloves-nitril-titan",
@@ -457,7 +471,8 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null
+  "image": "assets/products/disposable/toothbrush-box.jpg",
+  "imageIsRepresentative": true
  },
  {
   "id": "gown-sterile-by-piece",
@@ -511,7 +526,8 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null
+  "image": "assets/products/disposable/paste-of-kerr-green-tracing-sticks.jpg",
+  "imageIsRepresentative": true
  },
  {
   "id": "clear-protective-goggles",
@@ -529,7 +545,8 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Orthodontic buccal tube.",
-  "image": null
+  "image": "assets/products/disposable/automix-mixing-tips.jpg",
+  "imageIsRepresentative": true
  },
  {
   "id": "matric-anatomique-ref-410",
@@ -569,7 +586,8 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null
+  "image": "assets/products/disposable/automix-mixing-tips.jpg",
+  "imageIsRepresentative": true
  },
  {
   "id": "micro-brush-3m",
@@ -611,7 +629,8 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null
+  "image": "assets/products/disposable/matrix-band-box.jpg",
+  "imageIsRepresentative": true
  },
  {
   "id": "silicone-mouth-opener",
@@ -638,7 +657,8 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null
+  "image": "assets/products/endo/micromega-assorted-one-reci.jpg",
+  "imageIsRepresentative": true
  },
  {
   "id": "passoir",
@@ -647,7 +667,8 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null
+  "image": "assets/products/disposable/sterile-drape.jpg",
+  "imageIsRepresentative": true
  },
  {
   "id": "pick-and-stick-veneer-box-of-10",
@@ -665,7 +686,8 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null
+  "image": "assets/products/disposable/bib-3-ply.jpg",
+  "imageIsRepresentative": true
  },
  {
   "id": "pipette-graduee",
@@ -674,7 +696,8 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null
+  "image": "assets/products/disposable/rouleau-cotton.jpg",
+  "imageIsRepresentative": true
  },
  {
   "id": "plaque-agent",
@@ -683,7 +706,8 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null
+  "image": "assets/products/disposable/alginate-mixing-bowl.jpg",
+  "imageIsRepresentative": true
  },
  {
   "id": "saliva-ejector-kids-angelus",
@@ -715,11 +739,12 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Impression material.",
-  "image": null,
+  "image": "assets/products/disposable/rubber-dam-clamp.jpg",
   "variants": [
    "Box Of 6",
    "Box Of 8"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "metal-impression-tray-by-piece",
@@ -728,7 +753,8 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Impression material.",
-  "image": null
+  "image": "assets/products/disposable/matric-anatomique-410.jpg",
+  "imageIsRepresentative": true
  },
  {
   "id": "retraction-cord",
@@ -779,7 +805,8 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null
+  "image": "assets/products/disposable/sterilization-box.png",
+  "imageIsRepresentative": true
  },
  {
   "id": "scaler-tip",
@@ -819,7 +846,8 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Teeth whitening product.",
-  "image": null
+  "image": "assets/products/machine/micro-moteur.jpg",
+  "imageIsRepresentative": true
  },
  {
   "id": "strass-dentaire",
@@ -828,7 +856,8 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null
+  "image": "assets/products/disposable/edentulous-impression-tray-sachet-of-6.jpg",
+  "imageIsRepresentative": true
  },
  {
   "id": "surgical-blade-swan-morton",
@@ -837,12 +866,13 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Glass ionomer material.",
-  "image": null,
+  "image": "assets/products/disposable/dental-cotton-roll-pack.jpg",
   "variants": [
    "12",
    "15",
    "15c"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "tablier-of-plombs",
@@ -851,7 +881,8 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null
+  "image": "assets/products/disposable/mandrels-3m.jpg",
+  "imageIsRepresentative": true
  },
  {
   "id": "stopper",
@@ -860,7 +891,8 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null
+  "image": "assets/products/disposable/hemostatic-sponge-cutanplast.jpg",
+  "imageIsRepresentative": true
  },
  {
   "id": "teflon",
@@ -869,7 +901,8 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null
+  "image": "assets/products/disposable/implant-impression-tray.png",
+  "imageIsRepresentative": true
  },
  {
   "id": "tuyau-contre-angle",
@@ -878,7 +911,8 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null
+  "image": "assets/products/disposable/surgical-gloves-package.jpg",
+  "imageIsRepresentative": true
  },
  {
   "id": "yellow-box",
@@ -887,12 +921,13 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null,
+  "image": "assets/products/disposable/gloves-maxter-pf.jpg",
   "variants": [
    "1L",
    "2L",
    "3L"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "id-ring-by-piece",
@@ -910,7 +945,8 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null
+  "image": "assets/products/disposable/autoclavable-bur-box-24-holes.jpg",
+  "imageIsRepresentative": true
  },
  {
   "id": "optragate-regular-ivoclar",
@@ -928,7 +964,8 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null
+  "image": "assets/products/disposable/bib-3-ply.jpg",
+  "imageIsRepresentative": true
  },
  {
   "id": "gloves-powder-free-mint",
@@ -937,11 +974,12 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Examination / surgical glove.",
-  "image": null,
+  "image": "assets/products/disposable/rubber-dam-clamp.jpg",
   "variants": [
    "Medium",
    "Small"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "roll-chariot",
@@ -968,7 +1006,8 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null
+  "image": "assets/products/disposable/dental-mirror-rhodium-autoclavable.jpg",
+  "imageIsRepresentative": true
  },
  {
   "id": "infusion-set",
@@ -977,7 +1016,8 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null
+  "image": "assets/products/disposable/kids-saliva-ejector-flex.jpg",
+  "imageIsRepresentative": true
  },
  {
   "id": "neoputty-mediclus",
@@ -995,7 +1035,8 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Surgical / endodontic product.",
-  "image": null
+  "image": "assets/products/endo/alveogyl-septodent.jpg",
+  "imageIsRepresentative": true
  },
  {
   "id": "apex-locator-woodpecker-3rd-generation",
@@ -1022,13 +1063,14 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Surgical / endodontic product.",
-  "image": null,
+  "image": "assets/products/endo/sure-endo-cord-0.jpg",
   "variants": [
    "06",
    "08",
    "10",
    "15"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "item-2",
@@ -1037,7 +1079,8 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Surgical / endodontic product.",
-  "image": null
+  "image": "assets/products/endo/eugenol-100-ml.jpg",
+  "imageIsRepresentative": true
  },
  {
   "id": "devitec",
@@ -1073,7 +1116,8 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Endodontic hand/rotary file.",
-  "image": null
+  "image": "assets/products/endo/rc-prep-edta-cream.jpg",
+  "imageIsRepresentative": true
  },
  {
   "id": "gutta-condensor",
@@ -1105,7 +1149,8 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Endodontic hand/rotary file.",
-  "image": null
+  "image": "assets/products/endo/gutta-02-15.jpg",
+  "imageIsRepresentative": true
  },
  {
   "id": "ice-bag",
@@ -1114,7 +1159,8 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Surgical / endodontic product.",
-  "image": null
+  "image": "assets/products/endo/kfile-mani-06-25-pink.png",
+  "imageIsRepresentative": true
  },
  {
   "id": "precelle-gutta",
@@ -1123,7 +1169,8 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Endodontic obturation material.",
-  "image": null
+  "image": "assets/products/endo/mta-repair-cement-sachet.png",
+  "imageIsRepresentative": true
  },
  {
   "id": "k-shape-rotary",
@@ -1132,7 +1179,8 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Surgical / endodontic product.",
-  "image": null
+  "image": "assets/products/endo/gutta-condensor-25.jpg",
+  "imageIsRepresentative": true
  },
  {
   "id": "kfile-mani-06-25-pink",
@@ -1159,13 +1207,14 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Surgical / endodontic product.",
-  "image": null,
+  "image": "assets/products/endo/caries-indicator-adi.jpg",
   "variants": [
    "25",
    "30",
    "35",
    "40"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "lentulo-25",
@@ -1174,11 +1223,12 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Surgical / endodontic product.",
-  "image": null,
+  "image": "assets/products/endo/test-a-froid.jpg",
   "variants": [
    "25",
    "35"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "meta-root-canal-sealer-adseal",
@@ -1214,7 +1264,8 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Surgical / endodontic product.",
-  "image": null
+  "image": "assets/products/endo/calcium-hydroxide-iodoform-syringe.jpg",
+  "imageIsRepresentative": true
  },
  {
   "id": "nti-rotary-dental-instrument",
@@ -1223,7 +1274,8 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Surgical / endodontic product.",
-  "image": null
+  "image": "assets/products/misc/glyde-file-prep.jpg",
+  "imageIsRepresentative": true
  },
  {
   "id": "protaper",
@@ -1232,11 +1284,12 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Surgical / endodontic product.",
-  "image": null,
+  "image": "assets/products/endo/eugenol-100-ml.jpg",
   "variants": [
    "S1",
    "S2"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "pulpodent",
@@ -1263,7 +1316,8 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Surgical / endodontic product.",
-  "image": null
+  "image": "assets/products/endo/rc-prep-edta-cream.jpg",
+  "imageIsRepresentative": true
  },
  {
   "id": "rcprep-spident",
@@ -1281,7 +1335,8 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Surgical / endodontic product.",
-  "image": null
+  "image": "assets/products/endo/biodentine.jpg",
+  "imageIsRepresentative": true
  },
  {
   "id": "spreaders-20-yellow",
@@ -1347,7 +1402,8 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Surgical / endodontic product.",
-  "image": null
+  "image": "assets/products/endo/endomethasone-septodent.webp",
+  "imageIsRepresentative": true
  },
  {
   "id": "triclesor-maquira",
@@ -1356,7 +1412,8 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Surgical / endodontic product.",
-  "image": null
+  "image": "assets/products/endo/metapex-root-canal-filling.webp",
+  "imageIsRepresentative": true
  },
  {
   "id": "zinconol",
@@ -1365,7 +1422,8 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Surgical / endodontic product.",
-  "image": null
+  "image": "assets/products/endo/mta-repair-cement-sachet.png",
+  "imageIsRepresentative": true
  },
  {
   "id": "smart-cord",
@@ -1388,7 +1446,8 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Cotton / gauze consumable.",
-  "image": null
+  "image": "assets/products/endo/devitec-devitalizing-paste.jpg",
+  "imageIsRepresentative": true
  },
  {
   "id": "glyde-file-prep",
@@ -1501,7 +1560,7 @@
   "category": "fraise",
   "categoryLabel": "Burs",
   "description": "Rotary dental bur.",
-  "image": null,
+  "image": "assets/products/fraise/bur-endo-z.jpg",
   "variants": [
    "N0",
    "N1",
@@ -1512,7 +1571,8 @@
    "N6",
    "N7",
    "N8"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "bur-aq",
@@ -1521,11 +1581,12 @@
   "category": "fraise",
   "categoryLabel": "Burs",
   "description": "Rotary dental bur.",
-  "image": null,
+  "image": "assets/products/fraise/bur-endo-z.jpg",
   "variants": [
    "AQ12B Korean",
    "AQ12C Korean"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "bur-br",
@@ -1534,13 +1595,14 @@
   "category": "fraise",
   "categoryLabel": "Burs",
   "description": "Rotary dental bur.",
-  "image": null,
+  "image": "assets/products/fraise/bur-carbide-boule-contre-angle.png",
   "variants": [
    "BR31 Korean",
    "BR40 Korean",
    "BR41B Korean",
    "BR41B TR"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "bur-fg",
@@ -1549,11 +1611,12 @@
   "category": "fraise",
   "categoryLabel": "Burs",
   "description": "Rotary dental bur.",
-  "image": null,
+  "image": "assets/products/fraise/bur-chirurgicale.jpg",
   "variants": [
    "FG021 TR",
    "FG023 TR"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "bur-fo",
@@ -1562,11 +1625,12 @@
   "category": "fraise",
   "categoryLabel": "Burs",
   "description": "Rotary dental bur.",
-  "image": null,
+  "image": "assets/products/fraise/stainless-steel-burs.jpg",
   "variants": [
    "FO29 Korean",
    "FO32 Korean"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "bur-sf",
@@ -1575,13 +1639,14 @@
   "category": "fraise",
   "categoryLabel": "Burs",
   "description": "Rotary dental bur.",
-  "image": null,
+  "image": "assets/products/fraise/bur-zekria.jpg",
   "variants": [
    "SF12 Korean",
    "SF21B TR",
    "SF31B TR",
    "SF41B TR"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "bur-tc",
@@ -1590,13 +1655,14 @@
   "category": "fraise",
   "categoryLabel": "Burs",
   "description": "Rotary dental bur.",
-  "image": null,
+  "image": "assets/products/fraise/bur-acryl.jpg",
   "variants": [
    "TC09B TR",
    "TC10B TR",
    "Tc11ef",
    "Tc11ef TR"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "bur-tf",
@@ -1605,7 +1671,7 @@
   "category": "fraise",
   "categoryLabel": "Burs",
   "description": "Rotary dental bur.",
-  "image": null,
+  "image": "assets/products/fraise/bur-mani.jpg",
   "variants": [
    "TF12 Korean",
    "TF12B Korean",
@@ -1614,7 +1680,8 @@
    "TF13C TR",
    "TF21F",
    "Tf11sc"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "bur-tr",
@@ -1623,14 +1690,15 @@
   "category": "fraise",
   "categoryLabel": "Burs",
   "description": "Rotary dental bur.",
-  "image": null,
+  "image": "assets/products/fraise/lime-a-os-miller.jpg",
   "variants": [
    "TR12 Korean",
    "TR12B Korean",
    "TR12C Korean",
    "TR13 Korean",
    "Tr11ef TR"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "lime-a-os-miller",
@@ -1666,11 +1734,12 @@
   "category": "implant",
   "categoryLabel": "Implant",
   "description": "Implant component.",
-  "image": null,
+  "image": "assets/products/implant/mh1-metal-housing.jpg",
   "variants": [
    "10",
    "13"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "o-ring-implant-550",
@@ -1733,7 +1802,8 @@
   "category": "impression",
   "categoryLabel": "Impression Materials",
   "description": "Impression material.",
-  "image": null
+  "image": "assets/products/impression/lascod-medium-box-of-2.jpg",
+  "imageIsRepresentative": true
  },
  {
   "id": "kromopan-alginate",
@@ -1742,7 +1812,8 @@
   "category": "impression",
   "categoryLabel": "Impression Materials",
   "description": "Alginate impression material.",
-  "image": null
+  "image": "assets/products/impression/impregum.jpg",
+  "imageIsRepresentative": true
  },
  {
   "id": "lascod-medium-box-of-2",
@@ -1760,7 +1831,8 @@
   "category": "impression",
   "categoryLabel": "Impression Materials",
   "description": "Impression material.",
-  "image": null
+  "image": "assets/products/impression/vps-tray-adhesive.png",
+  "imageIsRepresentative": true
  },
  {
   "id": "metapaste",
@@ -1769,7 +1841,8 @@
   "category": "impression",
   "categoryLabel": "Impression Materials",
   "description": "Impression material.",
-  "image": null
+  "image": "assets/products/impression/metal-screw-post.jpg",
+  "imageIsRepresentative": true
  },
  {
   "id": "metrowax",
@@ -1796,7 +1869,8 @@
   "category": "impression",
   "categoryLabel": "Impression Materials",
   "description": "Impression material.",
-  "image": null
+  "image": "assets/products/impression/impregum.jpg",
+  "imageIsRepresentative": true
  },
  {
   "id": "occlufast-zhermak",
@@ -1886,7 +1960,8 @@
   "category": "impression",
   "categoryLabel": "Impression Materials",
   "description": "Impression material.",
-  "image": null
+  "image": "assets/products/impression/vericom-putty-light.jpg",
+  "imageIsRepresentative": true
  },
  {
   "id": "vericom-medium-box-of-2",
@@ -1895,7 +1970,8 @@
   "category": "impression",
   "categoryLabel": "Impression Materials",
   "description": "Impression material.",
-  "image": null
+  "image": "assets/products/impression/cavex-alginate-fast-set.jpg",
+  "imageIsRepresentative": true
  },
  {
   "id": "virtual-putty",
@@ -1935,7 +2011,8 @@
   "category": "impression",
   "categoryLabel": "Impression Materials",
   "description": "Cavity liner / base material.",
-  "image": null
+  "image": "assets/products/impression/3m-impregum-penta-by-piece-31740.jpg",
+  "imageIsRepresentative": true
  },
  {
   "id": "tray-adhesive-10-ml",
@@ -1944,7 +2021,8 @@
   "category": "impression",
   "categoryLabel": "Impression Materials",
   "description": "Dental bonding / adhesive agent.",
-  "image": null
+  "image": "assets/products/impression/impression-paste-kris.jpg",
+  "imageIsRepresentative": true
  },
  {
   "id": "angulated-osteotomes-pack-of-5",
@@ -2007,7 +2085,8 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Dental instrument.",
-  "image": null
+  "image": "assets/products/instrument/scissors.jpg",
+  "imageIsRepresentative": true
  },
  {
   "id": "scissors",
@@ -2025,7 +2104,8 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Dental instrument.",
-  "image": null
+  "image": "assets/products/instrument/composite-instrument-kit-gold.jpg",
+  "imageIsRepresentative": true
  },
  {
   "id": "gracey-curette",
@@ -2070,7 +2150,8 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Surgical elevator.",
-  "image": null
+  "image": "assets/products/instrument/precelle.jpg",
+  "imageIsRepresentative": true
  },
  {
   "id": "excavator",
@@ -2165,12 +2246,13 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Light-cure dental composite.",
-  "image": null,
+  "image": "assets/products/instrument/plaster-knife.jpg",
   "variants": [
    "000",
    "F2",
    "L8"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "plastic-appuie-crown",
@@ -2179,7 +2261,8 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Dental crown.",
-  "image": null
+  "image": "assets/products/instrument/periosteal-elevator-molt.jpg",
+  "imageIsRepresentative": true
  },
  {
   "id": "syringe-air-eau",
@@ -2197,7 +2280,8 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Endodontic obturation instrument.",
-  "image": null
+  "image": "assets/products/instrument/cotton-roll-holder.jpg",
+  "imageIsRepresentative": true
  },
  {
   "id": "syndesmotome",
@@ -2233,7 +2317,8 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Dental instrument.",
-  "image": null
+  "image": "assets/products/instrument/thickness-caliper.jpg",
+  "imageIsRepresentative": true
  },
  {
   "id": "large-mirror",
@@ -2260,7 +2345,8 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Dental instrument.",
-  "image": null
+  "image": "assets/products/instrument/glass-cup.png",
+  "imageIsRepresentative": true
  },
  {
   "id": "surgical-retractor-cheek",
@@ -2278,7 +2364,8 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Endodontic hand/rotary file.",
-  "image": null
+  "image": "assets/products/instrument/photo-contrast.jpg",
+  "imageIsRepresentative": true
  },
  {
   "id": "3m-pentamix-machine",
@@ -2350,7 +2437,8 @@
   "category": "machine",
   "categoryLabel": "Equipment",
   "description": "Dental curing / operatory light.",
-  "image": null
+  "image": "assets/products/machine/ultrasonic-scaler-unit.jpg",
+  "imageIsRepresentative": true
  },
  {
   "id": "loupe",
@@ -2359,7 +2447,8 @@
   "category": "machine",
   "categoryLabel": "Equipment",
   "description": "Dental practice equipment.",
-  "image": null
+  "image": "assets/products/machine/syringe-anesthesie-pen.webp",
+  "imageIsRepresentative": true
  },
  {
   "id": "micro-moteur-4-trou-external",
@@ -2377,7 +2466,8 @@
   "category": "machine",
   "categoryLabel": "Equipment",
   "description": "Surface / instrument disinfectant.",
-  "image": null
+  "image": "assets/products/machine/dental-chair.jpg",
+  "imageIsRepresentative": true
  },
  {
   "id": "ordinateur-for-le-rvg",
@@ -2386,7 +2476,8 @@
   "category": "machine",
   "categoryLabel": "Equipment",
   "description": "Dental practice equipment.",
-  "image": null
+  "image": "assets/products/machine/composite-heater-warmer.jpg",
+  "imageIsRepresentative": true
  },
  {
   "id": "handpiece-blue",
@@ -2395,7 +2486,8 @@
   "category": "machine",
   "categoryLabel": "Equipment",
   "description": "Dental handpiece / motor.",
-  "image": null
+  "image": "assets/products/machine/aluminum-oxide-air-abrasion.jpg",
+  "imageIsRepresentative": true
  },
  {
   "id": "sirona-filter-unit",
@@ -2404,7 +2496,8 @@
   "category": "machine",
   "categoryLabel": "Equipment",
   "description": "Dental practice equipment.",
-  "image": null
+  "image": "assets/products/machine/led-curing-light-wireless.jpg",
+  "imageIsRepresentative": true
  },
  {
   "id": "trolley",
@@ -2422,7 +2515,8 @@
   "category": "machine",
   "categoryLabel": "Equipment",
   "description": "Glass ionomer material.",
-  "image": null
+  "image": "assets/products/machine/elipar-deepcure-led-light.jpg",
+  "imageIsRepresentative": true
  },
  {
   "id": "fog-mirror-machine",
@@ -2458,7 +2552,8 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Dental handpiece / motor.",
-  "image": null
+  "image": "assets/products/disposable/silicone-mouth-opener.jpg",
+  "imageIsRepresentative": true
  },
  {
   "id": "digital-shade-guide-machine",
@@ -2467,7 +2562,8 @@
   "category": "machine",
   "categoryLabel": "Equipment",
   "description": "Dental practice equipment.",
-  "image": null
+  "image": "assets/products/machine/electric-brush.png",
+  "imageIsRepresentative": true
  },
  {
   "id": "vibrateur-platre",
@@ -2485,7 +2581,8 @@
   "category": "machine",
   "categoryLabel": "Equipment",
   "description": "Dental practice equipment.",
-  "image": null
+  "image": "assets/products/machine/trolley.jpg",
+  "imageIsRepresentative": true
  },
  {
   "id": "suction-hand-piece",
@@ -2494,7 +2591,8 @@
   "category": "machine",
   "categoryLabel": "Equipment",
   "description": "Dental practice equipment.",
-  "image": null
+  "image": "assets/products/machine/led-curing-light-wireless.jpg",
+  "imageIsRepresentative": true
  },
  {
   "id": "scie-kit-with-contre-angle-machine",
@@ -2503,7 +2601,8 @@
   "category": "machine",
   "categoryLabel": "Equipment",
   "description": "Dental practice equipment.",
-  "image": null
+  "image": "assets/products/machine/turbine-handpiece-nsk.jpg",
+  "imageIsRepresentative": true
  },
  {
   "id": "3m-ortho-power-chain-406-654",
@@ -2512,7 +2611,8 @@
   "category": "ortho",
   "categoryLabel": "Orthodontics",
   "description": "Orthodontic product.",
-  "image": null
+  "image": "assets/products/ortho/transbond-xt.jpg",
+  "imageIsRepresentative": true
  },
  {
   "id": "myobrace",
@@ -2557,7 +2657,8 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Light-cure dental composite.",
-  "image": null
+  "image": "assets/products/polishing/paste-polissage-composite-kris.jpg",
+  "imageIsRepresentative": true
  },
  {
   "id": "disk-soflex-tor",
@@ -2580,7 +2681,8 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Rotary dental bur.",
-  "image": null
+  "image": "assets/products/polishing/shofu-super-snap-single-disc.jpg",
+  "imageIsRepresentative": true
  },
  {
   "id": "bur-polissage-acryl",
@@ -2589,12 +2691,13 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Rotary dental bur.",
-  "image": null,
+  "image": "assets/products/polishing/prophy-paste.jpg",
   "variants": [
    "Black",
    "Blue",
    "Green"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "mandrels-of-contre-angle-a-turbine",
@@ -2603,7 +2706,8 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Dental handpiece / motor.",
-  "image": null
+  "image": "assets/products/polishing/renfert-polishing-kit-all-in-one-stater-kit.jpg",
+  "imageIsRepresentative": true
  },
  {
   "id": "paste-polissage-composite-kris",
@@ -2621,11 +2725,12 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Teeth whitening product.",
-  "image": null,
+  "image": "assets/products/polishing/prophylaxis-paste.jpg",
   "variants": [
    "Pink",
    "White"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "prophy-cups-by-piece",
@@ -2643,7 +2748,8 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Polishing product.",
-  "image": null
+  "image": "assets/products/polishing/prophy-paste.jpg",
+  "imageIsRepresentative": true
  },
  {
   "id": "zirconia-polishing-by-pc-smartpx",
@@ -2652,7 +2758,8 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Polishing product.",
-  "image": null
+  "image": "assets/products/polishing/kit-soflex-3m.jpg",
+  "imageIsRepresentative": true
  },
  {
   "id": "renfert-polishing-kit-all-in-one-stater-kit",
@@ -2733,7 +2840,8 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null
+  "image": "assets/products/disposable/blade-15.jpg",
+  "imageIsRepresentative": true
  },
  {
   "id": "amalgam-n2",
@@ -2760,7 +2868,8 @@
   "category": "restorative",
   "categoryLabel": "Restorative",
   "description": "Restorative dental material.",
-  "image": null
+  "image": "assets/products/restorative/z-primer.jpg",
+  "imageIsRepresentative": true
  },
  {
   "id": "charisma-kit",
@@ -2778,7 +2887,8 @@
   "category": "restorative",
   "categoryLabel": "Restorative",
   "description": "Restorative dental material.",
-  "image": null
+  "image": "assets/products/restorative/snow-white-estelite.jpg",
+  "imageIsRepresentative": true
  },
  {
   "id": "dycal",
@@ -2823,7 +2933,8 @@
   "category": "restorative",
   "categoryLabel": "Restorative",
   "description": "Restorative dental material.",
-  "image": null
+  "image": "assets/products/restorative/estelite-a1-a2-bw-we.jpg",
+  "imageIsRepresentative": true
  },
  {
   "id": "opak-a3-b0-5",
@@ -2832,7 +2943,8 @@
   "category": "restorative",
   "categoryLabel": "Restorative",
   "description": "Restorative dental material.",
-  "image": null
+  "image": "assets/products/restorative/z-primer.jpg",
+  "imageIsRepresentative": true
  },
  {
   "id": "p60-composite-a3-b2",
@@ -2868,7 +2980,8 @@
   "category": "restorative",
   "categoryLabel": "Restorative",
   "description": "Restorative dental material.",
-  "image": null
+  "image": "assets/products/restorative/base-it.jpg",
+  "imageIsRepresentative": true
  },
  {
   "id": "variolink-lc-light-plus",
@@ -2904,7 +3017,8 @@
   "category": "restorative",
   "categoryLabel": "Restorative",
   "description": "Restorative dental material.",
-  "image": null
+  "image": "assets/products/restorative/base-it.jpg",
+  "imageIsRepresentative": true
  },
  {
   "id": "membrane-25x25-10x10",
@@ -2913,7 +3027,8 @@
   "category": "restorative",
   "categoryLabel": "Restorative",
   "description": "Restorative dental material.",
-  "image": null
+  "image": "assets/products/restorative/snow-white-estelite.jpg",
+  "imageIsRepresentative": true
  },
  {
   "id": "articulating-paper-bauch-200-microns-box-of-50-teeth-ceramic",
@@ -2922,7 +3037,8 @@
   "category": "restorative",
   "categoryLabel": "Restorative",
   "description": "Restorative dental material.",
-  "image": null
+  "image": "assets/products/restorative/bulk-flow-denfil.jpg",
+  "imageIsRepresentative": true
  },
  {
   "id": "compostite-zenit-bl",
@@ -2940,12 +3056,13 @@
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Acrylic dental material.",
-  "image": null,
+  "image": "assets/products/temporary/provitemp.jpg",
   "variants": [
    "A1 Bulgary",
    "A2 Bulgary",
    "A3 Bulgary"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "charmtemp-b",
@@ -2977,7 +3094,8 @@
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Temporary restorative material.",
-  "image": null
+  "image": "assets/products/temporary/tempbond-temporary-cement.jpg",
+  "imageIsRepresentative": true
  },
  {
   "id": "hexa-temp-bond-for-implant-automix-5ml",
@@ -2986,7 +3104,8 @@
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Dental bonding / adhesive agent.",
-  "image": null
+  "image": "assets/products/temporary/luxatemp-bl.png",
+  "imageIsRepresentative": true
  },
  {
   "id": "kit-alike",
@@ -3004,7 +3123,8 @@
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Dental curing / operatory light.",
-  "image": null
+  "image": "assets/products/temporary/protemp-4.jpg",
+  "imageIsRepresentative": true
  },
  {
   "id": "acrylic-liquid",
@@ -3013,12 +3133,13 @@
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Acrylic dental material.",
-  "image": null,
+  "image": "assets/products/temporary/kit-alike.webp",
   "variants": [
    "1L",
    "400 Ml",
    "5L"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "liquid-alike",
@@ -3054,11 +3175,12 @@
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Temporary restorative material.",
-  "image": null,
+  "image": "assets/products/temporary/charmtemp.png",
   "variants": [
    "1 Sereingue",
    "Bag Of 3"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "powder-alike",
@@ -3098,7 +3220,8 @@
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Teeth whitening product.",
-  "image": null
+  "image": "assets/products/temporary/provitemp.jpg",
+  "imageIsRepresentative": true
  },
  {
   "id": "provitemp",
@@ -3116,12 +3239,13 @@
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Dental crown.",
-  "image": null,
+  "image": "assets/products/temporary/charmtemp-b.webp",
   "variants": [
    "A1",
    "A2",
    "A3"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "vericom",
@@ -3130,13 +3254,14 @@
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Temporary restorative material.",
-  "image": null,
+  "image": "assets/products/temporary/cavit-temporary-filling.png",
   "variants": [
    "A1",
    "A2",
    "A3",
    "B1"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "vericom-bleach",
@@ -3145,7 +3270,8 @@
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Teeth whitening product.",
-  "image": null
+  "image": "assets/products/temporary/relyx-temp.jpg",
+  "imageIsRepresentative": true
  },
  {
   "id": "acrylic-powder-brulon",
@@ -3154,13 +3280,14 @@
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Acrylic dental material.",
-  "image": null,
+  "image": "assets/products/temporary/kit-alike.webp",
   "variants": [
    "A1",
    "A2",
    "A3",
    "B1"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "c-b-nexobio",
@@ -3169,11 +3296,12 @@
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Temporary restorative material.",
-  "image": null,
+  "image": "assets/products/temporary/hexatemp-a1.jpg",
   "variants": [
    "A1",
    "A2"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "hantemp",
@@ -3205,24 +3333,6 @@
   "categoryLabel": "Temporary Materials",
   "description": "Temporary restorative material.",
   "image": "assets/products/temporary/any-cem-implant.jpg"
- },
- {
-  "id": "medical-gown",
-  "name": "Medical Gown",
-  "brand": "",
-  "category": "uniform",
-  "categoryLabel": "Uniform",
-  "description": "Disposable patient protection.",
-  "image": null
- },
- {
-  "id": "uniform",
-  "name": "Uniform",
-  "brand": "",
-  "category": "uniform",
-  "categoryLabel": "Uniform",
-  "description": "Practice uniform / apparel.",
-  "image": null
  },
  {
   "id": "bioceramic-diadent",
@@ -3276,7 +3386,8 @@
   "category": "whitening",
   "categoryLabel": "Whitening",
   "description": "Teeth whitening product.",
-  "image": null
+  "image": "assets/products/whitening/opalescence.jpg",
+  "imageIsRepresentative": true
  },
  {
   "id": "sheets-gouttiere-silver",
@@ -3285,12 +3396,13 @@
   "category": "whitening",
   "categoryLabel": "Whitening",
   "description": "Teeth whitening product.",
-  "image": null,
+  "image": "assets/products/whitening/opalescence.jpg",
   "variants": [
    "1mm Hard",
    "1mm Soft",
    "2mm Soft"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "si-smile-kit",
@@ -3299,7 +3411,8 @@
   "category": "whitening",
   "categoryLabel": "Whitening",
   "description": "Teeth whitening product.",
-  "image": null
+  "image": "assets/products/whitening/whitening-tray-thermoform-sheets.jpg",
+  "imageIsRepresentative": true
  },
  {
   "id": "withening-white-smile-home-4x1-2g",
@@ -3308,7 +3421,8 @@
   "category": "whitening",
   "categoryLabel": "Whitening",
   "description": "Teeth whitening product.",
-  "image": null
+  "image": "assets/products/whitening/opalescence.jpg",
+  "imageIsRepresentative": true
  },
  {
   "id": "zoom-withening-office",
@@ -3317,7 +3431,8 @@
   "category": "whitening",
   "categoryLabel": "Whitening",
   "description": "Teeth whitening product.",
-  "image": null
+  "image": "assets/products/whitening/whitening-tray-thermoform-sheets.jpg",
+  "imageIsRepresentative": true
  },
  {
   "id": "dental-film-eco30",
@@ -3338,7 +3453,8 @@
   "category": "xray",
   "categoryLabel": "X-Ray",
   "description": "X-ray / imaging product.",
-  "image": null
+  "image": "assets/products/xray/dental-film-eco30.jpg",
+  "imageIsRepresentative": true
  },
  {
   "id": "skydent-x-ray-film",
@@ -3347,7 +3463,8 @@
   "category": "xray",
   "categoryLabel": "X-Ray",
   "description": "X-ray / imaging product.",
-  "image": null
+  "image": "assets/products/xray/dental-film-eco30.jpg",
+  "imageIsRepresentative": true
  },
  {
   "id": "adhesor-zinc",
@@ -4413,6 +4530,19 @@
   ]
  },
  {
+  "id": "uniform-assorted",
+  "name": "Uniform (Assorted)",
+  "brand": "",
+  "category": "uniform",
+  "categoryLabel": "Uniform",
+  "description": "Practice uniform / apparel.",
+  "image": "assets/products/uniform/medical-gown.jpg",
+  "variants": [
+   "Medical Gown",
+   "Uniform"
+  ]
+ },
+ {
   "id": "whitening-assorted",
   "name": "Whitening (Assorted)",
   "brand": "",
@@ -4844,14 +4974,15 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Polishing product.",
-  "image": null,
+  "image": "assets/products/polishing/paste-polissage-composite-kris.jpg",
   "variants": [
    "Polishing Spirale Box Of 6 Ardent",
    "Polishing Spirale By Piece",
    "Polishing Spirale For Zirconia By Piece",
    "Polishing Spirale Handpiece For Zirconia",
    "Polishing Spirale Kit Of 6"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "composite-ardent",
@@ -4860,11 +4991,12 @@
   "category": "restorative",
   "categoryLabel": "Restorative",
   "description": "Light-cure dental composite.",
-  "image": null,
+  "image": "assets/products/restorative/palfique-oa1-oa2-oa3.png",
   "variants": [
    "Composite Ardent A1",
    "Composite Ardent Kit"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "silane-bisco",
@@ -4970,12 +5102,13 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Examination / surgical glove.",
-  "image": null,
+  "image": "assets/products/endo/micromega.jpg",
   "variants": [
    "Gloves Medium Powder Free Trama",
    "Gloves Medium Powdered Nitrex",
    "Gloves Medium Powdered Upm"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "gloves-nitril",
@@ -4984,13 +5117,14 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Examination / surgical glove.",
-  "image": null,
+  "image": "assets/products/disposable/articulating-paper-t.jpg",
   "variants": [
    "Gloves Nitril Bpg",
    "Gloves Nitril Medium Cranberry",
    "Gloves Nitril Xs Cranberry",
    "Gloves Nitril Xs Natural Touch"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "gloves-nitrile",
@@ -4999,11 +5133,12 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Examination / surgical glove.",
-  "image": null,
+  "image": "assets/products/disposable/mandrels-3m.jpg",
   "variants": [
    "Gloves Nitrile Xl",
    "Gloves Nitrile Xs Maxter"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "gloves-small",
@@ -5012,13 +5147,14 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Examination / surgical glove.",
-  "image": null,
+  "image": "assets/products/disposable/paste-of-kerr-green-tracing-sticks.jpg",
   "variants": [
    "Gloves Small Powder Free Trama",
    "Gloves Small Powdered King",
    "Gloves Small Powdered Nitrex",
    "Gloves Small Powdered Silver"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "gun-light",
@@ -5068,11 +5204,12 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Dental tray.",
-  "image": null,
+  "image": "assets/products/disposable/tooth-shade-ring.jpg",
   "variants": [
    "Tray Mauve By Pc",
    "Tray Mauve Paquet Of 100"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "rvg-xray",
@@ -5081,11 +5218,12 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null,
+  "image": "assets/products/disposable/disposable-impression-tray-perforated.jpg",
   "variants": [
    "Rvg Xray Sensor ESCO Medco",
    "Rvg Xray Sensor Handi"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "sealant-syringe",
@@ -5107,11 +5245,12 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Surgical suture.",
-  "image": null,
+  "image": "assets/products/disposable/euronda-monoart-saliva-ejector.jpg",
   "variants": [
    "Suture 3.0 Absorbable Falcon",
    "Suture 3.0 Nylon Falcon"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "suture-4-0",
@@ -5148,11 +5287,12 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Root canal sealer.",
-  "image": null,
+  "image": "assets/products/endo/pulpodent.jpg",
   "variants": [
    "Endo Seal Kris Root X",
    "Endo Seal Prevest"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "gutta-assorted",
@@ -5188,11 +5328,12 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Surgical / endodontic product.",
-  "image": null,
+  "image": "assets/products/endo/peeso-reamers-largo.png",
   "variants": [
    "Rotary Sx To F3",
    "Rotary Sx To F3 Length 31mm"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "tir-nerf",
@@ -5201,11 +5342,12 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Surgical / endodontic product.",
-  "image": null,
+  "image": "assets/products/endo/gutta-percha-solvent-eucalyptol.jpg",
   "variants": [
    "Tir Nerf Mani 1-21",
    "Tir Nerf Swiss 40 Black"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "fiberpost-0-5",
@@ -5267,11 +5409,12 @@
   "category": "fraise",
   "categoryLabel": "Burs",
   "description": "Rotary dental bur.",
-  "image": null,
+  "image": "assets/products/fraise/stainless-steel-burs.jpg",
   "variants": [
    "Bur BR31B Box Of 10",
    "Bur BR31B Korean Box Of 5"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "bur-chirurgicale",
@@ -5293,11 +5436,12 @@
   "category": "fraise",
   "categoryLabel": "Burs",
   "description": "Rotary dental bur.",
-  "image": null,
+  "image": "assets/products/fraise/bur-carbide-330-long.jpg",
   "variants": [
    "Bur Mani Catalogue",
    "Bur Mani Tr14sc"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "bur-transmetal-2",
@@ -5306,11 +5450,12 @@
   "category": "fraise",
   "categoryLabel": "Burs",
   "description": "Rotary dental bur.",
-  "image": null,
+  "image": "assets/products/fraise/stainless-steel-burs.jpg",
   "variants": [
    "Bur Transmetal Mani 1558",
    "Bur Transmetal Tri Hawk"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "bur-zekria",
@@ -5345,11 +5490,12 @@
   "category": "impression",
   "categoryLabel": "Impression Materials",
   "description": "Impression material.",
-  "image": null,
+  "image": "assets/products/impression/metrowax.jpg",
   "variants": [
    "Cire Protection Ortho",
    "Cire Protection Ortho By Pc"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "express-light",
@@ -5358,11 +5504,12 @@
   "category": "impression",
   "categoryLabel": "Impression Materials",
   "description": "Dental curing / operatory light.",
-  "image": null,
+  "image": "assets/products/impression/pattern-resin.jpg",
   "variants": [
    "Express Light Green",
    "Express Light Quick"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "express-xt",
@@ -5371,11 +5518,12 @@
   "category": "impression",
   "categoryLabel": "Impression Materials",
   "description": "Dental curing / operatory light.",
-  "image": null,
+  "image": "assets/products/impression/vericom-putty-light.jpg",
   "variants": [
    "Express Xt Light 36976 1pc",
    "Express Xt Light Quick 36974 1pc"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "lascod-light",
@@ -5384,11 +5532,12 @@
   "category": "impression",
   "categoryLabel": "Impression Materials",
   "description": "Dental curing / operatory light.",
-  "image": null,
+  "image": "assets/products/impression/hydrorise-light.jpg",
   "variants": [
    "Lascod Light Fast",
    "Lascod Light Regular"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "light-spident",
@@ -5397,11 +5546,12 @@
   "category": "impression",
   "categoryLabel": "Impression Materials",
   "description": "Dental curing / operatory light.",
-  "image": null,
+  "image": "assets/products/impression/zhermack-hydrogum-alginate.jpg",
   "variants": [
    "Light Spident Fast",
    "Light Spident Regular"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "putty-light",
@@ -5410,11 +5560,12 @@
   "category": "impression",
   "categoryLabel": "Impression Materials",
   "description": "Dental curing / operatory light.",
-  "image": null,
+  "image": "assets/products/impression/retraction-paste.jpg",
   "variants": [
    "Putty Light Bms",
    "Putty Light Kulzer"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "bite-wing",
@@ -5423,11 +5574,12 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Dental instrument.",
-  "image": null,
+  "image": "assets/products/instrument/cotton-roll-holder.jpg",
   "variants": [
    "Bite Wing Box",
    "Bite Wing Holder (Piece)"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "pince-hemostatique",
@@ -5436,13 +5588,14 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Dental instrument.",
-  "image": null,
+  "image": "assets/products/instrument/angulated-osteotomes-pack-of-5.jpg",
   "variants": [
    "Pince Hemostatique Couder",
    "Pince Hemostatique En Forme Of Scissors",
    "Pince Hemostatique Micro Castroviejo",
    "Pince Hemostatique Needle Holder"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "spatule-a",
@@ -5451,12 +5604,13 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Dental instrument.",
-  "image": null,
+  "image": "assets/products/instrument/elevator.jpg",
   "variants": [
    "Spatule A Composite",
    "Spatule A Composite Becht",
    "Spatule A Malaxage"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "spatule-composite",
@@ -5465,11 +5619,12 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Light-cure dental composite.",
-  "image": null,
+  "image": "assets/products/instrument/optrasculpt-instrument.jpg",
   "variants": [
    "Spatule Composite Anterior Yellow",
    "Spatule Composite Blue"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "contre-angle",
@@ -5496,11 +5651,12 @@
   "category": "machine",
   "categoryLabel": "Equipment",
   "description": "Dental curing / operatory light.",
-  "image": null,
+  "image": "assets/products/machine/micro-moteur-4-trou-external.jpg",
   "variants": [
    "Turbine With Led Tulip",
    "Turbine With Led Tulip 2trou"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "ortho-bracket",
@@ -5537,7 +5693,7 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Rotary dental bur.",
-  "image": null,
+  "image": "assets/products/polishing/disposable-prophy-angle-cup.jpg",
   "variants": [
    "Bur Polissage Acryl Beige",
    "Bur Polissage Acryl Black Pointu",
@@ -5550,7 +5706,8 @@
    "Bur Polissage Poil Contre Angle Petit",
    "Bur Polissage Poil Doux Grand",
    "Bur Polissage Poil Grand"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "kit-polishing",
@@ -5559,11 +5716,12 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Polishing product.",
-  "image": null,
+  "image": "assets/products/polishing/finishing-strip-metal-one-side.png",
   "variants": [
    "KIT Polishing Platon",
    "Kit Polishing Shofu Stone"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "kit-soflex",
@@ -5616,14 +5774,15 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Polishing product.",
-  "image": null,
+  "image": "assets/products/polishing/eve-polishing-zircon-for-handpiece.png",
   "variants": [
    "Prophy Powder 130g",
    "Prophy Powder Acteon",
    "Prophy Powder Floweiss",
    "Prophy Powder Rhapsody",
    "Prophy Powder T"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "polishing-green",
@@ -5632,11 +5791,12 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Polishing product.",
-  "image": null,
+  "image": "assets/products/polishing/eve-polishing-zircon-for-handpiece.png",
   "variants": [
    "Polishing Green Handpiece Hard",
    "Polishing Green Stone Mini"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "gel-fluore",
@@ -5645,11 +5805,12 @@
   "category": "prevention",
   "categoryLabel": "Prevention",
   "description": "Preventive care product.",
-  "image": null,
+  "image": "assets/products/prevention/icon.png",
   "variants": [
    "Gel Fluore Prevest",
    "Gel Fluore Strawberry Eazigel"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "vernis-fluore",
@@ -5658,12 +5819,13 @@
   "category": "prevention",
   "categoryLabel": "Prevention",
   "description": "Preventive care product.",
-  "image": null,
+  "image": "assets/products/prevention/clinpro-varnish.png",
   "variants": [
    "Vernis Fluore Prevest 0.5ML",
    "Vernis Fluore Vericom",
    "Vernis Fluore Voco Bubble Mint Cola"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "3m-easy",
@@ -5672,11 +5834,12 @@
   "category": "restorative",
   "categoryLabel": "Restorative",
   "description": "Flowable dental composite.",
-  "image": null,
+  "image": "assets/products/restorative/variolink-lc-light-plus.jpg",
   "variants": [
    "3M Easy Match Flow",
    "3M Easy Match Neutral Bright Warm"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "base-it",
@@ -5698,11 +5861,12 @@
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Temporary restorative material.",
-  "image": null,
+  "image": "assets/products/temporary/charmtemp.png",
   "variants": [
    "Dento Temp Automix",
    "Dento Temp Box"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "lang-jet",
@@ -5724,14 +5888,15 @@
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Temporary restorative material.",
-  "image": null,
+  "image": "assets/products/temporary/hantemp-a1.webp",
   "variants": [
    "Temporary Paste Bms",
    "Temporary Paste Dentin Paste",
    "Temporary Paste E-temp",
    "Temporary Paste Pyrax",
    "Temporary Paste Rtemp"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "acrylic-powder",
@@ -5754,11 +5919,12 @@
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Dental bonding / adhesive agent.",
-  "image": null,
+  "image": "assets/products/temporary/powder-alike.jpg",
   "variants": [
    "R&s Temp Bond",
    "R&s Temp Fill Temporary Paste"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "relyx-temp",
@@ -5814,11 +5980,12 @@
   "category": "whitening",
   "categoryLabel": "Whitening",
   "description": "Teeth whitening product.",
-  "image": null,
+  "image": "assets/products/whitening/bioceramic-diadent.jpg",
   "variants": [
    "Sheets Goutiere 1.5mm GS060",
    "Sheets Goutiere By Pc"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "white-opalescence",
@@ -5827,12 +5994,13 @@
   "category": "whitening",
   "categoryLabel": "Whitening",
   "description": "Teeth whitening product.",
-  "image": null,
+  "image": "assets/products/whitening/whitening-gel-syringe-in-office.jpg",
   "variants": [
    "White Opalescence 15%",
    "White Opalescence 45%",
    "White Opalescence Boost"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "xray-camera",
@@ -5841,11 +6009,12 @@
   "category": "xray",
   "categoryLabel": "X-Ray",
   "description": "X-ray / imaging product.",
-  "image": null,
+  "image": "assets/products/xray/x-ray-film-positioning-holder.webp",
   "variants": [
    "Xray Camera On The Wall New Life Italian",
    "Xray Camera Portable"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "xray-plastic",
@@ -5854,11 +6023,12 @@
   "category": "xray",
   "categoryLabel": "X-Ray",
   "description": "X-ray / imaging product.",
-  "image": null,
+  "image": "assets/products/xray/x-ray-film-positioning-holder.webp",
   "variants": [
    "Xray Plastic Protection",
    "Xray Plastic Protection Big Size"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "bonding-restorative",
@@ -5867,11 +6037,12 @@
   "category": "restorative",
   "categoryLabel": "Restorative",
   "description": "Dental bonding / adhesive agent.",
-  "image": null,
+  "image": "assets/products/restorative/dycal.png",
   "variants": [
    "Bonding Ardent",
    "Bonding Ardent Universal"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "flow-restorative",
@@ -5880,7 +6051,7 @@
   "category": "restorative",
   "categoryLabel": "Restorative",
   "description": "Flowable dental composite.",
-  "image": null,
+  "image": "assets/products/restorative/irm-dentsply.jpg",
   "variants": [
    "Flow Ardent A1 A2 A3 BL Box Of 2",
    "Flow Diafil",
@@ -5889,7 +6060,8 @@
    "Flow Mani",
    "Flow Ruby",
    "Flow Shofu Plus F00 F03 XBW"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "breeze-cementation",
@@ -5926,11 +6098,12 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Endodontic hand/rotary file.",
-  "image": null,
+  "image": "assets/products/disposable/blade-15.jpg",
   "variants": [
    "Autoclavable Bur Box Petit",
    "Autoclavable File Box"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "mouthguard-disposable",
@@ -5939,11 +6112,12 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null,
+  "image": "assets/products/disposable/denture-box-by-pc.jpg",
   "variants": [
    "Mouthguard Box (Piece)",
    "Mouthguard Box, Pack Of 24"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "box-disposable",
@@ -5952,12 +6126,13 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Rotary dental bur.",
-  "image": null,
+  "image": "assets/products/disposable/dozeur-alginate.jpg",
   "variants": [
    "Box A Stainless Steel Crown",
    "Box Bur 40 Holes",
    "Box For K-files + Band Measuring Gauge"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "disposable-disposable",
@@ -5966,11 +6141,12 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable patient protection.",
-  "image": null,
+  "image": "assets/products/disposable/suture-5-0.jpg",
   "variants": [
    "Disposable Gown Pack Of 10",
    "Disposable Syringe Blue Pack Of 50"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "endo-disposable",
@@ -5979,11 +6155,12 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null,
+  "image": "assets/products/disposable/tooth-type-frasaco.jpg",
   "variants": [
    "Endo Irrigation",
    "Endo Irrigation Sweden"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "gloves-disposable",
@@ -5992,12 +6169,13 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Examination / surgical glove.",
-  "image": null,
+  "image": "assets/products/disposable/matrix-band-anatomique-polydentia.webp",
   "variants": [
    "Gloves Maxter Powdered Medium",
    "Gloves Vinyl Medium",
    "Gloves Xs Powder Free Cranberry"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "handle-disposable",
@@ -6006,11 +6184,12 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Applicator brush.",
-  "image": null,
+  "image": "assets/products/disposable/gloves-pink-nitril.jpg",
   "variants": [
    "Handle Brush",
    "Handle Small Brush 3m"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "microbrush-disposable",
@@ -6037,11 +6216,12 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null,
+  "image": "assets/products/disposable/hand-sanitizer.jpg",
   "variants": [
    "Model Tooth",
    "Model Tooth Facette Veneer"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "brush-disposable",
@@ -6050,13 +6230,14 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Applicator brush.",
-  "image": null,
+  "image": "assets/products/disposable/screw-post-euro-post.jpg",
   "variants": [
    "Brush 3M",
    "Brush A Tooth By Piece",
    "Brush Acryl",
    "Brush Sachet"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "glass-disposable",
@@ -6078,11 +6259,12 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null,
+  "image": "assets/products/disposable/autoclave-sterilization-pouch-roll.png",
   "variants": [
    "Pompe Alcohol",
    "Pompe Chirurgicale Blue"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "scie-disposable",
@@ -6091,12 +6273,13 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null,
+  "image": "assets/products/disposable/tooth-shade-ring.jpg",
   "variants": [
    "Scie Colore",
    "Scie Colore Box Of 8",
    "Scie Tdv With Lame"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "spatule-disposable",
@@ -6105,11 +6288,12 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Alginate impression material.",
-  "image": null,
+  "image": "assets/products/disposable/bur-box.jpg",
   "variants": [
    "Spatule Alginate",
    "Spatule Plastic Malaxage"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "surgical-disposable",
@@ -6118,11 +6302,12 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Glass ionomer material.",
-  "image": null,
+  "image": "assets/products/disposable/bib-3-ply.jpg",
   "variants": [
    "Surgical Aspirator",
    "Surgical Aspirator Sans Adapteur"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "tdv-disposable",
@@ -6131,11 +6316,12 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null,
+  "image": "assets/products/disposable/gloves-nitrile-titan-xs.png",
   "variants": [
    "Tdv Scie",
    "Tdv Scie Refill"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "tips-disposable",
@@ -6144,11 +6330,12 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Flowable dental composite.",
-  "image": null,
+  "image": "assets/products/disposable/impression-tray-lower.jpg",
   "variants": [
    "Tips For Flow Or Etching",
    "Tips Syringe Air Eau Angelus"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "bioceramic-endo",
@@ -6157,13 +6344,14 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Surgical / endodontic product.",
-  "image": null,
+  "image": "assets/products/endo/tip-apex-locator.jpg",
   "variants": [
    "Bioceramic Germany",
    "Bioceramic KP",
    "Bioceramic Mediclus",
    "Bioceramic Meta 2g Ceraseal"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "alveogyl-endo",
@@ -6199,11 +6387,12 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Surgical / endodontic product.",
-  "image": null,
+  "image": "assets/products/endo/rcprep-spident.png",
   "variants": [
    "Endo Cord",
    "Endo Files Sterilisation Box"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "formocresol-endo",
@@ -6226,13 +6415,14 @@
   "category": "endo",
   "categoryLabel": "Endodontics",
   "description": "Surgical / endodontic product.",
-  "image": null,
+  "image": "assets/products/endo/alveogyl-septodent.jpg",
   "variants": [
    "Lentulo 21 Assorted 25-40",
    "Lentulo 25 Assorted 25-40",
    "Lentulo 25-30",
    "Lentulo 40 25"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "reciproque-endo",
@@ -6271,11 +6461,12 @@
   "category": "etching",
   "categoryLabel": "Etching & Bonding",
   "description": "Dental etching gel.",
-  "image": null,
+  "image": "assets/products/etching/etching-fluoridrique.jpg",
   "variants": [
    "ADI Etching",
    "ADI Fluoridric Acid"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "bur-fraise",
@@ -6323,7 +6514,7 @@
   "category": "impression",
   "categoryLabel": "Impression Materials",
   "description": "Dental curing / operatory light.",
-  "image": null,
+  "image": "assets/products/impression/permlastic-regular.webp",
   "variants": [
    "Light Bisico",
    "Light Bms",
@@ -6332,7 +6523,8 @@
    "Light Metta",
    "Light Ok",
    "Light Vericom"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "bms-impression",
@@ -6341,12 +6533,13 @@
   "category": "impression",
   "categoryLabel": "Impression Materials",
   "description": "Impression material.",
-  "image": null,
+  "image": "assets/products/impression/3m-impregum-penta-by-piece-31740.jpg",
   "variants": [
    "BMS Condensation",
    "BMS Putty Addition",
    "Bms Condensation Light"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "silagum-impression",
@@ -6389,11 +6582,12 @@
   "category": "impression",
   "categoryLabel": "Impression Materials",
   "description": "Impression material.",
-  "image": null,
+  "image": "assets/products/impression/virtual-putty.png",
   "variants": [
    "Catalyst Bms",
    "Catalyst Zetaplus"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "condensation-impression",
@@ -6402,11 +6596,12 @@
   "category": "impression",
   "categoryLabel": "Impression Materials",
   "description": "Impression material.",
-  "image": null,
+  "image": "assets/products/impression/bite-registration-wax-sheet.jpg",
   "variants": [
    "Condensation Bonasil",
    "Condensation Mini Kit Bms"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "fit-impression",
@@ -6428,11 +6623,12 @@
   "category": "impression",
   "categoryLabel": "Impression Materials",
   "description": "Impression material.",
-  "image": null,
+  "image": "assets/products/impression/oranwash-zetaplus.jpg",
   "variants": [
    "Hemostal Gel Tube",
    "Hemostal Liquid"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "honigum-impression",
@@ -6467,11 +6663,12 @@
   "category": "impression",
   "categoryLabel": "Impression Materials",
   "description": "Alginate impression material.",
-  "image": null,
+  "image": "assets/products/impression/express-xt.jpg",
   "variants": [
    "IQ Alginate",
    "IQ Tropical Alginate"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "platre-impression",
@@ -6480,13 +6677,14 @@
   "category": "impression",
   "categoryLabel": "Impression Materials",
   "description": "Impression material.",
-  "image": null,
+  "image": "assets/products/impression/astringent.jpg",
   "variants": [
    "Platre Dur",
    "Platre Extra Dur Bag 1.5kg",
    "Platre Normal Blue Ou Yellow Bag Of 2kg",
    "Platre White Soft Bag Of 2kgs"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "wax-impression",
@@ -6549,11 +6747,12 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Dental instrument.",
-  "image": null,
+  "image": "assets/products/instrument/plaster-knife.jpg",
   "variants": [
    "Pince Gouges Of Friedman",
    "Pince Hemostaique En Forme Of Scissors Long Neck"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "porte-instrument",
@@ -6562,13 +6761,14 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Dental instrument.",
-  "image": null,
+  "image": "assets/products/instrument/orthodontic-scissors.jpg",
   "variants": [
    "Porte Bib Ressort",
    "Porte Lame",
    "Porte Papier Articuler",
    "Porte Provisoire"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "precelle-instrument",
@@ -6592,14 +6792,15 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Dental instrument.",
-  "image": null,
+  "image": "assets/products/instrument/curved-scissors.png",
   "variants": [
    "Insert Dentamerica F3",
    "Insert Obturation Pen 40.04",
    "Insert P1 Woodpecker Ultrasonic Scaler",
    "Insert Red System B",
    "Insert Thread"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "periosteal-instrument",
@@ -6622,11 +6823,12 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Dental instrument.",
-  "image": null,
+  "image": "assets/products/instrument/perio-probe-millimetre.jpg",
   "variants": [
    "Ins Metal Ref 478-8342",
    "Ins Replica Posterior Red"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "endo-machine",
@@ -6635,11 +6837,12 @@
   "category": "machine",
   "categoryLabel": "Equipment",
   "description": "Dental practice equipment.",
-  "image": null,
+  "image": "assets/products/machine/water-pick-oral-irrigator.jpg",
   "variants": [
    "Endo Activator Machine",
    "Endo Radar Tete"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "kit-machine",
@@ -6648,11 +6851,12 @@
   "category": "machine",
   "categoryLabel": "Equipment",
   "description": "Dental practice equipment.",
-  "image": null,
+  "image": "assets/products/machine/composite-heater-warmer.jpg",
   "variants": [
    "Kit Educatif Poupee + Accessoires",
    "Kit Implant"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "machine-machine",
@@ -6661,11 +6865,12 @@
   "category": "machine",
   "categoryLabel": "Equipment",
   "description": "Dental practice equipment.",
-  "image": null,
+  "image": "assets/products/machine/syringe-anesthesie-pen.webp",
   "variants": [
    "Machine A Gouttiere",
    "Machine Eau Distiller"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "moteur-machine",
@@ -6674,11 +6879,12 @@
   "category": "machine",
   "categoryLabel": "Equipment",
   "description": "Dental practice equipment.",
-  "image": null,
+  "image": "assets/products/machine/led-curing-light-wireless.jpg",
   "variants": [
    "Moteur Endo",
    "Moteur Handpiece"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "tete-machine",
@@ -6687,12 +6893,13 @@
   "category": "machine",
   "categoryLabel": "Equipment",
   "description": "Dental practice equipment.",
-  "image": null,
+  "image": "assets/products/machine/electric-brush.png",
   "variants": [
    "Tete Lumiere",
    "Tete Of Lumiere Blue",
    "Tete Turbine"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "torch-machine",
@@ -6701,12 +6908,13 @@
   "category": "machine",
   "categoryLabel": "Equipment",
   "description": "Dental practice equipment.",
-  "image": null,
+  "image": "assets/products/machine/electric-brush.png",
   "variants": [
    "Torch Gun",
    "Torch Long Neck",
    "Torch Small Neck"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "ultrasonic-machine",
@@ -6728,11 +6936,12 @@
   "category": "machine",
   "categoryLabel": "Equipment",
   "description": "Dental practice equipment.",
-  "image": null,
+  "image": "assets/products/machine/micro-moteur-4-trou-external.jpg",
   "variants": [
    "Obturation Pen",
    "Obturation Pen GP Easy"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "orthodontic-ortho",
@@ -6741,11 +6950,12 @@
   "category": "ortho",
   "categoryLabel": "Orthodontics",
   "description": "Orthodontic product.",
-  "image": null,
+  "image": "assets/products/ortho/ortho-colored-elastic.jpg",
   "variants": [
    "Orthodontic Band",
    "Orthodontic Plier - Mathieu"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "ortho-ortho",
@@ -6773,12 +6983,13 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Polishing product.",
-  "image": null,
+  "image": "assets/products/polishing/eve-polishing-zircon-for-handpiece.png",
   "variants": [
    "Disc Marron Falcon Coupe Metal",
    "Disc Metal",
    "Disc Metal + Mandrel"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "mandrel-polishing",
@@ -6787,11 +6998,12 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Dental handpiece / motor.",
-  "image": null,
+  "image": "assets/products/polishing/renfert-polishing-kit-all-in-one-stater-kit.jpg",
   "variants": [
    "Mandrel For Handpiece",
    "Mandrel Gros Model For Handpiece"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "pierre-polishing",
@@ -6800,11 +7012,12 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Polishing product.",
-  "image": null,
+  "image": "assets/products/polishing/eve-polishing-zircon-for-handpiece.png",
   "variants": [
    "Pierre Blanche For Polissage",
    "Pierre Ponce White Fin Grain"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "polishing-polishing",
@@ -6813,7 +7026,7 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Polishing product.",
-  "image": null,
+  "image": "assets/products/polishing/disposable-prophy-angle-cup.jpg",
   "variants": [
    "Polishing Cups Spain",
    "Polishing Glaze For Acryl And Composite",
@@ -6831,7 +7044,8 @@
    "Polishing Tdv",
    "Polishing Tobium By Piece",
    "Polishing White Handpiece Acryl &Metal"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "grinding-polishing",
@@ -6840,11 +7054,12 @@
   "category": "polishing",
   "categoryLabel": "Polishing",
   "description": "Dental handpiece / motor.",
-  "image": null,
+  "image": "assets/products/polishing/disk-soflex-tor.jpg",
   "variants": [
    "Grinding Conique Handpiece Zircon&ceramic Green",
    "Grinding Disc Handpiece Zirconia&ceramic Green"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "clinpro-prevention",
@@ -6866,11 +7081,12 @@
   "category": "restorative",
   "categoryLabel": "Restorative",
   "description": "Flowable dental composite.",
-  "image": null,
+  "image": "assets/products/restorative/bulk-flow-denfil.jpg",
   "variants": [
    "3M Bulk Capsule A1 A2 A3",
    "3M Flow"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "acrylic-temporary",
@@ -6879,11 +7095,12 @@
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Acrylic dental material.",
-  "image": null,
+  "image": "assets/products/temporary/relyx-temp.jpg",
   "variants": [
    "Acrylic GD Model Bleach Bulgary",
    "Acrylic Repair"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "temporary-temporary",
@@ -6892,11 +7109,12 @@
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Temporary restorative material.",
-  "image": null,
+  "image": "assets/products/temporary/self-cure-acrylic-denture-powder.webp",
   "variants": [
    "Temporary C&b Nexobio",
    "Temporary Paste"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "powder-temporary",
@@ -6905,11 +7123,12 @@
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Temporary restorative material.",
-  "image": null,
+  "image": "assets/products/temporary/luxatemp-bl.png",
   "variants": [
    "Powder Pink",
    "Powder Pink 400g"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "c-b-temporary",
@@ -6918,11 +7137,12 @@
   "category": "temporary",
   "categoryLabel": "Temporary Materials",
   "description": "Temporary restorative material.",
-  "image": null,
+  "image": "assets/products/temporary/lang-jet.webp",
   "variants": [
    "C&b A1 Pentron",
    "C&b Success A1"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "flash-whitening",
@@ -6931,11 +7151,12 @@
   "category": "whitening",
   "categoryLabel": "Whitening",
   "description": "Teeth whitening product.",
-  "image": null,
+  "image": "assets/products/whitening/hexa-whitening-22.png",
   "variants": [
    "Flash Office Automix 2.5ml",
    "Flash Withening Office"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "opalescence-whitening",
@@ -6957,12 +7178,13 @@
   "category": "whitening",
   "categoryLabel": "Whitening",
   "description": "Teeth whitening product.",
-  "image": null,
+  "image": "assets/products/whitening/opalescence.jpg",
   "variants": [
    "White Opalecence 35%",
    "White Opalesce 20%",
    "White Smile"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "xray-xray",
@@ -7630,13 +7852,14 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null,
+  "image": "assets/products/disposable/dochem-gauze.jpg",
   "variants": [
    "Gun",
    "Gun Astringent",
    "Gun Astringent Ch",
    "Gun Protemp 77581"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "matrix-holder-2",
@@ -7645,12 +7868,13 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Matrix system for restorations.",
-  "image": null,
+  "image": "assets/products/disposable/silicone-mouth-opener.jpg",
   "variants": [
    "Matrix Holder",
    "Matrix Holder Becht",
    "Matrix Holder Bleue"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "scaler-disposable",
@@ -7659,12 +7883,13 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null,
+  "image": "assets/products/disposable/silicone-mouth-opener.jpg",
   "variants": [
    "Scaler",
    "Scaler Handpiece Activa S",
    "Scaler Refine"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "sealant-disposable",
@@ -7673,12 +7898,13 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null,
+  "image": "assets/products/disposable/articulating-paper-t.jpg",
   "variants": [
    "Sealant",
    "Sealant Bottle",
    "Sealant Prevest 1 Syringe"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "syringe",
@@ -7687,7 +7913,7 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null,
+  "image": "assets/products/disposable/sterile-drape.jpg",
   "variants": [
    "1cc",
    "20cc",
@@ -7696,7 +7922,8 @@
    "Syringe 10cc Box Of 100",
    "Syringe 20cc Box 100",
    "Syringe Hypodermic"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "etching-etching",
@@ -7731,7 +7958,7 @@
   "category": "fraise",
   "categoryLabel": "Burs",
   "description": "Rotary dental bur.",
-  "image": null,
+  "image": "assets/products/fraise/bur-endo-z.jpg",
   "variants": [
    "201L",
    "231",
@@ -7752,7 +7979,8 @@
    "Bur Intensive Fg235/6cb",
    "Bur Intensive Fg240/6cb",
    "D4"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "duralay-impression",
@@ -7775,13 +8003,14 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Endodontic obturation instrument.",
-  "image": null,
+  "image": "assets/products/instrument/scissors.jpg",
   "variants": [
    "Plugger",
    "Plugger 040-050",
    "Plugger 060-070",
    "Plugger 090-100"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "sonde-instrument",
@@ -7790,13 +8019,14 @@
   "category": "instrument",
   "categoryLabel": "Instruments",
   "description": "Dental instrument.",
-  "image": null,
+  "image": "assets/products/instrument/cotton-roll-holder.jpg",
   "variants": [
    "Sonde",
    "Sonde Endo",
    "Sonde Gold Or Black",
    "Sonde One Side"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "autoclave-machine",
@@ -7805,12 +8035,13 @@
   "category": "machine",
   "categoryLabel": "Equipment",
   "description": "Sterilization consumable / equipment.",
-  "image": null,
+  "image": "assets/products/machine/trolley.jpg",
   "variants": [
    "Autoclave",
    "Autoclave 90*260",
    "Autoclave Steam Tape"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "developer",
@@ -7819,10 +8050,11 @@
   "category": "xray",
   "categoryLabel": "X-Ray",
   "description": "X-ray / imaging product.",
-  "image": null,
+  "image": "assets/products/misc/agfa-x-ray-film-3-4cm.jpg",
   "variants": [
    "Developer"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "matrix-band-3",
@@ -7964,10 +8196,11 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Rubber dam clamp.",
-  "image": null,
+  "image": "assets/products/disposable/gloves-pink-nitril.jpg",
   "variants": [
    "Clamps"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "fluor-trays",
@@ -7976,13 +8209,14 @@
   "category": "disposable",
   "categoryLabel": "Disposables",
   "description": "Disposable dental product.",
-  "image": null,
+  "image": "assets/products/disposable/autoclave-sterilization-pouch-roll.png",
   "variants": [
    "Blue",
    "Fluor Tray",
    "Green",
    "Yellow"
-  ]
+  ],
+  "imageIsRepresentative": true
  },
  {
   "id": "periotomes",
