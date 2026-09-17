@@ -3118,5 +3118,709 @@
     "categoryLabel": "Disposables",
     "description": "Gants King coloris rose, tailles small, medium, large.",
     "image": "assets/products/disposable/gloves-pink-king.jpg"
+  },
+  {
+    "id": "gloves-powder-free-small",
+    "name": "Gloves Powder Free Small",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Disposable powder-free/nitrile exam gloves, latex-free, textured fingertips, sold in boxes of 100 in assorted sizes.",
+    "image": "assets/products/disposable/gloves-powder-free-small.jpg"
+  },
+  {
+    "id": "articulation-paper-becht",
+    "name": "Articulation Paper Becht",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Thin, tear-resistant articulating (bite) paper coated with colour on both sides for marking occlusal contacts.",
+    "image": "assets/products/disposable/articulation-paper-becht.jpg"
+  },
+  {
+    "id": "bol-alginate",
+    "name": "Bol Alginate",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Autoclavable dappen dish/cup used for mixing small quantities of dental materials such as alginate or acrylic.",
+    "image": "assets/products/disposable/bol-alginate.jpg"
+  },
+  {
+    "id": "cone-en-bois-assorted",
+    "name": "Cone En Bois Assorted",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Maple wood interdental wedges used with matrix bands during Class II restorations, sold assorted or by colour/size.",
+    "image": "assets/products/disposable/cone-en-bois-assorted.jpg"
+  },
+  {
+    "id": "cone-en-bois-blanc",
+    "name": "Cone En Bois Blanc",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Maple wood interdental wedges used with matrix bands during Class II restorations, sold assorted or by colour/size.",
+    "image": "assets/products/disposable/cone-en-bois-blanc.jpg"
+  },
+  {
+    "id": "cone-en-bois-bleu",
+    "name": "Cone En Bois Bleu",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Maple wood interdental wedges used with matrix bands during Class II restorations, sold assorted or by colour/size.",
+    "image": "assets/products/disposable/cone-en-bois-bleu.jpg"
+  },
+  {
+    "id": "cone-en-bois-rose",
+    "name": "Cone En Bois Rose",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Maple wood interdental wedges used with matrix bands during Class II restorations, sold assorted or by colour/size.",
+    "image": "assets/products/disposable/cone-en-bois-rose.jpg"
+  },
+  {
+    "id": "cone-en-bois-polydentia-1000-pcs-rose",
+    "name": "Cone En Bois Polydentia 1000 Pcs Rose",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Maple wood interdental wedges used with matrix bands during Class II restorations, sold assorted or by colour/size.",
+    "image": "assets/products/disposable/cone-en-bois-polydentia-1000-pcs-rose.jpg"
+  },
+  {
+    "id": "curaspon-eponge-hemostatique",
+    "name": "Curaspon Eponge Hemostatique",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Absorbable gelatin hemostatic sponge used to control bleeding after extractions and minor oral surgery.",
+    "image": "assets/products/disposable/curaspon-eponge-hemostatique.jpg"
+  },
+  {
+    "id": "cutanplast-eponge-hemostatique",
+    "name": "Cutanplast Eponge Hemostatique",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Absorbable gelatin hemostatic sponge used to control bleeding after extractions and minor oral surgery.",
+    "image": "assets/products/disposable/cutanplast-eponge-hemostatique.jpg"
+  },
+  {
+    "id": "dochem-porte-emprunte-lower-large",
+    "name": "Dochem Porte Emprunte Lower Large",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Perforated stainless steel dental impression tray, autoclavable, used for taking alginate/impression material.",
+    "image": "assets/products/disposable/dochem-porte-emprunte-lower-large.jpg"
+  },
+  {
+    "id": "dozeur-alginate",
+    "name": "Dozeur Alginate",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Autoclavable dappen dish/cup used for mixing small quantities of dental materials such as alginate or acrylic.",
+    "image": "assets/products/disposable/dozeur-alginate.jpg"
+  },
+  {
+    "id": "easy-matrice-blue-like-kerr-s",
+    "name": "Easy Matrice Blue Like Kerr(s)",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Stainless steel dental matrix band used to reproduce anatomical tooth contours during Class II composite/amalgam restorations.",
+    "image": "assets/products/disposable/easy-matrice-blue-like-kerr-s.jpg"
+  },
+  {
+    "id": "eponge-hemostatique-belgium-by-pc",
+    "name": "Eponge Hemostatique Belgium By Pc",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Absorbable gelatin hemostatic sponge used to control bleeding after extractions and minor oral surgery.",
+    "image": "assets/products/disposable/eponge-hemostatique-belgium-by-pc.jpg"
+  },
+  {
+    "id": "fil-retr-0-epinephrine",
+    "name": "FIL Retr 0 Epinephrine",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Soft knitted 100% cotton gingival retraction cord used for tissue displacement before impressions, sizes #0/#00/#000.",
+    "image": "assets/products/disposable/fil-retr-0-epinephrine.jpg"
+  },
+  {
+    "id": "gloves-maxter-pf-large",
+    "name": "Gloves Maxter PF Large",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Disposable powder-free/nitrile exam gloves, latex-free, textured fingertips, sold in boxes of 100 in assorted sizes.",
+    "image": "assets/products/disposable/gloves-maxter-pf-large.jpg"
+  },
+  {
+    "id": "gloves-maxter-pf-medium",
+    "name": "Gloves Maxter PF Medium",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Disposable powder-free/nitrile exam gloves, latex-free, textured fingertips, sold in boxes of 100 in assorted sizes.",
+    "image": "assets/products/disposable/gloves-maxter-pf-medium.jpg"
+  },
+  {
+    "id": "gloves-vinyl-medium",
+    "name": "Gloves Vinyl Medium",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Disposable powder-free/nitrile exam gloves, latex-free, textured fingertips, sold in boxes of 100 in assorted sizes.",
+    "image": "assets/products/disposable/gloves-vinyl-medium.jpg"
+  },
+  {
+    "id": "gloves-mint-powdered-xs",
+    "name": "Gloves Mint Powdered Xs",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Disposable powder-free/nitrile exam gloves, latex-free, textured fingertips, sold in boxes of 100 in assorted sizes.",
+    "image": "assets/products/disposable/gloves-mint-powdered-xs.jpg"
+  },
+  {
+    "id": "gloves-nitril-blue-point-small",
+    "name": "Gloves Nitril Blue Point Small",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Disposable powder-free/nitrile exam gloves, latex-free, textured fingertips, sold in boxes of 100 in assorted sizes.",
+    "image": "assets/products/disposable/gloves-nitril-blue-point-small.jpg"
+  },
+  {
+    "id": "gloves-nitril-xs-cranberry",
+    "name": "Gloves Nitril Xs Cranberry",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Disposable powder-free/nitrile exam gloves, latex-free, textured fingertips, sold in boxes of 100 in assorted sizes.",
+    "image": "assets/products/disposable/gloves-nitril-xs-cranberry.jpg"
+  },
+  {
+    "id": "gloves-nitril-xs-natural-touch",
+    "name": "Gloves Nitril Xs Natural Touch",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Disposable powder-free/nitrile exam gloves, latex-free, textured fingertips, sold in boxes of 100 in assorted sizes.",
+    "image": "assets/products/disposable/gloves-nitril-xs-natural-touch.jpg"
+  },
+  {
+    "id": "gloves-powder-free-large-fifty-five",
+    "name": "Gloves Powder Free Large Fifty Five",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Disposable powder-free/nitrile exam gloves, latex-free, textured fingertips, sold in boxes of 100 in assorted sizes.",
+    "image": "assets/products/disposable/gloves-powder-free-large-fifty-five.jpg"
+  },
+  {
+    "id": "gloves-powdered-small-king",
+    "name": "Gloves Powdered Small King",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Disposable powder-free/nitrile exam gloves, latex-free, textured fingertips, sold in boxes of 100 in assorted sizes.",
+    "image": "assets/products/disposable/gloves-powdered-small-king.jpg"
+  },
+  {
+    "id": "gloves-powdered-large-blossom",
+    "name": "Gloves Powdered Large Blossom",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Disposable powder-free/nitrile exam gloves, latex-free, textured fingertips, sold in boxes of 100 in assorted sizes.",
+    "image": "assets/products/disposable/gloves-powdered-large-blossom.jpg"
+  },
+  {
+    "id": "gown-sterile-by-piece",
+    "name": "Gown Sterile By Piece",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Disposable SMS non-woven sterile isolation gown providing fluid and microorganism barrier protection.",
+    "image": "assets/products/disposable/gown-sterile-by-piece.jpg"
+  },
+  {
+    "id": "gun-astringent",
+    "name": "Gun Astringent",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Ergonomic dispensing gun for cartridge-based impression, temporary crown and bridge materials.",
+    "image": "assets/products/disposable/gun-astringent.jpg"
+  },
+  {
+    "id": "gun-light-77580",
+    "name": "Gun Light 77580",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Ergonomic dispensing gun for cartridge-based impression, temporary crown and bridge materials.",
+    "image": "assets/products/disposable/gun-light-77580.jpg"
+  },
+  {
+    "id": "gun-protemp-77581",
+    "name": "Gun Protemp 77581",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Ergonomic dispensing gun for cartridge-based impression, temporary crown and bridge materials.",
+    "image": "assets/products/disposable/gun-protemp-77581.jpg"
+  },
+  {
+    "id": "in-porte-matrice",
+    "name": "In Porte Matrice",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Tofflemire-style matrix band retainer, stainless steel, used to hold matrix bands during Class II restorations.",
+    "image": "assets/products/disposable/in-porte-matrice.jpg"
+  },
+  {
+    "id": "matrice-becht-tr",
+    "name": "Matrice Becht Tr",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Tofflemire-style matrix band retainer, stainless steel, used to hold matrix bands during Class II restorations.",
+    "image": "assets/products/disposable/matrice-becht-tr.jpg"
+  },
+  {
+    "id": "matric-anatomique-ref",
+    "name": "Matric Anatomique Ref",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Stainless steel dental matrix band used to reproduce anatomical tooth contours during Class II composite/amalgam restorations.",
+    "image": "assets/products/disposable/matric-anatomique-ref.jpg"
+  },
+  {
+    "id": "matrice-0-03x5mm",
+    "name": "Matrice 0.03x5mm",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Stainless steel dental matrix band used to reproduce anatomical tooth contours during Class II composite/amalgam restorations.",
+    "image": "assets/products/disposable/matrice-0-03x5mm.jpg"
+  },
+  {
+    "id": "matrice-0-03x6mm",
+    "name": "Matrice 0.03x6mm",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Stainless steel dental matrix band used to reproduce anatomical tooth contours during Class II composite/amalgam restorations.",
+    "image": "assets/products/disposable/matrice-0-03x6mm.jpg"
+  },
+  {
+    "id": "matrice-0-03x7mm",
+    "name": "Matrice 0.03x7mm",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Stainless steel dental matrix band used to reproduce anatomical tooth contours during Class II composite/amalgam restorations.",
+    "image": "assets/products/disposable/matrice-0-03x7mm.jpg"
+  },
+  {
+    "id": "matrice-1098",
+    "name": "Matrice 1098",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Stainless steel dental matrix band used to reproduce anatomical tooth contours during Class II composite/amalgam restorations.",
+    "image": "assets/products/disposable/matrice-1098.jpg"
+  },
+  {
+    "id": "matrice-1384",
+    "name": "Matrice 1384",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Stainless steel dental matrix band used to reproduce anatomical tooth contours during Class II composite/amalgam restorations.",
+    "image": "assets/products/disposable/matrice-1384.jpg"
+  },
+  {
+    "id": "matrice-1387-unica-spoon-m",
+    "name": "Matrice 1387 Unica Spoon M",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Stainless steel dental matrix band used to reproduce anatomical tooth contours during Class II composite/amalgam restorations.",
+    "image": "assets/products/disposable/matrice-1387-unica-spoon-m.jpg"
+  },
+  {
+    "id": "matrice-1523-unica",
+    "name": "Matrice 1523 Unica",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Stainless steel dental matrix band used to reproduce anatomical tooth contours during Class II composite/amalgam restorations.",
+    "image": "assets/products/disposable/matrice-1523-unica.jpg"
+  },
+  {
+    "id": "matrice-1533-unica",
+    "name": "Matrice 1533 Unica",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Stainless steel dental matrix band used to reproduce anatomical tooth contours during Class II composite/amalgam restorations.",
+    "image": "assets/products/disposable/matrice-1533-unica.jpg"
+  },
+  {
+    "id": "matrice-1888-assorted-unica-and-spoon",
+    "name": "Matrice 1888 Assorted Unica And Spoon",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Stainless steel dental matrix band used to reproduce anatomical tooth contours during Class II composite/amalgam restorations.",
+    "image": "assets/products/disposable/matrice-1888-assorted-unica-and-spoon.jpg"
+  },
+  {
+    "id": "matrice-1972",
+    "name": "Matrice 1972",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Stainless steel dental matrix band used to reproduce anatomical tooth contours during Class II composite/amalgam restorations.",
+    "image": "assets/products/disposable/matrice-1972.jpg"
+  },
+  {
+    "id": "matrice-1973",
+    "name": "Matrice 1973",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Stainless steel dental matrix band used to reproduce anatomical tooth contours during Class II composite/amalgam restorations.",
+    "image": "assets/products/disposable/matrice-1973.jpg"
+  },
+  {
+    "id": "matrice-1976",
+    "name": "Matrice 1976",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Stainless steel dental matrix band used to reproduce anatomical tooth contours during Class II composite/amalgam restorations.",
+    "image": "assets/products/disposable/matrice-1976.jpg"
+  },
+  {
+    "id": "matrice-anatomique-5714-pqt-de-50-polydentia",
+    "name": "Matrice Anatomique 5714 Pqt De 50 Polydentia",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Stainless steel dental matrix band used to reproduce anatomical tooth contours during Class II composite/amalgam restorations.",
+    "image": "assets/products/disposable/matrice-anatomique-5714-pqt-de-50-polydentia.jpg"
+  },
+  {
+    "id": "matrice-anatomique-6104-pqt-de-12-t",
+    "name": "Matrice Anatomique 6104 Pqt De 12 T",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Stainless steel dental matrix band used to reproduce anatomical tooth contours during Class II composite/amalgam restorations.",
+    "image": "assets/products/disposable/matrice-anatomique-6104-pqt-de-12-t.jpg"
+  },
+  {
+    "id": "matrice-anterieur-tr1912-bte-64-pcs",
+    "name": "Matrice Anterieur Tr1912 Bte 64 Pcs",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Stainless steel dental matrix band used to reproduce anatomical tooth contours during Class II composite/amalgam restorations.",
+    "image": "assets/products/disposable/matrice-anterieur-tr1912-bte-64-pcs.jpg"
+  },
+  {
+    "id": "matrice-bte-36-tor-1330",
+    "name": "Matrice Bte 36 TOR 1330",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Stainless steel dental matrix band used to reproduce anatomical tooth contours during Class II composite/amalgam restorations.",
+    "image": "assets/products/disposable/matrice-bte-36-tor-1330.jpg"
+  },
+  {
+    "id": "matrice-celluloide-kit",
+    "name": "Matrice Celluloide Kit",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Stainless steel dental matrix band used to reproduce anatomical tooth contours during Class II composite/amalgam restorations.",
+    "image": "assets/products/disposable/matrice-celluloide-kit.jpg"
+  },
+  {
+    "id": "matrice-kerr-manche",
+    "name": "Matrice Kerr Manche",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Tofflemire-style matrix band retainer, stainless steel, used to hold matrix bands during Class II restorations.",
+    "image": "assets/products/disposable/matrice-kerr-manche.jpg"
+  },
+  {
+    "id": "matrice-posterieur-tr",
+    "name": "Matrice Posterieur Tr",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Stainless steel dental matrix band used to reproduce anatomical tooth contours during Class II composite/amalgam restorations.",
+    "image": "assets/products/disposable/matrice-posterieur-tr.jpg"
+  },
+  {
+    "id": "matrice-ring",
+    "name": "Matrice Ring",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Stainless steel dental matrix band used to reproduce anatomical tooth contours during Class II composite/amalgam restorations.",
+    "image": "assets/products/disposable/matrice-ring.jpg"
+  },
+  {
+    "id": "matrice-tr-roll",
+    "name": "Matrice Tr Roll",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Stainless steel dental matrix band used to reproduce anatomical tooth contours during Class II composite/amalgam restorations.",
+    "image": "assets/products/disposable/matrice-tr-roll.jpg"
+  },
+  {
+    "id": "matrices-rogin-bte-de",
+    "name": "Matrices Rogin BTE DE",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Stainless steel dental matrix band used to reproduce anatomical tooth contours during Class II composite/amalgam restorations.",
+    "image": "assets/products/disposable/matrices-rogin-bte-de.jpg"
+  },
+  {
+    "id": "micromega",
+    "name": "Micromega",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Micro-Mega Hero Shaper NiTi rotary endodontic file with triple-helix cutting edge for root canal shaping.",
+    "image": "assets/products/disposable/micromega.jpg"
+  },
+  {
+    "id": "mixing-tips-inta-oral",
+    "name": "Mixing Tips + Inta Oral",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Automix helical mixing tips for impression material cartridges, compatible with standard dispensing guns.",
+    "image": "assets/products/disposable/mixing-tips-inta-oral.jpg"
+  },
+  {
+    "id": "mixing-tips-bite-registration",
+    "name": "Mixing Tips Bite Registration",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Automix helical mixing tips for impression material cartridges, compatible with standard dispensing guns.",
+    "image": "assets/products/disposable/mixing-tips-bite-registration.jpg"
+  },
+  {
+    "id": "mixing-tips-protemp",
+    "name": "Mixing Tips Protemp",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Automix helical mixing tips for impression material cartridges, compatible with standard dispensing guns.",
+    "image": "assets/products/disposable/mixing-tips-protemp.jpg"
+  },
+  {
+    "id": "mixing-tips-white-3m-50pcs",
+    "name": "Mixing Tips White 3M 50pcs",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Automix helical mixing tips for impression material cartridges, compatible with standard dispensing guns.",
+    "image": "assets/products/disposable/mixing-tips-white-3m-50pcs.jpg"
+  },
+  {
+    "id": "needles-27g-34-dochem",
+    "name": "Needles 27g*34 Dochem",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Septoject sterile single-use dental anesthetic needle for cartridge syringes, triple-bevel stainless steel.",
+    "image": "assets/products/disposable/needles-27g-34-dochem.jpg"
+  },
+  {
+    "id": "needles-27g-34-supermed",
+    "name": "Needles 27g*34 Supermed",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Septoject sterile single-use dental anesthetic needle for cartridge syringes, triple-bevel stainless steel.",
+    "image": "assets/products/disposable/needles-27g-34-supermed.jpg"
+  },
+  {
+    "id": "penta-mixing-tips",
+    "name": "Penta Mixing Tips",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Automix helical mixing tips for impression material cartridges, compatible with standard dispensing guns.",
+    "image": "assets/products/disposable/penta-mixing-tips.jpg"
+  },
+  {
+    "id": "plateau-blanc",
+    "name": "Plateau Blanc",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Autoclavable plastic instrument tray used for chairside organisation and instrument transport.",
+    "image": "assets/products/disposable/plateau-blanc.jpg"
+  },
+  {
+    "id": "plateau-bleu",
+    "name": "Plateau Bleu",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Autoclavable plastic instrument tray used for chairside organisation and instrument transport.",
+    "image": "assets/products/disposable/plateau-bleu.jpg"
+  },
+  {
+    "id": "plateau-mauve-by-pc",
+    "name": "Plateau Mauve By Pc",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Autoclavable plastic instrument tray used for chairside organisation and instrument transport.",
+    "image": "assets/products/disposable/plateau-mauve-by-pc.jpg"
+  },
+  {
+    "id": "plateau-mauve-paquet-de",
+    "name": "Plateau Mauve Paquet De",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Autoclavable plastic instrument tray used for chairside organisation and instrument transport.",
+    "image": "assets/products/disposable/plateau-mauve-paquet-de.jpg"
+  },
+  {
+    "id": "plateau-pour-chaise-dentaire",
+    "name": "Plateau Pour Chaise Dentaire",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Autoclavable plastic instrument tray used for chairside organisation and instrument transport.",
+    "image": "assets/products/disposable/plateau-pour-chaise-dentaire.jpg"
+  },
+  {
+    "id": "plateau-stainless",
+    "name": "Plateau Stainless",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Autoclavable plastic instrument tray used for chairside organisation and instrument transport.",
+    "image": "assets/products/disposable/plateau-stainless.jpg"
+  },
+  {
+    "id": "porte-emprunte-anterior",
+    "name": "Porte Emprunte Anterior",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Perforated stainless steel dental impression tray, autoclavable, used for taking alginate/impression material.",
+    "image": "assets/products/disposable/porte-emprunte-anterior.jpg"
+  },
+  {
+    "id": "porte-emprunte-edente-sachet-de",
+    "name": "Porte Emprunte Edente Sachet De",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Perforated stainless steel dental impression tray, autoclavable, used for taking alginate/impression material.",
+    "image": "assets/products/disposable/porte-emprunte-edente-sachet-de.jpg"
+  },
+  {
+    "id": "porte-emprunte-left-and-right",
+    "name": "Porte Emprunte Left And Right",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Perforated stainless steel dental impression tray, autoclavable, used for taking alginate/impression material.",
+    "image": "assets/products/disposable/porte-emprunte-left-and-right.jpg"
+  },
+  {
+    "id": "porte-emprunte-metal-boite-de",
+    "name": "Porte Emprunte Metal Boite De",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Perforated stainless steel dental impression tray, autoclavable, used for taking alginate/impression material.",
+    "image": "assets/products/disposable/porte-emprunte-metal-boite-de.jpg"
+  },
+  {
+    "id": "porte-emprunte-upper-medium",
+    "name": "Porte Emprunte Upper Medium",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Perforated stainless steel dental impression tray, autoclavable, used for taking alginate/impression material.",
+    "image": "assets/products/disposable/porte-emprunte-upper-medium.jpg"
+  },
+  {
+    "id": "retraction-cord-0-atria",
+    "name": "Retraction Cord 0 Atria",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Soft knitted 100% cotton gingival retraction cord used for tissue displacement before impressions, sizes #0/#00/#000.",
+    "image": "assets/products/disposable/retraction-cord-0-atria.jpg"
+  },
+  {
+    "id": "rouleau-cotton",
+    "name": "Rouleau Cotton",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "100% long fibre pure white absorbent cotton dental rolls for moisture/isolation control.",
+    "image": "assets/products/disposable/rouleau-cotton.jpg"
+  },
+  {
+    "id": "shade-guide-ivoclar",
+    "name": "Shade Guide Ivoclar",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Vita Classical tooth shade guide used for precise shade matching in restorative and prosthodontic dentistry.",
+    "image": "assets/products/disposable/shade-guide-ivoclar.jpg"
+  },
+  {
+    "id": "shade-guide-vita",
+    "name": "Shade Guide Vita",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Vita Classical tooth shade guide used for precise shade matching in restorative and prosthodontic dentistry.",
+    "image": "assets/products/disposable/shade-guide-vita.jpg"
+  },
+  {
+    "id": "surgical-gloves-7-5-other-brand-powder-free",
+    "name": "Surgical Gloves 7.5 Other Brand Powder Free",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Disposable powder-free/nitrile exam gloves, latex-free, textured fingertips, sold in boxes of 100 in assorted sizes.",
+    "image": "assets/products/disposable/surgical-gloves-7-5-other-brand-powder-free.jpg"
+  },
+  {
+    "id": "suture-4-0-absorbable-rapid-falcon",
+    "name": "Suture 4.0 Absorbable Rapid Falcon",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Braided surgical suture used for post-extraction and oral soft-tissue closure.",
+    "image": "assets/products/disposable/suture-4-0-absorbable-rapid-falcon.jpg"
+  },
+  {
+    "id": "suture-5-0-nylon-falcon",
+    "name": "Suture 5.0 Nylon Falcon",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Braided surgical suture used for post-extraction and oral soft-tissue closure.",
+    "image": "assets/products/disposable/suture-5-0-nylon-falcon.jpg"
+  },
+  {
+    "id": "porte-matrice-bleue",
+    "name": "Porte Matrice Bleue",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Tofflemire-style matrix band retainer, stainless steel, used to hold matrix bands during Class II restorations.",
+    "image": "assets/products/disposable/porte-matrice-bleue.jpg"
+  },
+  {
+    "id": "matrice-anatomique-mini-by-piece",
+    "name": "Matrice Anatomique Mini (By Piece)",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Stainless steel dental matrix band used to reproduce anatomical tooth contours during Class II composite/amalgam restorations.",
+    "image": "assets/products/disposable/matrice-anatomique-mini-by-piece.jpg"
+  },
+  {
+    "id": "suture-4-0-silkam-non-absorbable-36-pieces",
+    "name": "Suture 4.0 Silkam Non Absorbable 36 Pieces",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Braided surgical suture used for post-extraction and oral soft-tissue closure.",
+    "image": "assets/products/disposable/suture-4-0-silkam-non-absorbable-36-pieces.jpg"
+  },
+  {
+    "id": "matrice-anterieur-tr-1913-bte-de-20-pcs",
+    "name": "Matrice Anterieur Tr 1913 Bte De 20 Pcs",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Stainless steel dental matrix band used to reproduce anatomical tooth contours during Class II composite/amalgam restorations.",
+    "image": "assets/products/disposable/matrice-anterieur-tr-1913-bte-de-20-pcs.jpg"
+  },
+  {
+    "id": "porte-emprunte-pour-implant",
+    "name": "Porte Emprunte Pour Implant",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Perforated stainless steel dental impression tray, autoclavable, used for taking alginate/impression material.",
+    "image": "assets/products/disposable/porte-emprunte-pour-implant.jpg"
+  },
+  {
+    "id": "articulation-paper-bauch-200-microns-box-of",
+    "name": "Articulation Paper Bauch 200 Microns Box Of",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Thin, tear-resistant articulating (bite) paper coated with colour on both sides for marking occlusal contacts.",
+    "image": "assets/products/disposable/articulation-paper-bauch-200-microns-box-of.jpg"
+  },
+  {
+    "id": "suture-3-0-nylon-look",
+    "name": "Suture 3.0 Nylon Look",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Braided surgical suture used for post-extraction and oral soft-tissue closure.",
+    "image": "assets/products/disposable/suture-3-0-nylon-look.jpg"
+  },
+  {
+    "id": "porte-emprunte-pedo",
+    "name": "Porte Emprunte Pedo",
+    "category": "disposable",
+    "categoryLabel": "Disposables",
+    "description": "Perforated stainless steel dental impression tray, autoclavable, used for taking alginate/impression material.",
+    "image": "assets/products/disposable/porte-emprunte-pedo.jpg"
   }
 ]
