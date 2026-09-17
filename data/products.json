@@ -5046,5 +5046,485 @@
     "categoryLabel": "Uniform",
     "description": "A classic scrub top and pant uniform set worn by dental clinic staff, made from breathable, wrinkle-resistant fabric with practical pockets for a comfortable, professional fit.",
     "image": "assets/products/uniform/uniform.jpg"
+  },
+  {
+    "id": "disk-soflex-tor-1020",
+    "name": "Disk Soflex Tor 1020",
+    "category": "polishing",
+    "categoryLabel": "Polishing",
+    "description": "Kit de disques de finition TOR VM, montés sur mandrin, série de grains du plus gros au plus fin pour le polissage composite.",
+    "image": "assets/products/polishing/disk-soflex-tor-1020.jpg"
+  },
+  {
+    "id": "disk-soflex-tor-1071",
+    "name": "Disk Soflex Tor 1071",
+    "category": "polishing",
+    "categoryLabel": "Polishing",
+    "description": "Disques flexibles TOR VM avec mandrin, progression de grains pour la finition des restaurations composites.",
+    "image": "assets/products/polishing/disk-soflex-tor-1071.jpg"
+  },
+  {
+    "id": "disk-soflex-tor-1075",
+    "name": "Disk Soflex Tor 1075",
+    "category": "polishing",
+    "categoryLabel": "Polishing",
+    "description": "Set de disques polissage TOR VM sur mandrin, du grain gros au superfin, pour finir les obturations composite.",
+    "image": "assets/products/polishing/disk-soflex-tor-1075.jpg"
+  },
+  {
+    "id": "finishing-strips-metal-one-side-tor-coarse-medium-fine",
+    "name": "Finishing Strips Metal One Side Tor Coarse Medium Fine",
+    "category": "polishing",
+    "categoryLabel": "Polishing",
+    "description": "TOR VM single-sided metal finishing strips (coarse/medium/fine) used for interproximal shaping and polishing of composite restorations.",
+    "image": "assets/products/polishing/finishing-strips-metal-one-side-tor-coarse-medium-fine.jpg"
+  },
+  {
+    "id": "finishing-strips-tor-yellow-green-blue",
+    "name": "Finishing Strips Tor Yellow Green Blue",
+    "category": "polishing",
+    "categoryLabel": "Polishing",
+    "description": "TOR VM color-coded (yellow/green/blue grit) finishing strips used for graded interproximal polishing of composite restorations.",
+    "image": "assets/products/polishing/finishing-strips-tor-yellow-green-blue.jpg"
+  },
+  {
+    "id": "soflex-8690c",
+    "name": "Soflex 8690c",
+    "category": "polishing",
+    "categoryLabel": "Polishing",
+    "description": "Disque de polissage 3M Sof-Lex 8690, grain coarse (gros grain), monté sur mandrin pop-on pour contourer et polir composites, compomères et restaurations métalliques.",
+    "image": "assets/products/polishing/soflex-8690c.jpg"
+  },
+  {
+    "id": "soflex-8691c",
+    "name": "Soflex 8691c",
+    "category": "polishing",
+    "categoryLabel": "Polishing",
+    "description": "Disque de polissage 3M Sof-Lex 8691, grain coarse (gros grain), monté sur mandrin pop-on pour contourer et polir composites, compomères et restaurations métalliques.",
+    "image": "assets/products/polishing/soflex-8691c.jpg"
+  },
+  {
+    "id": "soflex-8692c",
+    "name": "Soflex 8692c",
+    "category": "polishing",
+    "categoryLabel": "Polishing",
+    "description": "Disque de polissage 3M Sof-Lex 8692, grain coarse (gros grain), monté sur mandrin pop-on pour contourer et polir composites, compomères et restaurations métalliques.",
+    "image": "assets/products/polishing/soflex-8692c.jpg"
+  },
+  {
+    "id": "soflex-8693c",
+    "name": "Soflex 8693c",
+    "category": "polishing",
+    "categoryLabel": "Polishing",
+    "description": "Disque de polissage 3M Sof-Lex 8693, grain coarse (gros grain), monté sur mandrin pop-on pour contourer et polir composites, compomères et restaurations métalliques.",
+    "image": "assets/products/polishing/soflex-8693c.jpg"
+  },
+  {
+    "id": "soflex-8690f",
+    "name": "Soflex 8690f",
+    "category": "polishing",
+    "categoryLabel": "Polishing",
+    "description": "Disque de polissage 3M Sof-Lex 8690, grain fine, monté sur mandrin pop-on pour contourer et polir composites, compomères et restaurations métalliques.",
+    "image": "assets/products/polishing/soflex-8690f.jpg"
+  },
+  {
+    "id": "soflex-8691f",
+    "name": "Soflex 8691f",
+    "category": "polishing",
+    "categoryLabel": "Polishing",
+    "description": "Disque de polissage 3M Sof-Lex 8691, grain fine, monté sur mandrin pop-on pour contourer et polir composites, compomères et restaurations métalliques.",
+    "image": "assets/products/polishing/soflex-8691f.jpg"
+  },
+  {
+    "id": "soflex-8692f",
+    "name": "Soflex 8692f",
+    "category": "polishing",
+    "categoryLabel": "Polishing",
+    "description": "Disque de polissage 3M Sof-Lex 8692, grain fine, monté sur mandrin pop-on pour contourer et polir composites, compomères et restaurations métalliques.",
+    "image": "assets/products/polishing/soflex-8692f.jpg"
+  },
+  {
+    "id": "soflex-8693f",
+    "name": "Soflex 8693f",
+    "category": "polishing",
+    "categoryLabel": "Polishing",
+    "description": "Disque de polissage 3M Sof-Lex 8693, grain fine, monté sur mandrin pop-on pour contourer et polir composites, compomères et restaurations métalliques.",
+    "image": "assets/products/polishing/soflex-8693f.jpg"
+  },
+  {
+    "id": "soflex-8690m",
+    "name": "Soflex 8690m",
+    "category": "polishing",
+    "categoryLabel": "Polishing",
+    "description": "Disque de polissage 3M Sof-Lex 8690, grain medium, monté sur mandrin pop-on pour contourer et polir composites, compomères et restaurations métalliques.",
+    "image": "assets/products/polishing/soflex-8690m.jpg"
+  },
+  {
+    "id": "soflex-8691m",
+    "name": "Soflex 8691m",
+    "category": "polishing",
+    "categoryLabel": "Polishing",
+    "description": "Disque de polissage 3M Sof-Lex 8691, grain medium, monté sur mandrin pop-on pour contourer et polir composites, compomères et restaurations métalliques.",
+    "image": "assets/products/polishing/soflex-8691m.jpg"
+  },
+  {
+    "id": "soflex-8692m",
+    "name": "Soflex 8692m",
+    "category": "polishing",
+    "categoryLabel": "Polishing",
+    "description": "Disque de polissage 3M Sof-Lex 8692, grain medium, monté sur mandrin pop-on pour contourer et polir composites, compomères et restaurations métalliques.",
+    "image": "assets/products/polishing/soflex-8692m.jpg"
+  },
+  {
+    "id": "soflex-8693m",
+    "name": "Soflex 8693m",
+    "category": "polishing",
+    "categoryLabel": "Polishing",
+    "description": "Disque de polissage 3M Sof-Lex 8693, grain medium, monté sur mandrin pop-on pour contourer et polir composites, compomères et restaurations métalliques.",
+    "image": "assets/products/polishing/soflex-8693m.jpg"
+  },
+  {
+    "id": "soflex-8690sf",
+    "name": "Soflex 8690sf",
+    "category": "polishing",
+    "categoryLabel": "Polishing",
+    "description": "Disque de polissage 3M Sof-Lex 8690, grain superfine (extra-fin), monté sur mandrin pop-on pour contourer et polir composites, compomères et restaurations métalliques.",
+    "image": "assets/products/polishing/soflex-8690sf.jpg"
+  },
+  {
+    "id": "soflex-8691sf",
+    "name": "Soflex 8691sf",
+    "category": "polishing",
+    "categoryLabel": "Polishing",
+    "description": "Disque de polissage 3M Sof-Lex 8691, grain superfine (extra-fin), monté sur mandrin pop-on pour contourer et polir composites, compomères et restaurations métalliques.",
+    "image": "assets/products/polishing/soflex-8691sf.jpg"
+  },
+  {
+    "id": "soflex-8692sf",
+    "name": "Soflex 8692sf",
+    "category": "polishing",
+    "categoryLabel": "Polishing",
+    "description": "Disque de polissage 3M Sof-Lex 8692, grain superfine (extra-fin), monté sur mandrin pop-on pour contourer et polir composites, compomères et restaurations métalliques.",
+    "image": "assets/products/polishing/soflex-8692sf.jpg"
+  },
+  {
+    "id": "soflex-8693sf",
+    "name": "Soflex 8693sf",
+    "category": "polishing",
+    "categoryLabel": "Polishing",
+    "description": "Disque de polissage 3M Sof-Lex 8693, grain superfine (extra-fin), monté sur mandrin pop-on pour contourer et polir composites, compomères et restaurations métalliques.",
+    "image": "assets/products/polishing/soflex-8693sf.jpg"
+  },
+  {
+    "id": "soflex-ch-kit-like-3m",
+    "name": "Soflex Ch Kit Like 3M",
+    "category": "polishing",
+    "categoryLabel": "Polishing",
+    "description": "Sof-Lex style composite finishing and polishing disc kit (3M-equivalent), used with a pop-on mandrel for graded polishing.",
+    "image": "assets/products/polishing/soflex-ch-kit-like-3m.jpg"
+  },
+  {
+    "id": "disc-soflex-tor-1620",
+    "name": "Disc Soflex Tor 1620",
+    "category": "polishing",
+    "categoryLabel": "Polishing",
+    "description": "Disques de polissage TOR VM montés sur mandrin, gamme de grains pour lisser progressivement les restaurations composites.",
+    "image": "assets/products/polishing/disc-soflex-tor-1620.jpg"
+  },
+  {
+    "id": "soflex-ch-refill-1630",
+    "name": "Soflex Ch Refill 1630",
+    "category": "polishing",
+    "categoryLabel": "Polishing",
+    "description": "Recharge de disques de polissage TOR VM (grains gradués), pour porte-disque CH.",
+    "image": "assets/products/polishing/soflex-ch-refill-1630.jpg"
+  },
+  {
+    "id": "soflex-ch-refill-1631",
+    "name": "Soflex Ch Refill 1631",
+    "category": "polishing",
+    "categoryLabel": "Polishing",
+    "description": "Recharge de disques TOR VM grains gradués, compatible porte-disque CH, pour la finition composite.",
+    "image": "assets/products/polishing/soflex-ch-refill-1631.jpg"
+  },
+  {
+    "id": "soflex-coarse-meisinger",
+    "name": "Soflex Coarse Meisinger",
+    "category": "polishing",
+    "categoryLabel": "Polishing",
+    "description": "Meisinger coarse Sof-Lex-type polishing disc used for initial contouring of composite restorations.",
+    "image": "assets/products/polishing/soflex-coarse-meisinger.jpg"
+  },
+  {
+    "id": "super-snap-shofu",
+    "name": "Super Snap Shofu",
+    "category": "polishing",
+    "categoryLabel": "Polishing",
+    "description": "Disques de finition et polissage Shofu Super-Snap, double face codée couleur, mandrin sans métal pour l'accès interproximal.",
+    "image": "assets/products/polishing/super-snap-shofu.jpg"
+  },
+  {
+    "id": "kit-soflex-optidisc-kerr",
+    "name": "Kit Soflex Optidisc Kerr",
+    "category": "polishing",
+    "categoryLabel": "Polishing",
+    "description": "Kerr OptiDisc-style finishing and polishing disc kit, a Sof-Lex-equivalent system with pop-on mandrel for composite polishing.",
+    "image": "assets/products/polishing/kit-soflex-optidisc-kerr.jpg"
+  },
+  {
+    "id": "polishing-disc-and-finishing-strip-zenit-flex-160disc-20-strips-1-mandrel",
+    "name": "Polishing Disc And Finishing Strip Zenit Flex 160disc/20 Strips/1 Mandrel",
+    "category": "polishing",
+    "categoryLabel": "Polishing",
+    "description": "Zenit-Flex combination kit of 160 polishing discs, 20 finishing strips and 1 mandrel for full-range composite finishing and interproximal polishing.",
+    "image": "assets/products/polishing/polishing-disc-and-finishing-strip-zenit-flex-160disc-20-strips-1-mandrel.jpg"
+  },
+  {
+    "id": "opalustre",
+    "name": "Opalustre",
+    "category": "polishing",
+    "categoryLabel": "Polishing",
+    "description": "Ultradent Opalustre chemical-mechanical microabrasion paste (hydrochloric acid and silicon carbide slurry) used to remove surface enamel discoloration and white spot lesions.",
+    "image": "assets/products/polishing/opalustre.jpg"
+  },
+  {
+    "id": "autoclave",
+    "name": "Autoclave",
+    "category": "machine",
+    "categoryLabel": "Equipment",
+    "description": "Waldent Schuster Class B front-loading steam autoclave (23L) used to sterilize wrapped and unwrapped dental instruments.",
+    "image": "assets/products/machine/autoclave.jpg"
+  },
+  {
+    "id": "contre-angle-bague-rouge-lumiere-et-eau",
+    "name": "Contre Angle Bague Rouge + Lumiere Et Eau",
+    "category": "machine",
+    "categoryLabel": "Equipment",
+    "description": "Fiber-optic contra-angle handpiece (red ring, 1:5 speed increasing) with built-in LED light and water spray, used for high-speed finishing procedures.",
+    "image": "assets/products/machine/contre-angle-bague-rouge-lumiere-et-eau.jpg"
+  },
+  {
+    "id": "contre-angle-bleu",
+    "name": "Contre Angle Bleu",
+    "category": "machine",
+    "categoryLabel": "Equipment",
+    "description": "Apple Dental blue contra-angle handpiece, low-vibration attachment compatible with standard micromotors for restorative and prophy procedures.",
+    "image": "assets/products/machine/contre-angle-bleu.jpg"
+  },
+  {
+    "id": "contre-angle-wismed",
+    "name": "Contre Angle Wismed",
+    "category": "machine",
+    "categoryLabel": "Equipment",
+    "description": "Wismed contra-angle handpiece attachment used with a micromotor for restorative and prophylaxis procedures.",
+    "image": "assets/products/machine/contre-angle-wismed.jpg"
+  },
+  {
+    "id": "contre-angle-pour-implant-avec-fiber",
+    "name": "Contre Angle Pour Implant Avec Fiber",
+    "category": "machine",
+    "categoryLabel": "Equipment",
+    "description": "NSK SG20M implant contra-angle handpiece with fiber optic illumination and internal water spray, used for implant surgery.",
+    "image": "assets/products/machine/contre-angle-pour-implant-avec-fiber.jpg"
+  },
+  {
+    "id": "dental-chair",
+    "name": "Dental Chair",
+    "category": "machine",
+    "categoryLabel": "Equipment",
+    "description": "Waldent Eezee portable folding dental chair with LED light and adjustable headrest, used for chairside treatment.",
+    "image": "assets/products/machine/dental-chair.jpg"
+  },
+  {
+    "id": "detartreur",
+    "name": "Detartreur",
+    "category": "machine",
+    "categoryLabel": "Equipment",
+    "description": "Ultrasonic scaler unit (detartreur) used with piezo tips for supra- and sub-gingival calculus removal.",
+    "image": "assets/products/machine/detartreur.jpg"
+  },
+  {
+    "id": "machine-ultrasonic-stainless",
+    "name": "Machine Ultrasonic Stainless",
+    "category": "machine",
+    "categoryLabel": "Equipment",
+    "description": "Waldent 5L stainless-steel ultrasonic cleaner tank used to pre-clean dental instruments before sterilization.",
+    "image": "assets/products/machine/machine-ultrasonic-stainless.jpeg"
+  },
+  {
+    "id": "light-cure-elipar-deepcure-l",
+    "name": "Light Cure Elipar Deepcure-l",
+    "category": "machine",
+    "categoryLabel": "Equipment",
+    "description": "3M Elipar DeepCure-L LED curing light, a high-intensity single-wavelength unit used to polymerize composite and adhesive materials.",
+    "image": "assets/products/machine/light-cure-elipar-deepcure-l.jpg"
+  },
+  {
+    "id": "moteur-endo",
+    "name": "Moteur Endo",
+    "category": "machine",
+    "categoryLabel": "Equipment",
+    "description": "Woodpecker Endomatic cordless endodontic motor with built-in apex locator for rotary root canal instrumentation.",
+    "image": "assets/products/machine/moteur-endo.jpg"
+  },
+  {
+    "id": "piece-a-main-bleu",
+    "name": "Piece A Main Bleu",
+    "category": "machine",
+    "categoryLabel": "Equipment",
+    "description": "Contre-angle bleu Apple Dental, faible vibration, compatible avec les micromoteurs standards, pour la restauration et la prophylaxie.",
+    "image": "assets/products/machine/piece-a-main-bleu.jpg"
+  },
+  {
+    "id": "prophy-jet-machine-double-side",
+    "name": "Prophy Jet Machine Double Side",
+    "category": "machine",
+    "categoryLabel": "Equipment",
+    "description": "Air-polishing (prophy jet) unit with dual powder chambers, spraying air/water/powder to remove plaque, biofilm and stains.",
+    "image": "assets/products/machine/prophy-jet-machine-double-side.jpg"
+  },
+  {
+    "id": "prophy-jet-machine-ijet",
+    "name": "Prophy Jet Machine Ijet",
+    "category": "machine",
+    "categoryLabel": "Equipment",
+    "description": "iJet-type handheld air-polishing (prophy jet) device used for stain and biofilm removal via powder spray.",
+    "image": "assets/products/machine/prophy-jet-machine-ijet.jpg"
+  },
+  {
+    "id": "tete-de-lumiere-bleu",
+    "name": "Tete De Lumiere Bleu",
+    "category": "machine",
+    "categoryLabel": "Equipment",
+    "description": "Blue LED curing light head/probe used to deliver polymerizing light onto composite restorations.",
+    "image": "assets/products/machine/tete-de-lumiere-bleu.jpg"
+  },
+  {
+    "id": "tete-turbine",
+    "name": "Tete Turbine",
+    "category": "machine",
+    "categoryLabel": "Equipment",
+    "description": "Replacement head/cartridge for a high-speed turbine handpiece, containing the bearing and chuck assembly.",
+    "image": "assets/products/machine/tete-turbine.jpg"
+  },
+  {
+    "id": "turbine-matory-with-led",
+    "name": "Turbine Matory With Led",
+    "category": "machine",
+    "categoryLabel": "Equipment",
+    "description": "Matory high-speed turbine handpiece with integrated LED illumination, used for cutting with FG burs.",
+    "image": "assets/products/machine/turbine-matory-with-led.jpg"
+  },
+  {
+    "id": "turbine-tulip-with-led-2-tete",
+    "name": "Turbine Tulip With Led + 2 Tete",
+    "category": "machine",
+    "categoryLabel": "Equipment",
+    "description": "Tulip high-speed turbine handpiece with LED light, supplied with two interchangeable heads.",
+    "image": "assets/products/machine/turbine-tulip-with-led-2-tete.jpg"
+  },
+  {
+    "id": "turbine-wismed",
+    "name": "Turbine Wismed",
+    "category": "machine",
+    "categoryLabel": "Equipment",
+    "description": "Wismed high-speed air turbine handpiece used for cutting tooth structure with FG burs.",
+    "image": "assets/products/machine/turbine-wismed.jpg"
+  },
+  {
+    "id": "turbine-without-led",
+    "name": "Turbine Without LED",
+    "category": "machine",
+    "categoryLabel": "Equipment",
+    "description": "Standard high-speed air turbine handpiece without an integrated light source, used for general cutting procedures.",
+    "image": "assets/products/machine/turbine-without-led.jpg"
+  },
+  {
+    "id": "ultrasonic-scaler-refine",
+    "name": "Ultrasonic Scaler Refine",
+    "category": "machine",
+    "categoryLabel": "Equipment",
+    "description": "Refine ultrasonic scaler unit with piezo tips used for calculus removal and periodontal debridement.",
+    "image": "assets/products/machine/ultrasonic-scaler-refine.jpg"
+  },
+  {
+    "id": "ultrasonic-scaler-woodpecker",
+    "name": "Ultrasonic Scaler Woodpecker",
+    "category": "machine",
+    "categoryLabel": "Equipment",
+    "description": "Woodpecker UDS-P piezoelectric ultrasonic scaler unit with periodontal and endodontic tips, used for calculus removal and root canal irrigation.",
+    "image": "assets/products/machine/ultrasonic-scaler-woodpecker.jpg"
+  },
+  {
+    "id": "turbine-apple-with-led-a2-pro",
+    "name": "Turbine Apple With Led A2 Pro",
+    "category": "machine",
+    "categoryLabel": "Equipment",
+    "description": "Apple A2 Pro high-speed turbine handpiece with integrated LED, used for cutting with FG burs.",
+    "image": "assets/products/machine/turbine-apple-with-led-a2-pro.jpg"
+  },
+  {
+    "id": "turbine-lingchen",
+    "name": "Turbine Lingchen",
+    "category": "machine",
+    "categoryLabel": "Equipment",
+    "description": "Ling Chen high-speed air turbine handpiece used for tooth preparation and cutting.",
+    "image": "assets/products/machine/turbine-lingchen.jpg"
+  },
+  {
+    "id": "turbine-5led-5water-n1-meote",
+    "name": "Turbine 5led 5water N1 Meote",
+    "category": "machine",
+    "categoryLabel": "Equipment",
+    "description": "Meote N1 high-speed turbine handpiece with 5 LED lights and 5-point water spray for improved visibility and cooling.",
+    "image": "assets/products/machine/turbine-5led-5water-n1-meote.jpg"
+  },
+  {
+    "id": "turbine-3water-1led-meote",
+    "name": "Turbine 3water 1led Meote",
+    "category": "machine",
+    "categoryLabel": "Equipment",
+    "description": "Meote N3 high-speed turbine handpiece with single LED and 3-point water spray.",
+    "image": "assets/products/machine/turbine-3water-1led-meote.jpg"
+  },
+  {
+    "id": "turbine-4-trou-rixi",
+    "name": "Turbine 4 Trou Rixi",
+    "category": "machine",
+    "categoryLabel": "Equipment",
+    "description": "Rixi high-speed turbine handpiece with 4-hole (midwest) connection used for cutting procedures.",
+    "image": "assets/products/machine/turbine-4-trou-rixi.jpg"
+  },
+  {
+    "id": "obturation-pen",
+    "name": "Obturation Pen",
+    "category": "machine",
+    "categoryLabel": "Equipment",
+    "description": "Waldent obturation pen system, a cordless warm vertical compaction device for delivering thermoplasticized gutta-percha during root canal obturation.",
+    "image": "assets/products/machine/obturation-pen.jpeg"
+  },
+  {
+    "id": "light-cure-cicada-1sec",
+    "name": "Light Cure Cicada 1sec",
+    "category": "machine",
+    "categoryLabel": "Equipment",
+    "description": "Cicada 1-second high-power LED curing light used for rapid polymerization of composite restorations.",
+    "image": "assets/products/machine/light-cure-cicada-1sec.jpg"
+  },
+  {
+    "id": "vibrateur-platre",
+    "name": "Vibrateur Platre",
+    "category": "machine",
+    "categoryLabel": "Equipment",
+    "description": "OrthoCare dental lab vibrator with 5-speed control, used for bubble-free mixing and pouring of plaster, stone and investment materials.",
+    "image": "assets/products/machine/vibrateur-platre.jpg"
+  },
+  {
+    "id": "light-cure-blue",
+    "name": "Light Cure Blue",
+    "category": "machine",
+    "categoryLabel": "Equipment",
+    "description": "Woodpecker LED-D cordless LED curing light used to polymerize light-cure composite and adhesive dental materials.",
+    "image": "assets/products/machine/light-cure-blue.jpg"
   }
 ]
