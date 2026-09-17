@@ -152,6 +152,32 @@ header.site-header{
 .nav-toggle{display:none;width:42px;height:42px;border-radius:9px;border:1px solid var(--border);align-items:center;justify-content:center}
 .nav-toggle svg{width:20px;height:20px}
 
+.site-search{position:relative;display:flex;align-items:center}
+.site-search svg{position:absolute;left:11px;width:16px;height:16px;color:var(--ink-faint);pointer-events:none}
+.site-search input{
+  width:170px;padding:8px 10px 8px 34px;border-radius:20px;border:1px solid var(--border);
+  background:var(--bg-tint);font-size:13.5px;font-family:var(--font-body);color:var(--navy-900);
+  transition:width .2s,border-color .2s,background .2s;
+}
+.site-search input::placeholder{color:var(--ink-faint)}
+.site-search input:focus{width:220px;border-color:var(--teal-400);background:#fff;outline:none}
+@media (max-width:900px){
+  .site-search input{width:130px}
+  .site-search input:focus{width:160px}
+}
+@media (max-width:640px){
+  .site-search{display:none}
+}
+
+.search-inline{position:relative;display:flex;align-items:center;justify-content:center;max-width:420px;margin:0 auto}
+.search-inline svg{position:absolute;left:16px;width:18px;height:18px;color:var(--ink-faint);pointer-events:none}
+.search-inline input{
+  width:100%;padding:13px 16px 13px 44px;border-radius:26px;border:1px solid var(--border);
+  background:#fff;font-size:14.5px;font-family:var(--font-body);color:var(--navy-900);
+  box-shadow:var(--shadow-sm);transition:border-color .2s;
+}
+.search-inline input:focus{border-color:var(--teal-400);outline:none}
+
 /* ===========================================================
    HERO
    =========================================================== */
