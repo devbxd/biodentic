@@ -1260,8 +1260,12 @@
     "name": "Cotisen intraoral mixing tips",
     "category": "impression",
     "categoryLabel": "Impression Materials",
-    "description": "INTRAL ORAL TIPS SPECIFICATION: 24.2*4.2MM, FIT HP03 (100PCS/BAG)",
-    "image": "assets/products/impression/cotisen-intraoral-mixing-tips.jpg"
+    "description": "Intraoral mixing tips for impression material cartridges, available in two fitments.",
+    "image": "assets/products/impression/cotisen-intraoral-mixing-tips.jpg",
+    "variants": [
+      "24.2 x 4.2mm — fits HP03",
+      "25 x 5.2mm — fits HP01/HP02"
+    ]
   },
   {
     "id": "bite-opener-ortho-organizer",
@@ -1468,8 +1472,12 @@
     "name": "Cotisen Mixing Tips",
     "category": "impression",
     "categoryLabel": "Impression Materials",
-    "description": "HP MIXING TIPS SPECIFICATION: 88*6.3MM COLOR: BLUE (50/PK)",
-    "image": "assets/products/impression/cotisen-mixing-tips.jpg"
+    "description": "HP mixing tips for cartridge dispensing guns, available in two sizes/colors.",
+    "image": "assets/products/impression/cotisen-mixing-tips.jpg",
+    "variants": [
+      "88 x 6.3mm — Blue",
+      "71 x 4.2mm — Yellow"
+    ]
   },
   {
     "id": "prophy-cups",
@@ -1872,14 +1880,6 @@
     "image": "assets/products/impression/k-clamp-full-adult-kit.webp"
   },
   {
-    "id": "cotisen-mixing-tips-2",
-    "name": "Cotisen Mixing Tips",
-    "category": "impression",
-    "categoryLabel": "Impression Materials",
-    "description": "HP MIXING TIPS SPECIFICATION: 71*4.2 COLOR: YELLOW (50/PK)",
-    "image": "assets/products/impression/cotisen-mixing-tips-2.jpg"
-  },
-  {
     "id": "photographic-mirror-ortho-organizer-d",
     "name": "Photographic Mirror - Ortho Organizer (D)",
     "category": "instrument",
@@ -2174,14 +2174,6 @@
     "categoryLabel": "Orthodontics",
     "description": "10 pieces - fit round and rectangular wire up to 0.018 x 0.025",
     "image": "assets/products/ortho/crimpable-hook-master.jpg"
-  },
-  {
-    "id": "pdi-wipes-2",
-    "name": "PDI Wipes",
-    "category": "disposable",
-    "categoryLabel": "Disposables",
-    "description": "PDI® Sani-Cloth® Plus Germicidal Disposable Wipes is a low-alcohol (14.85%), hospital-grade germicidal solution that cleans, disinfects, and deodorizes hard, nonporous surfaces in three minutes, making it ideal for use in alternate care settings such as physician and dental offices. Tested effective against 18 clinically relevant microorganisms, including HBV, HIV-1, MRSA, VRE, RSV, COVID-19 virus, Herpes Simplex Type 2, staph aureus, salmonella, E. coli, and more. EPA-registered and meets CDC and OSHA guidelines. Made in USA Large (canister contains 160 sheets, 12 canisters per case) Large wipe: 6\"W x 6-3/4\"L",
-    "image": "assets/products/disposable/pdi-wipes-2.webp"
   },
   {
     "id": "orthodontic-wax",
@@ -2808,28 +2800,12 @@
     "image": "assets/products/disposable/bavette-box-crop.png"
   },
   {
-    "id": "cotisen-intraoral-mixing-tips-2",
-    "name": "Cotisen Intraoral mixing tips",
-    "category": "impression",
-    "categoryLabel": "Impression Materials",
-    "description": "INTRA ORAL TIPS SPECIFICATION: 25*5.2MM, FIT HP01, HP02 (100PCS/BAG)",
-    "image": "assets/products/impression/cotisen-intraoral-mixing-tips-2.png"
-  },
-  {
     "id": "suction-disinfection",
     "name": "Suction Disinfection",
     "category": "disposable",
     "categoryLabel": "Disposables",
     "description": "BioFLUX S is a concentrated acidic cleaning and disinfecting solution specially formulated for dental suction systems, evacuation lines, and saliva ejector tubing. It effectively removes biofilm, organic debris, and mineral deposits that accumulate inside suction lines while providing broad-spectrum disinfection. Regular use helps maintain optimal suction performance, reduce odors, and support infection control in dental clinics. (5 Liters)",
     "image": "assets/products/disposable/suction-disinfection.jpg"
-  },
-  {
-    "id": "blade-holder-2",
-    "name": "Blade holder",
-    "category": "instrument",
-    "categoryLabel": "Instruments",
-    "description": "",
-    "image": "assets/products/instrument/blade-holder-2.jpg"
   },
   {
     "id": "woodpecker-iled-plus-curing-light-1-sec-curing-time",
@@ -3711,27 +3687,16 @@
   },
   {
     "id": "in-seringue-anesthesie-1038",
-    "name": "Anesthesia Syringe 1038",
+    "name": "Anesthesia Syringe",
     "category": "instrument",
     "categoryLabel": "Instruments",
-    "description": "Metallic aspirating anesthesia syringe 1038, harpoon safety catch, for 1.8ml cartridges.",
-    "image": "assets/products/instrument/in-seringue-anesthesie-1038.jpg"
-  },
-  {
-    "id": "in-seringue-anesthesie-1040",
-    "name": "Anesthesia Syringe 1040",
-    "category": "instrument",
-    "categoryLabel": "Instruments",
-    "description": "Metallic anesthesia syringe 1040 with finger ring, aspirating system for 1.8ml dental cartridges.",
-    "image": "assets/products/instrument/in-seringue-anesthesie-1040.jpg"
-  },
-  {
-    "id": "in-seringue-anesthesie-1041",
-    "name": "Anesthesia Syringe 1041",
-    "category": "instrument",
-    "categoryLabel": "Instruments",
-    "description": "Metallic anesthesia syringe 1041, harpoon plunger, needlestick-protective, 1.8ml cartridge format.",
-    "image": "assets/products/instrument/in-seringue-anesthesie-1041.jpg"
+    "description": "Metallic aspirating dental anesthesia syringe with a finger ring and harpoon safety plunger, for 1.8ml cartridges.",
+    "image": "assets/products/instrument/in-seringue-anesthesie-1038.jpg",
+    "variants": [
+      "Model 1038",
+      "Model 1040",
+      "Model 1041"
+    ]
   },
   {
     "id": "in-sonde",
@@ -4675,7 +4640,9 @@
       "TOR 1020",
       "TOR 1071",
       "TOR 1075",
-      "TOR 1620"
+      "TOR 1620",
+      "CH Refill 1630",
+      "CH Refill 1631"
     ]
   },
   {
@@ -4727,22 +4694,6 @@
     "categoryLabel": "Polishing",
     "description": "Sof-Lex style composite finishing and polishing disc kit (3M-equivalent), used with a pop-on mandrel for graded polishing.",
     "image": "assets/products/polishing/soflex-ch-kit-like-3m.jpg"
-  },
-  {
-    "id": "soflex-ch-refill-1630",
-    "name": "Sof-Lex CH Refill 1630",
-    "category": "polishing",
-    "categoryLabel": "Polishing",
-    "description": "TOR VM polishing disc refill (graded grits), for the CH disc holder.",
-    "image": "assets/products/polishing/soflex-ch-refill-1630.jpg"
-  },
-  {
-    "id": "soflex-ch-refill-1631",
-    "name": "Sof-Lex CH Refill 1631",
-    "category": "polishing",
-    "categoryLabel": "Polishing",
-    "description": "TOR VM graded-grit disc refill, compatible with the CH disc holder, for composite finishing.",
-    "image": "assets/products/polishing/soflex-ch-refill-1631.jpg"
   },
   {
     "id": "soflex-coarse-meisinger",
