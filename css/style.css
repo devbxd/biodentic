@@ -620,7 +620,7 @@ footer.site-footer{background:var(--navy-900);color:#a9bcd0;padding:70px 0 0}
 @media (max-width:1080px){
   .hero-inner{grid-template-columns:1fr;padding-top:52px}
   .hero-visual{
-    display:flex;position:relative;height:auto;align-items:center;justify-content:center;
+    display:flex;position:relative;height:220px;align-items:center;justify-content:center;
     order:-1;margin:0 auto 28px;width:200px;
   }
   .hero-visual .ring,.hero-visual .chip{display:none}
@@ -667,7 +667,7 @@ footer.site-footer{background:var(--navy-900);color:#a9bcd0;padding:70px 0 0}
   .footer-top{grid-template-columns:1fr}
   .hero-inner{padding:44px 0 40px}
   .hero-copy h1{font-size:clamp(28px,7vw,36px)}
-  .hero-visual{width:150px}
+  .hero-visual{width:150px;height:170px}
   .hero-visual .glow{width:150px;height:150px}
   .hero-visual .big-mark{width:86px}
   .form-card{padding:26px}
@@ -714,3 +714,73 @@ footer.site-footer{background:var(--navy-900);color:#a9bcd0;padding:70px 0 0}
 .mobile-nav-contact a{display:flex;align-items:center;gap:11px;font-family:var(--font-head);font-weight:600;font-size:14px;color:var(--ink-soft);transition:color .15s}
 .mobile-nav-contact a:hover{color:var(--teal-500)}
 .mobile-nav-contact svg{width:18px;height:18px;color:var(--teal-500);flex:none}
+
+/* ===========================================================
+   TOP LOADING BAR
+   =========================================================== */
+#top-load-bar{
+  position:fixed;top:0;left:0;height:3px;width:0%;z-index:9999;
+  background:var(--brand-gradient);box-shadow:0 0 8px rgba(20,184,166,.6);
+  transition:width .25s ease-out,opacity .4s ease-out .1s;
+}
+#top-load-bar.done{opacity:0}
+
+/* ===========================================================
+   FLOATING WHATSAPP BUTTON
+   =========================================================== */
+#floating-whatsapp{
+  position:fixed;right:22px;bottom:22px;z-index:900;
+  width:58px;height:58px;border-radius:50%;
+  background:linear-gradient(135deg,#25d366,#1fb959);
+  display:flex;align-items:center;justify-content:center;
+  box-shadow:0 10px 28px -8px rgba(37,211,102,.55),0 2px 8px rgba(0,0,0,.12);
+  transition:transform .2s ease,box-shadow .2s ease;
+  animation:fw-pop .5s ease .3s both;
+}
+#floating-whatsapp:hover{transform:translateY(-3px) scale(1.05);box-shadow:0 14px 32px -8px rgba(37,211,102,.65),0 4px 10px rgba(0,0,0,.14)}
+#floating-whatsapp svg{width:28px;height:28px;color:#fff}
+#floating-whatsapp .fw-ping{
+  position:absolute;inset:0;border-radius:50%;background:#25d366;opacity:.55;
+  animation:fw-ping 2.4s cubic-bezier(0,0,.2,1) infinite;
+}
+@keyframes fw-ping{0%{transform:scale(1);opacity:.5}75%,100%{transform:scale(1.9);opacity:0}}
+@keyframes fw-pop{from{transform:scale(0) rotate(-20deg);opacity:0}to{transform:scale(1) rotate(0);opacity:1}}
+@media (max-width:640px){
+  #floating-whatsapp{right:16px;bottom:16px;width:52px;height:52px}
+  #floating-whatsapp svg{width:25px;height:25px}
+}
+
+/* ===========================================================
+   SCROLL REVEAL
+   =========================================================== */
+.reveal{opacity:0;transform:translateY(26px);transition:opacity .7s cubic-bezier(.16,.8,.3,1),transform .7s cubic-bezier(.16,.8,.3,1)}
+.reveal.in-view{opacity:1;transform:translateY(0)}
+.reveal-stagger.in-view{transition-delay:calc(var(--reveal-i, 0) * 70ms)}
+@media (prefers-reduced-motion:reduce){
+  .reveal{opacity:1;transform:none;transition:none}
+}
+
+/* ===========================================================
+   ANIMATED STAT COUNTERS
+   =========================================================== */
+.strip .stat b{display:inline-block;font-variant-numeric:tabular-nums}
+
+/* ===========================================================
+   CATALOG SKELETON LOADING
+   =========================================================== */
+.skeleton-card{
+  border:1px solid var(--border);border-radius:var(--radius-md);overflow:hidden;background:#fff;
+}
+.skeleton-media{aspect-ratio:1/1;background:linear-gradient(100deg,#eef3f2 30%,#f8fbfa 50%,#eef3f2 70%);background-size:200% 100%;animation:skeleton-shimmer 1.4s ease-in-out infinite}
+.skeleton-body{padding:16px}
+.skeleton-line{height:11px;border-radius:6px;background:linear-gradient(100deg,#eef3f2 30%,#f8fbfa 50%,#eef3f2 70%);background-size:200% 100%;animation:skeleton-shimmer 1.4s ease-in-out infinite;margin-bottom:10px}
+.skeleton-line.w-60{width:60%}
+.skeleton-line.w-90{width:90%}
+.skeleton-line.w-40{width:40%;margin-top:16px}
+@keyframes skeleton-shimmer{0%{background-position:200% 0}100%{background-position:-200% 0}}
+
+/* ===========================================================
+   HERO 3D CANVAS
+   =========================================================== */
+.hero-3d-canvas{position:absolute;inset:0;width:100%;height:100%;display:block;touch-action:none}
+.hero-visual .big-mark{opacity:0;pointer-events:none}
