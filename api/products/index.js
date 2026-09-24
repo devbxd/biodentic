@@ -13,7 +13,7 @@ module.exports = async (req, res) => {
       SELECT p.id, p.name, p.category, p.category_label AS "categoryLabel",
              p.description, p.variants,
              COALESCE(
-               json_agg(json_build_object('id', pi.id, 'url', '/api/images/' || pi.id) ORDER BY pi.position)
+               json_agg(json_build_object('id', pi.id, 'url', '/api/images/' || pi.id || '?v=2') ORDER BY pi.position)
                FILTER (WHERE pi.id IS NOT NULL), '[]'
              ) AS images
       FROM products p
