@@ -11,7 +11,8 @@ module.exports = async (req, res) => {
     res.setHeader('Content-Type', row.content_type);
     res.setHeader('Cache-Control', 'public, max-age=31536000, immutable');
     const buf = row.data instanceof Buffer ? row.data : Buffer.from(row.data);
-    return res.status(200).send(buf);
+    res.statusCode = 200;
+    return res.end(buf);
   }
 
   if (req.method === 'DELETE') {
