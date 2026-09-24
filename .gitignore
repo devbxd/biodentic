@@ -1,1 +1,8 @@
 data/products.json.backup-*
+.env
+.env.local
+.env*.local
+node_modules/
+.vercel
+
+.vercel
