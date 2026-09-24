@@ -27,9 +27,11 @@ module.exports = async (req, res) => {
   const posRows = await db`SELECT COALESCE(MAX(position), -1) AS max_pos FROM product_images WHERE product_id = ${productId}`;
   const nextPos = posRows[0].max_pos + 1;
 
+  const hexData = '\\x' + processed.buffer.toString('hex');
+
   const inserted = await db`
     INSERT INTO product_images (product_id, position, content_type, data, width, height, bytes)
-    VALUES (${productId}, ${nextPos}, ${processed.contentType}, ${processed.buffer}, ${processed.width}, ${processed.height}, ${processed.buffer.length})
+    VALUES (${productId}, ${nextPos}, ${processed.contentType}, ${hexData}::bytea, ${processed.width}, ${processed.height}, ${processed.buffer.length})
     RETURNING id
   `;
 
