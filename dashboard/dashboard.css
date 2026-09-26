@@ -51,7 +51,14 @@ button{cursor:pointer;border:none;background:none}
 .result-count{padding:0 16px;color:var(--ink-faint);font-size:13px;margin:2px 0 10px}
 
 .product-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:12px;padding:0 16px}
-.p-card{background:#fff;border-radius:var(--radius);overflow:hidden;border:1px solid var(--border);text-align:left}
+.p-card{background:#fff;border-radius:var(--radius);overflow:hidden;border:1px solid var(--border);text-align:left;display:flex;flex-direction:column}
+.p-card-main{cursor:pointer;flex:1}
+.p-card-actions{display:flex;border-top:1px solid var(--border)}
+.p-card-actions button{flex:1;padding:11px 0;font-size:13.5px;font-weight:600;font-family:var(--font-head)}
+.p-edit{color:var(--teal-500)}
+.p-del{color:var(--danger);border-left:1px solid var(--border)}
+.p-del:active{background:#fdecea}
+.p-edit:active{background:var(--bg)}
 .p-card-media{aspect-ratio:1/1;background:#f0f4f3;display:flex;align-items:center;justify-content:center;overflow:hidden}
 .p-card-media img{width:100%;height:100%;object-fit:cover}
 .p-card-media .ph{color:var(--ink-faint);font-size:12px}

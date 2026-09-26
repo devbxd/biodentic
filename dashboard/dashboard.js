@@ -38,15 +38,30 @@
     toast._t = setTimeout(function () { el.hidden = true; }, 2600);
   }
 
-  function api(path, options) {
+  function api(path, options, attempt) {
     options = options || {};
+    attempt = attempt || 0;
+    var safeToRetry = (options.method || 'GET').toUpperCase() !== 'POST';
     options.headers = Object.assign({ 'Content-Type': 'application/json' }, options.headers || {});
     options.credentials = 'same-origin';
     return fetch(API + path, options).then(function (res) {
-      return res.json().then(function (data) {
-        if (!res.ok) throw new Error(data.error || 'Request failed');
+      return res.text().then(function (text) {
+        var data = null;
+        try { data = text ? JSON.parse(text) : {}; } catch (e) { data = null; }
+        if (!res.ok || data === null) {
+          var err = new Error((data && data.error) || ('Server error (' + res.status + ')'));
+          err.retry = res.status >= 500 || res.status === 429 || data === null;
+          throw err;
+        }
         return data;
       });
+    }).catch(function (e) {
+      var transient = e.retry !== false;
+      if (safeToRetry && transient && attempt < 3) {
+        return new Promise(function (r) { setTimeout(r, 600 * (attempt + 1)); })
+          .then(function () { return api(path, options, attempt + 1); });
+      }
+      throw e;
     });
   }
 
@@ -97,14 +112,20 @@
         : '<span class="ph">No photo</span>';
       var countBadge = p.images && p.images.length > 1 ? ('<div class="p-card-imgcount">' + p.images.length + ' photos</div>') : '';
       return (
-        '<button class="p-card" data-id="' + esc(p.id) + '">' +
-          '<div class="p-card-media">' + media + '</div>' +
-          '<div class="p-card-body">' +
-            '<div class="p-card-cat">' + esc(p.categoryLabel) + '</div>' +
-            '<div class="p-card-name">' + esc(p.name) + '</div>' +
-            countBadge +
+        '<div class="p-card" data-id="' + esc(p.id) + '">' +
+          '<div class="p-card-main">' +
+            '<div class="p-card-media">' + media + '</div>' +
+            '<div class="p-card-body">' +
+              '<div class="p-card-cat">' + esc(p.categoryLabel) + '</div>' +
+              '<div class="p-card-name">' + esc(p.name) + '</div>' +
+              countBadge +
+            '</div>' +
           '</div>' +
-        '</button>'
+          '<div class="p-card-actions">' +
+            '<button type="button" class="p-edit">Edit</button>' +
+            '<button type="button" class="p-del">Delete</button>' +
+          '</div>' +
+        '</div>'
       );
     }).join('');
   }
@@ -113,7 +134,16 @@
     var card = e.target.closest('.p-card');
     if (!card) return;
     var p = state.products.find(function (x) { return x.id === card.dataset.id; });
-    if (p) openEditor(p);
+    if (!p) return;
+    if (e.target.closest('.p-del')) {
+      if (!confirm('Delete "' + p.name + '"? This cannot be undone.')) return;
+      api('/api/products/' + p.id, { method: 'DELETE' }).then(function () {
+        toast('Deleted.');
+        return refreshProducts();
+      }).catch(function (err) { toast('Delete failed: ' + err.message, true); });
+      return;
+    }
+    openEditor(p);
   });
 
   searchInput.addEventListener('input', function () { state.search = searchInput.value; render(); });
@@ -276,8 +306,9 @@
       closeEditor();
       return refreshProducts();
     }).catch(function (e) {
-      saveError.textContent = e.message;
+      saveError.textContent = 'Could not save: ' + e.message + '. Please tap Save again.';
       saveError.hidden = false;
+      toast('Could not save — tap Save again', true);
     }).finally(function () {
       saveBtn.disabled = false;
     });
