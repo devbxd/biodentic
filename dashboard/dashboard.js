@@ -9,6 +9,14 @@
   var searchInput = document.getElementById('search-input');
   var categoryFilter = document.getElementById('category-filter');
   var addProductBtn = document.getElementById('add-product-btn');
+  var manageCategoriesBtn = document.getElementById('manage-categories-btn');
+  var categoriesOverlay = document.getElementById('categories-overlay');
+  var categoriesClose = document.getElementById('categories-close');
+  var categoriesDoneBtn = document.getElementById('categories-done-btn');
+  var categoriesList = document.getElementById('categories-list');
+  var categoriesError = document.getElementById('categories-error');
+  var newCategoryInput = document.getElementById('new-category-input');
+  var addCategoryBtn = document.getElementById('add-category-btn');
   var resultCount = document.getElementById('result-count');
   var grid = document.getElementById('product-grid');
   var emptyState = document.getElementById('empty-state');
@@ -148,6 +156,115 @@
 
   searchInput.addEventListener('input', function () { state.search = searchInput.value; render(); });
   categoryFilter.addEventListener('change', function () { state.filter = categoryFilter.value; render(); });
+
+  // ---------- Categories ----------
+  function categoryCounts() {
+    var counts = {};
+    state.products.forEach(function (p) { counts[p.category] = (counts[p.category] || 0) + 1; });
+    return counts;
+  }
+
+  function renderCategoriesList() {
+    var counts = categoryCounts();
+    categoriesList.innerHTML = state.categories.map(function (c) {
+      var n = counts[c.slug] || 0;
+      return (
+        '<div class="category-row" data-slug="' + esc(c.slug) + '">' +
+          '<input type="text" class="cat-label-input" value="' + esc(c.label) + '">' +
+          '<span class="cat-count">' + n + ' item' + (n === 1 ? '' : 's') + '</span>' +
+          '<button type="button" class="cat-del" aria-label="Delete category">' +
+            '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="3 6 5 6 21 6"/><path d="M19 6l-1 14a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2L5 6m3 0V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"/></svg>' +
+          '</button>' +
+        '</div>'
+      );
+    }).join('');
+  }
+
+  function openCategoriesPanel() {
+    categoriesError.hidden = true;
+    newCategoryInput.value = '';
+    renderCategoriesList();
+    categoriesOverlay.hidden = false;
+    document.body.style.overflow = 'hidden';
+  }
+
+  function closeCategoriesPanel() {
+    categoriesOverlay.hidden = true;
+    document.body.style.overflow = '';
+  }
+
+  manageCategoriesBtn.addEventListener('click', openCategoriesPanel);
+  categoriesClose.addEventListener('click', closeCategoriesPanel);
+  categoriesDoneBtn.addEventListener('click', closeCategoriesPanel);
+  categoriesOverlay.addEventListener('click', function (e) { if (e.target === categoriesOverlay) closeCategoriesPanel(); });
+
+  function reloadCategoriesAndProducts() {
+    return Promise.all([api('/api/categories'), api('/api/products')]).then(function (res) {
+      state.categories = res[0];
+      state.products = res[1];
+      fillCategorySelects();
+      render();
+    });
+  }
+
+  categoriesList.addEventListener('change', function (e) {
+    var input = e.target.closest('.cat-label-input');
+    if (!input) return;
+    var row = input.closest('.category-row');
+    var slug = row.dataset.slug;
+    var label = input.value.trim();
+    var current = state.categories.find(function (c) { return c.slug === slug; });
+    if (!label) { input.value = current ? current.label : ''; return; }
+    if (current && label === current.label) return;
+    input.disabled = true;
+    api('/api/categories/' + slug, { method: 'PUT', body: JSON.stringify({ label: label }) })
+      .then(function () { toast('Category renamed.'); return reloadCategoriesAndProducts(); })
+      .then(function () { renderCategoriesList(); })
+      .catch(function (err) {
+        categoriesError.textContent = err.message;
+        categoriesError.hidden = false;
+        renderCategoriesList();
+      })
+      .finally(function () { input.disabled = false; });
+  });
+
+  categoriesList.addEventListener('click', function (e) {
+    var btn = e.target.closest('.cat-del');
+    if (!btn) return;
+    var row = btn.closest('.category-row');
+    var slug = row.dataset.slug;
+    var current = state.categories.find(function (c) { return c.slug === slug; });
+    if (!confirm('Delete category "' + (current ? current.label : slug) + '"?')) return;
+    categoriesError.hidden = true;
+    api('/api/categories/' + slug, { method: 'DELETE' })
+      .then(function () { toast('Category deleted.'); return reloadCategoriesAndProducts(); })
+      .then(function () { renderCategoriesList(); })
+      .catch(function (err) {
+        categoriesError.textContent = err.message;
+        categoriesError.hidden = false;
+      });
+  });
+
+  function addCategory() {
+    var label = newCategoryInput.value.trim();
+    if (!label) return;
+    categoriesError.hidden = true;
+    addCategoryBtn.disabled = true;
+    api('/api/categories', { method: 'POST', body: JSON.stringify({ label: label }) })
+      .then(function () {
+        toast('Category added.');
+        newCategoryInput.value = '';
+        return reloadCategoriesAndProducts();
+      })
+      .then(function () { renderCategoriesList(); })
+      .catch(function (err) {
+        categoriesError.textContent = err.message;
+        categoriesError.hidden = false;
+      })
+      .finally(function () { addCategoryBtn.disabled = false; });
+  }
+  addCategoryBtn.addEventListener('click', addCategory);
+  newCategoryInput.addEventListener('keydown', function (e) { if (e.key === 'Enter') addCategory(); });
 
   // ---------- Editor ----------
   function openEditor(product) {
