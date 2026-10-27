@@ -23,6 +23,7 @@
   var visitorsDoneBtn = document.getElementById('visitors-done-btn');
   var visitorsList = document.getElementById('visitors-list');
   var visitorsEmpty = document.getElementById('visitors-empty');
+  var visitorsCount = document.getElementById('visitors-count');
   var resultCount = document.getElementById('result-count');
   var grid = document.getElementById('product-grid');
   var emptyState = document.getElementById('empty-state');
@@ -284,9 +285,11 @@
   function openVisitorsPanel() {
     visitorsList.innerHTML = '';
     visitorsEmpty.hidden = true;
+    visitorsCount.textContent = 'Loading…';
     visitorsOverlay.hidden = false;
     document.body.style.overflow = 'hidden';
     api('/api/visitors').then(function (rows) {
+      visitorsCount.textContent = rows.length + ' submission' + (rows.length === 1 ? '' : 's');
       if (!rows.length) { visitorsEmpty.hidden = false; return; }
       visitorsList.innerHTML = rows.map(function (v) {
         return (

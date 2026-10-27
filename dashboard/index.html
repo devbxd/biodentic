@@ -69,7 +69,7 @@
 
 <!-- ===================== VISITOR INFORMATIONS PANEL ===================== -->
 <div id="visitors-overlay" class="editor-overlay" hidden>
-  <div class="editor-panel">
+  <div class="editor-panel panel-wide">
     <div class="editor-head">
       <h2>Informations</h2>
       <button id="visitors-close" class="icon-btn" aria-label="Close">
@@ -78,6 +78,12 @@
     </div>
 
     <div class="editor-body">
+      <p id="visitors-count" class="visitors-count"></p>
+      <div class="visitors-table-head">
+        <span>Doctor name</span>
+        <span>Phone number</span>
+        <span>Submitted</span>
+      </div>
       <div id="visitors-list" class="visitors-list"></div>
       <p id="visitors-empty" class="empty-state" hidden>No visitors yet.</p>
     </div>
