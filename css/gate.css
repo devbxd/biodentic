@@ -1,0 +1,33 @@
+#gate-overlay{
+  position:fixed;inset:0;z-index:99999;display:flex;align-items:center;justify-content:center;padding:20px;
+  background:linear-gradient(180deg,#0a1f2e 0%,#0e2c3f 55%,#134156 100%);
+}
+#gate-overlay .gate-card{
+  background:#fff;border-radius:20px;padding:36px 28px;max-width:380px;width:100%;text-align:center;
+  box-shadow:0 8px 24px -8px rgba(10,31,46,.3);
+}
+#gate-overlay .gate-logo{width:52px;margin-bottom:14px}
+#gate-overlay h1{
+  font-family:'Poppins',-apple-system,'Segoe UI',sans-serif;font-size:21px;margin:0 0 6px;color:#0a1f2e;
+}
+#gate-overlay p.gate-sub{
+  font-family:'Inter',-apple-system,'Segoe UI',sans-serif;color:#516170;font-size:14px;margin:0 0 22px;line-height:1.5;
+}
+#gate-overlay form{text-align:left}
+#gate-overlay label{
+  display:block;font-family:'Poppins',-apple-system,'Segoe UI',sans-serif;font-weight:600;font-size:12.5px;
+  color:#516170;margin:0 0 6px;
+}
+#gate-overlay input{
+  width:100%;padding:13px 14px;border-radius:10px;border:1.5px solid #dfe9e7;margin-bottom:14px;
+  font-family:'Inter',-apple-system,'Segoe UI',sans-serif;font-size:16px;color:#122029;box-sizing:border-box;
+}
+#gate-overlay input:focus{outline:none;border-color:#0d9488}
+#gate-overlay button[type="submit"]{
+  background:linear-gradient(120deg,#14b8a6,#0d9488);color:#fff;font-weight:600;border:none;cursor:pointer;
+  padding:14px 20px;border-radius:10px;width:100%;font-family:'Poppins',-apple-system,'Segoe UI',sans-serif;font-size:15px;
+}
+#gate-overlay button[type="submit"]:active{transform:scale(.98)}
+#gate-overlay button[type="submit"]:disabled{opacity:.6}
+#gate-overlay .gate-error{color:#e0503a;font-size:13.5px;margin:0 0 14px;display:none}
+#gate-overlay .gate-error.visible{display:block}

@@ -17,6 +17,12 @@
   var categoriesError = document.getElementById('categories-error');
   var newCategoryInput = document.getElementById('new-category-input');
   var addCategoryBtn = document.getElementById('add-category-btn');
+  var viewVisitorsBtn = document.getElementById('view-visitors-btn');
+  var visitorsOverlay = document.getElementById('visitors-overlay');
+  var visitorsClose = document.getElementById('visitors-close');
+  var visitorsDoneBtn = document.getElementById('visitors-done-btn');
+  var visitorsList = document.getElementById('visitors-list');
+  var visitorsEmpty = document.getElementById('visitors-empty');
   var resultCount = document.getElementById('result-count');
   var grid = document.getElementById('product-grid');
   var emptyState = document.getElementById('empty-state');
@@ -265,6 +271,46 @@
   }
   addCategoryBtn.addEventListener('click', addCategory);
   newCategoryInput.addEventListener('keydown', function (e) { if (e.key === 'Enter') addCategory(); });
+
+  // ---------- Visitor informations ----------
+  function formatDate(iso) {
+    try {
+      var d = new Date(iso);
+      return d.toLocaleDateString(undefined, { day: '2-digit', month: 'short', year: 'numeric' }) +
+        ' ' + d.toLocaleTimeString(undefined, { hour: '2-digit', minute: '2-digit' });
+    } catch (e) { return iso; }
+  }
+
+  function openVisitorsPanel() {
+    visitorsList.innerHTML = '';
+    visitorsEmpty.hidden = true;
+    visitorsOverlay.hidden = false;
+    document.body.style.overflow = 'hidden';
+    api('/api/visitors').then(function (rows) {
+      if (!rows.length) { visitorsEmpty.hidden = false; return; }
+      visitorsList.innerHTML = rows.map(function (v) {
+        return (
+          '<div class="visitor-row">' +
+            '<div>' +
+              '<div class="visitor-name">' + esc(v.doctorName) + '</div>' +
+              '<div class="visitor-phone">' + esc(v.phone) + '</div>' +
+            '</div>' +
+            '<div class="visitor-date">' + esc(formatDate(v.createdAt)) + '</div>' +
+          '</div>'
+        );
+      }).join('');
+    }).catch(function (e) { toast(e.message, true); });
+  }
+
+  function closeVisitorsPanel() {
+    visitorsOverlay.hidden = true;
+    document.body.style.overflow = '';
+  }
+
+  viewVisitorsBtn.addEventListener('click', openVisitorsPanel);
+  visitorsClose.addEventListener('click', closeVisitorsPanel);
+  visitorsDoneBtn.addEventListener('click', closeVisitorsPanel);
+  visitorsOverlay.addEventListener('click', function (e) { if (e.target === visitorsOverlay) closeVisitorsPanel(); });
 
   // ---------- Editor ----------
   function openEditor(product) {

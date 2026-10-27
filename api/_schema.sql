@@ -29,3 +29,10 @@ CREATE TABLE IF NOT EXISTS categories (
   label TEXT NOT NULL,
   position INT NOT NULL DEFAULT 0
 );
+
+CREATE TABLE IF NOT EXISTS visitors (
+  id SERIAL PRIMARY KEY,
+  doctor_name TEXT NOT NULL,
+  phone TEXT NOT NULL,
+  created_at TIMESTAMPTZ DEFAULT now()
+);

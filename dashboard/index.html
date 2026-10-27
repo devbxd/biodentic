@@ -29,6 +29,7 @@
     </div>
     <select id="category-filter"><option value="">All categories</option></select>
     <button id="manage-categories-btn" class="btn-ghost-sm btn-cats">Categories</button>
+    <button id="view-visitors-btn" class="btn-ghost-sm btn-cats">Informations</button>
     <button id="add-product-btn" class="btn-primary btn-add">+ Add product</button>
   </div>
 
@@ -62,6 +63,27 @@
 
     <div class="editor-footer" style="justify-content:flex-end">
       <button id="categories-done-btn" class="btn-primary">Done</button>
+    </div>
+  </div>
+</div>
+
+<!-- ===================== VISITOR INFORMATIONS PANEL ===================== -->
+<div id="visitors-overlay" class="editor-overlay" hidden>
+  <div class="editor-panel">
+    <div class="editor-head">
+      <h2>Informations</h2>
+      <button id="visitors-close" class="icon-btn" aria-label="Close">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
+      </button>
+    </div>
+
+    <div class="editor-body">
+      <div id="visitors-list" class="visitors-list"></div>
+      <p id="visitors-empty" class="empty-state" hidden>No visitors yet.</p>
+    </div>
+
+    <div class="editor-footer" style="justify-content:flex-end">
+      <button id="visitors-done-btn" class="btn-primary">Done</button>
     </div>
   </div>
 </div>
