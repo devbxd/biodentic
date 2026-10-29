@@ -122,7 +122,7 @@ header.site-header{
 .nav-inner{display:flex;align-items:center;justify-content:space-between;gap:24px;padding:14px 0}
 
 .brand{display:flex;align-items:center;gap:12px}
-.brand .mark{width:44px;height:38px;flex:none}
+.brand .mark{height:40px;width:auto;flex:none}
 .brand .wordmark{display:flex;flex-direction:column;line-height:1}
 .brand .wordmark .name{
   font-family:var(--font-head);font-weight:800;font-size:22px;letter-spacing:-.01em;
@@ -133,6 +133,12 @@ header.site-header{
   font-family:var(--font-head);font-size:8.4px;font-weight:600;letter-spacing:.24em;
   color:var(--ink-faint);text-transform:uppercase;margin-top:3px;
 }
+
+.logo-card{
+  display:inline-flex;align-items:center;background:#fff;border-radius:10px;
+  padding:6px 12px;box-shadow:0 6px 18px -6px rgba(0,0,0,.3);
+}
+.logo-card img{display:block;height:34px;width:auto}
 
 .main-nav{display:flex;align-items:center;gap:6px}
 .main-nav a{
@@ -218,8 +224,9 @@ header.site-header{
   filter:blur(10px);
 }
 .hero-visual .big-mark{
-  position:absolute;width:230px;height:auto;top:50%;left:50%;
-  transform:translate(-42%,-50%);filter:drop-shadow(0 20px 40px rgba(0,0,0,.35));
+  position:absolute;width:260px;height:auto;top:50%;left:50%;
+  transform:translate(-45%,-50%);filter:drop-shadow(0 20px 40px rgba(0,0,0,.35));
+  background:#fff;border-radius:16px;padding:16px 20px;
 }
 .hero-visual .chip{
   position:absolute;background:rgba(255,255,255,.08);border:1px solid rgba(255,255,255,.16);
@@ -377,7 +384,10 @@ header.site-header{
   background-image:radial-gradient(circle,rgba(255,255,255,.16) 1.5px,transparent 1.5px);
   background-size:22px 22px;opacity:.5;
 }
-.split-visual img{width:34%;position:relative;filter:drop-shadow(0 16px 28px rgba(0,0,0,.25))}
+.split-visual img{
+  width:54%;position:relative;filter:drop-shadow(0 16px 28px rgba(0,0,0,.25));
+  background:#fff;border-radius:16px;padding:18px 22px;
+}
 
 .value-list{display:flex;flex-direction:column;gap:22px;margin-top:30px}
 .value-item{display:flex;gap:16px}
@@ -658,7 +668,7 @@ footer.site-footer{background:var(--navy-900);color:#a9bcd0;padding:70px 0 0}
 @media (max-width:560px){
   .container{padding:0 18px}
   .nav-inner{padding:12px 0}
-  .brand .mark{width:36px;height:31px}
+  .brand .mark{height:32px;width:auto}
   .brand .wordmark .name{font-size:19px}
   .brand .wordmark .tag{font-size:7.6px;letter-spacing:.18em}
   .cat-grid{grid-template-columns:1fr}
@@ -699,7 +709,7 @@ footer.site-footer{background:var(--navy-900);color:#a9bcd0;padding:70px 0 0}
   padding:20px 24px 28px;display:flex;flex-direction:column;box-shadow:var(--shadow-lg);
 }
 .mobile-nav-head{display:flex;align-items:center;justify-content:space-between;margin-bottom:22px}
-.mobile-nav-logo{width:38px;height:33px;flex:none}
+.mobile-nav-logo{height:36px;width:auto;flex:none}
 .mobile-nav-close{
   width:38px;height:38px;display:flex;align-items:center;justify-content:center;border-radius:10px;
   background:var(--bg-soft);color:var(--navy-900);transition:background .18s,color .18s;flex:none;
