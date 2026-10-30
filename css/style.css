@@ -224,9 +224,9 @@ header.site-header{
   filter:blur(10px);
 }
 .hero-visual .big-mark{
-  position:absolute;width:260px;height:auto;top:50%;left:50%;
-  transform:translate(-45%,-50%);filter:drop-shadow(0 20px 40px rgba(0,0,0,.35));
-  background:#fff;border-radius:16px;padding:16px 20px;
+  position:absolute;width:230px;height:auto;top:50%;left:50%;
+  transform:translate(-50%,-50%);filter:drop-shadow(0 20px 40px rgba(0,0,0,.35));
+  border-radius:50%;
 }
 .hero-visual .chip{
   position:absolute;background:rgba(255,255,255,.08);border:1px solid rgba(255,255,255,.16);
@@ -630,12 +630,12 @@ footer.site-footer{background:var(--navy-900);color:#a9bcd0;padding:70px 0 0}
 @media (max-width:1080px){
   .hero-inner{grid-template-columns:1fr;padding-top:52px}
   .hero-visual{
-    display:flex;position:relative;height:220px;align-items:center;justify-content:center;
-    order:-1;margin:0 auto 28px;width:200px;
+    display:flex;position:relative;height:170px;align-items:center;justify-content:center;
+    order:-1;margin:0 auto 20px;width:170px;
   }
   .hero-visual .ring,.hero-visual .chip{display:none}
-  .hero-visual .glow{position:absolute;width:200px;height:200px;top:50%;left:50%;transform:translate(-50%,-50%)}
-  .hero-visual .big-mark{position:relative;width:112px;transform:none;left:auto;top:auto}
+  .hero-visual .glow{position:absolute;width:170px;height:170px;top:50%;left:50%;transform:translate(-50%,-50%)}
+  .hero-visual .big-mark{position:relative;width:150px;transform:none;left:auto;top:auto;border-radius:50%}
   .hero-copy{text-align:center}
   .hero-copy .eyebrow{justify-content:center}
   .hero-copy p{margin-left:auto;margin-right:auto}
@@ -677,9 +677,9 @@ footer.site-footer{background:var(--navy-900);color:#a9bcd0;padding:70px 0 0}
   .footer-top{grid-template-columns:1fr}
   .hero-inner{padding:44px 0 40px}
   .hero-copy h1{font-size:clamp(28px,7vw,36px)}
-  .hero-visual{width:150px;height:170px}
-  .hero-visual .glow{width:150px;height:150px}
-  .hero-visual .big-mark{width:86px}
+  .hero-visual{width:140px;height:140px}
+  .hero-visual .glow{width:140px;height:140px}
+  .hero-visual .big-mark{width:120px}
   .form-card{padding:26px}
   .cta-band{padding:36px 22px}
   .product-card{border-radius:var(--radius-md)}
