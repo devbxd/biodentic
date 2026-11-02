@@ -398,9 +398,12 @@
     grid.innerHTML = card.repeat(8);
   })();
 
-  fetch('data/products.json?v=' + Date.now())
+  fetch('/api/products')
     .then(function (res) { return res.json(); })
     .then(function (products) {
+      products.forEach(function (p) {
+        p.image = (p.images && p.images[0] && p.images[0].url) || '';
+      });
       allProducts = products.slice().sort(function (a, b) {
         return CATEGORY_ORDER.indexOf(a.category) - CATEGORY_ORDER.indexOf(b.category);
       });

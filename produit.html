@@ -323,16 +323,16 @@
   if (!id) {
     showNotFound();
   } else {
-    fetch('data/products.json?v=' + Date.now())
+    fetch('/api/products/' + encodeURIComponent(id))
       .then(function (res) {
         if (!res.ok) throw new Error('Failed to load product data');
         return res.json();
       })
-      .then(function (products) {
-        var product = Array.isArray(products) ? products.find(function (p) { return p.id === id; }) : null;
-        if (!product) {
+      .then(function (product) {
+        if (!product || !product.id) {
           showNotFound();
         } else {
+          product.image = (product.images && product.images[0] && product.images[0].url) || '';
           renderProduct(product);
         }
       })
