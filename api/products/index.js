@@ -19,7 +19,9 @@ module.exports = async (req, res) => {
       FROM products p
       LEFT JOIN product_images pi ON pi.product_id = p.id
       GROUP BY p.id
-      ORDER BY p.category, p.name
+      ORDER BY p.category,
+        CASE WHEN p.category = 'restorative' AND p.name ILIKE '%3m%' THEN 0 ELSE 1 END,
+        p.name
     `;
     res.setHeader('Cache-Control', 'public, max-age=30, stale-while-revalidate=300');
     return res.status(200).json(rows);
