@@ -279,7 +279,7 @@ header.site-header{
 /* ===========================================================
    PRODUCT CARDS
    =========================================================== */
-.product-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:26px}
+.product-grid{display:grid;grid-template-columns:repeat(5,1fr);gap:20px}
 .product-card{
   background:#fff;border:1px solid var(--border-soft);border-radius:var(--radius-lg);overflow:hidden;
   transition:box-shadow .3s cubic-bezier(.2,.7,.3,1),transform .3s cubic-bezier(.2,.7,.3,1),border-color .3s ease;
@@ -641,7 +641,7 @@ footer.site-footer{background:var(--navy-900);color:#a9bcd0;padding:70px 0 0}
   .hero-actions{justify-content:center}
   .hero-trust{justify-content:center}
   .cat-grid{grid-template-columns:repeat(2,1fr)}
-  .product-grid{grid-template-columns:repeat(3,1fr)}
+  .product-grid{grid-template-columns:repeat(4,1fr);gap:16px}
   .why-grid{grid-template-columns:repeat(1,1fr)}
   .split{grid-template-columns:1fr;gap:40px}
   .split.reverse .split-visual{order:-1}
