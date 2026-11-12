@@ -1,9 +1,11 @@
 const { sql } = require('./_db');
+const { requireAuth } = require('./_auth');
 
 module.exports = async (req, res) => {
   const db = sql();
 
   if (req.method === 'GET') {
+    if (!requireAuth(req, res)) return;
     const rows = await db`
       SELECT id, doctor_name AS "doctorName", phone, created_at AS "createdAt"
       FROM visitors ORDER BY created_at DESC

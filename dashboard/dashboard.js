@@ -496,5 +496,44 @@
     openEditor(null);
   });
 
-  boot();
+  // ---------- Auth gate ----------
+  var loginScreen = document.getElementById('login-screen');
+  var appRoot = document.getElementById('app');
+  var loginForm = document.getElementById('login-form');
+  var loginPassword = document.getElementById('login-password');
+  var loginError = document.getElementById('login-error');
+
+  function showApp() {
+    loginScreen.hidden = true;
+    appRoot.hidden = false;
+    boot();
+  }
+
+  function showLogin() {
+    appRoot.hidden = true;
+    loginScreen.hidden = false;
+    loginPassword.focus();
+  }
+
+  loginForm.addEventListener('submit', function (e) {
+    e.preventDefault();
+    loginError.hidden = true;
+    var submitBtn = loginForm.querySelector('button[type="submit"]');
+    submitBtn.disabled = true;
+    api('/api/login', { method: 'POST', body: JSON.stringify({ password: loginPassword.value }) })
+      .then(function () {
+        loginPassword.value = '';
+        showApp();
+      })
+      .catch(function (err) {
+        loginError.textContent = err.message || 'Incorrect password.';
+        loginError.hidden = false;
+      })
+      .finally(function () { submitBtn.disabled = false; });
+  });
+
+  api('/api/me').then(function (res) {
+    if (res.authenticated) showApp();
+    else showLogin();
+  }).catch(function () { showLogin(); });
 })();

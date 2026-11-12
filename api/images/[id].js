@@ -1,8 +1,11 @@
 const { sql } = require('../_db');
+const { requireAuth } = require('../_auth');
 
 module.exports = async (req, res) => {
   const db = sql();
   const { id } = req.query;
+
+  if (req.method !== 'GET' && !requireAuth(req, res)) return;
 
   if (req.method === 'GET') {
     const rows = await db`SELECT data, content_type FROM product_images WHERE id = ${id}`;

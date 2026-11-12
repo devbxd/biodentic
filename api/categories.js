@@ -1,4 +1,5 @@
 const { sql } = require('./_db');
+const { requireAuth } = require('./_auth');
 
 function slugify(label) {
   return String(label || '')
@@ -19,6 +20,7 @@ module.exports = async (req, res) => {
   }
 
   if (req.method === 'POST') {
+    if (!requireAuth(req, res)) return;
     let body = req.body;
     if (typeof body === 'string') { try { body = JSON.parse(body); } catch (e) { body = {}; } }
     const label = (body && body.label || '').trim();

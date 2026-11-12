@@ -1,8 +1,11 @@
 const { sql } = require('../_db');
+const { requireAuth } = require('../_auth');
 
 module.exports = async (req, res) => {
   const db = sql();
   const { slug } = req.query;
+
+  if (!requireAuth(req, res)) return;
 
   if (req.method === 'PUT' || req.method === 'PATCH') {
     let body = req.body;

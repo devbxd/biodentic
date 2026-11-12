@@ -13,7 +13,20 @@
 </head>
 <body>
 
-<div id="app" class="app">
+<div id="login-screen" class="login-screen" hidden>
+  <div class="login-card">
+    <img src="/assets/logo-full.png" alt="Biodentic" class="login-logo">
+    <h1>Dashboard access</h1>
+    <p>Enter the password to manage products.</p>
+    <form id="login-form">
+      <input type="password" id="login-password" placeholder="Password" autocomplete="current-password" autofocus>
+      <button type="submit" class="btn-primary">Unlock</button>
+      <p id="login-error" class="error-text" hidden></p>
+    </form>
+  </div>
+</div>
+
+<div id="app" class="app" hidden>
 
   <header class="app-header">
     <div class="app-header-left">

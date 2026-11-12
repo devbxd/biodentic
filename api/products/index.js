@@ -1,4 +1,5 @@
 const { sql } = require('../_db');
+const { requireAuth } = require('../_auth');
 
 function slugify(name) {
   return name.toLowerCase().normalize('NFKD').replace(/[̀-ͯ]/g, '')
@@ -28,6 +29,7 @@ module.exports = async (req, res) => {
   }
 
   if (req.method === 'POST') {
+    if (!requireAuth(req, res)) return;
     let body = req.body;
     if (typeof body === 'string') { try { body = JSON.parse(body); } catch (e) { body = {}; } }
     const { name, category, categoryLabel, description, variants } = body || {};
