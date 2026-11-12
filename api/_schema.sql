@@ -5,6 +5,7 @@ CREATE TABLE IF NOT EXISTS products (
   category_label TEXT NOT NULL,
   description TEXT DEFAULT '',
   variants JSONB DEFAULT NULL,
+  family_rank INT NOT NULL DEFAULT 999,
   created_at TIMESTAMPTZ DEFAULT now(),
   updated_at TIMESTAMPTZ DEFAULT now()
 );
