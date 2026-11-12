@@ -24,6 +24,13 @@
   var visitorsList = document.getElementById('visitors-list');
   var visitorsEmpty = document.getElementById('visitors-empty');
   var visitorsCount = document.getElementById('visitors-count');
+  var reorderBtn = document.getElementById('reorder-btn');
+  var reorderOverlay = document.getElementById('reorder-overlay');
+  var reorderClose = document.getElementById('reorder-close');
+  var reorderCancelBtn = document.getElementById('reorder-cancel-btn');
+  var reorderSaveBtn = document.getElementById('reorder-save-btn');
+  var reorderCategorySelect = document.getElementById('reorder-category');
+  var reorderList = document.getElementById('reorder-list');
   var resultCount = document.getElementById('result-count');
   var grid = document.getElementById('product-grid');
   var emptyState = document.getElementById('empty-state');
@@ -314,6 +321,104 @@
   visitorsClose.addEventListener('click', closeVisitorsPanel);
   visitorsDoneBtn.addEventListener('click', closeVisitorsPanel);
   visitorsOverlay.addEventListener('click', function (e) { if (e.target === visitorsOverlay) closeVisitorsPanel(); });
+
+  // ---------- Reorder ----------
+  var reorderItems = [];
+
+  function reorderFillCategorySelect() {
+    reorderCategorySelect.innerHTML = state.categories.map(function (c) {
+      return '<option value="' + c.slug + '">' + c.label + '</option>';
+    }).join('');
+  }
+
+  function loadReorderList(categorySlug) {
+    reorderItems = state.products
+      .filter(function (p) { return p.category === categorySlug; })
+      .slice();
+    renderReorderList();
+  }
+
+  function renderReorderList() {
+    if (!reorderItems.length) {
+      reorderList.innerHTML = '<p class="empty-state">No products in this category yet.</p>';
+      return;
+    }
+    reorderList.innerHTML = reorderItems.map(function (p, i) {
+      var img = p.images && p.images[0];
+      var thumb = img
+        ? '<img class="reorder-thumb" src="' + img.url + '" alt="">'
+        : '<span class="reorder-thumb"></span>';
+      return (
+        '<div class="reorder-row" data-id="' + esc(p.id) + '">' +
+          thumb +
+          '<span class="reorder-name">' + esc(p.name) + '</span>' +
+          '<div class="reorder-arrows">' +
+            '<button type="button" class="reorder-up" ' + (i === 0 ? 'disabled' : '') + ' aria-label="Move up">' +
+              '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="12" y1="19" x2="12" y2="5"/><polyline points="5 12 12 5 19 12"/></svg>' +
+            '</button>' +
+            '<button type="button" class="reorder-down" ' + (i === reorderItems.length - 1 ? 'disabled' : '') + ' aria-label="Move down">' +
+              '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="12" y1="5" x2="12" y2="19"/><polyline points="19 12 12 19 5 12"/></svg>' +
+            '</button>' +
+          '</div>' +
+        '</div>'
+      );
+    }).join('');
+  }
+
+  reorderList.addEventListener('click', function (e) {
+    var row = e.target.closest('.reorder-row');
+    if (!row) return;
+    var id = row.dataset.id;
+    var index = reorderItems.findIndex(function (p) { return p.id === id; });
+    if (index < 0) return;
+    if (e.target.closest('.reorder-up') && index > 0) {
+      var tmp = reorderItems[index - 1];
+      reorderItems[index - 1] = reorderItems[index];
+      reorderItems[index] = tmp;
+      renderReorderList();
+    } else if (e.target.closest('.reorder-down') && index < reorderItems.length - 1) {
+      var tmp2 = reorderItems[index + 1];
+      reorderItems[index + 1] = reorderItems[index];
+      reorderItems[index] = tmp2;
+      renderReorderList();
+    }
+  });
+
+  function openReorderPanel() {
+    reorderFillCategorySelect();
+    var initial = (categoryFilter.value) || (state.categories[0] && state.categories[0].slug) || '';
+    reorderCategorySelect.value = initial;
+    loadReorderList(reorderCategorySelect.value);
+    reorderOverlay.hidden = false;
+    document.body.style.overflow = 'hidden';
+  }
+
+  function closeReorderPanel() {
+    reorderOverlay.hidden = true;
+    document.body.style.overflow = '';
+  }
+
+  reorderBtn.addEventListener('click', openReorderPanel);
+  reorderClose.addEventListener('click', closeReorderPanel);
+  reorderCancelBtn.addEventListener('click', closeReorderPanel);
+  reorderOverlay.addEventListener('click', function (e) { if (e.target === reorderOverlay) closeReorderPanel(); });
+  reorderCategorySelect.addEventListener('change', function () { loadReorderList(reorderCategorySelect.value); });
+
+  reorderSaveBtn.addEventListener('click', function () {
+    if (!reorderItems.length) return;
+    reorderSaveBtn.disabled = true;
+    var ids = reorderItems.map(function (p) { return p.id; });
+    api('/api/products/reorder', { method: 'POST', body: JSON.stringify({ category: reorderCategorySelect.value, ids: ids }) })
+      .then(function () {
+        toast('Order saved.');
+        return refreshProducts();
+      })
+      .then(function () {
+        loadReorderList(reorderCategorySelect.value);
+      })
+      .catch(function (e) { toast(e.message, true); })
+      .finally(function () { reorderSaveBtn.disabled = false; });
+  });
 
   // ---------- Editor ----------
   function openEditor(product) {

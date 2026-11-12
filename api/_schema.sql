@@ -6,6 +6,7 @@ CREATE TABLE IF NOT EXISTS products (
   description TEXT DEFAULT '',
   variants JSONB DEFAULT NULL,
   family_rank INT NOT NULL DEFAULT 999,
+  sort_order INT NOT NULL DEFAULT 0,
   created_at TIMESTAMPTZ DEFAULT now(),
   updated_at TIMESTAMPTZ DEFAULT now()
 );
