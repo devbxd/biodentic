@@ -16,6 +16,7 @@ button{cursor:pointer;border:none;background:none}
   min-height:100vh;display:flex;align-items:center;justify-content:center;padding:24px;
   background:linear-gradient(180deg,#0a1f2e 0%,#0e2c3f 55%,#134156 100%);
 }
+.login-screen[hidden]{display:none}
 .login-card{background:#fff;border-radius:20px;padding:36px 28px;max-width:360px;width:100%;text-align:center;box-shadow:var(--shadow)}
 .login-logo{width:140px;margin-bottom:14px}
 .login-card h1{font-family:var(--font-head);font-size:22px;margin:0 0 6px}
