@@ -352,37 +352,11 @@
         '<div class="reorder-row" data-id="' + esc(p.id) + '">' +
           thumb +
           '<span class="reorder-name">' + esc(p.name) + '</span>' +
-          '<div class="reorder-arrows">' +
-            '<button type="button" class="reorder-up" ' + (i === 0 ? 'disabled' : '') + ' aria-label="Move up">' +
-              '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="12" y1="19" x2="12" y2="5"/><polyline points="5 12 12 5 19 12"/></svg>' +
-            '</button>' +
-            '<button type="button" class="reorder-down" ' + (i === reorderItems.length - 1 ? 'disabled' : '') + ' aria-label="Move down">' +
-              '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="12" y1="5" x2="12" y2="19"/><polyline points="19 12 12 19 5 12"/></svg>' +
-            '</button>' +
-          '</div>' +
+          '<input type="number" class="reorder-num" inputmode="numeric" min="1" value="' + (i + 1) + '">' +
         '</div>'
       );
     }).join('');
   }
-
-  reorderList.addEventListener('click', function (e) {
-    var row = e.target.closest('.reorder-row');
-    if (!row) return;
-    var id = row.dataset.id;
-    var index = reorderItems.findIndex(function (p) { return p.id === id; });
-    if (index < 0) return;
-    if (e.target.closest('.reorder-up') && index > 0) {
-      var tmp = reorderItems[index - 1];
-      reorderItems[index - 1] = reorderItems[index];
-      reorderItems[index] = tmp;
-      renderReorderList();
-    } else if (e.target.closest('.reorder-down') && index < reorderItems.length - 1) {
-      var tmp2 = reorderItems[index + 1];
-      reorderItems[index + 1] = reorderItems[index];
-      reorderItems[index] = tmp2;
-      renderReorderList();
-    }
-  });
 
   function openReorderPanel() {
     reorderFillCategorySelect();
@@ -407,7 +381,15 @@
   reorderSaveBtn.addEventListener('click', function () {
     if (!reorderItems.length) return;
     reorderSaveBtn.disabled = true;
-    var ids = reorderItems.map(function (p) { return p.id; });
+
+    var rows = Array.prototype.slice.call(reorderList.querySelectorAll('.reorder-row'));
+    var withNum = rows.map(function (row, i) {
+      var raw = parseFloat(row.querySelector('.reorder-num').value);
+      return { id: row.dataset.id, num: isFinite(raw) ? raw : (i + 1), i: i };
+    });
+    withNum.sort(function (a, b) { return a.num - b.num || a.i - b.i; });
+    var ids = withNum.map(function (x) { return x.id; });
+
     api('/api/products/reorder', { method: 'POST', body: JSON.stringify({ category: reorderCategorySelect.value, ids: ids }) })
       .then(function () {
         toast('Order saved.');

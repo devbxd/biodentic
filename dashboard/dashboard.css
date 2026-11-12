@@ -95,14 +95,11 @@ button{cursor:pointer;border:none;background:none}
   width:40px;height:40px;border-radius:8px;object-fit:cover;background:var(--bg);flex:none;
 }
 .reorder-name{flex:1;font-size:13.5px;font-weight:500;color:var(--ink);min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
-.reorder-arrows{display:flex;gap:4px;flex:none}
-.reorder-arrows button{
-  width:32px;height:32px;border-radius:8px;border:1px solid var(--border);display:flex;align-items:center;justify-content:center;
-  color:var(--ink-soft);
+.reorder-num{
+  width:52px;flex:none;text-align:center;padding:8px 4px;border-radius:8px;border:1.5px solid var(--border);
+  font-family:var(--font-head);font-weight:600;color:var(--ink);
 }
-.reorder-arrows button:disabled{opacity:.3}
-.reorder-arrows button:not(:disabled):active{background:var(--bg)}
-.reorder-arrows svg{width:16px;height:16px}
+.reorder-num:focus{outline:none;border-color:var(--teal-500)}
 .visitors-count{color:var(--ink-faint);font-size:13px;margin:0 0 12px}
 .visitors-table-head{
   display:none;
