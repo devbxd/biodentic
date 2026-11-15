@@ -7,6 +7,19 @@ module.exports = async (req, res) => {
   if (req.method !== 'GET') return res.status(405).json({ error: 'Method not allowed' });
   if (!requireAuth(req, res)) return;
 
+  try {
+    await generateCatalogPdf(req, res);
+  } catch (err) {
+    console.error('catalog-pdf failed:', err);
+    if (!res.headersSent) {
+      res.status(500).json({ error: 'PDF generation failed', detail: err.message });
+    } else {
+      try { res.end(); } catch (e) {}
+    }
+  }
+};
+
+async function generateCatalogPdf(req, res) {
   const db = sql();
 
   const rows = await db`
@@ -134,4 +147,4 @@ module.exports = async (req, res) => {
   }
 
   doc.end();
-};
+}
