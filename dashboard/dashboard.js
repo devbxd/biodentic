@@ -25,6 +25,7 @@
   var visitorsEmpty = document.getElementById('visitors-empty');
   var visitorsCount = document.getElementById('visitors-count');
   var reorderBtn = document.getElementById('reorder-btn');
+  var downloadPdfBtn = document.getElementById('download-pdf-btn');
   var reorderOverlay = document.getElementById('reorder-overlay');
   var reorderClose = document.getElementById('reorder-close');
   var reorderCancelBtn = document.getElementById('reorder-cancel-btn');
@@ -50,6 +51,7 @@
   var fCategory = document.getElementById('f-category');
   var fDescription = document.getElementById('f-description');
   var fVariants = document.getElementById('f-variants');
+  var fPrice = document.getElementById('f-price');
 
   function toast(msg, isError) {
     var el = document.getElementById('toast');
@@ -416,6 +418,7 @@
     fCategory.value = product ? product.category : (state.categories[0] && state.categories[0].slug) || '';
     fDescription.value = product ? (product.description || '') : '';
     fVariants.value = product && product.variants ? product.variants.join('\n') : '';
+    fPrice.value = (product && product.price !== undefined && product.price !== null) ? product.price : '';
 
     renderImageList();
     overlay.hidden = false;
@@ -535,8 +538,10 @@
     var categoryLabel = (state.categories.find(function (c) { return c.slug === category; }) || {}).label || category;
     var description = fDescription.value.trim();
     var variants = fVariants.value.split('\n').map(function (s) { return s.trim(); }).filter(Boolean);
+    var priceRaw = fPrice.value.trim();
+    var price = priceRaw === '' ? null : Number(priceRaw);
 
-    var payload = { name: name, category: category, categoryLabel: categoryLabel, description: description, variants: variants.length ? variants : null };
+    var payload = { name: name, category: category, categoryLabel: categoryLabel, description: description, variants: variants.length ? variants : null, price: price };
     saveBtn.disabled = true;
 
     var isNew = !state.editing || !state.editing.id || !state.products.some(function (p) { return p.id === state.editing.id; });
@@ -581,6 +586,13 @@
   addProductBtn.addEventListener('click', function () {
     state.pendingImages = [];
     openEditor(null);
+  });
+
+  downloadPdfBtn.addEventListener('click', function () {
+    toast('Generating PDF… this can take a minute, please wait.');
+    downloadPdfBtn.disabled = true;
+    window.location.href = '/api/catalog-pdf';
+    setTimeout(function () { downloadPdfBtn.disabled = false; }, 4000);
   });
 
   // ---------- Auth gate ----------

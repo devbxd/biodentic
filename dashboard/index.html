@@ -44,6 +44,7 @@
     <button id="manage-categories-btn" class="btn-ghost-sm btn-cats">Categories</button>
     <button id="view-visitors-btn" class="btn-ghost-sm btn-cats">Informations</button>
     <button id="reorder-btn" class="btn-ghost-sm btn-cats">Reorder</button>
+    <button id="download-pdf-btn" class="btn-ghost-sm btn-cats">Download PDF</button>
     <button id="add-product-btn" class="btn-primary btn-add">+ Add product</button>
   </div>
 
@@ -167,6 +168,9 @@
 
       <label class="field-label" for="f-variants">Variants (one per line, optional)</label>
       <textarea id="f-variants" rows="3" placeholder="Small&#10;Medium&#10;Large"></textarea>
+
+      <label class="field-label" for="f-price">Price in USD (internal only — never shown on the website)</label>
+      <input type="number" id="f-price" inputmode="decimal" step="0.01" min="0" placeholder="e.g. 12.50">
 
       <p id="save-error" class="error-text" hidden></p>
     </div>

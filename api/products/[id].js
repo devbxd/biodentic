@@ -1,5 +1,5 @@
 const { sql } = require('../_db');
-const { requireAuth } = require('../_auth');
+const { requireAuth, isAuthenticated } = require('../_auth');
 
 module.exports = async (req, res) => {
   const db = sql();
@@ -8,9 +8,10 @@ module.exports = async (req, res) => {
   if (req.method !== 'GET' && !requireAuth(req, res)) return;
 
   if (req.method === 'GET') {
+    const authed = isAuthenticated(req);
     const rows = await db`
       SELECT p.id, p.name, p.category, p.category_label AS "categoryLabel",
-             p.description, p.variants,
+             p.description, p.variants, p.price,
              COALESCE(
                json_agg(json_build_object('id', pi.id, 'url', '/api/images/' || pi.id || '?v=2') ORDER BY pi.position)
                FILTER (WHERE pi.id IS NOT NULL), '[]'
@@ -21,13 +22,16 @@ module.exports = async (req, res) => {
       GROUP BY p.id
     `;
     if (!rows.length) return res.status(404).json({ error: 'Not found' });
-    return res.status(200).json(rows[0]);
+    const product = rows[0];
+    if (!authed) delete product.price;
+    else res.setHeader('Cache-Control', 'private, no-store');
+    return res.status(200).json(product);
   }
 
   if (req.method === 'PUT' || req.method === 'PATCH') {
     let body = req.body;
     if (typeof body === 'string') { try { body = JSON.parse(body); } catch (e) { body = {}; } }
-    const { name, category, categoryLabel, description, variants } = body || {};
+    const { name, category, categoryLabel, description, variants, price } = body || {};
 
     const existing = await db`SELECT * FROM products WHERE id = ${id}`;
     if (!existing.length) return res.status(404).json({ error: 'Not found' });
@@ -39,6 +43,9 @@ module.exports = async (req, res) => {
     const nextDescription = description !== undefined ? description : current.description;
     let nextVariants = variants !== undefined ? variants : current.variants;
     if (nextVariants && typeof nextVariants !== 'string') nextVariants = JSON.stringify(nextVariants);
+    const nextPrice = price !== undefined
+      ? (price === null || price === '' ? null : Number(price))
+      : current.price;
 
     await db`
       UPDATE products SET
@@ -47,6 +54,7 @@ module.exports = async (req, res) => {
         category_label = ${nextCategoryLabel},
         description = ${nextDescription},
         variants = ${nextVariants},
+        price = ${nextPrice},
         updated_at = now()
       WHERE id = ${id}
     `;

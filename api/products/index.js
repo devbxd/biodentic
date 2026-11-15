@@ -1,5 +1,5 @@
 const { sql } = require('../_db');
-const { requireAuth } = require('../_auth');
+const { requireAuth, isAuthenticated } = require('../_auth');
 
 function slugify(name) {
   return name.toLowerCase().normalize('NFKD').replace(/[̀-ͯ]/g, '')
@@ -10,9 +10,10 @@ module.exports = async (req, res) => {
   const db = sql();
 
   if (req.method === 'GET') {
+    const authed = isAuthenticated(req);
     const rows = await db`
       SELECT p.id, p.name, p.category, p.category_label AS "categoryLabel",
-             p.description, p.variants,
+             p.description, p.variants, p.price,
              COALESCE(
                json_agg(json_build_object('id', pi.id, 'url', '/api/images/' || pi.id || '?v=2') ORDER BY pi.position)
                FILTER (WHERE pi.id IS NOT NULL), '[]'
@@ -22,7 +23,12 @@ module.exports = async (req, res) => {
       GROUP BY p.id
       ORDER BY p.category, p.sort_order, p.family_rank, p.name
     `;
-    res.setHeader('Cache-Control', 'public, max-age=30, stale-while-revalidate=300');
+    if (!authed) {
+      rows.forEach((r) => { delete r.price; });
+      res.setHeader('Cache-Control', 'public, max-age=30, stale-while-revalidate=300');
+    } else {
+      res.setHeader('Cache-Control', 'private, no-store');
+    }
     return res.status(200).json(rows);
   }
 
@@ -30,7 +36,7 @@ module.exports = async (req, res) => {
     if (!requireAuth(req, res)) return;
     let body = req.body;
     if (typeof body === 'string') { try { body = JSON.parse(body); } catch (e) { body = {}; } }
-    const { name, category, categoryLabel, description, variants } = body || {};
+    const { name, category, categoryLabel, description, variants, price } = body || {};
     if (!name || !category) return res.status(400).json({ error: 'name and category are required' });
 
     let id = slugify(name);
@@ -41,9 +47,11 @@ module.exports = async (req, res) => {
       id = id + '-' + n;
     }
 
+    const priceValue = price === undefined || price === null || price === '' ? null : Number(price);
+
     await db`
-      INSERT INTO products (id, name, category, category_label, description, variants)
-      VALUES (${id}, ${name}, ${category}, ${categoryLabel || category}, ${description || ''}, ${variants ? JSON.stringify(variants) : null})
+      INSERT INTO products (id, name, category, category_label, description, variants, price)
+      VALUES (${id}, ${name}, ${category}, ${categoryLabel || category}, ${description || ''}, ${variants ? JSON.stringify(variants) : null}, ${priceValue})
     `;
     return res.status(201).json({ id });
   }
