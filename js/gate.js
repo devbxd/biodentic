@@ -1,12 +1,37 @@
 (function () {
   'use strict';
-  var STORAGE_KEY = 'biodentic_visitor_registered';
+  // v2: bumped to reset everyone, and moved to a domain-wide cookie so
+  // www.biodentic.pro and biodentic.pro share the same "already seen" state
+  // (localStorage alone is scoped per-hostname, so www and apex disagreed).
+  var STORAGE_KEY = 'biodentic_visitor_registered_v2';
+  var COOKIE_NAME = 'biodentic_visitor_registered_v2';
+
+  function getCookie(name) {
+    var match = document.cookie.match(new RegExp('(?:^|; )' + name + '=([^;]*)'));
+    return match ? decodeURIComponent(match[1]) : null;
+  }
+
+  function setSharedCookie(name, value) {
+    var host = location.hostname;
+    var parts = host.split('.');
+    // use the registrable root domain (last two labels) so it's shared
+    // across apex and any subdomain (e.g. www.biodentic.pro <-> biodentic.pro)
+    var domain = parts.length > 2 ? parts.slice(-2).join('.') : host;
+    var oneYear = 60 * 60 * 24 * 365;
+    document.cookie = name + '=' + encodeURIComponent(value) +
+      '; domain=' + domain + '; path=/; max-age=' + oneYear + '; SameSite=Lax';
+  }
+
+  function markRegistered() {
+    try { localStorage.setItem(STORAGE_KEY, '1'); } catch (e) {}
+    setSharedCookie(COOKIE_NAME, '1');
+  }
 
   function reveal() {
     document.documentElement.style.visibility = '';
   }
 
-  if (localStorage.getItem(STORAGE_KEY)) {
+  if (getCookie(COOKIE_NAME) || localStorage.getItem(STORAGE_KEY)) {
     reveal();
     return;
   }
@@ -71,7 +96,7 @@
         if (!res.ok) throw new Error('Request failed');
         return res.json();
       }).then(function () {
-        try { localStorage.setItem(STORAGE_KEY, '1'); } catch (e) {}
+        markRegistered();
         overlay.remove();
       }).catch(function () {
         errorEl.textContent = 'Something went wrong. Please try again.';
