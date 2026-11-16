@@ -71,6 +71,7 @@
         '</div>' +
       '</div>';
     document.body.appendChild(overlay);
+    document.body.style.overflow = 'hidden';
     reveal();
 
     var form = document.getElementById('gate-form');
@@ -98,6 +99,7 @@
       }).then(function () {
         markRegistered();
         overlay.remove();
+        document.body.style.overflow = '';
       }).catch(function () {
         errorEl.textContent = 'Something went wrong. Please try again.';
         errorEl.classList.add('visible');

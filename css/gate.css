@@ -1,18 +1,9 @@
 #gate-overlay{
   position:fixed;inset:0;z-index:99999;display:flex;align-items:center;justify-content:center;padding:20px;
-  background:linear-gradient(160deg,#0a1f2e 0%,#0e2c3f 55%,#134156 100%);
-  overflow:hidden;
+  background:rgba(10,20,30,.62);backdrop-filter:blur(4px);-webkit-backdrop-filter:blur(4px);
+  overflow:auto;animation:gate-fade .25s ease-out;
 }
-#gate-overlay::before{
-  content:"";position:absolute;inset:0;
-  background-image:radial-gradient(circle,rgba(255,255,255,.14) 1.5px,transparent 1.5px);
-  background-size:26px 26px;opacity:.5;pointer-events:none;
-}
-#gate-overlay::after{
-  content:"";position:absolute;z-index:0;width:520px;height:520px;border-radius:50%;
-  background:radial-gradient(circle,rgba(20,184,166,.35),transparent 65%);
-  top:50%;left:50%;transform:translate(-50%,-50%);filter:blur(10px);pointer-events:none;
-}
+@keyframes gate-fade{from{opacity:0}to{opacity:1}}
 #gate-overlay .gate-card{
   position:relative;z-index:1;background:#fff;border-radius:22px;padding:0 0 32px;max-width:400px;width:100%;text-align:center;
   box-shadow:0 30px 60px -15px rgba(0,0,0,.45),0 0 0 1px rgba(255,255,255,.08);
