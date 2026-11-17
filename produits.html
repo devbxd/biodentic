@@ -332,7 +332,7 @@
     });
     categoryLabels = {};
     Object.keys(cats).forEach(function (slug) { categoryLabels[slug] = cats[slug].label; });
-    var order = ['disposable','endo','impression','polishing','fraise','instrument','temporary','machine','restorative','whitening','cementation','fiberpost','etching','ortho','xray','prevention','crowns','implant','uniform'];
+    var order = ['disposable','restorative','polishing','impression','instrument','machine','endo','fraise','temporary','whitening','cementation','fiberpost','xray','prevention','crowns','uniform','surgery','ortho'];
     var html = '<button class="category-card active" data-filter="all">' +
       '<span class="category-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">' + CATEGORY_ICONS.ortho + '</svg></span>' +
       '<span class="category-name">All Products</span>' +
@@ -387,7 +387,7 @@
     }, 150);
   });
 
-  var CATEGORY_ORDER = ['disposable','endo','impression','polishing','fraise','instrument','temporary','machine','restorative','whitening','cementation','fiberpost','etching','ortho','xray','prevention','crowns','implant','uniform'];
+  var CATEGORY_ORDER = ['disposable','restorative','polishing','impression','instrument','machine','endo','fraise','temporary','whitening','cementation','fiberpost','xray','prevention','crowns','uniform','surgery','ortho'];
 
   loadMoreBtn.addEventListener('click', function () { renderPage(false); });
 

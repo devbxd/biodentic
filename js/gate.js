@@ -1,10 +1,11 @@
 (function () {
   'use strict';
-  // v2: bumped to reset everyone, and moved to a domain-wide cookie so
-  // www.biodentic.pro and biodentic.pro share the same "already seen" state
-  // (localStorage alone is scoped per-hostname, so www and apex disagreed).
-  var STORAGE_KEY = 'biodentic_visitor_registered_v2';
-  var COOKIE_NAME = 'biodentic_visitor_registered_v2';
+  // v3: cookie value now stores the doctor's name (not just "1"), so
+  // returning visitors can be greeted by name. Shared across www/apex
+  // via a domain-wide cookie (localStorage alone is scoped per-hostname).
+  var STORAGE_KEY = 'biodentic_visitor_registered_v3';
+  var COOKIE_NAME = 'biodentic_visitor_registered_v3';
+  var SESSION_GREETED_KEY = 'biodentic_welcome_back_shown';
 
   function getCookie(name) {
     var match = document.cookie.match(new RegExp('(?:^|; )' + name + '=([^;]*)'));
@@ -22,57 +23,114 @@
       '; domain=' + domain + '; path=/; max-age=' + oneYear + '; SameSite=Lax';
   }
 
-  function markRegistered() {
-    try { localStorage.setItem(STORAGE_KEY, '1'); } catch (e) {}
-    setSharedCookie(COOKIE_NAME, '1');
+  function markRegistered(name) {
+    try { localStorage.setItem(STORAGE_KEY, name); } catch (e) {}
+    setSharedCookie(COOKIE_NAME, name);
+  }
+
+  function getRegisteredName() {
+    return getCookie(COOKIE_NAME) || (function () {
+      try { return localStorage.getItem(STORAGE_KEY); } catch (e) { return null; }
+    })();
   }
 
   function reveal() {
     document.documentElement.style.visibility = '';
   }
 
-  if (getCookie(COOKIE_NAME) || localStorage.getItem(STORAGE_KEY)) {
+  function esc(s) {
+    var d = document.createElement('div');
+    d.textContent = s || '';
+    return d.innerHTML;
+  }
+
+  function openOverlay(innerHtml, onMount) {
+    var overlay = document.createElement('div');
+    overlay.id = 'gate-overlay';
+    overlay.innerHTML = '<div class="gate-card">' + innerHtml + '</div>';
+    document.body.appendChild(overlay);
+    document.body.style.overflow = 'hidden';
     reveal();
+    if (onMount) onMount(overlay);
+    return overlay;
+  }
+
+  function closeOverlay(overlay) {
+    overlay.remove();
+    document.body.style.overflow = '';
+  }
+
+  var registeredName = getRegisteredName();
+
+  if (registeredName) {
+    var alreadyGreeted = false;
+    try { alreadyGreeted = sessionStorage.getItem(SESSION_GREETED_KEY) === '1'; } catch (e) {}
+    if (alreadyGreeted) {
+      reveal();
+      return;
+    }
+    try { sessionStorage.setItem(SESSION_GREETED_KEY, '1'); } catch (e) {}
+    showWelcomeBack(registeredName);
     return;
   }
 
-  function buildOverlay() {
-    var overlay = document.createElement('div');
-    overlay.id = 'gate-overlay';
-    overlay.innerHTML =
-      '<div class="gate-card">' +
+  function showWelcomeBack(name) {
+    function mount() {
+      var overlay = openOverlay(
         '<div class="gate-top">' +
           '<div class="gate-logo-badge"><img src="/assets/favicon-icon.png" alt=""></div>' +
         '</div>' +
         '<div class="gate-body">' +
-          '<h1>Welcome to Biodentic</h1>' +
-          '<p class="gate-sub">Please enter your details to access our catalog.</p>' +
-          '<p class="gate-error" id="gate-error"></p>' +
-          '<form id="gate-form">' +
-            '<div class="gate-field">' +
-              '<label for="gate-name">Doctor name</label>' +
-              '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>' +
-              '<input type="text" id="gate-name" autocomplete="name" required>' +
-            '</div>' +
-            '<div class="gate-field">' +
-              '<label for="gate-phone">Phone number</label>' +
-              '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.127.96.361 1.903.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0 1 22 16.92z"/></svg>' +
-              '<input type="tel" id="gate-phone" autocomplete="tel" required>' +
-            '</div>' +
-            '<button type="submit" id="gate-submit">' +
-              '<span id="gate-submit-label">Access the site</span>' +
-              '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>' +
-            '</button>' +
-          '</form>' +
-          '<div class="gate-trust">' +
-            '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>' +
-            'Your information stays private' +
+          '<h1>Hello ' + esc(name) + '</h1>' +
+          '<p class="gate-sub">Glad to see you again — discover our full catalog.</p>' +
+          '<button type="button" id="gate-continue" class="gate-continue-btn">' +
+            '<span>Continue to website</span>' +
+            '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>' +
+          '</button>' +
+        '</div>'
+      );
+      document.getElementById('gate-continue').addEventListener('click', function () {
+        closeOverlay(overlay);
+      });
+    }
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', mount);
+    } else {
+      mount();
+    }
+  }
+
+  function buildOverlay() {
+    var overlay = openOverlay(
+      '<div class="gate-top">' +
+        '<div class="gate-logo-badge"><img src="/assets/favicon-icon.png" alt=""></div>' +
+      '</div>' +
+      '<div class="gate-body">' +
+        '<h1>Welcome to Biodentic</h1>' +
+        '<p class="gate-sub">Please enter your details to access our catalog.</p>' +
+        '<p class="gate-error" id="gate-error"></p>' +
+        '<form id="gate-form">' +
+          '<div class="gate-field">' +
+            '<label for="gate-name">Doctor name</label>' +
+            '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>' +
+            '<input type="text" id="gate-name" autocomplete="name" required>' +
           '</div>' +
+          '<div class="gate-field">' +
+            '<label for="gate-phone">Phone number</label>' +
+            '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.127.96.361 1.903.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0 1 22 16.92z"/></svg>' +
+            '<input type="tel" id="gate-phone" autocomplete="tel" required>' +
+          '</div>' +
+          '<button type="submit" id="gate-submit">' +
+            '<span id="gate-submit-label">Access the site</span>' +
+            '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>' +
+          '</button>' +
+        '</form>' +
+        '<div class="gate-trust">' +
+          '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>' +
+          'Your information stays private' +
         '</div>' +
-      '</div>';
-    document.body.appendChild(overlay);
-    document.body.style.overflow = 'hidden';
-    reveal();
+      '</div>'
+    );
 
     var form = document.getElementById('gate-form');
     var errorEl = document.getElementById('gate-error');
@@ -97,9 +155,9 @@
         if (!res.ok) throw new Error('Request failed');
         return res.json();
       }).then(function () {
-        markRegistered();
-        overlay.remove();
-        document.body.style.overflow = '';
+        markRegistered(doctorName);
+        try { sessionStorage.setItem(SESSION_GREETED_KEY, '1'); } catch (e) {}
+        closeOverlay(overlay);
       }).catch(function () {
         errorEl.textContent = 'Something went wrong. Please try again.';
         errorEl.classList.add('visible');
