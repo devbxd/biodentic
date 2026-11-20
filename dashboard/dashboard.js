@@ -283,11 +283,17 @@
   newCategoryInput.addEventListener('keydown', function (e) { if (e.key === 'Enter') addCategory(); });
 
   // ---------- Visitor informations ----------
-  function formatDate(iso) {
+  function formatDay(iso) {
     try {
       var d = new Date(iso);
-      return d.toLocaleDateString(undefined, { day: '2-digit', month: 'short', year: 'numeric' }) +
-        ' ' + d.toLocaleTimeString(undefined, { hour: '2-digit', minute: '2-digit' });
+      return d.toLocaleDateString(undefined, { weekday: 'long', day: '2-digit', month: 'long', year: 'numeric' });
+    } catch (e) { return iso; }
+  }
+
+  function formatTime(iso) {
+    try {
+      var d = new Date(iso);
+      return d.toLocaleTimeString(undefined, { hour: '2-digit', minute: '2-digit' });
     } catch (e) { return iso; }
   }
 
@@ -300,17 +306,27 @@
     api('/api/visitors').then(function (rows) {
       visitorsCount.textContent = rows.length + ' submission' + (rows.length === 1 ? '' : 's');
       if (!rows.length) { visitorsEmpty.hidden = false; return; }
-      visitorsList.innerHTML = rows.map(function (v) {
-        return (
+
+      var html = '';
+      var currentDay = null;
+      var dayCount = 0;
+      rows.forEach(function (v, i) {
+        var day = formatDay(v.createdAt);
+        if (day !== currentDay) {
+          currentDay = day;
+          dayCount = 0;
+          html += '<div class="visitor-day-sep"><span>' + esc(day) + '</span></div>';
+        }
+        dayCount++;
+        html +=
           '<div class="visitor-row">' +
-            '<div>' +
-              '<div class="visitor-name">' + esc(v.doctorName) + '</div>' +
-              '<div class="visitor-phone">' + esc(v.phone) + '</div>' +
-            '</div>' +
-            '<div class="visitor-date">' + esc(formatDate(v.createdAt)) + '</div>' +
-          '</div>'
-        );
-      }).join('');
+            '<div class="visitor-idx">' + dayCount + '</div>' +
+            '<div class="visitor-name">' + esc(v.doctorName) + '</div>' +
+            '<div class="visitor-phone"><a href="tel:' + esc(v.phone) + '">' + esc(v.phone) + '</a></div>' +
+            '<div class="visitor-time">' + esc(formatTime(v.createdAt)) + '</div>' +
+          '</div>';
+      });
+      visitorsList.innerHTML = html;
     }).catch(function (e) { toast(e.message, true); });
   }
 
