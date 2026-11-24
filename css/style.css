@@ -233,6 +233,10 @@ header.site-header{
   background:radial-gradient(circle at 40% 35%,rgba(47,191,192,.35),transparent 65%);
   filter:blur(10px);
 }
+.hero-visual .xmas-tree{
+  position:absolute;z-index:0;width:210px;height:auto;right:-10px;bottom:0;
+  filter:drop-shadow(0 14px 24px rgba(0,0,0,.4));pointer-events:none;
+}
 .hero-visual .big-mark-wrap{
   position:absolute;width:300px;top:50%;left:50%;transform:translate(-50%,-50%);
 }
@@ -650,7 +654,7 @@ footer.site-footer{background:var(--navy-900);color:#a9bcd0;padding:70px 0 0}
     display:flex;position:relative;height:150px;align-items:center;justify-content:center;
     order:-1;margin:0 auto 10px;width:100%;
   }
-  .hero-visual .ring,.hero-visual .chip{display:none}
+  .hero-visual .ring,.hero-visual .chip,.hero-visual .xmas-tree{display:none}
   .hero-visual .glow{position:absolute;width:260px;height:260px;top:50%;left:50%;transform:translate(-50%,-50%)}
   .hero-visual .big-mark-wrap{position:relative;width:270px;max-width:80%;transform:none;left:auto;top:auto}
   .hero-visual .xmas-hat{width:210px;top:-30px;left:14px}
