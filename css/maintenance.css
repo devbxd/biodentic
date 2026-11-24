@@ -1,0 +1,15 @@
+#maintenance-overlay{
+  position:fixed;inset:0;z-index:999999;display:flex;align-items:center;justify-content:center;padding:24px;
+  background:linear-gradient(160deg,#0a1f2e 0%,#0e2c3f 55%,#134156 100%);
+}
+#maintenance-overlay .maint-card{
+  background:#fff;border-radius:20px;padding:40px 32px;max-width:420px;width:100%;text-align:center;
+  box-shadow:0 30px 60px -15px rgba(0,0,0,.45);
+}
+#maintenance-overlay .maint-logo{width:64px;margin-bottom:18px}
+#maintenance-overlay h1{
+  font-family:'Poppins',-apple-system,'Segoe UI',sans-serif;font-weight:800;font-size:22px;margin:0 0 12px;color:#0a1f2e;
+}
+#maintenance-overlay p{
+  font-family:'Inter',-apple-system,'Segoe UI',sans-serif;color:#516170;font-size:14.5px;line-height:1.6;margin:0;
+}
