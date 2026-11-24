@@ -45,6 +45,7 @@
     <button id="view-visitors-btn" class="btn-ghost-sm btn-cats">Informations</button>
     <button id="reorder-btn" class="btn-ghost-sm btn-cats">Reorder</button>
     <button id="download-pdf-btn" class="btn-ghost-sm btn-cats">Download PDF</button>
+    <button id="noel-btn" class="btn-ghost-sm btn-cats">🎄 Noel</button>
     <button id="add-product-btn" class="btn-primary btn-add">+ Add product</button>
   </div>
 
@@ -106,6 +107,54 @@
 
     <div class="editor-footer" style="justify-content:flex-end">
       <button id="visitors-done-btn" class="btn-primary">Done</button>
+    </div>
+  </div>
+</div>
+
+<!-- ===================== NOEL DECORATOR PANEL ===================== -->
+<div id="noel-overlay" class="editor-overlay" hidden>
+  <div class="editor-panel panel-wide noel-panel">
+    <div class="editor-head">
+      <h2>Christmas decorator</h2>
+      <button id="noel-close" class="icon-btn" aria-label="Close">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
+      </button>
+    </div>
+
+    <div class="editor-body noel-body">
+      <div class="noel-tabs">
+        <button type="button" class="noel-tab active" data-bp="desktop">Desktop</button>
+        <button type="button" class="noel-tab" data-bp="mobile">Mobile</button>
+      </div>
+      <p class="noel-hint">Tap a decoration below to add it, then drag it into place. Drag the bottom-right handle to resize, use the ↻ field to rotate.</p>
+
+      <div class="noel-palette" id="noel-palette"></div>
+
+      <div class="noel-canvas-wrap">
+        <div id="noel-canvas" class="noel-canvas"></div>
+      </div>
+
+      <div id="noel-controls" class="noel-controls">
+        <div>
+          <label>Size %</label><br>
+          <input type="number" id="noel-size-input" min="5" max="100" step="1">
+        </div>
+        <div>
+          <label>Rotate °</label><br>
+          <input type="number" id="noel-rotate-input" min="-45" max="45" step="1">
+        </div>
+        <button type="button" id="noel-back-btn" class="btn-ghost-sm">Send back</button>
+        <button type="button" id="noel-front-btn" class="btn-ghost-sm">Bring front</button>
+        <button type="button" id="noel-delete-btn" class="btn-danger">Delete</button>
+      </div>
+    </div>
+
+    <div class="editor-footer">
+      <button id="noel-clear-btn" class="btn-danger">Clear this view</button>
+      <div class="editor-footer-right">
+        <button id="noel-done-btn" class="btn-ghost-sm">Close</button>
+        <button id="noel-save-btn" class="btn-primary">Save</button>
+      </div>
     </div>
   </div>
 </div>

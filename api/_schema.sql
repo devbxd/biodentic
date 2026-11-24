@@ -33,6 +33,11 @@ CREATE TABLE IF NOT EXISTS categories (
   position INT NOT NULL DEFAULT 0
 );
 
+CREATE TABLE IF NOT EXISTS app_settings (
+  key TEXT PRIMARY KEY,
+  value JSONB NOT NULL
+);
+
 CREATE TABLE IF NOT EXISTS visitors (
   id SERIAL PRIMARY KEY,
   doctor_name TEXT NOT NULL,
