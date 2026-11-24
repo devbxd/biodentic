@@ -122,13 +122,13 @@ header.site-header{
 .nav-inner{display:flex;align-items:center;justify-content:space-between;gap:24px;padding:14px 0}
 
 .xmas-garland{
-  width:100%;height:46px;
+  position:relative;z-index:5;width:100%;height:52px;margin-bottom:-18px;
   background-image:url('/assets/xmas-garland.png');
   background-repeat:repeat-x;background-position:center top;background-size:auto 100%;
-  box-shadow:0 2px 6px -2px rgba(0,0,0,.12);
+  pointer-events:none;
 }
 @media (max-width:640px){
-  .xmas-garland{height:30px}
+  .xmas-garland{height:36px;margin-bottom:-12px}
 }
 
 .brand{display:flex;align-items:center;gap:12px}
