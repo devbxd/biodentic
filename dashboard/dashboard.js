@@ -612,23 +612,24 @@
     setTimeout(function () { downloadPdfBtn.disabled = false; }, 4000);
   });
 
-  // ---------- Noel decorator ----------
+  // ---------- Noel decorator (full-screen, live-site WYSIWYG) ----------
   var NOEL_PALETTE = [
     { key: 'santa-hat', src: '/assets/xmas-santa-hat.png', label: 'Santa hat', ratio: 0.9133 },
     { key: 'tree', src: '/assets/xmas-tree.png', label: 'Tree', ratio: 1.1740 },
     { key: 'garland', src: '/assets/xmas-garland.png', label: 'Garland', ratio: 0.3040 }
   ];
-  var NOEL_CANVAS_SIZES = {
-    desktop: { w: 640, h: 460 },
-    mobile: { w: 320, h: 180 }
+  var NOEL_IFRAME_SIZES = {
+    desktop: { w: 1280, h: 800 },
+    mobile: { w: 390, h: 844 }
   };
 
   var noelOverlay = document.getElementById('noel-overlay');
   var noelClose = document.getElementById('noel-close');
-  var noelDoneBtn = document.getElementById('noel-done-btn');
   var noelSaveBtn = document.getElementById('noel-save-btn');
   var noelClearBtn = document.getElementById('noel-clear-btn');
   var noelPaletteEl = document.getElementById('noel-palette');
+  var noelStageEl = document.getElementById('noel-stage');
+  var noelIframe = document.getElementById('noel-iframe');
   var noelCanvasEl = document.getElementById('noel-canvas');
   var noelControlsEl = document.getElementById('noel-controls');
   var noelSizeInput = document.getElementById('noel-size-input');
@@ -637,11 +638,13 @@
   var noelBackBtn = document.getElementById('noel-back-btn');
   var noelDeleteBtn = document.getElementById('noel-delete-btn');
 
+  // items stored directly in percent form: {id,key,src,ratio,xPct,yPct,wPct,rotation,z}
   var noelData = { desktop: [], mobile: [] };
   var noelActiveBp = 'desktop';
   var noelSelectedId = null;
   var noelIdCounter = 1;
   var noelLoaded = false;
+  var noelRect = { w: 0, h: 0 }; // current canvas pixel size, measured from the live iframe
 
   function noelPaletteByKey(key) {
     for (var i = 0; i < NOEL_PALETTE.length; i++) if (NOEL_PALETTE[i].key === key) return NOEL_PALETTE[i];
@@ -662,20 +665,18 @@
   function noelAddItem(key) {
     var pal = noelPaletteByKey(key);
     if (!pal) return;
-    var size = NOEL_CANVAS_SIZES[noelActiveBp];
-    var wPx = size.w * 0.3;
-    var hPx = wPx * pal.ratio;
     var maxZ = 0;
     noelData[noelActiveBp].forEach(function (it) { if (it.z > maxZ) maxZ = it.z; });
+    var wPct = 28;
     var item = {
       id: 'n' + (noelIdCounter++),
       key: key, src: pal.src, ratio: pal.ratio,
-      x: (size.w - wPx) / 2, y: (size.h - hPx) / 2, w: wPx,
+      xPct: 50 - wPct / 2, yPct: 20, wPct: wPct,
       rotation: 0, z: maxZ + 1
     };
     noelData[noelActiveBp].push(item);
     noelSelectedId = item.id;
-    renderNoelCanvas();
+    renderNoelItems();
   }
 
   function noelSelectedItem() {
@@ -684,18 +685,39 @@
     return null;
   }
 
-  function renderNoelCanvas() {
-    var size = NOEL_CANVAS_SIZES[noelActiveBp];
-    noelCanvasEl.style.width = size.w + 'px';
-    noelCanvasEl.style.height = size.h + 'px';
+  function noelLocateCanvas() {
+    try {
+      var doc = noelIframe.contentDocument;
+      if (!doc) return false;
+      var layer = doc.getElementById('hero-decor-layer');
+      if (!layer) return false;
+      var rect = layer.getBoundingClientRect();
+      if (!rect.width || !rect.height) return false;
+      noelCanvasEl.style.left = rect.left + 'px';
+      noelCanvasEl.style.top = rect.top + 'px';
+      noelCanvasEl.style.width = rect.width + 'px';
+      noelCanvasEl.style.height = rect.height + 'px';
+      noelRect.w = rect.width;
+      noelRect.h = rect.height;
+      return true;
+    } catch (e) {
+      return false;
+    }
+  }
+
+  function renderNoelItems() {
     var list = noelData[noelActiveBp];
+    var w = noelRect.w, h = noelRect.h;
 
     noelCanvasEl.innerHTML = list.map(function (item) {
-      var h = item.w * item.ratio;
+      var itemWpx = (item.wPct / 100) * w;
+      var itemHpx = itemWpx * item.ratio;
+      var xPx = (item.xPct / 100) * w;
+      var yPx = (item.yPct / 100) * h;
       var selected = item.id === noelSelectedId;
       return (
         '<div class="noel-item' + (selected ? ' selected' : '') + '" data-id="' + item.id + '" style="' +
-          'left:' + item.x + 'px;top:' + item.y + 'px;width:' + item.w + 'px;height:' + h + 'px;' +
+          'left:' + xPx + 'px;top:' + yPx + 'px;width:' + itemWpx + 'px;height:' + itemHpx + 'px;' +
           'transform:rotate(' + item.rotation + 'deg);z-index:' + item.z + ';">' +
           '<img src="' + item.src + '" alt="" draggable="false">' +
           (selected ? (
@@ -709,11 +731,30 @@
     var sel = noelSelectedItem();
     if (sel) {
       noelControlsEl.classList.add('visible');
-      noelSizeInput.value = Math.round((sel.w / size.w) * 100);
+      noelSizeInput.value = Math.round(sel.wPct);
       noelRotateInput.value = sel.rotation;
     } else {
       noelControlsEl.classList.remove('visible');
     }
+  }
+
+  function noelLoadBreakpoint(bp) {
+    var size = NOEL_IFRAME_SIZES[bp];
+    noelIframe.style.width = size.w + 'px';
+    noelIframe.style.height = size.h + 'px';
+    noelStageEl.style.width = size.w + 'px';
+    noelStageEl.style.height = size.h + 'px';
+
+    var attempts = 0;
+    function tryLocate() {
+      attempts++;
+      if (noelLocateCanvas()) {
+        renderNoelItems();
+      } else if (attempts < 40) {
+        setTimeout(tryLocate, 150);
+      }
+    }
+    tryLocate();
   }
 
   function noelSwitchTab(bp) {
@@ -722,7 +763,8 @@
     document.querySelectorAll('.noel-tab').forEach(function (t) {
       t.classList.toggle('active', t.dataset.bp === bp);
     });
-    renderNoelCanvas();
+    noelIframe.src = '/?noelEditor=1&bp=' + bp + '&t=' + Date.now();
+    noelIframe.onload = function () { noelLoadBreakpoint(bp); };
   }
 
   document.querySelectorAll('.noel-tab').forEach(function (t) {
@@ -735,8 +777,8 @@
     noelAddItem(btn.dataset.key);
   });
 
-  // Drag / resize via pointer events
-  var noelDrag = null; // { type:'move'|'resize', id, startX, startY, origX, origY, origW }
+  // Drag / resize via pointer events (percent-based, computed against the live canvas rect)
+  var noelDrag = null;
 
   noelCanvasEl.addEventListener('pointerdown', function (e) {
     var delBtn = e.target.closest('[data-del]');
@@ -744,7 +786,7 @@
       var delId = delBtn.dataset.del;
       noelData[noelActiveBp] = noelData[noelActiveBp].filter(function (it) { return it.id !== delId; });
       if (noelSelectedId === delId) noelSelectedId = null;
-      renderNoelCanvas();
+      renderNoelItems();
       return;
     }
 
@@ -757,29 +799,29 @@
     if (!item) return;
 
     if (resizeHandle) {
-      noelDrag = { type: 'resize', id: id, startX: e.clientX, startY: e.clientY, origW: item.w };
+      noelDrag = { type: 'resize', startX: e.clientX, startY: e.clientY, origWpct: item.wPct };
     } else {
-      noelDrag = { type: 'move', id: id, startX: e.clientX, startY: e.clientY, origX: item.x, origY: item.y };
+      noelDrag = { type: 'move', startX: e.clientX, startY: e.clientY, origXpct: item.xPct, origYpct: item.yPct };
     }
     try { noelCanvasEl.setPointerCapture(e.pointerId); } catch (err) {}
-    renderNoelCanvas();
+    renderNoelItems();
   });
 
   noelCanvasEl.addEventListener('pointermove', function (e) {
-    if (!noelDrag) return;
+    if (!noelDrag || !noelRect.w) return;
     var item = noelSelectedItem();
     if (!item) return;
     var dx = e.clientX - noelDrag.startX;
     var dy = e.clientY - noelDrag.startY;
 
     if (noelDrag.type === 'move') {
-      item.x = noelDrag.origX + dx;
-      item.y = noelDrag.origY + dy;
+      item.xPct = noelDrag.origXpct + (dx / noelRect.w) * 100;
+      item.yPct = noelDrag.origYpct + (dy / noelRect.h) * 100;
     } else if (noelDrag.type === 'resize') {
-      var newW = Math.max(20, noelDrag.origW + dx);
-      item.w = newW;
+      var deltaPct = (dx / noelRect.w) * 100;
+      item.wPct = Math.max(4, noelDrag.origWpct + deltaPct);
     }
-    renderNoelCanvas();
+    renderNoelItems();
   });
 
   function noelEndDrag() { noelDrag = null; }
@@ -789,17 +831,15 @@
   noelSizeInput.addEventListener('input', function () {
     var item = noelSelectedItem();
     if (!item) return;
-    var size = NOEL_CANVAS_SIZES[noelActiveBp];
-    var pct = Math.max(5, Math.min(100, Number(noelSizeInput.value) || 0));
-    item.w = size.w * (pct / 100);
-    renderNoelCanvas();
+    item.wPct = Math.max(4, Math.min(100, Number(noelSizeInput.value) || 0));
+    renderNoelItems();
   });
 
   noelRotateInput.addEventListener('input', function () {
     var item = noelSelectedItem();
     if (!item) return;
     item.rotation = Math.max(-45, Math.min(45, Number(noelRotateInput.value) || 0));
-    renderNoelCanvas();
+    renderNoelItems();
   });
 
   noelFrontBtn.addEventListener('click', function () {
@@ -808,7 +848,7 @@
     var maxZ = 0;
     noelData[noelActiveBp].forEach(function (it) { if (it.z > maxZ) maxZ = it.z; });
     item.z = maxZ + 1;
-    renderNoelCanvas();
+    renderNoelItems();
   });
   noelBackBtn.addEventListener('click', function () {
     var item = noelSelectedItem();
@@ -816,64 +856,48 @@
     var minZ = 0;
     noelData[noelActiveBp].forEach(function (it) { if (it.z < minZ) minZ = it.z; });
     item.z = minZ - 1;
-    renderNoelCanvas();
+    renderNoelItems();
   });
   noelDeleteBtn.addEventListener('click', function () {
     noelData[noelActiveBp] = noelData[noelActiveBp].filter(function (it) { return it.id !== noelSelectedId; });
     noelSelectedId = null;
-    renderNoelCanvas();
+    renderNoelItems();
   });
 
   noelClearBtn.addEventListener('click', function () {
     if (!confirm('Remove all decorations from the ' + noelActiveBp + ' view?')) return;
     noelData[noelActiveBp] = [];
     noelSelectedId = null;
-    renderNoelCanvas();
+    renderNoelItems();
   });
-
-  function noelToPercent() {
-    var out = {};
-    ['desktop', 'mobile'].forEach(function (bp) {
-      var size = NOEL_CANVAS_SIZES[bp];
-      out[bp] = noelData[bp].map(function (it) {
-        return {
-          key: it.key, src: it.src, ratio: it.ratio,
-          xPct: (it.x / size.w) * 100, yPct: (it.y / size.h) * 100,
-          wPct: (it.w / size.w) * 100, rotation: it.rotation, z: it.z
-        };
-      });
-    });
-    return out;
-  }
-
-  function noelFromPercent(value) {
-    var out = { desktop: [], mobile: [] };
-    ['desktop', 'mobile'].forEach(function (bp) {
-      var size = NOEL_CANVAS_SIZES[bp];
-      var items = (value && value[bp]) || [];
-      out[bp] = items.map(function (it) {
-        return {
-          id: 'n' + (noelIdCounter++),
-          key: it.key, src: it.src, ratio: it.ratio,
-          x: (it.xPct / 100) * size.w, y: (it.yPct / 100) * size.h,
-          w: (it.wPct / 100) * size.w, rotation: it.rotation, z: it.z
-        };
-      });
-    });
-    return out;
-  }
 
   function openNoelPanel() {
     renderNoelPalette();
     noelOverlay.hidden = false;
     document.body.style.overflow = 'hidden';
-    noelSwitchTab('desktop');
-    if (noelLoaded) return;
+
+    function startEditing() {
+      noelSwitchTab('desktop');
+    }
+
+    if (noelLoaded) { startEditing(); return; }
     api('/api/hero-decor').then(function (value) {
-      noelData = noelFromPercent(value);
+      ['desktop', 'mobile'].forEach(function (bp) {
+        noelData[bp] = ((value && value[bp]) || []).map(function (it) {
+          return {
+            id: 'n' + (noelIdCounter++),
+            key: it.key, src: it.src, ratio: it.ratio,
+            xPct: it.xPct, yPct: it.yPct, wPct: it.wPct,
+            rotation: it.rotation, z: it.z
+          };
+        });
+      });
       noelLoaded = true;
-      renderNoelCanvas();
-    }).catch(function (e) { toast(e.message, true); });
+      startEditing();
+    }).catch(function (e) {
+      toast(e.message, true);
+      startEditing();
+    });
   }
 
   function closeNoelPanel() {
@@ -883,17 +907,23 @@
 
   noelBtn.addEventListener('click', openNoelPanel);
   noelClose.addEventListener('click', closeNoelPanel);
-  noelDoneBtn.addEventListener('click', closeNoelPanel);
-  noelOverlay.addEventListener('click', function (e) { if (e.target === noelOverlay) closeNoelPanel(); });
 
   noelSaveBtn.addEventListener('click', function () {
     noelSaveBtn.disabled = true;
-    var payload = noelToPercent();
+    var payload = {
+      desktop: noelData.desktop.map(function (it) {
+        return { key: it.key, src: it.src, ratio: it.ratio, xPct: it.xPct, yPct: it.yPct, wPct: it.wPct, rotation: it.rotation, z: it.z };
+      }),
+      mobile: noelData.mobile.map(function (it) {
+        return { key: it.key, src: it.src, ratio: it.ratio, xPct: it.xPct, yPct: it.yPct, wPct: it.wPct, rotation: it.rotation, z: it.z };
+      })
+    };
     api('/api/hero-decor', { method: 'POST', body: JSON.stringify(payload) })
       .then(function () { toast('Christmas layout saved — live on the site now.'); })
       .catch(function (e) { toast(e.message, true); })
       .finally(function () { noelSaveBtn.disabled = false; });
   });
+
 
   // ---------- Auth gate ----------
   var loginScreen = document.getElementById('login-screen');

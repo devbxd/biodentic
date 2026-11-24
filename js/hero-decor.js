@@ -2,6 +2,9 @@
   'use strict';
   var layer = document.getElementById('hero-decor-layer');
   if (!layer) return;
+  // When embedded in the dashboard's live editor, the parent draws its own
+  // draft overlay on top of this (empty but correctly-sized) layer instead.
+  if (location.search.indexOf('noelEditor=1') !== -1) return;
 
   function render(value) {
     var bp = window.innerWidth <= 1080 ? 'mobile' : 'desktop';

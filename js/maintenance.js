@@ -1,5 +1,8 @@
 (function () {
   'use strict';
+  // Let the dashboard's Christmas-decorator iframe preview the real page
+  // during maintenance.
+  if (location.search.indexOf('noelEditor=1') !== -1) return;
   document.documentElement.style.visibility = 'hidden';
 
   function mount() {
