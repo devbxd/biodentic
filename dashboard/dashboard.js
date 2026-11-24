@@ -409,7 +409,7 @@
     withNum.sort(function (a, b) { return a.num - b.num || a.i - b.i; });
     var ids = withNum.map(function (x) { return x.id; });
 
-    api('/api/products/reorder', { method: 'POST', body: JSON.stringify({ category: reorderCategorySelect.value, ids: ids }) })
+    api('/api/products', { method: 'PATCH', body: JSON.stringify({ category: reorderCategorySelect.value, ids: ids }) })
       .then(function () {
         toast('Order saved.');
         return refreshProducts();
@@ -919,7 +919,7 @@
     loginError.hidden = true;
     var submitBtn = loginForm.querySelector('button[type="submit"]');
     submitBtn.disabled = true;
-    api('/api/login', { method: 'POST', body: JSON.stringify({ password: loginPassword.value }) })
+    api('/api/auth', { method: 'POST', body: JSON.stringify({ password: loginPassword.value }) })
       .then(function () {
         loginPassword.value = '';
         showApp();
@@ -931,7 +931,7 @@
       .finally(function () { submitBtn.disabled = false; });
   });
 
-  api('/api/me').then(function (res) {
+  api('/api/auth').then(function (res) {
     if (res.authenticated) showApp();
     else showLogin();
   }).catch(function () { showLogin(); });

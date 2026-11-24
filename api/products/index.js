@@ -56,6 +56,21 @@ module.exports = async (req, res) => {
     return res.status(201).json({ id });
   }
 
-  res.setHeader('Allow', 'GET, POST');
+  if (req.method === 'PATCH') {
+    // Bulk reorder within a category: { category, ids: [...] }
+    if (!requireAuth(req, res)) return;
+    let body = req.body;
+    if (typeof body === 'string') { try { body = JSON.parse(body); } catch (e) { body = {}; } }
+    const { category, ids } = body || {};
+    if (!category || !Array.isArray(ids) || !ids.length) {
+      return res.status(400).json({ error: 'category and ids are required' });
+    }
+    for (let i = 0; i < ids.length; i++) {
+      await db`UPDATE products SET sort_order = ${i} WHERE id = ${ids[i]} AND category = ${category}`;
+    }
+    return res.status(200).json({ ok: true });
+  }
+
+  res.setHeader('Allow', 'GET, POST, PATCH');
   res.status(405).json({ error: 'Method not allowed' });
 };
