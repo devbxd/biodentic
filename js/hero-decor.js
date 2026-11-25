@@ -28,8 +28,15 @@
     return res.json();
   }).then(function (value) {
     render(value);
+    var lastWidth = window.innerWidth;
     var resizeTimer;
     window.addEventListener('resize', function () {
+      // Mobile browsers fire "resize" when the address bar hides/shows while
+      // scrolling — that only changes height, not width. Re-rendering then
+      // made the decoration flicker on every scroll. Only react to an
+      // actual width change (real resize / orientation change).
+      if (Math.abs(window.innerWidth - lastWidth) < 5) return;
+      lastWidth = window.innerWidth;
       clearTimeout(resizeTimer);
       resizeTimer = setTimeout(function () { render(value); }, 150);
     });
