@@ -73,31 +73,31 @@
 #gate-overlay .gate-continue-btn:active{transform:scale(.98)}
 
 #gate-overlay .gate-xmas-card{
-  position:relative;z-index:1;width:230px;max-width:84vw;
+  position:relative;z-index:1;width:240px;max-width:86vw;
   filter:drop-shadow(0 14px 28px rgba(0,0,0,.4));
   animation:gate-in .45s cubic-bezier(.2,.8,.3,1);
 }
-#gate-overlay .gate-xmas-frame{display:block;width:100%;height:auto}
+#gate-overlay .gate-xmas-frame{display:block;width:100%;height:auto;border-radius:10px}
 #gate-overlay .gate-xmas-content{
-  position:absolute;left:5%;top:67%;width:66%;text-align:left;
+  position:absolute;left:10%;top:20%;width:75%;text-align:center;
 }
 #gate-overlay .gate-xmas-content h1{
-  font-family:'Poppins',-apple-system,'Segoe UI',sans-serif;font-weight:800;font-size:12px;margin:0 0 2px;color:#0d9488;
+  font-family:'Poppins',-apple-system,'Segoe UI',sans-serif;font-weight:800;font-size:15px;margin:0 0 4px;color:#a4161a;
   line-height:1.2;
 }
 #gate-overlay .gate-xmas-content .gate-sub{
-  font-family:'Inter',-apple-system,'Segoe UI',sans-serif;color:#45504f;font-size:8px;line-height:1.25;margin:0 0 5px;
+  font-family:'Inter',-apple-system,'Segoe UI',sans-serif;color:#2d6a4f;font-size:10.5px;line-height:1.35;margin:0 0 11px;
 }
 #gate-overlay .gate-xmas-content .gate-continue-btn{
-  display:inline-flex;width:auto;padding:4px 9px;font-size:9px;border-radius:999px;
-  box-shadow:0 6px 12px -5px rgba(13,148,136,.55);margin-top:0;gap:4px;
+  display:inline-flex;width:auto;padding:7px 16px;font-size:11px;border-radius:999px;
+  box-shadow:0 8px 16px -6px rgba(13,148,136,.55);margin-top:0;gap:5px;
 }
-#gate-overlay .gate-xmas-content .gate-continue-btn svg{width:10px;height:10px}
+#gate-overlay .gate-xmas-content .gate-continue-btn svg{width:12px;height:12px}
 @media (max-width:360px){
-  #gate-overlay .gate-xmas-card{width:200px}
-  #gate-overlay .gate-xmas-content h1{font-size:10.5px}
-  #gate-overlay .gate-xmas-content .gate-sub{font-size:7px;margin-bottom:4px}
-  #gate-overlay .gate-xmas-content .gate-continue-btn{font-size:8px;padding:3px 8px}
+  #gate-overlay .gate-xmas-card{width:210px}
+  #gate-overlay .gate-xmas-content h1{font-size:13px}
+  #gate-overlay .gate-xmas-content .gate-sub{font-size:9px;margin-bottom:8px}
+  #gate-overlay .gate-xmas-content .gate-continue-btn{font-size:9.5px;padding:6px 13px}
 }
 #gate-overlay .gate-error{
   color:#e0503a;font-size:12px;margin:0 0 10px;display:none;background:#fdecea;padding:8px 10px;border-radius:8px;

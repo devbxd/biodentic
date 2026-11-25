@@ -80,7 +80,7 @@
       overlay.id = 'gate-overlay';
       overlay.innerHTML =
         '<div class="gate-xmas-card">' +
-          '<img src="/assets/xmas-santa-sign-blank.png" alt="" class="gate-xmas-frame">' +
+          '<img src="/assets/xmas-gate-frame.png" alt="" class="gate-xmas-frame">' +
           '<div class="gate-xmas-content">' +
             '<h1>Hello ' + esc(name) + '</h1>' +
             '<p class="gate-sub">Glad to see you again — discover our full catalog.</p>' +
