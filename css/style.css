@@ -240,7 +240,7 @@ header.site-header{
   position:relative;width:100%;height:auto;display:block;
   filter:drop-shadow(0 10px 30px rgba(0,0,0,.45));
 }
-.hero-decor-layer{position:absolute;inset:0;z-index:0;pointer-events:none;overflow:hidden}
+.hero-decor-layer{position:absolute;inset:0;z-index:0;pointer-events:none;overflow:visible}
 .hero-decor-layer img{
   position:absolute;filter:drop-shadow(0 8px 16px rgba(0,0,0,.35));
 }

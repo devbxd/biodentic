@@ -688,8 +688,12 @@
 
   function noelLocateCanvas() {
     try {
+      var win = noelIframe.contentWindow;
       var doc = noelIframe.contentDocument;
-      if (!doc) return false;
+      if (!doc || !win) return false;
+      // Account for any scroll inside the iframe so coordinates line up with
+      // what a fresh (unscrolled) visit of the real site would show.
+      win.scrollTo(0, 0);
       var layer = doc.getElementById('hero-decor-layer');
       if (!layer) return false;
       var rect = layer.getBoundingClientRect();
@@ -751,6 +755,11 @@
       attempts++;
       if (noelLocateCanvas()) {
         renderNoelItems();
+        // Re-measure once more shortly after: web fonts / late image loads
+        // inside the iframe can still shift the layout a bit after first paint.
+        setTimeout(function () {
+          if (noelLocateCanvas()) renderNoelItems();
+        }, 400);
       } else if (attempts < 40) {
         setTimeout(tryLocate, 150);
       }
