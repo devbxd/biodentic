@@ -215,7 +215,11 @@ header.site-header{
   -webkit-background-clip:text;background-clip:text;color:transparent;
 }
 .hero-copy p{font-size:17.5px;color:#c4d3e2;max-width:520px;margin-bottom:34px}
-.hero-actions{display:flex;gap:14px;flex-wrap:wrap;margin-bottom:46px}
+.hero-actions{display:flex;gap:14px;flex-wrap:wrap;margin-bottom:46px;align-items:flex-end}
+.santa-cta{display:block;line-height:0;transition:transform .15s}
+.santa-cta:active{transform:scale(.97)}
+.santa-cta img{width:260px;height:auto;display:block;filter:drop-shadow(0 8px 16px rgba(0,0,0,.35))}
+@media (max-width:420px){.santa-cta img{width:220px}}
 
 .hero-trust{display:flex;gap:30px;flex-wrap:wrap}
 .hero-trust .item{display:flex;align-items:center;gap:10px}
