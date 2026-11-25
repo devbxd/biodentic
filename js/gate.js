@@ -80,12 +80,12 @@
       overlay.id = 'gate-overlay';
       overlay.innerHTML =
         '<div class="gate-xmas-card">' +
-          '<img src="/assets/xmas-gate-frame.png" alt="" class="gate-xmas-frame">' +
+          '<img src="/assets/xmas-santa-sign-blank.png" alt="" class="gate-xmas-frame">' +
           '<div class="gate-xmas-content">' +
             '<h1>Hello ' + esc(name) + '</h1>' +
             '<p class="gate-sub">Glad to see you again — discover our full catalog.</p>' +
             '<button type="button" id="gate-continue" class="gate-continue-btn">' +
-              '<span>Continue to website</span>' +
+              '<span>Continue</span>' +
               '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>' +
             '</button>' +
           '</div>' +
