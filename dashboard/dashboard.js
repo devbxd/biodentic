@@ -616,7 +616,8 @@
   var NOEL_PALETTE = [
     { key: 'santa-hat', src: '/assets/xmas-santa-hat.png', label: 'Santa hat', ratio: 0.9133 },
     { key: 'tree', src: '/assets/xmas-tree.png', label: 'Tree', ratio: 1.1740 },
-    { key: 'garland', src: '/assets/xmas-garland.png', label: 'Garland', ratio: 0.3040 }
+    { key: 'garland', src: '/assets/xmas-garland.png', label: 'Garland', ratio: 0.3040 },
+    { key: 'greeting', src: '/assets/xmas-greeting.png', label: 'Greeting', ratio: 0.3192 }
   ];
   var NOEL_IFRAME_SIZES = {
     desktop: { w: 1280, h: 800 },
