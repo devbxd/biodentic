@@ -76,23 +76,19 @@
 
   function showWelcomeBack(name) {
     function mount() {
-      var overlay = document.createElement('div');
-      overlay.id = 'gate-overlay';
-      overlay.innerHTML =
-        '<div class="gate-xmas-card">' +
-          '<img src="/assets/xmas-gate-frame.png" alt="" class="gate-xmas-frame">' +
-          '<div class="gate-xmas-content">' +
-            '<h1>Hello ' + esc(name) + '</h1>' +
-            '<p class="gate-sub">Glad to see you again — discover our full catalog.</p>' +
-            '<button type="button" id="gate-continue" class="gate-continue-btn">' +
-              '<span>Continue</span>' +
-              '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>' +
-            '</button>' +
-          '</div>' +
-        '</div>';
-      document.body.appendChild(overlay);
-      document.body.style.overflow = 'hidden';
-      reveal();
+      var overlay = openOverlay(
+        '<div class="gate-top">' +
+          '<div class="gate-logo-badge"><img src="/assets/favicon-icon.png" alt=""></div>' +
+        '</div>' +
+        '<div class="gate-body">' +
+          '<h1>Hello ' + esc(name) + '</h1>' +
+          '<p class="gate-sub">Glad to see you again — discover our full catalog.</p>' +
+          '<button type="button" id="gate-continue" class="gate-continue-btn">' +
+            '<span>Continue to website</span>' +
+            '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>' +
+          '</button>' +
+        '</div>'
+      );
       document.getElementById('gate-continue').addEventListener('click', function () {
         closeOverlay(overlay);
       });
